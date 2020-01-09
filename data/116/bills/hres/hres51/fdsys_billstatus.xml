@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-01-17T08:10:09Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-01-16</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-16</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-16</actionDate>
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-16T15:05:00Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <lastName>Sablan</lastName>
+        <middleName>Kilili Camacho</middleName>
+        <district>0</district>
+        <state>MP</state>
+        <bioguideId>S001177</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>1962</lisID>
+          <gpoId>8018</gpoId>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+        <fullName>Rep. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <firstName>Gregorio</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Mooney</lastName>
+        <middleName>X.</middleName>
+        <district>2</district>
+        <state>WV</state>
+        <bioguideId>M001195</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+          <lisID>2277</lisID>
+        </identifiers>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <firstName>Alexander</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Gallagher</lastName>
+        <middleName />
+        <district>8</district>
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Kelly</lastName>
+        <middleName />
+        <district>16</district>
+        <state>PA</state>
+        <bioguideId>K000376</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Latta</lastName>
+        <middleName>E.</middleName>
+        <district>5</district>
+        <state>OH</state>
+        <bioguideId>L000566</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>8095</gpoId>
+          <lisID>1885</lisID>
+          <bioguideId>L000566</bioguideId>
+        </identifiers>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <firstName>Robert</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Grothman</lastName>
+        <middleName />
+        <district>6</district>
+        <state>WI</state>
+        <bioguideId>G000576</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>SMITH</lastName>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <state>NJ</state>
+        <bioguideId>S000522</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <firstName>CHRISTOPHER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <middleName />
+        <district>40</district>
+        <state>CA</state>
+        <bioguideId>R000486</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>997</lisID>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <firstName>LUCILLE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <state>RI</state>
+        <bioguideId>L000559</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <firstName>JAMES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Davis</lastName>
+        <middleName />
+        <district>13</district>
+        <state>IL</state>
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <firstName>Rodney</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Joyce</lastName>
+        <middleName>P.</middleName>
+        <district>14</district>
+        <state>OH</state>
+        <bioguideId>J000295</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>2154</lisID>
+          <bioguideId>J000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Luetkemeyer</lastName>
+        <middleName />
+        <district>3</district>
+        <state>MO</state>
+        <bioguideId>L000569</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>1931</lisID>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <firstName>Blaine</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>LaHood</lastName>
+        <middleName />
+        <district>18</district>
+        <state>IL</state>
+        <bioguideId>L000585</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000585</bioguideId>
+          <lisID>2295</lisID>
+        </identifiers>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <firstName>Darin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Wagner</lastName>
+        <middleName />
+        <district>2</district>
+        <state>MO</state>
+        <bioguideId>W000812</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Yarmuth</lastName>
+        <middleName>A.</middleName>
+        <district>3</district>
+        <state>KY</state>
+        <bioguideId>Y000062</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>1853</lisID>
+          <gpoId>7955</gpoId>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Walorski</lastName>
+        <middleName />
+        <district>2</district>
+        <state>IN</state>
+        <bioguideId>W000813</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <firstName>Jackie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Boyle</lastName>
+        <middleName>F.</middleName>
+        <district>2</district>
+        <state>PA</state>
+        <bioguideId>B001296</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <firstName>Brendan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Courtney</lastName>
+        <middleName />
+        <district>2</district>
+        <state>CT</state>
+        <bioguideId>C001069</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+          <lisID>1836</lisID>
+        </identifiers>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>RYAN</lastName>
+        <middleName />
+        <district>13</district>
+        <state>OH</state>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <firstName>TIM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>JONES</lastName>
+        <middleName>B.</middleName>
+        <district>3</district>
+        <state>NC</state>
+        <bioguideId>J000255</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <firstName>WALTER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Emmer</lastName>
+        <middleName />
+        <district>6</district>
+        <state>MN</state>
+        <bioguideId>E000294</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <lisID>2253</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Stauber</lastName>
+        <middleName />
+        <district>8</district>
+        <state>MN</state>
+        <bioguideId>S001212</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001212</bioguideId>
+          <lisID>2415</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <firstName>Pete</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>KING</lastName>
+        <middleName>T.</middleName>
+        <district>2</district>
+        <state>NY</state>
+        <bioguideId>K000210</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Brindisi</lastName>
+        <middleName />
+        <district>22</district>
+        <state>NY</state>
+        <bioguideId>B001308</bioguideId>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001308</bioguideId>
+          <lisID>2429</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <firstName>Anthony</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Watkins</lastName>
+        <middleName />
+        <district>2</district>
+        <state>KS</state>
+        <bioguideId>W000824</bioguideId>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000824</bioguideId>
+          <lisID>2402</lisID>
+        </identifiers>
+        <fullName>Rep. Watkins, Steve [R-KS-2]</fullName>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <latestAction>
+      <actionDate>2019-01-16</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-16T05:00:00Z</updateDate>
+          <actionDate>2019-01-16</actionDate>
+          <lastSummaryUpdateDate>2019-01-29T17:03:21Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution expresses support for (1) the goals of Catholic Schools Week, an event cosponsored by the National Catholic Educational Association and the U.S. Conference of Catholic Bishops and established to recognize the contributions of Catholic elementary and secondary schools in the United States; and (2) the continued dedication of Catholic schools, students, parents, and teachers toward academic excellence and the key role they play in promoting a brighter future. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>51</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>33</number>
+        <type>SRES</type>
+        <latestTitle>A resolution supporting the contributions of Catholic schools.</latestTitle>
+        <latestAction>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+          <actionDate>2019-02-06</actionDate>
+        </latestAction>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-13T07:15:30Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Supporting the contributions of Catholic schools.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Supporting the contributions of Catholic schools.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-01-16</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Lipinski</lastName>
+        <state>IL</state>
+        <district>3</district>
+        <party>D</party>
+        <byRequestType />
+        <firstName>Daniel</firstName>
+        <bioguideId>L000563</bioguideId>
+        <middleName>William</middleName>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Supporting the contributions of Catholic schools.</title>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres51ih/xml/BILLS-116hres51ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-16T05:00:00Z</date>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "Record Vote Number: 27", 
+          "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00027"
+        }, 
+        {
+          "name": "S.Amdt.30", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/30"
+        }, 
+        {
+          "name": "SA 30", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/30"
+        }
+      ], 
+      "references": [], 
+      "text": "Motion to table amendment SA 30 agreed to in Senate by Yea-Nay Vote. 53 - 41. Record Vote Number: 27.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.30", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/30"
+        }, 
+        {
+          "name": "S400", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S400"
+        }, 
+        {
+          "name": "S407", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S407"
+        }, 
+        {
+          "name": "SA 2", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/2"
+        }, 
+        {
+          "name": "SA 30", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/30"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment SA 30 proposed by Senator Leahy to Amendment SA 2. (consideration: CR S400, S407; text: CR S400) To strike a provision relating to judicial review.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "97000", 
+      "links": [
+        {
+          "name": "Record Vote Number: 27", 
+          "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00027"
+        }, 
+        {
+          "name": "S.Amdt.30", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/30"
+        }, 
+        {
+          "name": "SA 30", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/30"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in Senate: Motion to table amendment SA 30 agreed to in Senate by Yea-Nay Vote. 53 - 41. Record Vote Number: 27.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "93000", 
+      "links": [
+        {
+          "name": "S.Amdt.30", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/30"
+        }, 
+        {
+          "name": "S400", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S400"
+        }, 
+        {
+          "name": "S407", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S407"
+        }, 
+        {
+          "name": "SA 2", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/2"
+        }, 
+        {
+          "name": "SA 30", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/30"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S400, S407", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S400", 
+          "type": "text"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 30 proposed by Senator Leahy to Amendment SA 2.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt30-114", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2-114", 
+    "amendment_type": "samdt", 
+    "congress": 114, 
+    "description": null, 
+    "number": 2, 
+    "purpose": "In the nature of a substitute."
+  }, 
+  "amends_bill": {
+    "bill_id": "s1-114", 
+    "bill_type": "s", 
+    "congress": 114, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "114", 
+  "description": null, 
+  "introduced_at": "2015-01-13", 
+  "number": 30, 
+  "proposed_at": "2015-01-22T05:00:00Z", 
+  "purpose": "To strike a provision relating to judicial review.", 
+  "sponsor": {
+    "bioguide_id": "L000174", 
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2015-01-13", 
+  "updated_at": "2019-02-27T14:40:24Z"
+}

@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-02-09", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "H.R. 1892", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/1892"
+        }, 
+        {
+          "name": "S.Amdt.1932", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1932"
+        }, 
+        {
+          "name": "SA 1930", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1930"
+        }, 
+        {
+          "name": "SA 1932", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1932"
+        }
+      ], 
+      "references": [], 
+      "text": "SA 1932 (the instructions of the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 1892 with an amendment (SA 1930).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-02-09", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.1932", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1932"
+        }, 
+        {
+          "name": "S847", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S847"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S847", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate (Message from the House considered).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-02-08", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.1932", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1932"
+        }, 
+        {
+          "name": "S799", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S799"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S799", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate (Message from the House considered).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-02-07", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.1932", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1932"
+        }, 
+        {
+          "name": "S700", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S700"
+        }, 
+        {
+          "name": "SA 1932", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1932"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment SA 1932 proposed by Senator McConnell. (consideration: CR S700) To change the enactment date.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-02-07", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-02-07", 
+      "action_code": "93000", 
+      "links": [
+        {
+          "name": "S.Amdt.1932", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1932"
+        }, 
+        {
+          "name": "S700", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S700"
+        }, 
+        {
+          "name": "SA 1932", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1932"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S700", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 1932 proposed by Senator McConnell.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-02-07", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1932-115", 
+  "amendment_type": "samdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr1892-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 1892
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "115", 
+  "description": null, 
+  "introduced_at": "2018-02-07", 
+  "number": 1932, 
+  "proposed_at": "2018-02-07T05:00:00Z", 
+  "purpose": "To change the enactment date.", 
+  "sponsor": {
+    "bioguide_id": "M000355", 
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2018-02-07", 
+  "updated_at": "2019-06-13T18:44:03Z"
+}

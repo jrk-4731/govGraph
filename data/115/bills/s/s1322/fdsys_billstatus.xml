@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <amendmentAgreedTo>1</amendmentAgreedTo>
+        <orderedReported>1</orderedReported>
+        <billReferrals>1</billReferrals>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <passedSenate>1</passedSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <sentToHouse>1</sentToHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>11</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-08-31</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-08-24</actionDate>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionDate>2018-08-24</actionDate>
+        <actionTime>11:04:01</actionTime>
+      </item>
+      <item>
+        <actionDate>2018-08-23</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-08-22</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S3867-3868</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S3867-3868</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S3867-3868)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S3867-3868)</text>
+        <actionCode>17000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S3867-3868</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S3867-3868</url>
+          </link>
+        </links>
+        <actionDate>2018-08-22</actionDate>
+      </item>
+      <item>
+        <actionDate>2018-08-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>The committee substitute withdrawn by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-08-22</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5866-5868</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5866-5868</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5866-5868)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-12-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 283.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-12-11</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-193</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/193</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-193.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-193.</text>
+        <actionCode>14000</actionCode>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>report No. 115-193</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/193</url>
+          </link>
+        </links>
+        <actionDate>2017-12-11</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-08-31T15:12:06Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-08-24T15:55:54Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-12-11T22:07:43Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-08-02T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-08T19:08:29Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <updateDate>2019-06-13T20:52:38Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2017-06-08</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-193</citation>
+      </committeeReport>
+    </committeeReports>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Dan</firstName>
+        <bioguideId>S001198</bioguideId>
+        <state>AK</state>
+        <party>R</party>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <lastName>Sullivan</lastName>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <title>American Fisheries Advisory Committee Act</title>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/53082</url>
+        <pubDate>2017-09-08T20:04:00Z</pubDate>
+        <title>S. 1322, American Fisheries Advisory Committee Act</title>
+      </item>
+    </cboCostEstimates>
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>American Fisheries Advisory Committee Act</latestTitle>
+        <congress>115</congress>
+        <number>214</number>
+        <latestAction>
+          <actionDate>2017-02-10</actionDate>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <createDate>2017-06-09T00:26:37Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+      <actionDate>2018-08-31</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to establish the American Fisheries Advisory Committee to assist in the awarding of fisheries research and development grants, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <number>0283</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments>
+      <amendment>
+        <description />
+        <latestAction>
+          <text>Amendment SA 4001 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2018-08-22</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <purpose>In the nature of a substitute.</purpose>
+        <type>SAMDT</type>
+        <number>4001</number>
+        <purpose>In the nature of a substitute.</purpose>
+        <description />
+        <version>1.0.0</version>
+        <links />
+        <updateDate>2019-06-13T20:52:38Z</updateDate>
+        <number>4001</number>
+        <congress>115</congress>
+        <type>SAMDT</type>
+        <createDate>2018-08-23T05:13:44Z</createDate>
+        <cosponsors>
+          <totalCount>1</totalCount>
+          <item>
+            <sponsorshipDate>2018-08-22</sponsorshipDate>
+            <firstName>EDWARD</firstName>
+            <lastName>MARKEY</lastName>
+            <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+            <party>D</party>
+            <identifiers>
+              <gpoId>7972</gpoId>
+              <lisID>735</lisID>
+              <bioguideId>M000133</bioguideId>
+            </identifiers>
+            <sponsorshipWithdrawnDate />
+            <state>MA</state>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <middleName>J.</middleName>
+            <bioguideId>M000133</bioguideId>
+          </item>
+          <currentCount>1</currentCount>
+        </cosponsors>
+        <amendedAmendment />
+        <notes />
+        <submittedDate>2018-08-22T04:00:00Z</submittedDate>
+        <proposedDate>2018-08-22T04:00:00Z</proposedDate>
+        <actions>
+          <actions>
+            <item>
+              <actionDate>2018-08-22</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4001</url>
+                  <name>S.Amdt.4001</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4001</url>
+                  <name>SA 4001</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 4001 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2018-08-22</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4001</url>
+                  <name>S.Amdt.4001</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5836</url>
+                  <name>S5836</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4001</url>
+                  <name>SA 4001</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 4001 proposed by Senator McConnell for Senator Sullivan. (consideration: CR S5836) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2018-08-22</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2018-08-22</actionDate>
+              <type>Floor</type>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4001 proposed by Senator McConnell for Senator Sullivan.(consideration: CR S5836)</text>
+              <actionCode>93000</actionCode>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4001</url>
+                  <name>S.Amdt.4001</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5836</url>
+                  <name>S5836</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4001</url>
+                  <name>SA 4001</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2018-08-22</actionDate>
+              <type>Floor</type>
+              <text>Senate amendment agreed to: Amendment SA 4001 agreed to in Senate by Unanimous Consent.</text>
+              <actionCode>94000</actionCode>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4001</url>
+                  <name>S.Amdt.4001</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4001</url>
+                  <name>SA 4001</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2018-08-22</actionDate>
+              <type>Floor</type>
+              <text>Senate amendment submitted</text>
+              <actionCode>91000</actionCode>
+              <links />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <count>6</count>
+        </actions>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedBill>
+          <originChamber>Senate</originChamber>
+          <title>American Fisheries Advisory Committee Act</title>
+          <number>1322</number>
+          <congress>115</congress>
+          <type>S</type>
+          <originChamberCode>S</originChamberCode>
+        </amendedBill>
+        <sponsors>
+          <item>
+            <identifiers>
+              <gpoId />
+              <bioguideId>S001198</bioguideId>
+              <lisID>2290</lisID>
+            </identifiers>
+            <bioguideId>S001198</bioguideId>
+            <firstName>Dan</firstName>
+            <lastName>Sullivan</lastName>
+            <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+            <party>R</party>
+            <middleName />
+            <state>AK</state>
+          </item>
+        </sponsors>
+        <titles />
+        <chamber>Senate</chamber>
+      </amendment>
+    </amendments>
+    <billNumber>1322</billNumber>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <state>WA</state>
+        <firstName>MARIA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CANTWELL</lastName>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <bioguideId>C000127</bioguideId>
+        <party>D</party>
+        <middleName />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Murkowski</lastName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <middleName />
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Seafood</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <textVersions>
+      <item>
+        <date>2018-08-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1322rfh/xml/BILLS-115s1322rfh.xml</url>
+          </item>
+        </formats>
+        <type>Referred in House</type>
+      </item>
+      <item>
+        <date>2018-08-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1322es/xml/BILLS-115s1322es.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in Senate</type>
+      </item>
+      <item>
+        <date>2017-12-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1322rs/xml/BILLS-115s1322rs.xml</url>
+          </item>
+        </formats>
+        <type>Reported to Senate</type>
+      </item>
+      <item>
+        <date>2017-06-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1322is/xml/BILLS-115s1322is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-06-08T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>American Fisheries Advisory Committee Act</b></p> <p>This bill amends the Saltonstall-Kennedy Act to direct the National Oceanic and Atmospheric Administration (NOAA)to establish the American Fisheries Advisory Committee to advise on an existing grant program to address the needs of fishing communities, optimize economic benefits by building and maintaining sustainable fisheries, and increase opportunities to keep working waterfronts viable.</p> <p>NOAA must establish six regions within the committee.The committee must consist of members chosen regionally and across all sectors of the fishing industry.Additionally, the committee must: (1)identify the needs of the fishing industry, (2)develop grant proposals to fund projects that address the industry needs, (3)review grant applications, and (4)provide NOAA with grant applicants for approval.</p> <p>NOAA may not approve a grant application unlessthe application selected for funding meets the proposal criteria developed by the committee.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-12-04T15:44:50Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-08</actionDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <name>Reported to Senate with amendment(s)</name>
+          <updateDate>2017-12-11T14:46:01Z</updateDate>
+          <text><![CDATA[<p><b>American Fisheries Advisory Committee Act</b></p> <p>This bill amends the Saltonstall-Kennedy Act to direct the National Oceanic and Atmospheric Administration (NOAA)to establish the American Fisheries Advisory Committee to advise on an existing grant program to address the needs of fishing communities, optimize economic benefits by building and maintaining sustainable fisheries, and increase opportunities to keep working waterfronts viable.</p> <p>NOAA must establish six regions within the committee.The committee must consist of members chosen regionally and across all sectors of the fishing industry.Additionally, the committee must: (1)identify the needs of the fishing industry, (2)develop grant proposals to fund projects that address the industry needs, (3)review grant applications, and (4)provide NOAA with grant applicants for approval.</p> <p>NOAA may not approve a grant application unlessthe application selected for funding meets the proposal criteria developed by the committee.</p>]]></text>
+          <versionCode>01</versionCode>
+          <lastSummaryUpdateDate>2018-12-07T20:39:09Z</lastSummaryUpdateDate>
+          <actionDate>2017-12-11</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

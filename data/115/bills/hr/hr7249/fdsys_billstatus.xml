@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-12-17T19:12:14Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-12-11T15:01:15Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-12-11T15:01:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. REED:H.R. 7249.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18: The Congress shall havePower to make all Laws which shall be necessary and properfor carrying into Execution the foregoing Powers, and allother Powers vested by the Constitution in the Government ofthe United States, or in any Department or Officer thereof.[Page H10103]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-01-28T20:03:08Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2018-12-11T05:00:00Z</updateDate>
+          <actionDate>2018-12-11</actionDate>
+          <text><![CDATA[<p><b>The Better Prior Authorization Notification Act</b></p> <p>This bill requires Medicare Advantage (MA) organizations to notify providers and enrollees about items and services that are subject to prior authorization requirements. MA organizations must also establish a hotline through which enrollees may inquire about such requirements.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>7249</billNumber>
+    <relatedBills />
+    <laws />
+    <billType>HR</billType>
+    <calendarNumbers />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2018-12-11T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr7249ih/xml/BILLS-115hr7249ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-12-20</sponsorshipDate>
+        <middleName>W.</middleName>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+          <lisID>2328</lisID>
+        </identifiers>
+        <district>1</district>
+        <lastName>Marshall</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001198</bioguideId>
+        <firstName>Roger</firstName>
+        <party>R</party>
+        <state>KS</state>
+      </item>
+    </cosponsors>
+    <createDate>2018-12-12T08:10:19Z</createDate>
+    <title>Better Prior Authorization Notification Act</title>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-12-17</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-12-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-12-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-12-11</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-12-11</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2018-12-11</introducedDate>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <district>23</district>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <party>R</party>
+        <lastName>Reed</lastName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <bioguideId>R000585</bioguideId>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to provide for certain prior authorization notifications by Medicare Advantage organizations.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Better Prior Authorization Notification Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Better Prior Authorization Notification Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>The Better Prior Authorization Notification Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:28:42Z</updateDate>
+    <notes />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2018-12-17</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

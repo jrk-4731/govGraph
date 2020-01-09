@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-20", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2852-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000614", 
+      "district": "7", 
+      "name": "Duffy, Sean P.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-27", 
+      "state": "WI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-20", 
+  "number": "2852", 
+  "official_title": "To amend the National Housing Act to authorize State-licensed appraisers to conduct appraisals in connection with mortgages insured by the FHA and to require compliance with the existing appraiser education requirement, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Homebuyer Assistance Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "S000344", 
+    "district": "30", 
+    "name": "Sherman, Brad", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-05-20", 
+  "subjects": [
+    "Housing and community development"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the National Housing Act to authorize State-licensed appraisers to conduct appraisals in connection with mortgages insured by the FHA and to require compliance with the existing appraiser education requirement, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Homebuyer Assistance Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Homebuyer Assistance Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Homebuyer Assistance Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-19T16:57:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2852.xml"
+}

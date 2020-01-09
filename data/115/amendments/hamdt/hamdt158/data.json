@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-12T18:53:49-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.158", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/158"
+        }, 
+        {
+          "name": "Roll no. 350", 
+          "url": "http://clerk.house.gov/evs/2017/roll350.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 350, 
+      "text": "On agreeing to the DeSaulnier amendment (A005) Failed by recorded vote: 201 - 221 (Roll no. 350).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-07-12T18:10:55-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.158", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/158"
+        }, 
+        {
+          "name": "H5528", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H5528"
+        }, 
+        {
+          "name": "H5528-5529", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H5528-5529"
+        }, 
+        {
+          "name": "H5530-5531", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H5530-5531"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5528-5529, H5530-5531", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5528", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A005) offered by Mr. DeSaulnier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-12", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-12T18:53:49-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.158", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/158"
+        }, 
+        {
+          "name": "Roll no. 350", 
+          "url": "http://clerk.house.gov/evs/2017/roll350.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-12T18:10:55-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.158", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/158"
+        }, 
+        {
+          "name": "H5528", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H5528"
+        }, 
+        {
+          "name": "H5528-5529", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H5528-5529"
+        }, 
+        {
+          "name": "H5530-5531", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H5530-5531"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H5528-5529, H5530-5531", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H5528", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A005) offered by Mr. DeSaulnier.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-12T18:53:49-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.158", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/158"
+        }, 
+        {
+          "name": "Roll no. 350", 
+          "url": "http://clerk.house.gov/evs/2017/roll350.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-12T18:53:49-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.158", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/158"
+        }, 
+        {
+          "name": "Roll no. 350", 
+          "url": "http://clerk.house.gov/evs/2017/roll350.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the DeSaulnier amendment (A005) Failed by recorded vote: 201 - 221 (Roll no. 350).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-12", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt158-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr23-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 23
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to require a review of available and new, innovative technologies for capturing municipal wastewater and recycling it for providing drinking water and energy and report on the feasibility of expanding the implementation of these technologies and programs among Central Valley Project contractors.", 
+  "introduced_at": "2017-07-12", 
+  "number": 158, 
+  "purpose": "An amendment numbered 5 printed in Part C of House Report 115-212 to require a review of available and new, innovative technologies for capturing municipal wastewater and recycling it for providing drinking water and energy, and a report on the feasibility of expanding the implementation of these technologies and programs among Central Valley Project contractors.", 
+  "sponsor": {
+    "bioguide_id": "D000623", 
+    "district": "11", 
+    "name": "DeSaulnier, Mark", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2017-07-12T18:53:49-04:00", 
+  "updated_at": "2019-04-18T16:47:16Z"
+}

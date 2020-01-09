@@ -1,0 +1,150 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-08-23", 
+      "action_code": "", 
+      "how": "Unanimous Consent", 
+      "links": [
+        {
+          "name": "S.Amdt.3858", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3858"
+        }, 
+        {
+          "name": "SA 3858", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3858"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "text": "Amendment SA 3858 agreed to in Senate by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2018-08-23", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.3858", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3858"
+        }, 
+        {
+          "name": "S5903", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5903"
+        }, 
+        {
+          "name": "SA 3695", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3695"
+        }, 
+        {
+          "name": "SA 3858", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3858"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment SA 3858 proposed by Senator McConnell for Senator Cassidy to Amendment SA 3695. (consideration: CR S5903; text: CR S5903) To require the Director of the NIH shall conduct a comprehensive study and submit to Congress a report that includes a portfolio analysis of current funding levels of the NIH related to mental health and substance use disorder.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-08-21", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-08-23", 
+      "action_code": "93000", 
+      "links": [
+        {
+          "name": "S.Amdt.3858", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3858"
+        }, 
+        {
+          "name": "S5903", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5903"
+        }, 
+        {
+          "name": "SA 3695", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3695"
+        }, 
+        {
+          "name": "SA 3858", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3858"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S5903", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5903", 
+          "type": "text"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 3858 proposed by Senator McConnell for Senator Cassidy to Amendment SA 3695.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-08-23", 
+      "action_code": "94000", 
+      "links": [
+        {
+          "name": "S.Amdt.3858", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3858"
+        }, 
+        {
+          "name": "SA 3858", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3858"
+        }
+      ], 
+      "references": [], 
+      "text": "Senate amendment agreed to: Amendment SA 3858 agreed to in Senate by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-08-21", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3858-115", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3695-115", 
+    "amendment_type": "samdt", 
+    "congress": 115, 
+    "description": null, 
+    "number": 3695, 
+    "purpose": "In the nature of a substitute."
+  }, 
+  "amends_bill": {
+    "bill_id": "hr6157-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 6157
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "115", 
+  "description": null, 
+  "introduced_at": "2018-08-21", 
+  "number": 3858, 
+  "proposed_at": "2018-08-23T04:00:00Z", 
+  "purpose": "To require the Director of the NIH shall conduct a comprehensive study and submit to Congress a report that includes a portfolio analysis of current funding levels of the NIH related to mental health and substance use disorder.", 
+  "sponsor": {
+    "bioguide_id": "C001075", 
+    "district": null, 
+    "name": "Cassidy, Bill", 
+    "state": "LA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2018-08-23", 
+  "updated_at": "2019-05-30T21:12:33Z"
+}

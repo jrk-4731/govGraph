@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-05T19:43:40-05:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.12", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/12"
+        }, 
+        {
+          "name": "Roll no. 20", 
+          "url": "http://clerk.house.gov/evs/2017/roll020.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 20, 
+      "text": "On agreeing to the Scott (VA) amendment (A011) Failed by recorded vote: 193 - 232 (Roll no. 20).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-01-05T16:57:29-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.12", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/12"
+        }, 
+        {
+          "name": "H143", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H143"
+        }, 
+        {
+          "name": "H143-144", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H143-144"
+        }, 
+        {
+          "name": "H170-171", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H170-171"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H143-144, H170-171", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H143", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Scott (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-05", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-05T19:43:40-05:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.12", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/12"
+        }, 
+        {
+          "name": "Roll no. 20", 
+          "url": "http://clerk.house.gov/evs/2017/roll020.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Scott (VA) amendment (A011) Failed by recorded vote: 193 - 232 (Roll no. 20).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-05T19:43:40-05:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.12", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/12"
+        }, 
+        {
+          "name": "Roll no. 20", 
+          "url": "http://clerk.house.gov/evs/2017/roll020.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-05T19:43:40-05:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.12", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/12"
+        }, 
+        {
+          "name": "Roll no. 20", 
+          "url": "http://clerk.house.gov/evs/2017/roll020.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-05T16:57:29-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.12", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/12"
+        }, 
+        {
+          "name": "H143", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H143"
+        }, 
+        {
+          "name": "H143-144", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H143-144"
+        }, 
+        {
+          "name": "H170-171", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H170-171"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H143-144, H170-171", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H143", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A011) offered by Mr. Scott (VA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-05", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt12-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr26-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 26
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to exempt from the definition of a \"rule\" any rule that pertains to workplace health and safety made by the Occupational Safety and Health Administration or the Mine Safety and Health Administration that is necessary to prevent or reduce the incidence of traumatic injury, cancer or irreversible lung disease.", 
+  "introduced_at": "2017-01-05", 
+  "number": 12, 
+  "purpose": "An amendment numbered 11 printed in House Report 115-1 to exempt from the definition of a \"rule\" any rule that pertains to workplace health and safety made by the Occupational Safety and Health Administration or the Mine Safety and Health Administration that is necessary to prevent or reduce the incidence of traumatic injury, cancer or irreversible lung disease.", 
+  "sponsor": {
+    "bioguide_id": "S000185", 
+    "district": "3", 
+    "name": "Scott, Robert C. \"Bobby\"", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2017-01-05T19:43:40-05:00", 
+  "updated_at": "2019-04-18T16:47:05Z"
+}

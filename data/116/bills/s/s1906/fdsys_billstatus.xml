@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-06-19</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to require the Secretary of Veterans Affairs to provide financial assistance to eligible entities to provide and coordinate the provision of suicide prevention services for veterans at risk of suicide and veteran families through the award of grants to such entities, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Improve Well-Being for Veterans Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Improve Well-Being for Veterans Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Improve Well-Being for Veterans Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2019-06-20T04:57:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-06-19T18:55:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <bioguideId>B001236</bioguideId>
+        <firstName>John</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Improve Well-Being for Veterans Act</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Veterans' Affairs.</text>
+          <actionDate>2019-06-26</actionDate>
+        </latestAction>
+        <number>3495</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-06-19</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <laws />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <lastName>Warner</lastName>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <lastName>Cramer</lastName>
+        <state>ND</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <lastName>Rounds</lastName>
+        <state>SD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>R000605</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2291</lisID>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <party>R</party>
+        <lastName>Tillis</lastName>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Roland</middleName>
+        <bioguideId>T000476</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <firstName>Marsha</firstName>
+        <party>R</party>
+        <lastName>Blackburn</lastName>
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001243</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <state>CT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Martha</firstName>
+        <party>R</party>
+        <lastName>McSally</lastName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>M001197</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-10</sponsorshipDate>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <lisID>2138</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Steve</firstName>
+        <party>R</party>
+        <lastName>Daines</lastName>
+        <state>MT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>D000618</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <lastName>Coons</lastName>
+        <state>DE</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <lastName>Cotton</lastName>
+        <state>AR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <lastName>CAPITO</lastName>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <lastName>Manchin</lastName>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>M001183</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1906is/xml/BILLS-116s1906is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-06-19T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <title>Improve Well-Being for Veterans Act</title>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2019-07-17T09:32:51Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-06-19</actionDate>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>1906</billNumber>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

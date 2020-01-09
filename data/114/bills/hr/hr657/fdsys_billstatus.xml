@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>To direct the United States Postal Service to designate a single, unique ZIP Code for Glendale, New York.</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2015-02-02T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr657ih/xml/BILLS-114hr657ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2015-02-02</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <createDate>2015-02-03T07:01:19Z</createDate>
+    <billNumber>657</billNumber>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <bioguideId>M001188</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Grace</firstName>
+        <byRequestType />
+        <lastName>Meng</lastName>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <district>6</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 17 (Monday, February 2, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 657.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 7[Page H704]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-02-02</actionDate>
+          <text><![CDATA[<p>Directs the U.S. Postal Service, not later than 180 days after the enactment of this Act, to designate a single, unique ZIP code applicable to the area encompassing only Glendale, New York. </p>]]></text>
+          <updateDate>2015-02-02T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-02-18T19:08:50Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:25:58Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2015-02-02</introducedDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To direct the United States Postal Service to designate a single, unique ZIP Code for Glendale, New York.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>To direct the United States Postal Service to designate a single, unique ZIP Code for Glendale, New York.</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <date>2015-02-02T17:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

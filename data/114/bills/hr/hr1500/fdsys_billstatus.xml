@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2018-11-21T20:30:40Z</updateDate>
+    <committeeReports />
+    <billNumber>1500</billNumber>
+    <title>To ensure that certain TRICARE program beneficiaries may enroll in TRICARE Prime regardless of the location of their residence.</title>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-08-13</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <actionDate>2015-03-19</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-03-19</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-03-19</actionDate>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1733</lisID>
+          <bioguideId>K000363</bioguideId>
+          <gpoId>8002</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <bioguideId>K000363</bioguideId>
+        <party>R</party>
+        <district>2</district>
+        <lastName>Kline</lastName>
+        <byRequestType />
+        <firstName>John</firstName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-08-13T20:49:52Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-19T13:03:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <introducedDate>2015-03-19</introducedDate>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <district>5</district>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000566</bioguideId>
+        <lastName>Latta</lastName>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8095</gpoId>
+          <lisID>1885</lisID>
+          <bioguideId>L000566</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <state>OH</state>
+      </item>
+      <item>
+        <party>R</party>
+        <district>3</district>
+        <firstName>Erik</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000594</bioguideId>
+        <lastName>Paulsen</lastName>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1930</lisID>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <state>MN</state>
+      </item>
+      <item>
+        <party>R</party>
+        <district>6</district>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000292</bioguideId>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8096</gpoId>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <state>OH</state>
+      </item>
+      <item>
+        <party>R</party>
+        <district>6</district>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000294</bioguideId>
+        <lastName>Emmer</lastName>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2253</lisID>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <state>MN</state>
+      </item>
+      <item>
+        <party>D</party>
+        <district>7</district>
+        <firstName>COLLIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000258</bioguideId>
+        <lastName>PETERSON</lastName>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <state>MN</state>
+      </item>
+      <item>
+        <party>D</party>
+        <district>29</district>
+        <firstName>GENE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000410</bioguideId>
+        <lastName>GREEN</lastName>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>462</lisID>
+          <gpoId>8185</gpoId>
+          <bioguideId>G000410</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <state>TX</state>
+      </item>
+      <item>
+        <party>D</party>
+        <district>1</district>
+        <firstName>Timothy</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000799</bioguideId>
+        <lastName>Walz</lastName>
+        <sponsorshipDate>2015-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <state>MN</state>
+      </item>
+      <item>
+        <party>D</party>
+        <district>2</district>
+        <firstName>Tulsi</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000571</bioguideId>
+        <lastName>Gabbard</lastName>
+        <sponsorshipDate>2015-03-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <state>HI</state>
+      </item>
+      <item>
+        <party>R</party>
+        <district>3</district>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000065</bioguideId>
+        <lastName>Yoho</lastName>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <lisID>2115</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>S.</middleName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>D</party>
+        <district>4</district>
+        <firstName>BETTY</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001143</bioguideId>
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <state>MN</state>
+      </item>
+      <item>
+        <party>R</party>
+        <district>1</district>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001144</bioguideId>
+        <lastName>Miller</lastName>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001144</bioguideId>
+          <lisID>1685</lisID>
+          <gpoId>7873</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <state>FL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <district>12</district>
+        <firstName>Keith</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000598</bioguideId>
+        <lastName>Rothfus</lastName>
+        <sponsorshipDate>2015-07-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2158</lisID>
+          <bioguideId>R000598</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <actionDate>2015-08-13</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To ensure that certain TRICARE program beneficiaries may enroll in TRICARE Prime regardless of the location of their residence.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To ensure that certain TRICARE program beneficiaries may enroll in TRICARE Prime regardless of the location of their residence.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-03-19</actionDate>
+          <text><![CDATA[<p>This bill amends the National Defense Authorization Act for Fiscal Year 2013 to permit an affected eligible beneficiary who was enrolled in TRICARE Prime as of September 30, 2013, and as of December 25, 2013, resided farther than 100 miles from a military medical treatment facility, to make the one-time election to continue TRICARE Prime coverage.</p> <p>Makes this Act effective as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2014.</p>]]></text>
+          <lastSummaryUpdateDate>2015-09-14T18:46:26Z</lastSummaryUpdateDate>
+          <updateDate>2015-03-19T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <laws />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <createDate>2015-03-23T13:30:35Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 47 (Thursday, March 19, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KLINE:H.R. 1500.Congress has the power to enact this legislation pursuantto the following:This legislation ensures that the Secretary of Defenseprovides retired military veteran beneficiaries who livebeyond 100 miles of a Military Treatment Facility, anopportunity to retain access to TRICARE Prime. Specificauthority is provided by Article I, section 8 of the UnitedStates Constitution (clauses 12, 13, 14, and 16), whichgrants Congress the power to raise and support an Army; toprovide and maintain a Navy; to make rules for the governmentand regulation of the land and naval forces; and to providefor organizing, arming, and disciplining the militia.[Page H1805]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>114</congress>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

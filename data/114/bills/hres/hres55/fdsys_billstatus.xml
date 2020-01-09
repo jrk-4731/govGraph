@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-01-29T20:11:21Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-01-27</actionDate>
+          <updateDate>2015-01-27T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Provides amounts for expenses of the House Committee on Ethics for the 114th Congress. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>55</billNumber>
+    <title>Providing amounts for the expenses of the Committee on Ethics in the One Hundred Fourteenth Congress.</title>
+    <actions>
+      <item>
+        <actionDate>2015-01-27</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-27</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-27</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Ethics</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2015-01-28T04:46:18Z</createDate>
+    <sponsors>
+      <item>
+        <firstName>Charles</firstName>
+        <identifiers>
+          <gpoId>8133</gpoId>
+          <lisID>1799</lisID>
+          <bioguideId>D000604</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <lastName>Dent</lastName>
+        <state>PA</state>
+        <bioguideId>D000604</bioguideId>
+        <middleName>W.</middleName>
+        <district>15</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <laws />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2015-01-27</actionDate>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+    </latestAction>
+    <introducedDate>2015-01-27</introducedDate>
+    <billType>HRES</billType>
+    <cosponsors />
+    <amendments />
+    <updateDate>2018-06-02T01:16:20Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on Ethics in the One Hundred Fourteenth Congress.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on Ethics in the One Hundred Fourteenth Congress.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <recordedVotes />
+    <calendarNumbers />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-27T17:02:45Z</date>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

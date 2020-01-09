@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>SRES</billType>
+    <latestAction>
+      <actionDate>2018-12-13</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S7597)</text>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <createDate>2018-12-14T05:25:24Z</createDate>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2018-12-13T18:38:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Rules and Administration Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution amending rule XXXI of the Standing Rules of the Senate to limit the time during which a nomination shall be confirmed or rejected, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution amending rule XXXI of the Standing Rules of the Senate to limit the time during which a nomination shall be confirmed or rejected, and for other purposes.</title>
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:31:17Z</updateDate>
+    <congress>115</congress>
+    <title>A resolution amending rule XXXI of the Standing Rules of the Senate to limit the time during which a nomination shall be confirmed or rejected, and for other purposes.</title>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres724is/xml/BILLS-115sres724is.xml</url>
+          </item>
+        </formats>
+        <date>2018-12-13T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2018-12-13</introducedDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2018-12-13</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S7597</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7597</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S7597)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2018-12-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <byRequestType />
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <party>D</party>
+        <state>OR</state>
+      </item>
+    </sponsors>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <calendarNumbers />
+    <committeeReports />
+    <billNumber>724</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

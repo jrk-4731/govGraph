@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2017-10-12</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Armed Services.</text>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2017-10-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2017-10-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for the retention and service of transgender members of the Armed Forces.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To provide for the retention and service of transgender members of the Armed Forces.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>To provide for the retention and service of transgender members of the Armed Forces.</title>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <actionDate>2017-11-16</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-10-12</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-04-08T14:08:12Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>This bill prohibits the involuntary separation of a member of the Armed Forces, or denial of reenlistment or continuation in the Armed Forces, solely on the basis of the member's gender identity.</p>]]></text>
+          <updateDate>2017-10-12T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <bioguideId>S001175</bioguideId>
+        <middleName />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <firstName>Jackie</firstName>
+        <party>D</party>
+        <lastName>Speier</lastName>
+        <district>14</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T16:16:29Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>A bill to provide for the retention and service of transgender members of the Armed Forces.</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+          <actionDate>2017-09-14</actionDate>
+        </latestAction>
+        <number>1820</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-11-16T16:31:17Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <date>2017-10-12T14:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-10-13T03:11:22Z</createDate>
+    <introducedDate>2017-10-12</introducedDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>4041</billNumber>
+    <cosponsors>
+      <item>
+        <district>15</district>
+        <state>PA</state>
+        <bioguideId>D000604</bioguideId>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000604</bioguideId>
+          <lisID>1799</lisID>
+          <gpoId>8133</gpoId>
+        </identifiers>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Charles</firstName>
+        <lastName>Dent</lastName>
+      </item>
+      <item>
+        <district>53</district>
+        <state>CA</state>
+        <bioguideId>D000598</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000598</bioguideId>
+          <lisID>1641</lisID>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SUSAN</firstName>
+        <lastName>DAVIS</lastName>
+      </item>
+      <item>
+        <district>27</district>
+        <state>FL</state>
+        <bioguideId>R000435</bioguideId>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7890</gpoId>
+          <bioguideId>R000435</bioguideId>
+          <lisID>985</lisID>
+        </identifiers>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ILEANA</firstName>
+        <lastName>ROS-LEHTINEN</lastName>
+      </item>
+      <item>
+        <district>9</district>
+        <state>WA</state>
+        <bioguideId>S000510</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8213</gpoId>
+          <lisID>1528</lisID>
+          <bioguideId>S000510</bioguideId>
+        </identifiers>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ADAM</firstName>
+        <lastName>SMITH</lastName>
+      </item>
+      <item>
+        <district>9</district>
+        <state>AZ</state>
+        <bioguideId>S001191</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+          <lisID>2099</lisID>
+        </identifiers>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <sponsorshipDate>2017-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 164 (Thursday, October 12, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SPEIER:H.R. 4041.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article 1, Section 8 of the United StatesConstitution.[[Page H8032]][Page H8031]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4041ih/xml/BILLS-115hr4041ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2017-10-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

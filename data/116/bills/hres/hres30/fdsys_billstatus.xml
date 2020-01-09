@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <committeeDischarged>1</committeeDischarged>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>19:41:31</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-05-16</actionDate>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H3911)</text>
+        <actionTime>19:41:28</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3911</url>
+            <name>H3911</name>
+          </link>
+        </links>
+        <actionDate>2019-05-16</actionDate>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3911)</text>
+        <actionTime>19:41:28</actionTime>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3911</url>
+            <name>H3911</name>
+          </link>
+        </links>
+        <actionDate>2019-05-16</actionDate>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <text>Considered by unanimous consent. (consideration: CR H3911)</text>
+        <actionTime>19:41:08</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3911</url>
+            <name>H3911</name>
+          </link>
+        </links>
+        <actionDate>2019-05-16</actionDate>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <text>Ms. Lofgren asked unanimous consent to discharge from committee and consider.</text>
+        <actionTime>19:40:32</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-05-16</actionDate>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+      </item>
+      <item>
+        <text>Committee on House Administration discharged.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <type>Discharge</type>
+        <actionDate>2019-05-16</actionDate>
+        <links />
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <text>Committee on House Administration discharged.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2019-05-16</actionDate>
+        <links />
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-08</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-01-08</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2019-01-08</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <lastName>LOFGREN</lastName>
+        <district>19</district>
+        <middleName />
+        <firstName>ZOE</firstName>
+        <bioguideId>L000397</bioguideId>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <relatedBills />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-01-08T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-01-17T23:18:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution directs the Committee on House Administration to require Members, officers, and employees of the House of Representatives to complete a training program on workplace rights and responsibilities, including anti-discrimination and anti-harassment training, during each congressional session.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-08</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2019-01-09T08:10:15Z</createDate>
+    <cosponsors>
+      <item>
+        <firstName>Rodney</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+        </identifiers>
+        <state>IL</state>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <lastName>Davis</lastName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000619</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-05-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres30eh/xml/BILLS-116hres30eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres30ih/xml/BILLS-116hres30ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billNumber>30</billNumber>
+    <notes />
+    <updateDate>2019-05-18T09:15:45Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <title>Requiring each Member, officer, and employee of the House of Representatives to complete a program of training in workplace rights and responsibilities each session of each Congress, and for other purposes.</title>
+    <laws />
+    <amendments />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Requiring each Member, officer, and employee of the House of Representatives to complete a program of training in workplace rights and responsibilities each session of each Congress, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Requiring each Member, officer, and employee of the House of Representatives to complete a program of training in workplace rights and responsibilities each session of each Congress, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <latestAction>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionDate>2019-05-16</actionDate>
+      <links />
+      <actionTime>19:41:31</actionTime>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-05-16T23:40:00Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2019-01-08T17:09:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <introducedDate>2019-01-08</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

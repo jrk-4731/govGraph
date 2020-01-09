@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-07-13</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2016-07-13</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>3178</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Fairness for Our Hospitals Act of 2016</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to allow a hospital that meets specified criteria and is located in a state with no rural areas to be considered a Medicare-dependent hospital. The Centers for Medicare &amp; Medicaid Services shall establish and implement a process for reimbursing impacted hospitals for any underpayments resulting from this bill's implementation.</p>]]></text>
+          <actionDate>2016-07-13</actionDate>
+          <lastSummaryUpdateDate>2017-02-16T16:30:05Z</lastSummaryUpdateDate>
+          <updateDate>2016-07-13T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Fairness for Our Hospitals Act of 2016</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend title XVIII of the Social Security Act to permit hospitals in all-urban States to be considered Medicare dependent hospitals, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Fairness for Our Hospitals Act of 2016</title>
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-07-13T17:27:57Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2018-06-02T07:47:15Z</updateDate>
+    <title>Fairness for Our Hospitals Act of 2016</title>
+    <congress>114</congress>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <actionDate>2016-07-13</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <lastName>Booker</lastName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <firstName>Cory</firstName>
+      </item>
+      <item>
+        <lastName>CARDIN</lastName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <state>MD</state>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+        </identifiers>
+        <firstName>BENJAMIN</firstName>
+      </item>
+      <item>
+        <lastName>Coons</lastName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <state>DE</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <firstName>Christopher</firstName>
+      </item>
+    </cosponsors>
+    <createDate>2016-07-14T06:10:25Z</createDate>
+    <introducedDate>2016-07-13</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>ROBERT</firstName>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <byRequestType />
+        <middleName />
+        <party>D</party>
+        <lastName>MENENDEZ</lastName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestTitle>Fairness for Our Hospitals Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>5767</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2016-07-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

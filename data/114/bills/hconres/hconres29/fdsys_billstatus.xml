@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <links />
+      <actionDate>2015-03-27</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-03-27</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2015-03-25</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-03-25</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-03-25</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+      </item>
+    </actions>
+    <recordedVotes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <name>Energy</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-03-27T20:20:02Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-25T14:06:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HCONRES</billType>
+    <createDate>2015-03-26T08:47:40Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hconres29ih/xml/BILLS-114hconres29ih.xml</url>
+          </item>
+        </formats>
+        <date>2015-03-25T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2015-03-25T04:00:00Z</updateDate>
+          <text><![CDATA[<p> Recognizes: (1) the disparate impacts of climate change on women and the efforts of women globally to address it, and (2) the need for balanced participation of men and women in climate change adaptation and mitigation efforts.</p> <p>Encourages the use of gender-sensitive frameworks in developing climate change policies.</p> <p>Affirms Congress's commitment to: (1) support women who are particularly vulnerable to prepare for and adapt to climate change impacts, including a commitment to increase education and training opportunities for women to develop local resilience plans to address the effects of climate change; (2) empower women in the planning, design, implementation, and evaluation of climate change strategies; and (3) include women in economic development planning, policies, and practices that directly improve conditions that result from climate change.</p> <p>Encourages the President to: (1) integrate a gender approach in all U.S. policies and programs that are globally related to climate change, and (2) ensure that those policies and programs support women globally to prepare for and adapt to climate change.</p>]]></text>
+          <lastSummaryUpdateDate>2015-03-27T19:39:45Z</lastSummaryUpdateDate>
+          <actionDate>2015-03-25</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2015-03-25</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Women's education</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+          <item>
+            <name>Women's rights</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-04-11T15:41:45Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>L000397</bioguideId>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ZOE</firstName>
+        <lastName>LOFGREN</lastName>
+        <district>19</district>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-09-27</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <bioguideId>E000288</bioguideId>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Keith</firstName>
+        <lastName>Ellison</lastName>
+        <district>5</district>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-12-12</sponsorshipDate>
+        <state>MN</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <calendarNumbers />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the disparate impact of climate change on women and the efforts of women globally to address climate change.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing the disparate impact of climate change on women and the efforts of women globally to address climate change.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <relatedBills />
+    <committeeReports />
+    <title>Recognizing the disparate impact of climate change on women and the efforts of women globally to address climate change.</title>
+    <originChamber>House</originChamber>
+    <billNumber>29</billNumber>
+    <sponsors>
+      <item>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <bioguideId>L000551</bioguideId>
+        <state>CA</state>
+        <middleName />
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <district>13</district>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <congress>114</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

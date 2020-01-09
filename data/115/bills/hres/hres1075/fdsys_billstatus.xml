@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1075</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <textVersions>
+      <item>
+        <date>2018-09-20T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres1075ih/xml/BILLS-115hres1075ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HRES</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for designation of the week of September 23 through September 29, 2018, as "Gold Star Families Remembrance Week".</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Expressing support for designation of the week of September 23 through September 29, 2018, as "Gold Star Families Remembrance Week".</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000290</bioguideId>
+        <identifiers>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+        </identifiers>
+        <district>2</district>
+        <firstName>Lynn</firstName>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <lastName>Jenkins</lastName>
+        <sponsorshipDate>2018-09-20</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001193</bioguideId>
+        <identifiers>
+          <lisID>2258</lisID>
+          <bioguideId>M001193</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <firstName>Thomas</firstName>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <lastName>MacArthur</lastName>
+        <sponsorshipDate>2018-09-27</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-09-20T13:31:45Z</date>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-09-21T17:34:08Z</date>
+                </item>
+              </activities>
+              <systemCode>hsas02</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-09-20T13:31:50Z</date>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2018-09-21</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-09-21</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-09-20</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-09-20</actionDate>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-09-20</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-09-20</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2019-04-18T15:55:57Z</updateDate>
+    <congress>115</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>A resolution designating the week of September 23 through September 29, 2018 as "Gold Star Families Remembrance Week".</latestTitle>
+        <type>SRES</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+          <actionDate>2018-09-06</actionDate>
+        </latestAction>
+        <number>522</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-01-04T16:52:44Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2018-09-20T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses support for the designation of Gold Star Families Remembrance Week and recognizes the sacrifices made by the family members of veterans who died in the line of duty.</p>]]></text>
+          <actionDate>2018-09-20</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <createDate>2018-09-21T07:10:32Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <cboCostEstimates />
+    <laws />
+    <title>Expressing support for designation of the week of September 23 through September 29, 2018, as "Gold Star Families Remembrance Week".</title>
+    <originChamber>House</originChamber>
+    <introducedDate>2018-09-20</introducedDate>
+    <sponsors>
+      <item>
+        <middleName>H.</middleName>
+        <state>NJ</state>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <bioguideId>S000522</bioguideId>
+        <identifiers>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <firstName>CHRISTOPHER</firstName>
+        <district>4</district>
+        <lastName>SMITH</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

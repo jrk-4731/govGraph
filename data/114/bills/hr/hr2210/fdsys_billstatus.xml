@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-05-01</actionDate>
+          <updateDate>2015-05-01T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-06-04T20:43:32Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Coach-Only Airfare for Capitol Hill Act of 2015</b></p> <p>Prohibits the use of funds appropriated or otherwise made available for the official travel of a Member of Congress or other officer or employee of the legislative branch for airline accommodations which are not coach-class accommodations. </p> <p>Makes an exception to this prohibition for an individual if the use would be permitted for an employee of an agency subject to specified federal regulations for temporary duty travel allowances.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2210</billNumber>
+    <title>Coach-Only Airfare for Capitol Hill Act of 2015</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-05-01</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2015-05-01</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2015-05-01</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2015-05-02T08:57:32Z</createDate>
+    <sponsors>
+      <item>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <state>AZ</state>
+        <bioguideId>G000565</bioguideId>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <laws />
+    <relatedBills>
+      <item>
+        <latestTitle>CAN Act</latestTitle>
+        <latestAction>
+          <actionDate>2016-09-12</actionDate>
+          <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>5993</number>
+        <congress>114</congress>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2015-05-01</actionDate>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+    </latestAction>
+    <introducedDate>2015-05-01</introducedDate>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>Mark</firstName>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Amodei</lastName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NV</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2090</lisID>
+          <gpoId>8366</gpoId>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <bioguideId>A000369</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Carlos</firstName>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Curbelo</lastName>
+        <district>26</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001107</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Scott</firstName>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>DesJarlais</lastName>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <bioguideId>D000616</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <firstName>WALTER</firstName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>JONES</lastName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <bioguideId>J000255</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <firstName>David</firstName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Joyce</lastName>
+        <district>14</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2154</lisID>
+          <bioguideId>J000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>J000295</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Stevan</firstName>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pearce</lastName>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000588</bioguideId>
+          <lisID>1738</lisID>
+          <gpoId>8057</gpoId>
+        </identifiers>
+        <bioguideId>P000588</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Tom</firstName>
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rice</lastName>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SC</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000597</bioguideId>
+          <gpoId />
+          <lisID>2160</lisID>
+        </identifiers>
+        <bioguideId>R000597</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>PETE</firstName>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SESSIONS</lastName>
+        <district>32</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <bioguideId>S000250</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <firstName>Scott</firstName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tipton</lastName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <bioguideId>T000470</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Julia</firstName>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Brownley</lastName>
+        <district>26</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+        </identifiers>
+        <bioguideId>B001285</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Grijalva</lastName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <bioguideId>G000551</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kirkpatrick</lastName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>1907</lisID>
+          <gpoId>7220</gpoId>
+          <bioguideId>K000368</bioguideId>
+        </identifiers>
+        <bioguideId>K000368</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Raul</firstName>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ruiz</lastName>
+        <district>36</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <gpoId />
+          <lisID>2109</lisID>
+        </identifiers>
+        <bioguideId>R000599</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Kyrsten</firstName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Sinema</lastName>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001191</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <firstName>Ryan</firstName>
+        <fullName>Rep. Zinke, Ryan K. [R-MT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Zinke</lastName>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MT</state>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>2254</lisID>
+          <gpoId />
+          <bioguideId>Z000018</bioguideId>
+        </identifiers>
+        <bioguideId>Z000018</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Pete</firstName>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Olson</lastName>
+        <district>22</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1955</lisID>
+          <bioguideId>O000168</bioguideId>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <bioguideId>O000168</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Mick</firstName>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mulvaney</lastName>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SC</state>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001182</bioguideId>
+          <lisID>2059</lisID>
+          <gpoId>8145</gpoId>
+        </identifiers>
+        <bioguideId>M001182</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Ami</firstName>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bera</lastName>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipDate>2015-05-19</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001287</bioguideId>
+          <gpoId />
+          <lisID>2102</lisID>
+        </identifiers>
+        <bioguideId>B001287</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Bradley</firstName>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Byrne</lastName>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <sponsorshipDate>2015-05-19</sponsorshipDate>
+        <identifiers>
+          <lisID>2197</lisID>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <bioguideId>B001289</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>David</firstName>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Loebsack</lastName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+          <lisID>1846</lisID>
+        </identifiers>
+        <bioguideId>L000565</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Mike</firstName>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Coffman</lastName>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CO</state>
+        <sponsorshipDate>2015-09-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <bioguideId>C001077</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Bill</firstName>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Posey</lastName>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <bioguideId>P000599</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Brad</firstName>
+        <fullName>Rep. Ashford, Brad [D-NE-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ashford</lastName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NE</state>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <identifiers>
+          <lisID>2257</lisID>
+          <gpoId />
+          <bioguideId>A000373</bioguideId>
+        </identifiers>
+        <bioguideId>A000373</bioguideId>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <amendments />
+    <updateDate>2018-06-02T03:38:55Z</updateDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 65 (Friday, May 1, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DEUTCH:H.R. 2220.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the U.S. Constitution.[Page H2793]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Coach-Only Airfare for Capitol Hill Act of 2015</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>To prohibit the use of funds provided for the official travel expenses of Members of Congress and other officers and employees of the legislative branch for airline accommodations which are not coach-class accommodations, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Coach-Only Airfare for Capitol Hill Act of 2015</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <calendarNumbers />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-05-01T13:04:20Z</date>
+            </item>
+          </activities>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

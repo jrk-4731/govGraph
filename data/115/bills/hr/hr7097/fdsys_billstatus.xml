@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-10-27T07:10:31Z</createDate>
+    <introducedDate>2018-10-26</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-10-29</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-10-26</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-10-26</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2018-10-26</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <actionDate>2018-10-29</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>7097</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>N000190</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <firstName>Ralph</firstName>
+        <state>SC</state>
+        <lastName>Norman</lastName>
+        <byRequestType />
+        <district>5</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:28:18Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <date>2018-10-26T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr7097ih/xml/BILLS-115hr7097ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 174 (Friday, October 26, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NORMAN:H.R. 7097.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H9449]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <date>2018-10-29T13:20:32Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-10-26T20:00:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName>A.</middleName>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <sponsorshipDate>2018-10-26</sponsorshipDate>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <lastName>Gosar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Paul</firstName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>G000578</bioguideId>
+        <state>FL</state>
+        <sponsorshipDate>2018-10-26</sponsorshipDate>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <identifiers>
+          <lisID>2314</lisID>
+          <gpoId />
+          <bioguideId>G000578</bioguideId>
+        </identifiers>
+        <lastName>Gaetz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Matt</firstName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>L000589</bioguideId>
+        <state>AZ</state>
+        <sponsorshipDate>2018-11-29</sponsorshipDate>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <identifiers>
+          <bioguideId>L000589</bioguideId>
+          <gpoId />
+          <lisID>2368</lisID>
+        </identifiers>
+        <lastName>Lesko</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Debbie</firstName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend title 10, United States Code, to require the establishment of a searchable database containing the names and citations of members of the Armed Forces who have been awarded the Purple Heart.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Find our Hearts Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Find our Hearts Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Find our Hearts Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Find our Hearts Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

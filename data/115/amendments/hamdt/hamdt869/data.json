@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-07-13T10:16:38-04:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H.Amdt.869", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/869"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "text": "On agreeing to the Connolly amendment (A003) Failed by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-07-13T10:11:27-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.869", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/869"
+        }, 
+        {
+          "name": "H6188", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6188"
+        }, 
+        {
+          "name": "H6188-6189", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6188-6189"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6188-6189", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6188", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A003) offered by Mr. Connolly.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-13", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-13T10:11:27-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.869", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/869"
+        }, 
+        {
+          "name": "H6188", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6188"
+        }, 
+        {
+          "name": "H6188-6189", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6188-6189"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6188-6189", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6188", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A003) offered by Mr. Connolly.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-13T10:16:38-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.869", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/869"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Connolly amendment (A003) Failed by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-13T10:16:38-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.869", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/869"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-13", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt869-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr50-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 50
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": null, 
+  "introduced_at": "2018-07-13", 
+  "number": 869, 
+  "purpose": "An amendment numbered 4 printed in House Report 115-812 to provide for a sunset of amendments made to the Unfunded Mandates Reform Act and the Congressional Budget Act if GDP growth fails to increase at average annual rate of five percent or more.", 
+  "sponsor": {
+    "bioguide_id": "C001078", 
+    "district": "11", 
+    "name": "Connolly, Gerald E.", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2018-07-13T10:16:38-04:00", 
+  "updated_at": "2019-06-13T18:23:52Z"
+}

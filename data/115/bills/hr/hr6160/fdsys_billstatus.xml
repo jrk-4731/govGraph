@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedSenate>1</passedSenate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <houseCommitteeDischarged>2</houseCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <becamePublicLaw>2</becamePublicLaw>
+        <committeeDischarged>3</committeeDischarged>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <presentedToPresident>1</presentedToPresident>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <sentToHouse>1</sentToHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForE>3</placeholderTextForE>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+      <item>
+        <type>President</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Became Public Law No: 115-364.</text>
+        <actionDate>2018-12-21</actionDate>
+        <links />
+        <actionCode>E40000</actionCode>
+      </item>
+      <item>
+        <type>BecameLaw</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Became Public Law No: 115-364.</text>
+        <actionDate>2018-12-21</actionDate>
+        <links />
+        <actionCode>36000</actionCode>
+      </item>
+      <item>
+        <type>President</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Signed by President.</text>
+        <actionDate>2018-12-21</actionDate>
+        <links />
+        <actionCode>E30000</actionCode>
+      </item>
+      <item>
+        <type>BecameLaw</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Signed by President.</text>
+        <actionDate>2018-12-21</actionDate>
+        <links />
+        <actionCode>36000</actionCode>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Presented to President.</text>
+        <actionDate>2018-12-19</actionDate>
+        <links />
+        <actionCode>E20000</actionCode>
+      </item>
+      <item>
+        <type>President</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Presented to President.</text>
+        <actionDate>2018-12-19</actionDate>
+        <links />
+        <actionCode>28000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-12-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-12-13</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <actionDate>2018-12-13</actionDate>
+        <links />
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-12-13</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7622</url>
+            <name>S7622</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S7622)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S7622)</text>
+        <actionDate>2018-12-13</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7622</url>
+            <name>S7622</name>
+          </link>
+        </links>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-06-28</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>12:40:46</actionTime>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2018-06-28</actionDate>
+        <links />
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <actionTime>12:40:39</actionTime>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>On passage Passed without objection. (text: CR H5852)</text>
+        <actionDate>2018-06-28</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H5852</url>
+            <name>H5852</name>
+          </link>
+        </links>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <actionTime>12:40:39</actionTime>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Passed/agreed to in House: On passage Passed without objection.(text: CR H5852)</text>
+        <actionDate>2018-06-28</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H5852</url>
+            <name>H5852</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <actionTime>12:39:59</actionTime>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Mr. Harper asked unanimous consent to discharge from committee and consider.</text>
+        <actionDate>2018-06-28</actionDate>
+        <links />
+        <actionCode>H30200</actionCode>
+      </item>
+      <item>
+        <actionTime>12:39:59</actionTime>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <text>Considered by unanimous consent. (consideration: CR H5852-5853)</text>
+        <actionDate>2018-06-28</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H5852-5853</url>
+            <name>H5852-5853</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <type>Discharge</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <text>Committee on Oversight and Government discharged.</text>
+        <actionDate>2018-06-28</actionDate>
+        <links />
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <text>Committee on Oversight and Government discharged.</text>
+        <actionDate>2018-06-28</actionDate>
+        <links />
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <type>Discharge</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Committee on House Administration discharged.</text>
+        <actionDate>2018-06-28</actionDate>
+        <links />
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Committee on House Administration discharged.</text>
+        <actionDate>2018-06-28</actionDate>
+        <links />
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-06-20</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-06-20</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-06-20</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-06-20</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 5, United States Code, to clarify the sources of the authority to issue regulations regarding certifications and other criteria applicable to legislative branch employees under Wounded Warriors Federal Leave Act.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To amend title 5, United States Code, to clarify the sources of the authority to issue regulations regarding certifications and other criteria applicable to legislative branch employees under Wounded Warriors Federal Leave Act.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2018-06-21T07:10:47Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-12-13T23:53:29Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-28T20:07:29Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-06-28T16:35:15Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-20T13:01:45Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-06-28T16:35:13Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-20T13:01:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <lastName>Harper</lastName>
+        <party>R</party>
+        <district>3</district>
+        <state>MS</state>
+        <bioguideId>H001045</bioguideId>
+        <firstName>Gregg</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>A bill to amend title 5, United States Code, to clarify the sources of the authority to issue regulations regarding certifications and other criteria applicable to legislative branch employees under the Wounded Warriors Federal Leave Act.</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2018-06-20</actionDate>
+        </latestAction>
+        <number>3098</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports />
+    <introducedDate>2018-06-20</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>To amend title 5, United States Code, to clarify the sources of the authority to issue regulations regarding certifications and other criteria applicable to legislative branch employees under Wounded Warriors Federal Leave Act.</title>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <district>1</district>
+        <bioguideId>B001227</bioguideId>
+        <firstName>ROBERT</firstName>
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+          <lisID>1469</lisID>
+        </identifiers>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <lastName>BRADY</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6160enr/xml/BILLS-115hr6160enr.xml</url>
+          </item>
+        </formats>
+        <type>Enrolled Bill</type>
+        <date />
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6160rfs/xml/BILLS-115hr6160rfs.xml</url>
+          </item>
+        </formats>
+        <type>Referred in Senate</type>
+        <date>2018-06-28T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6160eh/xml/BILLS-115hr6160eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2018-06-28T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6160ih/xml/BILLS-115hr6160ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-06-20T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <number>115-364</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <updateDate>2019-07-15T21:58:21Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2018-12-21</actionDate>
+      <text>Became Public Law No: 115-364.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-10-23T20:02:38Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>This bill modifies the self-certification requirements for federal employees who use disabled veteran leave. </p> <p>Currently, a federal employee who uses disabled veteran leave must certify that the leave was used to undergo medical treatment for a service-connected disability. The Office of Personnel Management is authorized to prescribe the form and manner of such certification. </p> <p>This bill adds a new provision to specify, in the case of a legislative branch employee, which office is authorized to prescribe the form and manner of the certification. </p>]]></text>
+          <actionDate>2018-06-20</actionDate>
+          <updateDate>2018-06-20T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2018-10-26T18:27:47Z</lastSummaryUpdateDate>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(Sec. 1) This bill modifies the self-certification requirements for federal employees who use disabled veteran leave. </p> <p>Currently, a federal employee who uses disabled veteran leave must certify that the leave was used to undergo medical treatment for a service-connected disability. The Office of Personnel Management is authorized to prescribe the form and manner of such certification. </p> <p>This bill adds a new provision to specify, in the case of a legislative branch employee, which office is authorized to prescribe the form and manner of the certification. </p>]]></text>
+          <actionDate>2018-06-28</actionDate>
+          <updateDate>2018-06-28T12:37:24Z</updateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2018-12-21T12:00:55Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(Sec. 1) This bill modifies the self-certification requirements for federal employees who use disabled veteran leave. </p> <p>Currently, a federal employee who uses disabled veteran leave must certify that the leave was used to undergo medical treatment for a service-connected disability. The Office of Personnel Management is authorized to prescribe the form and manner of such certification. </p> <p>This bill adds a new provision to specify, in the case of a legislative branch employee, which office is authorized to prescribe the form and manner of the certification. </p>]]></text>
+          <actionDate>2018-12-13</actionDate>
+          <updateDate>2018-12-13T13:58:11Z</updateDate>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2019-01-02T20:43:46Z</lastSummaryUpdateDate>
+          <name>Public Law</name>
+          <text><![CDATA[<p>(Sec. 1) This bill modifies the self-certification requirements for federal employees who use disabled veteran leave.</p> <p>Currently, a federal employee who uses disabled veteran leave must certify that the leave was used to undergo medical treatment for a service-connected disability. The Office of Personnel Management is authorized to prescribe the form and manner of such certification.</p> <p>This bill adds a new provision to specify, in the case of a legislative branch employee, which office is authorized to prescribe the form and manner of the certification.</p>]]></text>
+          <actionDate>2018-12-21</actionDate>
+          <updateDate>2018-12-22T04:59:58Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>6160</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 103 (Wednesday, June 20, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HARPER:H.R. 6160.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H5362]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

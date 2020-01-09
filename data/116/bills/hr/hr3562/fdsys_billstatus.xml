@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1793</lisID>
+          <gpoId>8038</gpoId>
+          <bioguideId>F000449</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Fortenberry, Jeff [R-NE-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>F000449</bioguideId>
+        <firstName>Jeff</firstName>
+        <lastName>Fortenberry</lastName>
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1879</lisID>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <party>D</party>
+        <bioguideId>W000800</bioguideId>
+        <firstName>Peter</firstName>
+        <lastName>Welch</lastName>
+        <state>VT</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000630</bioguideId>
+          <lisID>2428</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+        <party>D</party>
+        <bioguideId>D000630</bioguideId>
+        <firstName>Antonio</firstName>
+        <lastName>Delgado</lastName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>P000597</bioguideId>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-06-27</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-06-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-06-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <actionDate>2019-06-27</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Marcia</firstName>
+        <party>D</party>
+        <lastName>Fudge</lastName>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>F000455</bioguideId>
+          <gpoId>8101</gpoId>
+          <lisID>1895</lisID>
+        </identifiers>
+        <middleName>L.</middleName>
+        <bioguideId>F000455</bioguideId>
+        <district>11</district>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <updateDate>2019-07-19T03:51:50Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Education and Labor</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-27T13:00:12Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 109 (Thursday, June 27, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Ms. FUDGE:H.R. 3562.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 3 provides Congress with thepower to ``regulate commerce with foreign nations, and amongthe several states, and with the Indian tribes.''[Page H5259]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <number>2026</number>
+        <latestAction>
+          <actionDate>2019-06-27</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (Sponsor introductory remarks on measure: CR S4633)</text>
+        </latestAction>
+        <latestTitle>Farm to School Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3562ih/xml/BILLS-116hr3562ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-27T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Farm to School Act of 2019</title>
+    <introducedDate>2019-06-27</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Richard B. Russell National School Lunch Act to reauthorize the farm to school program, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Farm to School Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Farm to School Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Farm to School Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <billNumber>3562</billNumber>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2019-06-28T07:12:16Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

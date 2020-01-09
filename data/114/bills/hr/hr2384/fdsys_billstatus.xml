@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2015-11-16</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-05-15T13:05:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-11-16T21:26:25Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsed02</systemCode>
+              <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 75 (Friday, May 15, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SALMON:H.R. 2384.Congress has the power to enact this legislation pursuantto the following:Article I, Section 9, Clause 7--``No money shall be drawnfrom the Treasury, but in Consequence of Appropriations madeby Law; and a regular Statement and Account of the Receiptsand Expenditures of all public Money shall be published fromtime to time.''[Page H3253]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>AZ</state>
+        <middleName>A.</middleName>
+        <bioguideId>G000565</bioguideId>
+        <lastName>Gosar</lastName>
+        <firstName>Paul</firstName>
+      </item>
+    </cosponsors>
+    <updateDate>2019-01-09T21:09:57Z</updateDate>
+    <relatedBills />
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <calendarNumbers />
+    <congress>114</congress>
+    <billNumber>2384</billNumber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To prohibit any appropriation of funds for the National Labor Relations Board.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>To prohibit any appropriation of funds for the National Labor Relations Board.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <introducedDate>2015-05-15</introducedDate>
+    <version>1.0.0</version>
+    <notes />
+    <textVersions>
+      <item>
+        <date>2015-05-15T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr2384ih/xml/BILLS-114hr2384ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>MATT</firstName>
+        <lastName>SALMON</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>1009</lisID>
+          <bioguideId>S000018</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <state>AZ</state>
+        <bioguideId>S000018</bioguideId>
+        <district>5</district>
+        <byRequestType />
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+      </item>
+    </sponsors>
+    <createDate>2015-05-16T08:46:38Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>National Labor Relations Board (NLRB)</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <title>To prohibit any appropriation of funds for the National Labor Relations Board.</title>
+    <actions>
+      <item>
+        <actionDate>2015-11-16</actionDate>
+        <committee>
+          <systemCode>hsed02</systemCode>
+          <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2015-05-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2015-05-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2015-05-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <laws />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Denies the authorization of any appropriations for the National Labor Relations Board.</p>]]></text>
+          <lastSummaryUpdateDate>2015-05-29T15:15:57Z</lastSummaryUpdateDate>
+          <actionDate>2015-05-15</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2015-05-15T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

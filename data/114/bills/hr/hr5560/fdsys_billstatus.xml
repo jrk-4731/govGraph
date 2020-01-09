@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2016-06-23T05:20:37Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-06-29</actionDate>
+        <committee>
+          <name>Trade Subcommittee</name>
+          <systemCode>hswm04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2016-06-22</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2016-06-22</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <actionDate>2016-06-22</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2016-06-22</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2016-06-22</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2016-06-22</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2019-02-06T19:37:37Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Trade Subcommittee</name>
+              <systemCode>hswm04</systemCode>
+              <activities>
+                <item>
+                  <date>2016-06-29T20:07:45Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-06-22T14:00:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-06-22T14:00:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-06-22T14:00:36Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>LOWEY</lastName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <bioguideId>L000480</bioguideId>
+        <firstName>NITA</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-06-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8079</gpoId>
+          <lisID>709</lisID>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+        <district>17</district>
+      </item>
+      <item>
+        <lastName>BLUMENAUER</lastName>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <party>D</party>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>BROWN</lastName>
+        <middleName />
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <bioguideId>B000911</bioguideId>
+        <firstName>CORRINE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>132</lisID>
+          <bioguideId>B000911</bioguideId>
+          <gpoId>7875</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <party>D</party>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>Watson Coleman</lastName>
+        <middleName />
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <bioguideId>W000822</bioguideId>
+        <firstName>Bonnie</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+          <lisID>2259</lisID>
+        </identifiers>
+        <state>NJ</state>
+        <party>D</party>
+        <district>12</district>
+      </item>
+      <item>
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <state>DC</state>
+        <party>D</party>
+        <district>0</district>
+      </item>
+      <item>
+        <lastName>MCGOVERN</lastName>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <bioguideId>M000312</bioguideId>
+        <firstName>JAMES</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <party>D</party>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Cardenas</lastName>
+        <middleName />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <bioguideId>C001097</bioguideId>
+        <firstName>Tony</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+          <lisID>2107</lisID>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>29</district>
+      </item>
+      <item>
+        <lastName>LEE</lastName>
+        <middleName />
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <bioguideId>L000551</bioguideId>
+        <firstName>BARBARA</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>13</district>
+      </item>
+      <item>
+        <lastName>RANGEL</lastName>
+        <middleName>B.</middleName>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <bioguideId>R000053</bioguideId>
+        <firstName>CHARLES</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+        <district>13</district>
+      </item>
+      <item>
+        <lastName>Pocan</lastName>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <bioguideId>P000607</bioguideId>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <state>WI</state>
+        <party>D</party>
+        <district>2</district>
+      </item>
+      <item>
+        <lastName>Keating</lastName>
+        <middleName>R.</middleName>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <bioguideId>K000375</bioguideId>
+        <firstName>William</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <state>MA</state>
+        <party>D</party>
+        <district>9</district>
+      </item>
+      <item>
+        <lastName>PRICE</lastName>
+        <middleName>E.</middleName>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <bioguideId>P000523</bioguideId>
+        <firstName>DAVID</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000523</bioguideId>
+          <gpoId>8027</gpoId>
+          <lisID>930</lisID>
+        </identifiers>
+        <state>NC</state>
+        <party>D</party>
+        <district>4</district>
+      </item>
+      <item>
+        <lastName>MALONEY</lastName>
+        <middleName>B.</middleName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <bioguideId>M000087</bioguideId>
+        <firstName>CAROLYN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <party>D</party>
+        <district>12</district>
+      </item>
+      <item>
+        <lastName>Chu</lastName>
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <bioguideId>C001080</bioguideId>
+        <firstName>Judy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>27</district>
+      </item>
+      <item>
+        <lastName>LOFGREN</lastName>
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <bioguideId>L000397</bioguideId>
+        <firstName>ZOE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>19</district>
+      </item>
+      <item>
+        <lastName>FARR</lastName>
+        <middleName />
+        <fullName>Rep. Farr, Sam [D-CA-20]</fullName>
+        <bioguideId>F000030</bioguideId>
+        <firstName>SAM</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000030</bioguideId>
+          <gpoId>7822</gpoId>
+          <lisID>368</lisID>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>20</district>
+      </item>
+      <item>
+        <lastName>Lieu</lastName>
+        <middleName />
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <bioguideId>L000582</bioguideId>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>33</district>
+      </item>
+      <item>
+        <lastName>Takano</lastName>
+        <middleName />
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <bioguideId>T000472</bioguideId>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>41</district>
+      </item>
+      <item>
+        <lastName>McNerney</lastName>
+        <middleName />
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <bioguideId>M001166</bioguideId>
+        <firstName>Jerry</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <bioguideId>M001166</bioguideId>
+          <lisID>1832</lisID>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>9</district>
+      </item>
+      <item>
+        <lastName>Quigley</lastName>
+        <middleName />
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <bioguideId>Q000023</bioguideId>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <gpoId>7925</gpoId>
+          <lisID>1967</lisID>
+        </identifiers>
+        <state>IL</state>
+        <party>D</party>
+        <district>5</district>
+      </item>
+      <item>
+        <lastName>NAPOLITANO</lastName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <bioguideId>N000179</bioguideId>
+        <firstName>GRACE</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>32</district>
+      </item>
+      <item>
+        <lastName>DAVIS</lastName>
+        <middleName>A.</middleName>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+        <bioguideId>D000598</bioguideId>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-09-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1641</lisID>
+          <bioguideId>D000598</bioguideId>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>53</district>
+      </item>
+      <item>
+        <lastName>Beatty</lastName>
+        <middleName />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <bioguideId>B001281</bioguideId>
+        <firstName>Joyce</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <party>D</party>
+        <district>3</district>
+      </item>
+      <item>
+        <lastName>CAPPS</lastName>
+        <middleName />
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <bioguideId>C001036</bioguideId>
+        <firstName>LOIS</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1471</lisID>
+          <bioguideId>C001036</bioguideId>
+          <gpoId>7828</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <party>D</party>
+        <district>24</district>
+      </item>
+      <item>
+        <lastName>Lynch</lastName>
+        <middleName>F.</middleName>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <bioguideId>L000562</bioguideId>
+        <firstName>Stephen</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2016-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1686</lisID>
+          <bioguideId>L000562</bioguideId>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <party>D</party>
+        <district>8</district>
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>Adams</lastName>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <bioguideId>A000370</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000370</bioguideId>
+          <lisID>2201</lisID>
+        </identifiers>
+        <firstName>Alma</firstName>
+        <byRequestType />
+        <district>12</district>
+        <middleName>S.</middleName>
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills />
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 100 (Wednesday, June 22, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ADAMS:H.R. 5560.Congress has the power to enact this legislation pursuantto the following:Article I, Section 3, Clause 3--Congress shall have thepower to regulate commerce with foreign Nations, and amongthe several states, and with the Indian Tribes;[Page H4171]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Public Safety and Wildlife Protection Act</title>
+    <billNumber>5560</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2016-06-22</introducedDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5560ih/xml/BILLS-114hr5560ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2016-06-22T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Public Safety and Wildlife Protection Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To restrict the use of steel-jaw leghold traps and Conibear traps on animals in the United States.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Public Safety and Wildlife Protection Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2016-06-29</actionDate>
+      <text>Referred to the Subcommittee on Trade.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Customs enforcement</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Public Safety and Wildlife Protection Act</b></p> <p>This bill prohibits importing, exporting, delivering, carrying, transporting, selling, receiving, acquiring, or purchasing steel-jaw leghold traps or Conibear traps. </p> <p>Steel-jaw leghold traps are certain spring-powered pan or sear-activated devices with steel jaws that are designed to snap closed on animals. Conibear traps consist of metal frames hinged at the center point and powered by two torsion springs that create a scissor-like action designed to kill animals by snapping their spinal columns. Both types of traps exclude cage or box traps, suitcase-type live beaver traps, or mouse or rat snap traps.</p> <p>The bill establishes penalties for violating the prohibition on the traps.</p> <p>The Department of the Interior must pay rewards for information that leads to a conviction of a violation of this bill, unless the information was provided by officers or employees of federal, state, or local governments while they were performing official duties.</p>]]></text>
+          <lastSummaryUpdateDate>2017-02-03T14:41:00Z</lastSummaryUpdateDate>
+          <updateDate>2016-06-22T04:00:00Z</updateDate>
+          <actionDate>2016-06-22</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1190</billNumber>
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-13</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-13</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-02-13</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2019-02-14T08:10:17Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-13T15:00:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-25T13:44:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2019-02-13T15:00:21Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <committeeReports />
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H1584-H1585]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOSAR:H.R. 1190.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4 (the Naturalization Clause)and Section 5 of Amendment XIV (the Enforcement Clause). InOregon v. Mitchell, the Supreme Court declared that Congressmay ban state actions[[Page H1585]]that violate the Fourteenth Amendment. Furthermore, in theChamber of Commerce v. Whiting and Cox v. Shalala, theSupreme Court found that state laws are preempted if theyconflict with federal law.</pre>]]></constitutionalAuthorityStatementText>
+    <sponsors>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Gosar</lastName>
+        <bioguideId>G000565</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <district>4</district>
+        <party>R</party>
+        <state>AZ</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <middleName />
+        <bioguideId>M001187</bioguideId>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NC</state>
+        <lastName>Meadows</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <district>11</district>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <lastName>Weber</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Randy</firstName>
+        <district>14</district>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>B001302</bioguideId>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <lastName>Biggs</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+          <lisID>2307</lisID>
+        </identifiers>
+        <firstName>Andy</firstName>
+        <district>5</district>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>K000362</bioguideId>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IA</state>
+        <lastName>King</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <district>4</district>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>D000616</bioguideId>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <lastName>DesJarlais</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <bioguideId>D000616</bioguideId>
+          <lisID>2062</lisID>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <district>4</district>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>D000615</bioguideId>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SC</state>
+        <lastName>Duncan</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <firstName>Jeff</firstName>
+        <district>3</district>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <lastName>Babin</lastName>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <lisID>2270</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Brian</firstName>
+        <district>36</district>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>B001274</bioguideId>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <lastName>Brooks</lastName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <firstName>Mo</firstName>
+        <district>5</district>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>G000578</bioguideId>
+        <fullName>Rep. Gaetz, Matt [R-FL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <lastName>Gaetz</lastName>
+        <sponsorshipDate>2019-03-04</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000578</bioguideId>
+          <lisID>2314</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Matt</firstName>
+        <district>1</district>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1190ih/xml/BILLS-116hr1190ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-02-13T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To prohibit an alien who is not in a lawful immigration status in the United States from being eligible for postsecondary education benefits that are not available to all citizens and nationals of the United States.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To prohibit an alien who is not in a lawful immigration status in the United States from being eligible for postsecondary education benefits that are not available to all citizens and nationals of the United States.</title>
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-27T07:13:40Z</updateDate>
+    <recordedVotes />
+    <congress>116</congress>
+    <introducedDate>2019-02-13</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+      <links />
+    </latestAction>
+    <title>To prohibit an alien who is not in a lawful immigration status in the United States from being eligible for postsecondary education benefits that are not available to all citizens and nationals of the United States.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

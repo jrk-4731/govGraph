@@ -1,0 +1,162 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "Record Vote Number: 15", 
+          "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00015"
+        }, 
+        {
+          "name": "S.Amdt.99", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/99"
+        }, 
+        {
+          "name": "SA 99", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/99"
+        }
+      ], 
+      "references": [], 
+      "text": "Motion to table amendment SA 99 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 15.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.99", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/99"
+        }, 
+        {
+          "name": "S391", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S391"
+        }, 
+        {
+          "name": "S392-393", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S392-393"
+        }, 
+        {
+          "name": "SA 2", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/2"
+        }, 
+        {
+          "name": "SA 99", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/99"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment SA 99 proposed by Senator Cantwell for Senator Manchin to Amendment SA 2. (consideration: CR S391, S392-393; text: CR S391) To express the sense of Congress regarding climate change.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "93000", 
+      "links": [
+        {
+          "name": "S.Amdt.99", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/99"
+        }, 
+        {
+          "name": "S391", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S391"
+        }, 
+        {
+          "name": "S392-393", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S392-393"
+        }, 
+        {
+          "name": "SA 2", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/2"
+        }, 
+        {
+          "name": "SA 99", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/99"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S391, S392-393", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S391", 
+          "type": "text"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 99 proposed by Senator Cantwell for Senator Manchin to Amendment SA 2.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "97000", 
+      "links": [
+        {
+          "name": "Record Vote Number: 15", 
+          "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00015"
+        }, 
+        {
+          "name": "S.Amdt.99", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/99"
+        }, 
+        {
+          "name": "SA 99", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/99"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in Senate: Motion to table amendment SA 99 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 15.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt99-114", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2-114", 
+    "amendment_type": "samdt", 
+    "congress": 114, 
+    "description": null, 
+    "number": 2, 
+    "purpose": "In the nature of a substitute."
+  }, 
+  "amends_bill": {
+    "bill_id": "s1-114", 
+    "bill_type": "s", 
+    "congress": 114, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "114", 
+  "description": null, 
+  "introduced_at": "2015-01-22", 
+  "number": 99, 
+  "proposed_at": "2015-01-22T05:00:00Z", 
+  "purpose": "To express the sense of Congress regarding climate change.", 
+  "sponsor": {
+    "bioguide_id": "M001183", 
+    "district": null, 
+    "name": "Manchin, Joe, III", 
+    "state": "WV", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2015-01-22", 
+  "updated_at": "2019-02-27T14:40:24Z"
+}

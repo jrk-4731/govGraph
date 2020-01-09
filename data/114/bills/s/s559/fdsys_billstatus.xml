@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <bioguideId>B001135</bioguideId>
+        <party>R</party>
+        <lastName>BURR</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2015-02-25</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <laws />
+    <updateDate>2018-06-02T06:39:29Z</updateDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <introducedDate>2015-02-25</introducedDate>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-02-25</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2015-02-25</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-02-26T06:14:50Z</createDate>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+          <actionDate>2015-04-29</actionDate>
+        </latestAction>
+        <number>970</number>
+        <latestTitle>Supporting Academic Freedom through Regulatory Relief Act</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <recordedVotes />
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+        <bioguideId>G000386</bioguideId>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Johnny</firstName>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <lastName>Isakson</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <middleName>Roland</middleName>
+        <bioguideId>T000476</bioguideId>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+          <lisID>2291</lisID>
+        </identifiers>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>UT</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>ORRIN</firstName>
+        <middleName>GRANT</middleName>
+        <bioguideId>H000338</bioguideId>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <lastName>HATCH</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Lamar</firstName>
+        <middleName />
+        <bioguideId>A000360</bioguideId>
+        <identifiers>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+          <lisID>1695</lisID>
+        </identifiers>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <lastName>Alexander</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>PAT</firstName>
+        <middleName />
+        <bioguideId>R000307</bioguideId>
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+        </identifiers>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <lastName>ROBERTS</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NE</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Deb</firstName>
+        <middleName />
+        <bioguideId>F000463</bioguideId>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+          <lisID>2179</lisID>
+        </identifiers>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>JEFF</firstName>
+        <middleName />
+        <bioguideId>F000444</bioguideId>
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>SC</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Tim</firstName>
+        <middleName />
+        <bioguideId>S001184</bioguideId>
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <middleName />
+        <bioguideId>C001075</bioguideId>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>ROB</firstName>
+        <middleName />
+        <bioguideId>P000449</bioguideId>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+        </identifiers>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Marco</firstName>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>WY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>MICHAEL</firstName>
+        <middleName>B.</middleName>
+        <bioguideId>E000285</bioguideId>
+        <identifiers>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-02</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <middleName>SIDNEY</middleName>
+        <bioguideId>M000303</bioguideId>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <lastName>MCCAIN</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>WV</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-02</sponsorshipDate>
+        <firstName>SHELLEY</firstName>
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <lastName>CAPITO</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MT</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-02</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <middleName />
+        <bioguideId>D000618</bioguideId>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <lisID>2138</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <firstName>Pat</firstName>
+        <middleName />
+        <bioguideId>T000461</bioguideId>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <lisID>1594</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <lastName>Toomey</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <firstName>Roy</firstName>
+        <middleName />
+        <bioguideId>B000575</bioguideId>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-10</sponsorshipDate>
+        <firstName>Rand</firstName>
+        <middleName />
+        <bioguideId>P000603</bioguideId>
+        <identifiers>
+          <gpoId>8308</gpoId>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <lastName>Paul</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-11</sponsorshipDate>
+        <firstName>DANIEL</firstName>
+        <middleName>RAY</middleName>
+        <bioguideId>C000542</bioguideId>
+        <identifiers>
+          <lisID>209</lisID>
+          <gpoId>8299</gpoId>
+          <bioguideId>C000542</bioguideId>
+        </identifiers>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <lastName>COATS</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-03-17</sponsorshipDate>
+        <firstName>David</firstName>
+        <middleName>Alfred</middleName>
+        <bioguideId>P000612</bioguideId>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>SD</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-05-18</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <middleName>R.</middleName>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <lastName>THUNE</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <firstName>MARK</firstName>
+        <middleName>STEVEN</middleName>
+        <bioguideId>K000360</bioguideId>
+        <identifiers>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <lastName>KIRK</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MS</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-07-28</sponsorshipDate>
+        <firstName>ROGER</firstName>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2015-09-08</sponsorshipDate>
+        <firstName>Cory</firstName>
+        <middleName />
+        <bioguideId>G000562</bioguideId>
+        <identifiers>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Supporting Academic Freedom through Regulatory Relief Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to prohibit the Secretary of Education from engaging in regulatory overreach with regard to institutional eligibility under title IV of the Higher Education Act of 1965, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Supporting Academic Freedom through Regulatory Relief Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Business ethics</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Contracts and agency</name>
+          </item>
+          <item>
+            <name>Department of Education</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>School administration</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-25T19:17:26Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>559</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-02-25</actionDate>
+          <updateDate>2015-02-25T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-03-20T21:19:23Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Supporting Academic Freedom through Regulatory Relief Act</strong></p> <p>Repeals certain Department of Education (ED) regulations that for purposes of determining whether a school is eligible to participate in programs under the Higher Education Act of 1965 (HEA): (1) require institutions of higher education (IHEs) and postsecondary vocational institutions (except religious schools) to be legally authorized by the state in which they are situated, (2) delineate what such legal authorization requires of states and schools, (3) impose standards and disclosure requirements on programs that prepare students for gainful employment in a recognized occupation, and (4) define "credit hour." </p> <p>Prohibits ED from promulgating or enforcing any regulation or rule not in effect on the date of this Act's enactment regarding: (1) the state authorization for IHEs to operate within a state, (2) the definition or application of the term &quot;gainful employment,&quot; or (3) a teacher preparation program accountability system. Ends that prohibition when a law is enacted that extends by at least two fiscal years the authorization or duration of one or more programs under the HEA.</p> <p>Prohibits ED from promulgating or enforcing any regulation or rule that defines "credit hour" for any purpose under the HEA.</p> <p>Prohibits ED from carrying out, developing, refining, promulgating, publishing, implementing, administering, or enforcing a postsecondary institution ratings system or any other performance system to rate IHEs.</p> <p>Amends title IV (Student Assistance) of the HEA to authorize nonprofit IHEs to make payments to third-party entities for services that include student recruitment and are based on the amount of tuition that the IHE generates from student enrollment if the third-party entity: (1) is not affiliated with the IHE, (2) does not provide incentive payments to its employees for their success in enrolling students or securing financial aid for them, (3) is not paid by the IHE solely or separately for student recruitment services, and (4) will not make student recruitment information available to any other person or entity.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <notes />
+    <title>Supporting Academic Freedom through Regulatory Relief Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

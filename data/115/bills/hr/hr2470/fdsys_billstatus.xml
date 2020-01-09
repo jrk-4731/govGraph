@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-05-17T03:11:42Z</createDate>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:08:46Z</updateDate>
+    <laws />
+    <billNumber>2470</billNumber>
+    <titles>
+      <item>
+        <title>To require an annual homeland threat assessment, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Homeland Threat Assessment Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Homeland Threat Assessment Act</title>
+        <chamberName>House</chamberName>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Homeland Threat Assessment Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Homeland Threat Assessment Act</title>
+        <chamberName>House</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Homeland Threat Assessment Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <originChamber>House</originChamber>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <bioguideId>R000575</bioguideId>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <gpoId>7788</gpoId>
+          <bioguideId>R000575</bioguideId>
+          <lisID>1704</lisID>
+        </identifiers>
+        <state>AL</state>
+        <lastName>Rogers</lastName>
+        <byRequestType />
+        <party>R</party>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <introducedDate>2017-05-16</introducedDate>
+    <notes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr2470rfs/xml/BILLS-115hr2470rfs.xml</url>
+          </item>
+        </formats>
+        <date>2017-09-13T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr2470eh/xml/BILLS-115hr2470eh.xml</url>
+          </item>
+        </formats>
+        <date>2017-09-12T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr2470ih/xml/BILLS-115hr2470ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-05-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <middleName>T.</middleName>
+        <state>TX</state>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <bioguideId>M001157</bioguideId>
+        <district>10</district>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <identifiers>
+          <lisID>1804</lisID>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>McCaul</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <actionTime>12:45:07</actionTime>
+        <committee />
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <actionTime>12:45:05</actionTime>
+        <committee />
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7237-7238)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H7237-7238</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7237-7238</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <actionTime>12:45:05</actionTime>
+        <committee />
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7237-7238)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H7237-7238</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7237-7238</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <actionTime>12:38:54</actionTime>
+        <committee />
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2470.</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 2470</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2470</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <actionTime>12:38:53</actionTime>
+        <committee />
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H7237-7241)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H7237-7241</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7237-7241</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <actionTime>12:38:43</actionTime>
+        <committee />
+        <actionDate>2017-09-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Gallagher moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <name>Intelligence and Counterterrorism Subcommittee</name>
+          <systemCode>hshm05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <name>Intelligence and Counterterrorism Subcommittee</name>
+          <systemCode>hshm05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-05-16</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-09-13</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-05-16</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-11T21:44:13Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Homeland Threat Assessment Act</strong></p> <p>This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's Office of Intelligence and Analysis to assess the terrorist threat to the homeland for each of the next five fiscal years. </p> <p>Each assessment shall include:</p> <ul> <li>empirical data assessing terrorist activities and incidents over time in the United States;</li> <li>an evaluation of current and future terrorist tactics;</li> <li>an assessment of criminal activity suspected of financing terrorist activity;</li> <li>detailed information on all individuals denied entry to or removed from the United States as a result of material support provided to a foreign terrorist organization;</li> <li>the efficacy and spread of foreign terrorist organization propaganda, messaging, or recruitment;</li> <li>an assessment of threats, including cyber threats, to the homeland, including to critical infrastructure and federal civilian networks;</li> <li>an assessment of terrorism and criminal threats posed by individuals and organized groups seeking to unlawfully enter the United States; and</li> <li>an assessment of threats to the transportation sector.</li> </ul>]]></text>
+          <updateDate>2017-05-16T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDate>2017-09-12</actionDate>
+          <name>Passed House without amendment</name>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-11-08T19:31:14Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>Homeland Threat Assessment Act</strong></p> <p>(Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's Office of Intelligence and Analysis to assess the terrorist threat to the homeland for each of the next five fiscal years. </p> <p>Each assessment shall include:</p> <ul> <li>empirical data assessing terrorist activities and incidents over time in the United States;</li> <li>an evaluation of current and future terrorist tactics;</li> <li>an assessment of criminal activity suspected of financing terrorist activity;</li> <li>detailed information on all individuals denied entry to or removed from the United States as a result of material support provided to a foreign terrorist organization;</li> <li>the efficacy and spread of foreign terrorist organization propaganda, messaging, or recruitment;</li> <li>an assessment of threats, including cyber threats, to the homeland, including to critical infrastructure and federal civilian networks;</li> <li>an assessment of terrorism and criminal threats posed by individuals and organized groups seeking to unlawfully enter the United States; and</li> <li>an assessment of threats to the transportation sector.</li> </ul>]]></text>
+          <updateDate>2017-09-12T15:04:44Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-13T16:51:56Z</date>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-16T16:06:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hshm00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Intelligence and Counterterrorism Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Markup by</name>
+                  <date>2017-05-18T14:06:47Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-17T14:06:35Z</date>
+                </item>
+              </activities>
+              <systemCode>hshm05</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestTitle>DHS Authorization Act</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-11-13</actionDate>
+          <text>By Senator Johnson from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 115-351.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>2825</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 84 (Tuesday, May 16, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROGERS of Alabama:H.R. 2470.Congress has the power to enact this legislation pursuantto the following:To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[Page H4224]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Homeland Threat Assessment Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

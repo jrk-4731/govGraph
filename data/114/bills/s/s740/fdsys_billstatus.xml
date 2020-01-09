@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>114</congress>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Geospatial Data Act of 2016</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Environment.</text>
+          <actionDate>2016-09-30</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <number>6294</number>
+      </item>
+    </relatedBills>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-03-16</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-03-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s740is/xml/BILLS-114s740is.xml</url>
+          </item>
+        </formats>
+        <date>2015-03-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billNumber>740</billNumber>
+    <committeeReports />
+    <amendments />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName>GRANT</middleName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <lastName>HATCH</lastName>
+        <firstName>ORRIN</firstName>
+        <party>R</party>
+        <state>UT</state>
+        <bioguideId>H000338</bioguideId>
+      </item>
+    </sponsors>
+    <notes />
+    <introducedDate>2015-03-16</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Geography and mapping</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>International scientific cooperation</name>
+          </item>
+          <item>
+            <name>Scientific communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2015-03-16T20:15:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to improve the coordination and use of geospatial data.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Geospatial Data Act of 2015</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Geospatial Data Act of 2015</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <createDate>2015-03-17T05:46:43Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2015-03-16T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2015-03-16</actionDate>
+          <text><![CDATA[<p><b>Geospatial Data Act of 2015</b></p> <p>Establishes in the executive branch: (1) the Federal Geographic Data Committee, which shall be the lead entity for the development, implementation, and review of policies, practices, and standards relating to geospatial data; and (2) the National Geospatial Advisory Committee to provide advice and recommendations to the committee. </p> <p>Requires the National Spatial Data Infrastructure (as defined in this Act) to ensure that geospatial data from multiple sources is available and easily integrated to enhance the understanding of the physical and cultural world. Requires the committee to prepare a strategic plan for the implementation of the infrastructure consistent with national security, national defense, national intelligence, and emergency preparedness program policies regarding data accessibility. </p> <p>Requires the committee to operate GeoPlatform, an electronic service that provides access to geospatial data and metadata for geospatial data. </p> <p>Directs agencies whose functions involve geospatial data to implement a strategy for advancing geographic information and related geospatial data activities appropriate to that agency's mission in support of the strategic plan for the infrastructure. Requires such agencies to disclose each contract, cooperative agreement, grant, or other transaction that deals with geospatial data. </p> <p>Prohibits, four years after enactment of this Act, federal funding from being made available for the collection, production, acquisition, maintenance, or dissemination of geospatial data that does not comply with applicable standards established by the committee. </p>]]></text>
+          <lastSummaryUpdateDate>2016-04-13T21:51:09Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-04-11T15:46:34Z</updateDate>
+    <laws />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2015-03-16</actionDate>
+      <links />
+    </latestAction>
+    <billType>S</billType>
+    <title>Geospatial Data Act of 2015</title>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <lastName>Warner</lastName>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <state>VA</state>
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-05-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <firstName>Dean</firstName>
+        <party>R</party>
+        <state>NV</state>
+        <middleName />
+        <bioguideId>H001041</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-05-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <lastName>WYDEN</lastName>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <state>OR</state>
+        <middleName />
+        <bioguideId>W000779</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <state>AR</state>
+        <middleName />
+        <bioguideId>B001236</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-06-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <state>OR</state>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-09-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <firstName>Cory</firstName>
+        <party>R</party>
+        <state>CO</state>
+        <middleName />
+        <bioguideId>G000562</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <firstName>Jon</firstName>
+        <party>D</party>
+        <state>MT</state>
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <state>MN</state>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <state>AR</state>
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-06-02T07:48:09Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>Bill</firstName>
+        <bioguideId>C001075</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cassidy</lastName>
+        <middleName />
+        <state>LA</state>
+      </item>
+      <item>
+        <firstName>THOMAS</firstName>
+        <bioguideId>C000174</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+          <lisID>179</lisID>
+        </identifiers>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CARPER</lastName>
+        <middleName>R.</middleName>
+        <state>DE</state>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <bioguideId>B001288</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Booker</lastName>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <firstName>Ron</firstName>
+        <bioguideId>J000293</bioguideId>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+        </identifiers>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <middleName />
+        <state>WI</state>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-09-15T16:38:01Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Modernizing Government Travel Act</latestTitle>
+        <number>5625</number>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2016-09-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>3337</billNumber>
+    <laws />
+    <title>Modernizing Government Travel Act</title>
+    <introducedDate>2016-09-15</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-09-15</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2016-09-15</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Commuting</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>General Services Administration</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <createDate>2016-09-16T05:19:01Z</createDate>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Modernizing Government Travel Act</strong></p> <p>This bill requires the General Services Administration (GSA) to prescribe regulations to provide for the reimbursement of federal employees traveling on official business for the use of a transportation network company or an innovative mobility technology company. The Administrative Office of the United States Courts shall prescribe such regulations regarding the reimbursement of judicial branch employees.</p> <p>An &quot;innovative mobility technology company&quot; is an entity that applies technology to expand and enhance available transportation choices, better manage demand for transportation services, and provide alternatives to driving alone. A &quot;transportation network company&quot; is an entity that uses a digital network to connect riders to drivers. </p> <p>Each agency shall submit to the General Services Administration (GSA) by November 31 of each year an analysis of the total costs of transportation service by type and of the total number of trips using each transportation type for official travel.</p> <p>By January 31 of each year, the GSA shall submit to the OMB and specified congressional committees:</p> <ul> <li>an examination of the data and analyses on employee travel and transportation submitted by specified federal departments and agencies with Chief Financial Officers,</li> <li>a survey of such data and analyses for other agencies, and</li> <li>a description of any regulations or changes in employee travel and transportation regulations promulgated during the previous year.</li> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2016-11-30T22:32:38Z</lastSummaryUpdateDate>
+          <updateDate>2016-09-15T04:00:00Z</updateDate>
+          <actionDate>2016-09-15</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <links />
+      <actionDate>2016-09-15</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <lastName>Lee</lastName>
+        <byRequestType />
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <state>UT</state>
+        <bioguideId>L000577</bioguideId>
+        <identifiers>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <title>Modernizing Government Travel Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to provide for reimbursement for the use of modern travel services by Federal employees traveling on official Government business, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Modernizing Government Travel Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

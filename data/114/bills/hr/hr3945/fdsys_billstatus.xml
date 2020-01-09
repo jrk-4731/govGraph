@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-11-06T10:19:26Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-12-03</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hssm00</systemCode>
+          <name>Small Business Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-11-05</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-11-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-11-05</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-11-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-11-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr10</systemCode>
+              <name>Economic Opportunity Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-12-03T20:48:54Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-11-05T14:04:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Small Business Committee</name>
+          <subcommittees />
+          <systemCode>hssm00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-11-05T14:04:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>186</lisID>
+          <bioguideId>C000266</bioguideId>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>CHABOT</lastName>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+        <firstName>STEVE</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>M001144</bioguideId>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7873</gpoId>
+          <lisID>1685</lisID>
+          <bioguideId>M001144</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Miller</lastName>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <district>7</district>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <lastName>VELAZQUEZ</lastName>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+        <firstName>NYDIA</firstName>
+      </item>
+      <item>
+        <district>22</district>
+        <bioguideId>H001051</bioguideId>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001051</bioguideId>
+          <lisID>2044</lisID>
+          <gpoId>8085</gpoId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <party>R</party>
+        <lastName>Hanna</lastName>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+        <firstName>Richard</firstName>
+      </item>
+      <item>
+        <district>11</district>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <lastName>Connolly</lastName>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+        <firstName>Gerald</firstName>
+      </item>
+      <item>
+        <district>6</district>
+        <bioguideId>M001196</bioguideId>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Moulton</lastName>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+        <firstName>Seth</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <bioguideId>W000813</bioguideId>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+          <lisID>2128</lisID>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Walorski</lastName>
+        <sponsorshipDate>2016-02-03</sponsorshipDate>
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <district>0</district>
+        <bioguideId>R000600</bioguideId>
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000600</bioguideId>
+          <lisID>2222</lisID>
+        </identifiers>
+        <middleName>Coleman</middleName>
+        <party>R</party>
+        <lastName>Radewagen</lastName>
+        <sponsorshipDate>2016-05-16</sponsorshipDate>
+        <firstName>Aumua Amata</firstName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 165 (Thursday, November 5, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COFFMAN:H.R. 3945.Congress has the power to enact this legislation pursuantto the following:The Congress enacts this bill pursuant to Clause 1 ofSection 8 of Article I of the United States Constitution,which provides Congress with the ability to enact legislationnecessary and proper to effectuate its purposes in taxing andspending.[Page H8153]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2015-12-03</actionDate>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-11-05T05:00:00Z</updateDate>
+          <actionDate>2015-11-05</actionDate>
+          <text><![CDATA[<p><strong>Improving Opportunities for Service-Disabled Veteran-Owned Small Businesses Act of 2015</strong></p> <p> This bill amends the Small Business Act to expand the definition of &quot;small business concern owned and controlled by service-disabled veterans&quot; for purposes of federal agencies awarding small business contracts pursuant to Small Business Administration (SBA) programs to include: </p> <ul> <li>a small business concern not less than 51% of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern; or </li> <li>in the case of a publicly owned business, a small business concern not less than 51% of the stock of which is owned by one or more such veterans. (Currently, such veterans with permanent and total disabilities are provided for in a separate small business program under veterans' benefits laws carried out by the Department of Veterans Affairs [VA].) </li> </ul> <p> The VA definition of &quot;small business concern owned and controlled by veterans&quot; is revised to be the same as the SBA definition of such term, thereby making the eligibility requirements for participation in veteran-owned small business contracting programs consistent for both SBA programs and VA programs. </p> <p> The VA, when listing small businesses in the database of small business concerns owned and controlled by veterans and the veteran owners of such business concerns, must use SBA regulations with respect to a concern's small business status and the ownership and control of it. </p> <p> If the VA does not verify a concern for inclusion in its database based on its status as a small business or its ownership or control, the concern may appeal the denial to the SBA Office of Hearings and Appeals, whose decision shall be considered a final agency action. </p> <p> The VA shall reimburse the SBA for fiscal year costs incurred by the Office of Hearings and Appeals for actions taken pursuant to this Act.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-12-09T22:31:28Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>3945</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>4909</number>
+        <type>HR</type>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2017</latestTitle>
+        <latestAction>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.</text>
+          <actionDate>2016-05-26</actionDate>
+        </latestAction>
+        <congress>114</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>4341</number>
+        <type>HR</type>
+        <latestTitle>Defending America's Small Contractors Act of 2016</latestTitle>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 545.</text>
+          <actionDate>2016-07-25</actionDate>
+        </latestAction>
+        <congress>114</congress>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-11T15:40:29Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Small Business Administration</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>To amend the Small Business Act and title 38, United States Code, to improve contracting opportunities for certain veteran-owned small businesses, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Improving Opportunities for Service-Disabled Veteran-Owned Small Businesses Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Improving Opportunities for Service-Disabled Veteran-Owned Small Businesses Act of 2015</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>114</congress>
+    <introducedDate>2015-11-05</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Coffman</lastName>
+        <state>CO</state>
+        <district>6</district>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Mike</firstName>
+        <bioguideId>C001077</bioguideId>
+        <middleName />
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Improving Opportunities for Service-Disabled Veteran-Owned Small Businesses Act of 2015</title>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr3945ih/xml/BILLS-114hr3945ih.xml</url>
+          </item>
+        </formats>
+        <date>2015-11-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <links />
+      <actionDate>2016-03-17</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2016-03-17T13:02:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-03-17</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 43 (Thursday, March 17, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CRENSHAW:H.R. 4794.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution[Page H1463]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <title>ABLE Financial Planning Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to allow rollovers between 529 programs and ABLE accounts.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>ABLE Financial Planning Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <version>1.0.0</version>
+    <congress>114</congress>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-03-17</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2016-03-17</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2016-03-17</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <createDate>2016-03-18T05:09:36Z</createDate>
+    <laws />
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <district>8</district>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <fullName>Rep. Van Hollen, Chris [D-MD-8]</fullName>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000128</bioguideId>
+      </item>
+      <item>
+        <lastName>McMorris Rodgers</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1809</lisID>
+          <bioguideId>M001159</bioguideId>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <firstName>Cathy</firstName>
+        <district>5</district>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001159</bioguideId>
+      </item>
+      <item>
+        <lastName>SESSIONS</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <firstName>PETE</firstName>
+        <district>32</district>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000250</bioguideId>
+      </item>
+      <item>
+        <lastName>Joyce</lastName>
+        <party>R</party>
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>David</firstName>
+        <district>14</district>
+        <sponsorshipDate>2016-04-15</sponsorshipDate>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000295</bioguideId>
+      </item>
+      <item>
+        <lastName>Turner</lastName>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <district>10</district>
+        <sponsorshipDate>2016-04-15</sponsorshipDate>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000463</bioguideId>
+      </item>
+      <item>
+        <lastName>Davis</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Rodney</firstName>
+        <district>13</district>
+        <sponsorshipDate>2016-04-15</sponsorshipDate>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000619</bioguideId>
+      </item>
+      <item>
+        <lastName>Costello</lastName>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2266</lisID>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ryan</firstName>
+        <district>6</district>
+        <sponsorshipDate>2016-04-19</sponsorshipDate>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001106</bioguideId>
+      </item>
+      <item>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <middleName>H.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+        </identifiers>
+        <firstName>CHRISTOPHER</firstName>
+        <district>4</district>
+        <sponsorshipDate>2016-04-19</sponsorshipDate>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000522</bioguideId>
+      </item>
+      <item>
+        <lastName>Garrett</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000548</bioguideId>
+          <lisID>1737</lisID>
+          <gpoId>8047</gpoId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <district>5</district>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <fullName>Rep. Garrett, Scott [R-NJ-5]</fullName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000548</bioguideId>
+      </item>
+      <item>
+        <lastName>Brownley</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Julia</firstName>
+        <district>26</district>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001285</bioguideId>
+      </item>
+      <item>
+        <lastName>Moulton</lastName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Seth</firstName>
+        <district>6</district>
+        <sponsorshipDate>2016-07-08</sponsorshipDate>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001196</bioguideId>
+      </item>
+      <item>
+        <lastName>Meehan</lastName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <firstName>Patrick</firstName>
+        <district>7</district>
+        <sponsorshipDate>2016-11-15</sponsorshipDate>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001181</bioguideId>
+      </item>
+      <item>
+        <lastName>LARSON</lastName>
+        <party>D</party>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <district>1</district>
+        <sponsorshipDate>2016-11-15</sponsorshipDate>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <state>CT</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000557</bioguideId>
+      </item>
+      <item>
+        <lastName>TIBERI</lastName>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <firstName>PATRICK</firstName>
+        <district>12</district>
+        <sponsorshipDate>2016-11-15</sponsorshipDate>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000462</bioguideId>
+      </item>
+      <item>
+        <lastName>Renacci</lastName>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8106</gpoId>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+        </identifiers>
+        <firstName>James</firstName>
+        <district>16</district>
+        <sponsorshipDate>2016-11-15</sponsorshipDate>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000586</bioguideId>
+      </item>
+      <item>
+        <lastName>PASCRELL</lastName>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <firstName>WILLIAM</firstName>
+        <district>9</district>
+        <sponsorshipDate>2016-12-07</sponsorshipDate>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000096</bioguideId>
+      </item>
+      <item>
+        <lastName>Kuster</lastName>
+        <party>D</party>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ann</firstName>
+        <district>2</district>
+        <sponsorshipDate>2016-12-07</sponsorshipDate>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <state>NH</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000382</bioguideId>
+      </item>
+    </cosponsors>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-03-17</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-04-06T14:03:30Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>ABLE Financial Planning Act </strong></p> <p>This bill amends the Internal Revenue Code to allow tax-free rollovers of amounts in qualified tuition programs (529 plans) to qualified ABLE programs and from qualified ABLE programs to qualified tuition programs. (Tax-favored ABLE [Achieving a Better Life Experience] accounts are designed to enable individuals with disabilities to save for and pay for disability-related expenses.)<br> </p>]]></text>
+          <updateDate>2016-03-17T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HR</billType>
+    <billNumber>4794</billNumber>
+    <title>ABLE Financial Planning Act</title>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>ANDER</firstName>
+        <bioguideId>C001045</bioguideId>
+        <middleName />
+        <lastName>CRENSHAW</lastName>
+        <identifiers>
+          <gpoId>7876</gpoId>
+          <lisID>1643</lisID>
+          <bioguideId>C001045</bioguideId>
+        </identifiers>
+        <fullName>Rep. Crenshaw, Ander [R-FL-4]</fullName>
+        <state>FL</state>
+        <byRequestType />
+        <district>4</district>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2016-03-17</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>2703</number>
+        <type>S</type>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>ABLE Financial Planning Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2016-05-11</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <number>5193</number>
+        <type>HR</type>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>529 and ABLE Account Improvement Act of 2016</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-11-09T00:09:19Z</updateDate>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,244 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-03-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-03-13", 
+      "action_code": "", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Strategic Forces.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres219-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS", 
+      "subcommittee": "Subcommittee on Strategic Forces", 
+      "subcommittee_id": "29"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001298", 
+      "district": "2", 
+      "name": "Bacon, Don", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-03-12", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000629", 
+      "district": "3", 
+      "name": "Davids, Sharice", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-09", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000482", 
+      "district": "18", 
+      "name": "Doyle, Michael F.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-06", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "E000215", 
+      "district": "18", 
+      "name": "Eshoo, Anna G.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-15", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001087", 
+      "district": "25", 
+      "name": "Hill, Katie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-06", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001083", 
+      "district": "5", 
+      "name": "Horn, Kendra S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-06", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000288", 
+      "district": "4", 
+      "name": "Johnson, Henry C. \"Hank,\" Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-15", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "K000378", 
+      "district": "16", 
+      "name": "Kinzinger, Adam", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-13", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000515", 
+      "district": "1", 
+      "name": "Rush, Bobby L.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-23", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001192", 
+      "district": "2", 
+      "name": "Stewart, Chris", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-07-12", 
+      "state": "UT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000472", 
+      "district": "41", 
+      "name": "Takano, Mark", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-05-21", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000132", 
+      "district": "34", 
+      "name": "Vela, Filemon", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-03-25", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "V000081", 
+      "district": "7", 
+      "name": "Velazquez, Nydia M.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-15", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-03-12", 
+  "number": "219", 
+  "official_title": "Recognizing the contributions made by the men and women of the Air Force who are responsible for operating and maintaining the Global Positioning System constellation and affirming the importance of continuous availability, accuracy, reliability, and resiliency of the Global Positioning System constellation.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "sres216-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "L000565", 
+    "district": "2", 
+    "name": "Loebsack, David", 
+    "state": "IA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-03-12", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional tributes", 
+    "Geography and mapping", 
+    "Military personnel and dependents", 
+    "Navigation, waterways, harbors", 
+    "Spacecraft and satellites"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Recognizing the contributions made by the men and women of the Air Force who are responsible for operating and maintaining the Global Positioning System constellation and affirming the importance of continuous availability, accuracy, reliability, and resiliency of the Global Positioning System constellation.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Recognizing the contributions made by the men and women of the Air Force who are responsible for operating and maintaining the Global Positioning System constellation and affirming the importance of continuous availability, accuracy, reliability, and resiliency of the Global Positioning System constellation.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-13T07:16:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres219.xml"
+}

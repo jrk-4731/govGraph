@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2019-04-02</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Sean</firstName>
+        <party>D</party>
+        <lastName>Casten</lastName>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>C001117</bioguideId>
+          <gpoId />
+          <lisID>2398</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>C001117</bioguideId>
+        <district>6</district>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <updateDate>2019-07-15T18:37:33Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T14:03:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CASTEN of Illinois:H.R. 2025.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the United StatesConstitution[Page H2986]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <number>2038</number>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>Clean Fuel Infrastructure Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-06-27</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+      <item>
+        <number>993</number>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>Electric CARS Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-04-02</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+      <item>
+        <number>2042</number>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestTitle>Electric CARS Act of 2019</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-04-02</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2025ih/xml/BILLS-116hr2025ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-04-02T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>To amend the Internal Revenue Code of 1986 to permanently extend the alternative fuel refueling property credit.</title>
+    <introducedDate>2019-04-02</introducedDate>
+    <titles>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to permanently extend the alternative fuel refueling property credit.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to permanently extend the alternative fuel refueling property credit.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <billNumber>2025</billNumber>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2019-04-03T07:12:09Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-04-02T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-04-02</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-04-29T15:01:09Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill permanently extends the tax credit for alternative fuel vehicle refueling property. (Under current law, the tax credit expired at the end of 2017.)</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <state>MN</state>
+        <firstName>John</firstName>
+        <byRequestType />
+        <middleName />
+        <bioguideId>K000363</bioguideId>
+        <identifiers>
+          <bioguideId>K000363</bioguideId>
+          <lisID>1733</lisID>
+          <gpoId>8002</gpoId>
+        </identifiers>
+        <district>2</district>
+        <lastName>Kline</lastName>
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Providing amounts for the expenses of the Committee on Education and the Workforce in the One Hundred Fourteenth Congress.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Providing amounts for the expenses of the Committee on Education and the Workforce in the One Hundred Fourteenth Congress.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <createDate>2015-02-03T07:01:19Z</createDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Education and the Workforce</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2015-02-02</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2015-02-02T05:00:00Z</updateDate>
+          <actionDate>2015-02-02</actionDate>
+          <lastSummaryUpdateDate>2015-02-04T16:28:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Provides amounts for the expenses of the House Committee on Education and the Workforce for the 114th Congress.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2015-02-02</introducedDate>
+    <cboCostEstimates />
+    <congress>114</congress>
+    <laws />
+    <updateDate>2018-06-02T01:16:23Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billType>HRES</billType>
+    <billNumber>68</billNumber>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2015-02-02T17:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <bioguideId>S000185</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <district>3</district>
+        <firstName>Robert</firstName>
+        <middleName>C. "Bobby"</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+        <state>VA</state>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <sponsorshipDate>2015-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000185</bioguideId>
+          <lisID>1037</lisID>
+          <gpoId>8194</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <notes />
+    <title>Providing amounts for the expenses of the Committee on Education and the Workforce in the One Hundred Fourteenth Congress.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

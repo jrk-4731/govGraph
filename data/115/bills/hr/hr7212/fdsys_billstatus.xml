@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-12-04T08:10:17Z</createDate>
+    <introducedDate>2018-12-03</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2018-12-03</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2018-12-03</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2018-12-03</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2018-12-03</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>7212</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>D000624</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <firstName>Debbie</firstName>
+        <state>MI</state>
+        <lastName>Dingell</lastName>
+        <byRequestType />
+        <district>12</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:28:36Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2018-12-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr7212ih/xml/BILLS-115hr7212ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. DINGELL:H.R. 7212.Congress has the power to enact this legislation pursuantto the following:The constitutional authority of Congress to enact thislegislation is provided by Article I, section 8 of the UnitedStates Constitution.[Page H9763]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-12-03T20:45:07Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>Ryan</firstName>
+        <middleName>A.</middleName>
+        <bioguideId>C001106</bioguideId>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <lastName>Costello</lastName>
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+          <lisID>2266</lisID>
+        </identifiers>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>Yvette</firstName>
+        <middleName>D.</middleName>
+        <bioguideId>C001067</bioguideId>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <lastName>Clarke</lastName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>Mimi</firstName>
+        <middleName />
+        <bioguideId>W000820</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>45</district>
+        <lastName>Walters</lastName>
+        <identifiers>
+          <bioguideId>W000820</bioguideId>
+          <lisID>2232</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>Kathy</firstName>
+        <middleName />
+        <bioguideId>C001066</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <lastName>Castor</lastName>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <gpoId>7883</gpoId>
+          <lisID>1839</lisID>
+        </identifiers>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>Cathy</firstName>
+        <middleName />
+        <bioguideId>M001159</bioguideId>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <lastName>McMorris Rodgers</lastName>
+        <identifiers>
+          <bioguideId>M001159</bioguideId>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>ANNA</firstName>
+        <middleName>G.</middleName>
+        <bioguideId>E000215</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <lastName>ESHOO</lastName>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>Elise</firstName>
+        <middleName>M.</middleName>
+        <bioguideId>S001196</bioguideId>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <lastName>Stefanik</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>LUCILLE</firstName>
+        <middleName />
+        <bioguideId>R000486</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>40</district>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <identifiers>
+          <lisID>997</lisID>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2018-12-03</sponsorshipDate>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>K000386</bioguideId>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <lastName>Katko</lastName>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2018-12-20</sponsorshipDate>
+        <firstName>Tony</firstName>
+        <middleName />
+        <bioguideId>C001097</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>29</district>
+        <lastName>Cardenas</lastName>
+        <identifiers>
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2018-12-20</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <middleName />
+        <bioguideId>D000623</bioguideId>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <lastName>DeSaulnier</lastName>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2018-12-20</sponsorshipDate>
+        <firstName>Jenniffer</firstName>
+        <middleName />
+        <bioguideId>G000582</bioguideId>
+        <state>PR</state>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <lastName>Gonzalez-Colon</lastName>
+        <identifiers>
+          <lisID>2347</lisID>
+          <bioguideId>G000582</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipDate>2018-12-20</sponsorshipDate>
+        <firstName>Frederica</firstName>
+        <middleName>S.</middleName>
+        <bioguideId>W000808</bioguideId>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <lastName>Wilson</lastName>
+        <identifiers>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <sponsorshipDate>2018-12-20</sponsorshipDate>
+        <firstName>Roger</firstName>
+        <middleName>W.</middleName>
+        <bioguideId>M001198</bioguideId>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <lastName>Marshall</lastName>
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+          <lisID>2328</lisID>
+        </identifiers>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Public Health Service Act to provide for additional programs funded by grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Violence Against Women Health Act of 2018</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Violence Against Women Health Act of 2018</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Violence Against Women Health Act of 2018</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Violence Against Women Health Act of 2018</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

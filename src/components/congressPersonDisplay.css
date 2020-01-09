@@ -1,0 +1,187 @@
+.wrapper {
+  border: 5px solid blue;
+  display: inline-block;
+  position: relative;
+  width: 20.5%;
+  height: 99%;
+  vertical-align: top;
+  background-color: slategray;
+  text-align: center;
+}
+
+.textContainer {
+  height: 59%;
+  width: 95%;
+  border: green 5px solid;
+  position: relative;
+  margin: auto;
+}
+
+.nameAndSearch {
+  height: 10%;
+  width: 100%;
+  position: relative;
+  margin: auto;
+  text-align: center;
+  background-color: slategray;
+}
+
+.smallPhoto {
+  display: block;
+  width: auto;
+  margin: auto;
+  height: 35%;
+  position: relative;
+}
+
+.placeholderPhoto {
+  display: block;
+  margin: auto;
+  height: 35%;
+  width: auto;
+  position: relative;
+  border: blueviolet 5px solid;
+}
+
+.onMountMessage {
+  text-align: center;
+  font-weight: bold;
+  height: 90%;
+  width: 100%;
+  display: block;
+  background-color: lightblue;
+}
+
+.properties {
+  width: 100%;
+  height: 90%;
+  margin: auto;
+  overflow: hidden;
+  background-color: lightblue;
+}
+
+.bills {
+  position: relative;
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+
+.partisan {
+  position: relative;
+  float: right;
+  width: 50%;
+  height: 100%;
+}
+
+.sponsored {
+  position: relative;
+  font-weight: bold;
+  width: 100%;
+  height: 50%;
+  text-align: center;
+}
+
+.passed {
+  position: relative;
+  font-weight: bold;
+  width: 100%;
+  height: 50%;
+  text-align: center;
+}
+
+.part {
+  position: relative;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+  height: 50%;
+}
+
+.bipart {
+  position: relative;
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+  height: 50%;
+}
+
+.name {
+  position: relative;
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+  color: white;
+}
+
+.dropDown {
+  border: 3px solid black;
+  float: right;
+  position: relative;
+}
+
+.dropBtn {
+  background-color: blue;
+  position: relative;
+  display: inline-block;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropBtn:hover,
+.dropBtn:focus {
+  background-color: red;
+}
+
+/* The search field */
+#myINput {
+  box-sizing: border-box;
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  border: none;
+  width: 180px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* The search field when it gets focus/clicked on */
+#myINput:focus {
+  outline: 3px solid #ddd;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropDown-Content {
+  display: none;
+  border: 3px solid yellow;
+  position: absolute;
+  background-color: #f6f6f6;
+  min-width: 180px;
+  border: 1px solid #ddd;
+  z-index: 1;
+  max-height: 250px;
+  overflow: auto;
+  right: 0%;
+}
+
+/* Links inside the dropdown */
+.dropDown-Content div {
+  color: black;
+  background-color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropDown-Content div:hover {
+  background-color: gray;
+  cursor: pointer;
+}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.Show {
+  display: block;
+}

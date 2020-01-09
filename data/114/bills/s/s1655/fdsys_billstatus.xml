@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-06-24</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-06-24</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+      </item>
+    </actions>
+    <updateDate>2018-08-16T23:01:09Z</updateDate>
+    <recordedVotes />
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <title>A bill to amend the United States Cotton Futures Act to exclude certain cotton futures contracts from coverage under that Act.</title>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2015-06-24T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill amends the United States Cotton Futures Act to exclude cotton future contracts involving cotton that is grown outside of the United States and tendered for delivery from coverage under the Act, including the requirement that the cotton be classified by the Department of Agriculture. </p>]]></text>
+          <lastSummaryUpdateDate>2015-07-07T18:53:31Z</lastSummaryUpdateDate>
+          <actionDate>2015-06-24</actionDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <number>2620</number>
+        <latestTitle>To amend the United States Cotton Futures Act to exclude certain cotton futures contracts from coverage under such Act.</latestTitle>
+        <congress>114</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2015-07-20</actionDate>
+          <text>Became Public Law No: 114-36.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2015-06-24</actionDate>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <notes />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to amend the United States Cotton Futures Act to exclude certain cotton futures contracts from coverage under that Act.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>A bill to amend the United States Cotton Futures Act to exclude certain cotton futures contracts from coverage under that Act.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <committeeReports />
+    <introducedDate>2015-06-24</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <bioguideId>P000612</bioguideId>
+        <state>GA</state>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <byRequestType />
+        <middleName>Alfred</middleName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billNumber>1655</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural marketing and promotion</name>
+          </item>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Commodities markets</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2015-06-25T09:28:03Z</createDate>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssaf00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-24T15:46:48Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

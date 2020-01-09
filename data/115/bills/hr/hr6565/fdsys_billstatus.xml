@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-07-27T07:10:58Z</createDate>
+    <introducedDate>2018-07-26</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2018-07-26</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Small Business.</text>
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2018-07-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2018-07-26</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Small Business.</text>
+      <actionDate>2018-07-26</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>6565</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+          <lisID>1889</lisID>
+        </identifiers>
+        <bioguideId>C001072</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <firstName>Andre</firstName>
+        <state>IN</state>
+        <lastName>Carson</lastName>
+        <byRequestType />
+        <district>7</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:26:40Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6565ih/xml/BILLS-115hr6565ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-07-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 126 (Thursday, July 26, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARSON of Indiana:H.R. 6565.Congress has the power to enact this legislation pursuantto the following:Clause 1 and clause 18 of Article I of section 8 of theUnited States Constitution.[Page H7725]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2018-07-26T13:00:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Small Business Act to provide for contracting preferences and other benefits for emerging business enterprises, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Emerging Business Encouragement Act of 2018</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Emerging Business Encouragement Act of 2018</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Emerging Business Encouragement Act of 2018</title>
+      </item>
+    </titles>
+    <title>Emerging Business Encouragement Act of 2018</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

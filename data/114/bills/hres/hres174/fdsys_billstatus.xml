@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2015-03-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-03-25</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-03-25</actionDate>
+        <links />
+      </item>
+    </actions>
+    <title>Expressing support for designation of March as "National Multiple Myeloma Awareness Month".</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Blood and blood diseases</name>
+          </item>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2015-03-25T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres174ih/xml/BILLS-114hres174ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2015-03-25</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <createDate>2015-03-26T08:47:40Z</createDate>
+    <billNumber>174</billNumber>
+    <cosponsors>
+      <item>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <district>0</district>
+        <sponsorshipDate>2015-03-25</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H000324</bioguideId>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <district>20</district>
+        <sponsorshipDate>2015-03-25</sponsorshipDate>
+        <firstName>ALCEE</firstName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <lastName>Hanna</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001051</bioguideId>
+        <identifiers>
+          <lisID>2044</lisID>
+          <gpoId>8085</gpoId>
+          <bioguideId>H001051</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <district>22</district>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <firstName>Richard</firstName>
+        <fullName>Rep. Hanna, Richard L. [R-NY-22]</fullName>
+      </item>
+      <item>
+        <middleName>G.</middleName>
+        <lastName>ESHOO</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000215</bioguideId>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <district>18</district>
+        <sponsorshipDate>2015-04-15</sponsorshipDate>
+        <firstName>ANNA</firstName>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+      </item>
+      <item>
+        <middleName />
+        <lastName>LOFGREN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000397</bioguideId>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <district>19</district>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <firstName>ZOE</firstName>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000598</bioguideId>
+        <identifiers>
+          <bioguideId>D000598</bioguideId>
+          <lisID>1641</lisID>
+          <gpoId>7858</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <district>53</district>
+        <sponsorshipDate>2016-07-07</sponsorshipDate>
+        <firstName>SUSAN</firstName>
+        <fullName>Rep. Davis, Susan A. [D-CA-53]</fullName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>H001038</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Brian</firstName>
+        <byRequestType />
+        <lastName>Higgins</lastName>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <district>26</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses support for the designation of National Multiple Myeloma Awareness Month.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2015-03-25T04:00:00Z</updateDate>
+          <actionDate>2015-03-25</actionDate>
+          <lastSummaryUpdateDate>2015-03-26T18:19:30Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:26:02Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2015-03-25</introducedDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Expressing support for designation of March as "National Multiple Myeloma Awareness Month".</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Expressing support for designation of March as "National Multiple Myeloma Awareness Month".</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-03-25T14:04:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

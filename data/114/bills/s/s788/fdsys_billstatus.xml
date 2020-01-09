@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>114</congress>
+    <notes />
+    <updateDate>2018-06-02T06:43:41Z</updateDate>
+    <laws />
+    <createDate>2015-03-19T05:50:09Z</createDate>
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000464</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2015-09-25</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <relatedBills />
+    <billNumber>788</billNumber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <links />
+      <actionDate>2015-03-18</actionDate>
+    </latestAction>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2015-03-18T20:31:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <title>A bill to require the termination of any employee of the Department of Veterans Affairs who is found to have retaliated against a whistleblower.</title>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-04-04T15:37:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Requires the termination of any employee of the Department of Veterans Affairs who is found to have: </p> <ul> <li> retaliated or threatened to retaliate against any employee or applicant for employment for disclosing what the employee or applicant reasonably believes to be a violation of any law, rule, or regulation, mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety (provided the disclosure is not specifically prohibited by law); </li> <li> retaliated or threatened to retaliate against any employee or applicant for exercising, or assisting another individual in exercising, any appeal, complaint, or grievance right granted by any law, rule, or regulation; or </li> <li> implemented or enforced certain nondisclosure policies, forms, or agreements that conflict with whistleblower protections and employee rights.</li> </ul>]]></text>
+          <actionDate>2015-03-18</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2015-03-18T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2015-03-18</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to require the termination of any employee of the Department of Veterans Affairs who is found to have retaliated against a whistleblower.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to require the termination of any employee of the Department of Veterans Affairs who is found to have retaliated against a whistleblower.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <recordedVotes />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <bioguideId>M001170</bioguideId>
+        <middleName />
+        <firstName>Claire</firstName>
+        <state>MO</state>
+        <byRequestType />
+        <lastName>McCaskill</lastName>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+          <lisID>1820</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-03-18</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-03-18</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

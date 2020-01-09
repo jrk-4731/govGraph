@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1141</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres1141ih/xml/BILLS-115hres1141ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-11-09T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>HRES</billType>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Commemorating and acknowledging veteran-owned small businesses.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Commemorating and acknowledging veteran-owned small businesses.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <district>8</district>
+        <state>PA</state>
+        <bioguideId>F000466</bioguideId>
+        <middleName>K.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <sponsorshipDate>2018-11-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <district>7</district>
+        <state>NY</state>
+        <bioguideId>V000081</bioguideId>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <sponsorshipDate>2018-11-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+      </item>
+      <item>
+        <district>5</district>
+        <state>FL</state>
+        <bioguideId>L000586</bioguideId>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000586</bioguideId>
+          <lisID>2317</lisID>
+        </identifiers>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <sponsorshipDate>2018-11-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2018-11-09T18:20:44Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr10</systemCode>
+              <name>Economic Opportunity Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2018-11-09T15:30:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Small Business Committee</name>
+          <activities>
+            <item>
+              <date>2018-11-09T15:30:38Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hssm00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2018-11-09</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </latestAction>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-11-09</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-11-09</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hssm00</systemCode>
+          <name>Small Business Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2018-11-09</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-11-09</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-11-09</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2019-04-18T15:56:14Z</updateDate>
+    <congress>115</congress>
+    <relatedBills />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2018-11-09</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-11-16T14:42:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p> Recognizes veterans for their service to the United States.</p> <p> Celebrates the entrepreneurial spirit and work of veterans who are small-business owners. </p>]]></text>
+          <updateDate>2018-11-09T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <createDate>2018-11-10T08:10:28Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <cboCostEstimates />
+    <laws />
+    <title>Commemorating and acknowledging veteran-owned small businesses.</title>
+    <originChamber>House</originChamber>
+    <introducedDate>2018-11-09</introducedDate>
+    <sponsors>
+      <item>
+        <middleName>Scott</middleName>
+        <state>IL</state>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <bioguideId>S001190</bioguideId>
+        <identifiers>
+          <lisID>2124</lisID>
+          <bioguideId>S001190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <firstName>Bradley</firstName>
+        <district>10</district>
+        <lastName>Schneider</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

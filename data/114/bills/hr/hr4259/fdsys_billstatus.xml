@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <links />
+      <actionDate>2015-12-18</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-12-18</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-12-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-12-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-12-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Energy</name>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-12-18T22:17:52Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-15T17:00:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <createDate>2015-12-16T10:22:05Z</createDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr4259ih/xml/BILLS-114hr4259ih.xml</url>
+          </item>
+        </formats>
+        <date>2015-12-15T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 182 (Tuesday, December 15, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SENSENBRENNER:H.R. 4259.Congress has the power to enact this legislation pursuantto the following:Article 1Section 8Clause 18[Page H9328]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2015-12-15T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-06-22T19:10:25Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill prohibits the Environmental Protection Agency from establishing or enforcing limits on aggregate carbon dioxide emissions from a state or any categories of pollution sources in a state.</p>]]></text>
+          <actionDate>2015-12-15</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2015-12-15</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-04-11T15:41:47Z</updateDate>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <lastName>Ribble</lastName>
+        <middleName>J.</middleName>
+        <district>8</district>
+        <state>WI</state>
+        <bioguideId>R000587</bioguideId>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2073</lisID>
+          <gpoId>8221</gpoId>
+          <bioguideId>R000587</bioguideId>
+        </identifiers>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <firstName>Reid</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Grothman</lastName>
+        <middleName />
+        <district>6</district>
+        <state>WI</state>
+        <bioguideId>G000576</bioguideId>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2276</lisID>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <calendarNumbers />
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit the Administrator of the Environmental Protection Agency from establishing, implementing, or enforcing any limit on the aggregate emissions of carbon dioxide from a State or any category or subcategory of sources within a State.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To prohibit the Administrator of the Environmental Protection Agency from establishing, implementing, or enforcing any limit on the aggregate emissions of carbon dioxide from a State or any category or subcategory of sources within a State.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <relatedBills />
+    <committeeReports />
+    <title>To prohibit the Administrator of the Environmental Protection Agency from establishing, implementing, or enforcing any limit on the aggregate emissions of carbon dioxide from a State or any category or subcategory of sources within a State.</title>
+    <originChamber>House</originChamber>
+    <billNumber>4259</billNumber>
+    <sponsors>
+      <item>
+        <lastName>SENSENBRENNER</lastName>
+        <party>R</party>
+        <bioguideId>S000244</bioguideId>
+        <state>WI</state>
+        <middleName>JAMES</middleName>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <firstName>F.</firstName>
+        <district>5</district>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <congress>114</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

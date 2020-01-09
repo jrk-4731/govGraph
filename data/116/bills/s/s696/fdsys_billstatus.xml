@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>696</billNumber>
+    <congress>116</congress>
+    <createDate>2019-03-08T05:42:07Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-03-07T16:00:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-03-07</actionDate>
+      </item>
+    </actions>
+    <updateDate>2019-06-14T06:06:32Z</updateDate>
+    <introducedDate>2019-03-07</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+        </identifiers>
+        <state>OR</state>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+      </item>
+    </sponsors>
+    <latestAction>
+      <actionDate>2019-03-07</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to designate the same individual serving as the Chief Nurse Officer of the Public Health Service as the National Nurse for Public Health.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>National Nurse Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>National Nurse Act of 2019</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>National Nurse Act of 2019</title>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Nursing</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s696is/xml/BILLS-116s696is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-03-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>National Nurse Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1597</number>
+        <latestAction>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+          <actionDate>2019-03-07</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>SHELLEY</firstName>
+        <lastName>CAPITO</lastName>
+        <middleName>MOORE</middleName>
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Margaret</firstName>
+        <lastName>Hassan</lastName>
+        <middleName>Wood</middleName>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <middleName />
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <middleName />
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+        <lastName>Bennet</lastName>
+        <middleName>F.</middleName>
+        <bioguideId>B001267</bioguideId>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>I</party>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <state>VT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Bernard</firstName>
+        <lastName>Sanders</lastName>
+        <middleName />
+        <bioguideId>S000033</bioguideId>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Martha</firstName>
+        <lastName>McSally</lastName>
+        <middleName />
+        <bioguideId>M001197</bioguideId>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <middleName />
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joe</firstName>
+        <lastName>Manchin</lastName>
+        <middleName />
+        <bioguideId>M001183</bioguideId>
+        <sponsorshipDate>2019-05-06</sponsorshipDate>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>National Nurse Act of 2019</title>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

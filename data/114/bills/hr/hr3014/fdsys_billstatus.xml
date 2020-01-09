@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:14:44Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>32</district>
+        <firstName>PETE</firstName>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <lastName>SESSIONS</lastName>
+        <identifiers>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>S000250</bioguideId>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2015-11-18T19:11:13Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-07-09T14:02:45Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Reported by</name>
+                  <date>2015-11-04T14:42:02Z</date>
+                </item>
+                <item>
+                  <name>Markup by</name>
+                  <date>2015-11-04T14:41:40Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-07-10T15:20:44Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-07-09T14:02:50Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-07-29T18:52:21Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-07-09</introducedDate>
+    <createDate>2015-07-10T09:26:19Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-11-18</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-11-18</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-11-17</actionDate>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-11-04</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-11-04</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-11-03</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-07-29</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-07-10</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-07-09</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <actionDate>2015-07-09</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-07-09</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-07-09</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-07-09</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <designationOfSpeakerProTempore>2</designationOfSpeakerProTempore>
+        <placeholderTextForH>4</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <actionStageOverride>2</actionStageOverride>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>3014</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-07-09T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-08-27T22:05:45Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Medical Controlled Substances Transportation Act of 2015</b></p> <p>This bill amends the Controlled Substances Act to allow a physician to transport controlled substances to another practice setting or disaster area if the physician is registered to dispense, or conduct research with, controlled substances listed on schedules II, III, IV, or V, and the physician enters into a specific agreement with the Drug Enforcement Administration (DEA). </p> The agreement must require a physician to provide advance notification to the DEA, limit the duration of transport to 72 hours, and maintain records of the controlled substances dispensed. <p>A &ldquo;disaster area&rdquo; is the area covered by a President's major disaster declaration. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2015-07-09</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <links />
+      <actionDate>2015-11-18</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 106 (Thursday, July 9, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SESSIONS:H.R. 3014.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3. To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes[Page H5031]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Medical Controlled Substances Transportation Act of 2015</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2165</lisID>
+          <bioguideId>W000816</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <firstName>Roger</firstName>
+        <state>TX</state>
+        <lastName>Williams</lastName>
+        <bioguideId>W000816</bioguideId>
+        <district>25</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+          <lisID>1801</lisID>
+          <gpoId>8157</gpoId>
+        </identifiers>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <firstName>Louie</firstName>
+        <state>TX</state>
+        <lastName>Gohmert</lastName>
+        <bioguideId>G000552</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8162</gpoId>
+          <bioguideId>B000213</bioguideId>
+          <lisID>62</lisID>
+        </identifiers>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <firstName>JOE</firstName>
+        <state>TX</state>
+        <lastName>BARTON</lastName>
+        <bioguideId>B000213</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>L.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000174</bioguideId>
+          <gpoId>8159</gpoId>
+          <lisID>603</lisID>
+        </identifiers>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <firstName>SAM</firstName>
+        <state>TX</state>
+        <lastName>JOHNSON</lastName>
+        <bioguideId>J000174</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <firstName>Thomas</firstName>
+        <state>FL</state>
+        <lastName>Rooney</lastName>
+        <bioguideId>R000583</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>J.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8173</gpoId>
+          <bioguideId>F000461</bioguideId>
+          <lisID>2065</lisID>
+        </identifiers>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <firstName>Bill</firstName>
+        <state>TX</state>
+        <lastName>Flores</lastName>
+        <bioguideId>F000461</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1806</lisID>
+          <gpoId>8766</gpoId>
+          <bioguideId>M001158</bioguideId>
+        </identifiers>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <firstName>Kenny</firstName>
+        <state>TX</state>
+        <lastName>Marchant</lastName>
+        <bioguideId>M001158</bioguideId>
+        <district>24</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+          <lisID>2047</lisID>
+        </identifiers>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <firstName>Steve</firstName>
+        <state>OH</state>
+        <lastName>Stivers</lastName>
+        <bioguideId>S001187</bioguideId>
+        <district>15</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <state>TX</state>
+        <lastName>Weber</lastName>
+        <bioguideId>W000814</bioguideId>
+        <district>14</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>K.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1670</lisID>
+          <bioguideId>C001048</bioguideId>
+          <gpoId>8163</gpoId>
+        </identifiers>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <firstName>JOHN</firstName>
+        <state>TX</state>
+        <lastName>CULBERSON</lastName>
+        <bioguideId>C001048</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>ABNEY</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <firstName>Pete</firstName>
+        <state>TX</state>
+        <lastName>Olson</lastName>
+        <bioguideId>O000168</bioguideId>
+        <district>22</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2270</lisID>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <state>TX</state>
+        <lastName>Babin</lastName>
+        <bioguideId>B001291</bioguideId>
+        <district>36</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1787</lisID>
+          <bioguideId>B001255</bioguideId>
+          <gpoId>7965</gpoId>
+        </identifiers>
+        <fullName>Rep. Boustany, Charles W., Jr. [R-LA-3]</fullName>
+        <firstName>Charles</firstName>
+        <state>LA</state>
+        <lastName>Boustany</lastName>
+        <bioguideId>B001255</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1688</lisID>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <firstName>Joe</firstName>
+        <state>SC</state>
+        <lastName>Wilson</lastName>
+        <bioguideId>W000795</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000578</bioguideId>
+          <lisID>1810</lisID>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <firstName>David</firstName>
+        <state>WA</state>
+        <lastName>Reichert</lastName>
+        <bioguideId>R000578</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>G.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000458</bioguideId>
+          <lisID>2064</lisID>
+          <gpoId>8741</gpoId>
+        </identifiers>
+        <fullName>Rep. Fincher, Stephen Lee [R-TN-8]</fullName>
+        <firstName>Stephen</firstName>
+        <state>TN</state>
+        <lastName>Fincher</lastName>
+        <bioguideId>F000458</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>Lee</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1989</lisID>
+          <gpoId>7793</gpoId>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <firstName>Eric</firstName>
+        <state>AR</state>
+        <lastName>Crawford</lastName>
+        <bioguideId>C001087</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>A. "Rick"</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <firstName>Jeff</firstName>
+        <state>SC</state>
+        <lastName>Duncan</lastName>
+        <bioguideId>D000615</bioguideId>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2018</lisID>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <firstName>Larry</firstName>
+        <state>IN</state>
+        <lastName>Bucshon</lastName>
+        <bioguideId>B001275</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7903</gpoId>
+          <lisID>1778</lisID>
+          <bioguideId>P000591</bioguideId>
+        </identifiers>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <firstName>Tom</firstName>
+        <state>GA</state>
+        <lastName>Price</lastName>
+        <bioguideId>P000591</bioguideId>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2143</lisID>
+          <gpoId />
+          <bioguideId>H001065</bioguideId>
+        </identifiers>
+        <fullName>Rep. Holding, George [R-NC-13]</fullName>
+        <firstName>George</firstName>
+        <state>NC</state>
+        <lastName>Holding</lastName>
+        <bioguideId>H001065</bioguideId>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2137</lisID>
+          <bioguideId>W000812</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <state>MO</state>
+        <lastName>Wagner</lastName>
+        <bioguideId>W000812</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2158</lisID>
+          <gpoId />
+          <bioguideId>R000598</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rothfus, Keith J. [R-PA-12]</fullName>
+        <firstName>Keith</firstName>
+        <state>PA</state>
+        <lastName>Rothfus</lastName>
+        <bioguideId>R000598</bioguideId>
+        <district>12</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <middleName>J.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <firstName>Marsha</firstName>
+        <state>TN</state>
+        <lastName>Blackburn</lastName>
+        <bioguideId>B001243</bioguideId>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-11-02</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+        <state>AZ</state>
+        <lastName>Gosar</lastName>
+        <bioguideId>G000565</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-16</sponsorshipDate>
+        <middleName>A.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+        </identifiers>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <firstName>Bradley</firstName>
+        <state>AL</state>
+        <lastName>Byrne</lastName>
+        <bioguideId>B001289</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-22</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <gpoId>8158</gpoId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <firstName>Ted</firstName>
+        <state>TX</state>
+        <lastName>Poe</lastName>
+        <bioguideId>P000592</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-05</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medical Controlled Substances Transportation Act of 2015</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Controlled Substances Act to authorize physicians, pursuant to an agreement with the Attorney General, to transport controlled substances from a practice setting to another practice setting or to a disaster area.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Medical Controlled Substances Transportation Act of 2015</title>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2019-04-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To require the Secretary of State to submit annual reports reviewing the educational material used by the Palestinian Authority or the United Nations Relief and Works Agency for Palestine Refugees in the Near East in the West Bank and Gaza, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Peace and Tolerance in Palestinian Education Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Peace and Tolerance in Palestinian Education Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Peace and Tolerance in Palestinian Education Act</title>
+      </item>
+    </titles>
+    <createDate>2019-04-19T07:12:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-18T19:31:40Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <district>30</district>
+        <state>CA</state>
+        <bioguideId>S000344</bioguideId>
+        <firstName>BRAD</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-04-18</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Peace and Tolerance in Palestinian Education Act</title>
+    <cosponsors>
+      <item>
+        <firstName>Lee</firstName>
+        <bioguideId>Z000017</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <district>1</district>
+        <lastName>Zeldin</lastName>
+        <party>R</party>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <bioguideId>T000483</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <district>6</district>
+        <lastName>Trone</lastName>
+        <party>D</party>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000483</bioguideId>
+          <gpoId />
+          <lisID>2406</lisID>
+        </identifiers>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <bioguideId>M001199</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <district>18</district>
+        <lastName>Mast</lastName>
+        <party>R</party>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2322</lisID>
+          <gpoId />
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Josh</firstName>
+        <bioguideId>G000583</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>5</district>
+        <lastName>Gottheimer</lastName>
+        <party>D</party>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000583</bioguideId>
+          <lisID>2338</lisID>
+        </identifiers>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Randy</firstName>
+        <bioguideId>W000814</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <district>14</district>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <district>1</district>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <bioguideId>M001180</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <district>1</district>
+        <lastName>McKinley</lastName>
+        <party>R</party>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Denver</firstName>
+        <bioguideId>R000611</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>5</district>
+        <lastName>Riggleman</lastName>
+        <party>R</party>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <identifiers>
+          <lisID>2454</lisID>
+          <gpoId />
+          <bioguideId>R000611</bioguideId>
+        </identifiers>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>W.</firstName>
+        <bioguideId>S001214</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>Gregory</middleName>
+        <district>17</district>
+        <lastName>Steube</lastName>
+        <party>R</party>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001214</bioguideId>
+          <lisID>2389</lisID>
+        </identifiers>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Elaine</firstName>
+        <bioguideId>L000591</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>G.</middleName>
+        <district>2</district>
+        <lastName>Luria</lastName>
+        <party>D</party>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000591</bioguideId>
+          <lisID>2453</lisID>
+        </identifiers>
+        <state>VA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Vicky</firstName>
+        <bioguideId>H001053</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>4</district>
+        <lastName>Hartzler</lastName>
+        <party>R</party>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <sponsorshipDate>2019-07-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <state>MO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Scott</firstName>
+        <bioguideId>P000605</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>10</district>
+        <lastName>Perry</lastName>
+        <party>R</party>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <sponsorshipDate>2019-07-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+        </identifiers>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>ALCEE</firstName>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <district>20</district>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2343ih/xml/BILLS-116hr2343ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-04-18T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <updateDate>2019-07-18T07:18:01Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-04-18</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Gaza Strip</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Palestinians</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+          <item>
+            <name>West Bank</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>2343</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SHERMAN:H.R. 2343.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution of the UnitedStates.[Page H3275]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

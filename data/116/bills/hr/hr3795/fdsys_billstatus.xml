@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2019-07-17</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-07-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-07-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <title>To enable incarcerated persons to petition a Federal court for a second look at sentences longer than 10 years, where the person is not a danger to the safety of any person or the community, and has shown they are ready for reentry, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To enable incarcerated persons to petition a Federal court for a second look at sentences longer than 10 years, where the person is not a danger to the safety of any person or the community, and has shown they are ready for reentry, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1996</lisID>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Karen</firstName>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <bioguideId>B001270</bioguideId>
+        <state>CA</state>
+        <district>37</district>
+        <lastName>Bass</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <updateDate>2019-07-19T07:39:08Z</updateDate>
+    <billNumber>3795</billNumber>
+    <createDate>2019-07-18T07:12:10Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 120 (Wednesday, July 17, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Ms. BASS:H.R. 3795.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clauses 1 and 18 of the Constitutionof the United States.[Page H6000]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-17T14:02:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on the Judiciary.</text>
+      <actionDate>2019-07-17</actionDate>
+    </latestAction>
+    <laws />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors />
+    <policyArea />
+    <notes />
+    <textVersions />
+    <introducedDate>2019-07-17</introducedDate>
+    <cboCostEstimates />
+    <title>To enable incarcerated persons to petition a Federal court for a second look at sentences longer than 10 years, where the person is not a danger to the safety of any person or the community, and has shown they are ready for reentry, and for other purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

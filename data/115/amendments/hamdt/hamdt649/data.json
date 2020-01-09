@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-05-23T16:35:40-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.649", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/649"
+        }, 
+        {
+          "name": "Roll no. 225", 
+          "url": "http://clerk.house.gov/evs/2018/roll225.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 225, 
+      "text": "On agreeing to the McKinley amendment (A016) Failed by recorded vote: 160 - 252 (Roll no. 225).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-05-23T15:11:17-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.649", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/649"
+        }, 
+        {
+          "name": "H4661", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4661"
+        }, 
+        {
+          "name": "H4661-4662", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4661-4662"
+        }, 
+        {
+          "name": "H4670", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4670"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4661-4662, H4670", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4661", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A016) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-23", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-23T15:11:17-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.649", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/649"
+        }, 
+        {
+          "name": "H4661", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4661"
+        }, 
+        {
+          "name": "H4661-4662", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4661-4662"
+        }, 
+        {
+          "name": "H4670", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4670"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4661-4662, H4670", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4661", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A016) offered by Mr. McKinley.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-23T16:35:40-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.649", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/649"
+        }, 
+        {
+          "name": "Roll no. 225", 
+          "url": "http://clerk.house.gov/evs/2018/roll225.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-23T16:35:40-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.649", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/649"
+        }, 
+        {
+          "name": "Roll no. 225", 
+          "url": "http://clerk.house.gov/evs/2018/roll225.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-23T16:35:40-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.649", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/649"
+        }, 
+        {
+          "name": "Roll no. 225", 
+          "url": "http://clerk.house.gov/evs/2018/roll225.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the McKinley amendment (A016) Failed by recorded vote: 160 - 252 (Roll no. 225).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-23", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt649-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5515-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 5515
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to institute domestic sourcing requirements for dinnerware within the Department of Defense.", 
+  "introduced_at": "2018-05-23", 
+  "number": 649, 
+  "purpose": "An amendment numbered 13 printed in House Report 115-702 to institute domestic sourcing requirements for dinner ware within the Department of Defense.", 
+  "sponsor": {
+    "bioguide_id": "M001180", 
+    "district": "1", 
+    "name": "McKinley, David B.", 
+    "state": "WV", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2018-05-23T16:35:40-04:00", 
+  "updated_at": "2019-04-18T16:51:46Z"
+}

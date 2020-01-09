@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-15</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-15</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to require coverage without a deductible of certain primary care services by high deductible health plans.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Primary Care Patient Protection Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Primary Care Patient Protection Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Primary Care Patient Protection Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2019-05-16T07:12:20Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-15T14:02:40Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2124</lisID>
+          <bioguideId>S001190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <lastName>Schneider</lastName>
+        <party>D</party>
+        <district>10</district>
+        <state>IL</state>
+        <bioguideId>S001190</bioguideId>
+        <firstName>Bradley</firstName>
+        <middleName>Scott</middleName>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-05-15</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Primary Care Patient Protection Act of 2019</title>
+    <cosponsors>
+      <item>
+        <bioguideId>S001196</bioguideId>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <state>NY</state>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Stefanik</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>21</district>
+        <firstName>Elise</firstName>
+      </item>
+      <item>
+        <bioguideId>B001287</bioguideId>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>CA</state>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <identifiers>
+          <lisID>2102</lisID>
+          <gpoId />
+          <bioguideId>B001287</bioguideId>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Bera</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <firstName>Ami</firstName>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <bioguideId>T000470</bioguideId>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>CO</state>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Tipton</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>WI</state>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>KIND</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <firstName>RON</firstName>
+      </item>
+      <item>
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <state>CA</state>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Brownley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>26</district>
+        <firstName>Julia</firstName>
+      </item>
+      <item>
+        <bioguideId>J000126</bioguideId>
+        <sponsorshipDate>2019-06-06</sponsorshipDate>
+        <state>TX</state>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <identifiers>
+          <gpoId>8186</gpoId>
+          <bioguideId>J000126</bioguideId>
+          <lisID>599</lisID>
+        </identifiers>
+        <middleName>BERNICE</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>30</district>
+        <firstName>EDDIE</firstName>
+      </item>
+      <item>
+        <bioguideId>L000590</bioguideId>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <state>NV</state>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <identifiers>
+          <bioguideId>L000590</bioguideId>
+          <gpoId />
+          <lisID>2425</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Lee</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <firstName>Susie</firstName>
+      </item>
+      <item>
+        <bioguideId>K000391</bioguideId>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <state>IL</state>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <identifiers>
+          <lisID>2325</lisID>
+          <bioguideId>K000391</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Krishnamoorthi</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <firstName>Raja</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2774ih/xml/BILLS-116hr2774ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-05-15T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2019-07-19T20:45:08Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-05-15</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-05-15</actionDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Primary Care Patient Protection Act of 201</b><b>9</b></p> <p> This bill modifies the requirements for the high deductible health plans that are required for tax-preferred health savings accounts. The bill requires the plans to offer coverage with no deductible for primary care services provided during the first two visits during a year to an individual's designated primary care provider. The primary care provider must be a general practitioner, family physician, general internist, obstetrician, gynecologist, pediatrician, geriatric physician, or advanced practice registered nurse acting in accordance with state laws. </p>]]></text>
+          <updateDate>2019-05-15T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-06-13T13:00:08Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2774</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHNEIDER:H.R. 2774.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution[Page H3843]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

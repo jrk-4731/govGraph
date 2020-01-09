@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-12-16T10:22:05Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>3</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-03-23</actionDate>
+        <committee>
+          <systemCode>hsed14</systemCode>
+          <name>Early Childhood, Elementary, and Secondary Education Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-01-28</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-12-16</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2015-12-15</actionDate>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Veterans' Affairs, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2015-12-15</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Veterans' Affairs, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-12-15</actionDate>
+        <committee />
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Veterans' Affairs, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2015-12-15</actionDate>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Veterans' Affairs, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-12-15</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-12-15</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Education and Labor</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsed14</systemCode>
+              <name>Early Childhood, Elementary, and Secondary Education Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-03-23T20:58:29Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-15T17:00:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-01-28T20:32:42Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-15T17:00:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr10</systemCode>
+              <name>Economic Opportunity Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-12-16T15:58:46Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-15T17:00:40Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>C001106</bioguideId>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ryan</firstName>
+        <lastName>Costello</lastName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2266</lisID>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <state>PA</state>
+      </item>
+      <item>
+        <bioguideId>C001077</bioguideId>
+        <party>R</party>
+        <middleName />
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <lastName>Coffman</lastName>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <state>CO</state>
+      </item>
+      <item>
+        <bioguideId>T000472</bioguideId>
+        <party>D</party>
+        <middleName />
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <lastName>Takano</lastName>
+        <district>41</district>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2016-02-12</sponsorshipDate>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 182 (Tuesday, December 15, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOHNSON of Georgia:H.R. 4249.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18, ``The Congress shall havethe Power to . . . make all laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in the Govenmentof the United States, or in any Department or Officerthereof.''[Page H9328]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2016-03-23</actionDate>
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Servicemember Higher Education Protection Act</strong></p> <p>This bill amends the Higher Education Act of 1965 to modify provisions related to student loans&nbsp;for members of the military and their spouses.</p> <p>The Department of Education (ED) shall make available a simplified disclosure and enrollment form for student loan borrowers who are performing eligible military service.</p> <p>The bill establishes, within the office of the Student Loan Ombudsman, a military and veteran point of contact.</p> <p>The bill modifies processes for determining disability&nbsp;with respect to&nbsp;discharging a borrower's student loans. A borrower whose loan is discharged under these processes&nbsp;shall not be subject to certain reinstatement provisions.</p> <p>Under current law, borrowers serving on active duty are eligible for certain student loan interest subsidies and deferment. The bill extends such eligibility&nbsp;to borrowers performing&nbsp;other specified&nbsp;military service and their spouses. </p> <p>The bill&nbsp;specifies how lump sum payments made through eligible repayment programs shall be treated for purposes of determining a borrower's eligibility for public service loan forgiveness.</p> <p>Without requiring a request from the borrower, ED&nbsp;must ensure that certain student loan interest does not accrue for an eligible military borrower serving in an area of hostilities. </p> <p>With respect to the National Student Loan Data System, ED must: (1) integrate certain data related to the military and veteran status of borrowers, and (2) include information regarding Public Health Service loans.</p> <p>ED shall use specified information to ensure that an active duty borrower&nbsp;is not charged&nbsp;interest in excess of a maximum rate on certain student loans.</p> <p>The bill limits the allowable interest rate on certain student loan debt incurred during military service for the purpose of consolidating or refinancing student loans incurred before service.</p> <p>The bill establishes a working group to improve&nbsp;resources available from the Department of Defense's tuition assistance programs.</p>]]></text>
+          <lastSummaryUpdateDate>2016-12-06T17:32:11Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-12-15</actionDate>
+          <updateDate>2015-12-15T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>4260</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <relatedBills />
+    <updateDate>2019-04-11T15:42:42Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Department of Education</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To protect servicemembers in higher education, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Servicemember Higher Education Protection Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Servicemember Higher Education Protection Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>114</congress>
+    <introducedDate>2015-12-15</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Sinema</lastName>
+        <state>AZ</state>
+        <district>9</district>
+        <party>D</party>
+        <byRequestType />
+        <firstName>Kyrsten</firstName>
+        <bioguideId>S001191</bioguideId>
+        <middleName />
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <identifiers>
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Servicemember Higher Education Protection Act</title>
+    <textVersions>
+      <item>
+        <date>2015-12-15T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr4260ih/xml/BILLS-114hr4260ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

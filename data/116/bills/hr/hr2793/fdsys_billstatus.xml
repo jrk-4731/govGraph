@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-17</actionDate>
+        <committee>
+          <name>Highways and Transit Subcommittee</name>
+          <systemCode>hspw12</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-05-16</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-05-16</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-05-16</actionDate>
+      </item>
+    </actions>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2793ih/xml/BILLS-116hr2793ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-16T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>R000585</bioguideId>
+        <lastName>Reed</lastName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <district>23</district>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+          <lisID>2263</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>S001196</bioguideId>
+        <lastName>Stefanik</lastName>
+        <firstName>Elise</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <district>21</district>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <district>9</district>
+      </item>
+      <item>
+        <middleName>T.</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <bioguideId>K000380</bioguideId>
+        <lastName>Kildee</lastName>
+        <firstName>Daniel</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <district>5</district>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <bioguideId>C000984</bioguideId>
+        <lastName>CUMMINGS</lastName>
+        <firstName>ELIJAH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <district>7</district>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>1818</lisID>
+          <bioguideId>S001165</bioguideId>
+          <gpoId>8055</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <bioguideId>S001165</bioguideId>
+        <lastName>Sires</lastName>
+        <firstName>Albio</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <district>8</district>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <bioguideId>P000604</bioguideId>
+        <lastName>Payne</lastName>
+        <firstName>Donald</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <district>10</district>
+      </item>
+      <item>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2421</lisID>
+          <bioguideId>M001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <bioguideId>M001203</bioguideId>
+        <lastName>Malinowski</lastName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <district>7</district>
+      </item>
+    </cosponsors>
+    <updateDate>2019-06-25T07:36:40Z</updateDate>
+    <createDate>2019-05-17T07:12:09Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <links />
+      <actionDate>2019-05-17</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-16T14:03:30Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-17T14:09:47Z</date>
+                </item>
+              </activities>
+              <systemCode>hspw12</systemCode>
+              <name>Highways and Transit Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-05-16</introducedDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+    <congress>116</congress>
+    <policyArea />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <bioguideId>G000583</bioguideId>
+        <party>D</party>
+        <lastName>Gottheimer</lastName>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <byRequestType />
+        <district>5</district>
+        <firstName>Josh</firstName>
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+          <lisID>2338</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NJ</state>
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>2793</billNumber>
+    <title>Miranda Vargas School Bus Driver Red Flag Act</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To require the Federal Motor Carrier Safety Administration to implement a national employer notification service.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Miranda's Law</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Miranda Vargas School Bus Driver Red Flag Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Miranda Vargas School Bus Driver Red Flag Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Miranda Vargas School Bus Driver Red Flag Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Miranda's Law</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOTTHEIMER:H.R. 2793.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the United StatesConstitution[Page H3925]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

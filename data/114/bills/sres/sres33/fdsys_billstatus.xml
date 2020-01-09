@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <party>R</party>
+        <middleName />
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <state>WI</state>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+        <firstName>Ron</firstName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Homeland Security and Governmental Affairs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <date>2015-01-22T17:41:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssra00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2015-01-22T17:38:55Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <cosponsors />
+    <laws />
+    <congress>114</congress>
+    <committeeReports />
+    <billType>SRES</billType>
+    <introducedDate>2015-01-22</introducedDate>
+    <version>1.0.0</version>
+    <billNumber>33</billNumber>
+    <createDate>2015-01-23T07:01:23Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-01-22</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S423-424</url>
+            <name>S423-424</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S423-424)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-01-22</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Original measure reported to Senate by Senator Johnson. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <links />
+        <text>Committee on Homeland Security and Governmental Affairs. Original measure reported to Senate by Senator Johnson. Without written report.</text>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-01-22</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-01-22</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-01-22T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-26T17:58:57Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Homeland Security and Governmental Affairs for the 114th Congress.</p>]]></text>
+          <actionDate>2015-01-22</actionDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <updateDate>2015-01-22T15:11:06Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-26T17:41:20Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Senate Committee on Homeland Security and Governmental Affairs for the 114th Congress.</p>]]></text>
+          <actionDate>2015-01-22</actionDate>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>An original resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <updateDate>2019-04-11T15:42:23Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <title>An original resolution authorizing expenditures by the Committee on Homeland Security and Governmental Affairs.</title>
+    <amendments />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sres33is/xml/BILLS-114sres33is.xml</url>
+          </item>
+        </formats>
+        <date>2015-01-22T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S423-424)</text>
+      <actionDate>2015-01-22</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-06-04T14:30:06Z</updateDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <byRequestType />
+        <bioguideId>M001187</bioguideId>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <lastName>Meadows</lastName>
+        <state>NC</state>
+        <firstName>Mark</firstName>
+        <middleName />
+        <district>11</district>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <latestAction>
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <actionDate>2019-05-20</actionDate>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-17T13:01:45Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-20T14:59:44Z</date>
+                </item>
+              </activities>
+              <name>Aviation Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <date>2019-05-17T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2830ih/xml/BILLS-116hr2830ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <createDate>2019-05-18T07:27:10Z</createDate>
+    <billNumber>2830</billNumber>
+    <laws />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Henry</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>28</district>
+        <bioguideId>C001063</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8184</gpoId>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+        </identifiers>
+        <lastName>Cuellar</lastName>
+      </item>
+      <item>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <bioguideId>R000603</bioguideId>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+          <lisID>2256</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Rouzer</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <committeeReports />
+    <recordedVotes />
+    <relatedBills />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee>
+          <name>Aviation Subcommittee</name>
+          <systemCode>hspw05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-05-17</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-17</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-17</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <title>Drone Backlog Reduction Act</title>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MEADOWS:H.R. 2830.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the United StatesConstitution: To regulate Commerce with foreign Nations, andamong the several States, and with the Indian Tribes;[Page H3963]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea />
+    <introducedDate>2019-05-17</introducedDate>
+    <titles>
+      <item>
+        <title>To direct the Administrator of the Federal Aviation Administration to create a task force to process applications submitted for determinations, assessments, and waivers for unmanned aircraft systems.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Drone Backlog Reduction Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Drone Backlog Reduction Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Drone Backlog Reduction Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

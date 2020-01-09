@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-20</actionDate>
+        <committee>
+          <name>Social Security Subcommittee</name>
+          <systemCode>hswm01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2017-06-08</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend title II of the Social Security Act to permit American Indian tribal councils to enter into agreements with the Commissioner of Social Security to obtain social security coverage for services performed by tribal council members.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Tribal Social Security Fairness Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Tribal Social Security Fairness Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Tribal Social Security Fairness Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <title>Tribal Social Security Fairness Act</title>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <actionDate>2017-06-20</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-12-19T20:17:49Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2017-06-08T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Tribal Social Security Fairness Act</b></p> <p>This bill amends title II (Old Age, Survivors, and Disability Insurance) of the Social Security Act to direct the Social Security Administration, at the request of an Indian tribe, to enter into an agreement with the tribe for the purpose of extending&nbsp;Social Security coverage to tribal council members.</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDate>2017-06-08</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>R000578</bioguideId>
+          <gpoId>8212</gpoId>
+          <lisID>1810</lisID>
+        </identifiers>
+        <bioguideId>R000578</bioguideId>
+        <middleName>G.</middleName>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <firstName>David</firstName>
+        <party>R</party>
+        <lastName>Reichert</lastName>
+        <district>8</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T16:11:06Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Tribal Social Security Fairness Act of 2018</latestTitle>
+        <number>6124</number>
+        <latestAction>
+          <text>Became Public Law No: 115-243.</text>
+          <actionDate>2018-09-20</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Tribal Social Security Fairness Act</latestTitle>
+        <number>1309</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2017-06-07</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-08T14:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Social Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-20T19:05:36Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hswm01</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-06-09T03:11:39Z</createDate>
+    <introducedDate>2017-06-08</introducedDate>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>2860</billNumber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Derek</firstName>
+        <state>WA</state>
+        <lastName>Kilmer</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <bioguideId>K000381</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Suzan</firstName>
+        <state>WA</state>
+        <lastName>DelBene</lastName>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <bioguideId>D000617</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+        </identifiers>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <state>OK</state>
+        <lastName>Cole</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <bioguideId>C001053</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <state>AZ</state>
+        <lastName>Schweikert</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <bioguideId>S001183</bioguideId>
+        <sponsorshipDate>2017-11-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>7802</gpoId>
+          <lisID>1994</lisID>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <state>AZ</state>
+        <lastName>O'Halleran</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <bioguideId>O000171</bioguideId>
+        <sponsorshipDate>2018-04-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <lisID>2306</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ruben</firstName>
+        <state>AZ</state>
+        <lastName>Gallego</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <bioguideId>G000574</bioguideId>
+        <sponsorshipDate>2018-05-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 98 (Thursday, June 8, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. REICHERT:H.R. 2860.Congress has the power to enact this legislation pursuantto the following:Pursuant to Clause I of Section 8 of Article I of theUnited States Constitution and Amendment XVI of the UnitedStates Constitution, specifically clause 1 (relating toproviding for the general welfare of the United States) andclause 18 (relating to the power to make all laws necessaryand proper for carrying out the powers vested in Congress),and Article IV, section 3, clause 2 (relating to the power ofCongress to dispose of and make all needful rules andregulations respecting the territory or other propertybelonging to the United States).[Page H4820]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr2860ih/xml/BILLS-115hr2860ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-06-08T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

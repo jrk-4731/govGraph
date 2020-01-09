@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <prayer>1</prayer>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-05</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+          <systemCode>hsii24</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>GREG</firstName>
+        <lastName>WALDEN</lastName>
+        <party>R</party>
+        <state>OR</state>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <gpoId>8115</gpoId>
+          <lisID>1596</lisID>
+          <bioguideId>W000791</bioguideId>
+        </identifiers>
+        <bioguideId>W000791</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-03-15T07:12:08Z</createDate>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-14T13:05:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-06-05T14:32:08Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-03T19:52:45Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii24</systemCode>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <introducedDate>2019-03-14</introducedDate>
+    <amendments />
+    <congress>116</congress>
+    <billNumber>1803</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>EARL</firstName>
+        <middleName />
+        <district>3</district>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>BLUMENAUER</lastName>
+        <state>OR</state>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001180</bioguideId>
+          <gpoId>8118</gpoId>
+          <lisID>1950</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kurt</firstName>
+        <middleName />
+        <district>5</district>
+        <bioguideId>S001180</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schrader</lastName>
+        <state>OR</state>
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PETER</firstName>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>DEFAZIO</lastName>
+        <state>OR</state>
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Suzanne</firstName>
+        <middleName />
+        <district>1</district>
+        <bioguideId>B001278</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bonamici</lastName>
+        <state>OR</state>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <date>2019-03-14T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1803ih/xml/BILLS-116hr1803ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To nullify the Supplemental Treaty Between the United States of America and the Confederated Tribes and Bands of Indians of Middle Oregon, concluded on November 15, 1865.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>To nullify the Supplemental Treaty Between the United States of America and the Confederated Tribes and Bands of Indians of Middle Oregon, concluded on November 15, 1865.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2019-06-12T09:56:05Z</updateDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WALDEN:H.R. 1803.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 (relating to the power ofCongress to regulate commerce with Indian Tribes).[Page H2747]</pre>]]></constitutionalAuthorityStatementText>
+    <title>To nullify the Supplemental Treaty Between the United States of America and the Confederated Tribes and Bands of Indians of Middle Oregon, concluded on November 15, 1865.</title>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-06-05</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A bill to nullify the Supplemental Treaty Between the United States of America and the Confederated Tribes and Bands of Indians of Middle Oregon, concluded on November 15, 1865.</latestTitle>
+        <number>832</number>
+        <latestAction>
+          <actionDate>2019-06-10</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 110.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

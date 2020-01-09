@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-05-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-05-24</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-05-24</actionDate>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2019-05-24T15:00:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <updateDate>2019-06-14T20:15:07Z</updateDate>
+    <recordedVotes />
+    <title>You Are Not Forgotten Act</title>
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Mark</firstName>
+        <bioguideId>M001187</bioguideId>
+        <state>NC</state>
+        <party>R</party>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <lastName>Meadows</lastName>
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>11</district>
+      </item>
+    </sponsors>
+    <introducedDate>2019-05-24</introducedDate>
+    <cboCostEstimates />
+    <committeeReports />
+    <relatedBills />
+    <laws />
+    <createDate>2019-05-25T07:12:07Z</createDate>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2019-05-24</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To direct the Architect of the Capitol to display the POW/MIA flag outside of the entrance of the office of each Member of Congress, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>You Are Not Forgotten Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>You Are Not Forgotten Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>You Are Not Forgotten Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <amendments />
+    <billNumber>3025</billNumber>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-05-24</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-05-24T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-06-14T20:07:02Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>You Are Not Forgotten Act</b></p> <p>This bill requires the Architect of the Capitol (AOC) to display the National League of Families POW/MIA flag outside of the entrance of the office of each Member of Congress, unless the Member directs the AOC to not display the flag. This requirement applies only to a Member's office in a House or Senate office building within the U.S. Capitol Grounds.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2425</lisID>
+          <bioguideId>L000590</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <state>NV</state>
+        <party>D</party>
+        <bioguideId>L000590</bioguideId>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <firstName>Susie</firstName>
+        <lastName>Lee</lastName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <state>NJ</state>
+        <party>D</party>
+        <bioguideId>V000133</bioguideId>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <firstName>Jefferson</firstName>
+        <lastName>Van Drew</lastName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <lisID>2361</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <state>SC</state>
+        <party>R</party>
+        <bioguideId>N000190</bioguideId>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <firstName>Ralph</firstName>
+        <lastName>Norman</lastName>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Missing persons</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3025ih/xml/BILLS-116hr3025ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-24T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MEADOWS:H.R. 3025.Congress has the power to enact this legislation pursuantto the following:Article I, Section 1: ``All legislative Powers hereingranted shall be vested in a Congress of the United States .. .''Article I, Section 5, Clause 2: ``Each House may determinethe Rules of its Proceedings . . .''[Page H4171]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

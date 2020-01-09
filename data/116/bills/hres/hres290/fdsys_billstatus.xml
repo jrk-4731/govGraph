@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionDate>2019-04-04</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-04-04</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-04-04</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-07T19:45:11Z</updateDate>
+    <latestAction>
+      <actionDate>2019-04-04</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres290ih/xml/BILLS-116hres290ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-04T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>290</billNumber>
+    <cosponsors>
+      <item>
+        <firstName>Brett</firstName>
+        <identifiers>
+          <lisID>1922</lisID>
+          <gpoId>7954</gpoId>
+          <bioguideId>G000558</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <district>2</district>
+        <state>KY</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000558</bioguideId>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <lastName>Guthrie</lastName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Matsui</lastName>
+        <party>D</party>
+        <middleName>O.</middleName>
+        <firstName>Doris</firstName>
+        <district>6</district>
+        <byRequestType />
+        <state>CA</state>
+        <bioguideId>M001163</bioguideId>
+        <identifiers>
+          <lisID>1814</lisID>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-04-04T13:00:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Supporting increased awareness of sepsis and the importance of early diagnosis and appropriate intervention.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Supporting increased awareness of sepsis and the importance of early diagnosis and appropriate intervention.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-04-05T07:12:06Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Supporting increased awareness of sepsis and the importance of early diagnosis and appropriate intervention.</title>
+    <committeeReports />
+    <introducedDate>2019-04-04</introducedDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2523)</text>
+          <actionDate>2019-04-30</actionDate>
+        </latestAction>
+        <latestTitle>A resolution supporting increased awareness of sepsis and the importance of early diagnosis and appropriate intervention.</latestTitle>
+        <congress>116</congress>
+        <number>175</number>
+        <type>SRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,53 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-12-01", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-12-01", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1847-115", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1618-115", 
+    "amendment_type": "samdt", 
+    "congress": 115, 
+    "description": null, 
+    "number": 1618, 
+    "purpose": "To improve the bill."
+  }, 
+  "amends_bill": {
+    "bill_id": "hr1-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "115", 
+  "description": null, 
+  "introduced_at": "2017-12-01", 
+  "number": 1847, 
+  "proposed_at": null, 
+  "purpose": null, 
+  "sponsor": {
+    "bioguide_id": "C000127", 
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2017-12-01", 
+  "updated_at": "2019-06-13T18:43:00Z"
+}

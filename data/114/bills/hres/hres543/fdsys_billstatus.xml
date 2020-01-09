@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-02-12</actionDate>
+        <committee>
+          <name>Europe, Eurasia, Energy and the Environment Subcommittee</name>
+          <systemCode>hsfa14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2015-12-01</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-12-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-12-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <updateDate>2019-05-09T22:56:58Z</updateDate>
+    <latestAction>
+      <actionDate>2016-02-12</actionDate>
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres543ih/xml/BILLS-114hres543ih.xml</url>
+          </item>
+        </formats>
+        <date>2015-12-01T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>543</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Sanchez, Loretta [D-CA-46]</fullName>
+        <party>D</party>
+        <firstName>LORETTA</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000030</bioguideId>
+        <lastName>SANCHEZ</lastName>
+        <identifiers>
+          <bioguideId>S000030</bioguideId>
+          <lisID>1522</lisID>
+          <gpoId>7852</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>CA</state>
+        <district>46</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <party>R</party>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001144</bioguideId>
+        <lastName>Miller</lastName>
+        <identifiers>
+          <lisID>1685</lisID>
+          <gpoId>7873</gpoId>
+          <bioguideId>M001144</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>FL</state>
+        <district>1</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <party>R</party>
+        <firstName>Jackie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000813</bioguideId>
+        <lastName>Walorski</lastName>
+        <identifiers>
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>IN</state>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000575</bioguideId>
+        <lastName>Rogers</lastName>
+        <identifiers>
+          <gpoId>7788</gpoId>
+          <bioguideId>R000575</bioguideId>
+          <lisID>1704</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>AL</state>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000533</bioguideId>
+        <lastName>DUNCAN</lastName>
+        <identifiers>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>TN</state>
+        <district>2</district>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001154</bioguideId>
+        <lastName>Shuster</lastName>
+        <identifiers>
+          <lisID>1681</lisID>
+          <bioguideId>S001154</bioguideId>
+          <gpoId>8127</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>PA</state>
+        <district>9</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000362</bioguideId>
+        <lastName>King</lastName>
+        <identifiers>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>IA</state>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Young, Todd C. [R-IN-9]</fullName>
+        <party>R</party>
+        <firstName>Todd</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Y000064</bioguideId>
+        <lastName>Young</lastName>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>IN</state>
+        <district>9</district>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <party>R</party>
+        <firstName>ROBERT</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>A000055</bioguideId>
+        <lastName>ADERHOLT</lastName>
+        <identifiers>
+          <lisID>1460</lisID>
+          <bioguideId>A000055</bioguideId>
+          <gpoId>7789</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <state>AL</state>
+        <district>4</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <party>R</party>
+        <firstName>Ted</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000592</bioguideId>
+        <lastName>Poe</lastName>
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-18</sponsorshipDate>
+        <state>TX</state>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Turner</lastName>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <firstName>Michael</firstName>
+        <district>10</district>
+        <byRequestType />
+        <state>OH</state>
+        <bioguideId>T000463</bioguideId>
+        <identifiers>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+        </identifiers>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Europe, Eurasia, Energy and the Environment Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-02-12T21:52:15Z</date>
+                </item>
+              </activities>
+              <systemCode>hsfa14</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-01T15:02:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Celebrating 135 years of diplomatic relations between the United States and Romania.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Celebrating 135 years of diplomatic relations between the United States and Romania.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Celebrates 135 years of diplomatic relations between the United States and Romania.</p> <p> Congratulates Romania for its accomplishments as a great nation.</p> <p> Expresses appreciation for Romania's support and friendship.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-12-02T15:03:28Z</lastSummaryUpdateDate>
+          <actionDate>2015-12-01</actionDate>
+          <updateDate>2015-12-01T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2015-12-02T09:49:14Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Celebrating 135 years of diplomatic relations between the United States and Romania.</title>
+    <committeeReports />
+    <introducedDate>2015-12-01</introducedDate>
+    <relatedBills>
+      <item>
+        <number>326</number>
+        <latestTitle>A resolution celebrating the 135th anniversary of diplomatic relations between the United States and Romania.</latestTitle>
+        <congress>114</congress>
+        <type>SRES</type>
+        <latestAction>
+          <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (consideration: CR S8730; text as passed Senate: CR S8730)</text>
+          <actionDate>2015-12-16</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Romania</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>114</congress>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-17</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionDate>2019-06-05</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-06-05</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-06-05</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To direct the Secretary of Veterans Affairs to carry out a grant program under which the Secretary shall make grants to private entities for the provision of service dogs to eligible veterans with post-traumatic stress disorder, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Puppies Assisting Wounded Servicemembers Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>PAWS Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>PAWS Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Puppies Assisting Wounded Servicemembers Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>PAWS Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <createDate>2019-06-06T07:12:07Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-05T13:02:00Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-06-17T13:24:47Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2316</lisID>
+          <bioguideId>R000609</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <lastName>Rutherford</lastName>
+        <party>R</party>
+        <district>4</district>
+        <state>FL</state>
+        <bioguideId>R000609</bioguideId>
+        <firstName>John</firstName>
+        <middleName>H.</middleName>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-06-05</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>PAWS Act of 2019</title>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <middleName>Ray</middleName>
+        <district>39</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gilbert</firstName>
+        <lastName>Cisneros</lastName>
+        <bioguideId>C001123</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001123</bioguideId>
+          <lisID>2380</lisID>
+        </identifiers>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <middleName />
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Michael</firstName>
+        <lastName>Waltz</lastName>
+        <bioguideId>W000823</bioguideId>
+        <identifiers>
+          <bioguideId>W000823</bioguideId>
+          <lisID>2387</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <middleName />
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <bioguideId>L000586</bioguideId>
+        <identifiers>
+          <lisID>2317</lisID>
+          <gpoId />
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <district>15</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <lastName>Stivers</lastName>
+        <bioguideId>S001187</bioguideId>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+        </identifiers>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>NY</state>
+        <middleName />
+        <district>26</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <lastName>Higgins</lastName>
+        <bioguideId>H001038</bioguideId>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+          <lisID>1794</lisID>
+        </identifiers>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <middleName />
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <lastName>Joyce</lastName>
+        <bioguideId>J000302</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000302</bioguideId>
+          <lisID>2435</lisID>
+        </identifiers>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>ME</state>
+        <middleName />
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+        <bioguideId>P000597</bioguideId>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <sponsorshipDate>2019-07-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>NH</state>
+        <middleName />
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+        <lastName>Pappas</lastName>
+        <bioguideId>P000614</bioguideId>
+        <identifiers>
+          <bioguideId>P000614</bioguideId>
+          <gpoId />
+          <lisID>2418</lisID>
+        </identifiers>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <sponsorshipDate>2019-07-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>WA</state>
+        <middleName>McMorris</middleName>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Cathy</firstName>
+        <lastName>Rodgers</lastName>
+        <bioguideId>M001159</bioguideId>
+        <identifiers>
+          <bioguideId>M001159</bioguideId>
+          <gpoId>8209</gpoId>
+          <lisID>1809</lisID>
+        </identifiers>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <sponsorshipDate>2019-07-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <middleName>Gregory</middleName>
+        <district>17</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>W.</firstName>
+        <lastName>Steube</lastName>
+        <bioguideId>S001214</bioguideId>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+          <gpoId />
+          <lisID>2389</lisID>
+        </identifiers>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <middleName />
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Elissa</firstName>
+        <lastName>Slotkin</lastName>
+        <bioguideId>S001208</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001208</bioguideId>
+          <lisID>2407</lisID>
+        </identifiers>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>NH</state>
+        <middleName>M.</middleName>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+        <bioguideId>K000382</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+        </identifiers>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3103ih/xml/BILLS-116hr3103ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-05T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2019-07-16T07:17:55Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-06-17</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Service animals</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>3103</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUTHERFORD:H.R. 3103.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H4343]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

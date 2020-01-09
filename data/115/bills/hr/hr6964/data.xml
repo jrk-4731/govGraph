@@ -1,0 +1,117 @@
+<bill session="115" type="h" number="6964" updated="2019-07-15T21:58:23Z">
+  <state datetime="2018-12-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2018-12-21"/>
+  </status>
+  <introduced datetime="2018-09-28"/>
+  <titles>
+    <title type="official" as="introduced">To reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.</title>
+    <title type="short">Juvenile Justice Reform Act of 2018</title>
+    <title type="short" as="enacted">Juvenile Justice Reform Act of 2018</title>
+    <title type="short" as="passed senate">Juvenile Justice Reform Act of 2018</title>
+    <title type="short" as="passed house">Juvenile Justice Reform Act of 2018</title>
+    <title type="short" as="passed house">Juvenile Justice Reform Act of 2018</title>
+    <title type="short" as="introduced">Juvenile Justice Reform Act of 2018</title>
+    <title type="display">Juvenile Justice Reform Act of 2018</title>
+  </titles>
+  <sponsor bioguide_id="L000587"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S000185" joined="2018-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2018-09-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2018-09-28" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2018-09-28">
+      <text>Committee on Education and the Workforce discharged.</text>
+    </action>
+    <action datetime="2018-09-28T12:31:08-04:00">
+      <text>Mr. Lewis (MN) asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2018-09-28T12:31:37-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H9359-9369" label="consideration"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2018-09-28T12:31:46-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed without objection.</text>
+      <reference ref="CR H9359-9369" label="text"/>
+    </vote>
+    <action datetime="2018-09-28T12:31:48-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2018-10-01">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="2018-10-02" calendar="Senate Legislative" under="General Orders" number="612">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 612.</text>
+    </calendar>
+    <action datetime="2018-12-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7452" label="consideration"/>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="2018-12-11" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="2018-12-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2018-12-13T11:13:22-05:00">
+      <text>Mr. Lewis (MN) asked unanimous consent that the House agree to the Senate amendment.</text>
+    </action>
+    <action datetime="2018-12-13T11:13:23-05:00">
+      <text>Mr. Lewis (MN) asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment.</text>
+      <reference ref="CR H10175-10184" label="consideration"/>
+    </action>
+    <vote how="without objection" type="pingpong" datetime="2018-12-13T11:13:58-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+      <reference ref="CR H10175-10184" label="text as House agreed to Senate Amendment"/>
+    </vote>
+    <action datetime="2018-12-13T11:13:59-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2018-12-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2018-12-21" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="115-385" type="public" datetime="2018-12-21">
+      <text>Became Public Law No: 115-385.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and Labor" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="115" relation="unknown" number="1809"/>
+    <bill type="s" session="115" relation="unknown" number="860"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Accounting and auditing"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of the Interior"/>
+    <term name="Detention of persons"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Federal officials"/>
+    <term name="Government studies and investigations"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Mental health"/>
+    <term name="Performance measurement"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments>
+    <amendment number="s4075"/>
+  </amendments>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1575ih/xml/BILLS-116hr1575ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <calendarNumbers />
+    <createDate>2019-03-07T08:12:23Z</createDate>
+    <updateDate>2019-06-11T07:15:37Z</updateDate>
+    <relatedBills />
+    <billNumber>1575</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsif16</systemCode>
+              <activities>
+                <item>
+                  <date>2019-04-30T13:10:56Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2019-03-07T14:35:40Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Communications and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2019-03-06T15:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-03-06</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <district>2</district>
+        <state>NJ</state>
+        <middleName />
+        <lastName>Van Drew</lastName>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+          <gpoId />
+          <lisID>2419</lisID>
+        </identifiers>
+        <bioguideId>V000133</bioguideId>
+        <firstName>Jefferson</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-30</actionDate>
+        <committee>
+          <name>Communications and Technology Subcommittee</name>
+          <systemCode>hsif16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-12</actionDate>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <name>H2655</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2655</url>
+          </link>
+        </links>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR H2655)</text>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-03-07</actionDate>
+        <committee>
+          <name>Communications and Technology Subcommittee</name>
+          <systemCode>hsif16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-06</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-03-06</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-03-06</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <prayer>1</prayer>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <links />
+      <actionDate>2019-04-30</actionDate>
+    </latestAction>
+    <title>Robocall Enforcement Enhancement Act of 2019</title>
+    <originChamber>House</originChamber>
+    <notes />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Communications Act of 1934 to lengthen the statute of limitations for enforcing robocall violations, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Robocall Enforcement Enhancement Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Robocall Enforcement Enhancement Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Robocall Enforcement Enhancement Act of 2019</title>
+      </item>
+    </titles>
+    <laws />
+    <amendments />
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <bioguideId>M001143</bioguideId>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>BETTY</firstName>
+        <middleName />
+        <state>MN</state>
+        <lastName>MCCOLLUM</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>M001203</bioguideId>
+        <identifiers>
+          <lisID>2421</lisID>
+          <bioguideId>M001203</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <middleName />
+        <state>NJ</state>
+        <lastName>Malinowski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>W000826</bioguideId>
+        <identifiers>
+          <bioguideId>W000826</bioguideId>
+          <gpoId />
+          <lisID>2374</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Susan</firstName>
+        <middleName />
+        <state>PA</state>
+        <lastName>Wild</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001055</bioguideId>
+        <identifiers>
+          <bioguideId>C001055</bioguideId>
+          <gpoId />
+          <lisID>1693</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ed</firstName>
+        <middleName />
+        <state>HI</state>
+        <lastName>Case</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001123</bioguideId>
+        <identifiers>
+          <bioguideId>C001123</bioguideId>
+          <gpoId />
+          <lisID>2380</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gilbert</firstName>
+        <middleName>Ray</middleName>
+        <state>CA</state>
+        <lastName>Cisneros</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>39</district>
+        <fullName>Rep. Cisneros, Gilbert Ray, Jr. [D-CA-39]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>B001295</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2243</lisID>
+          <bioguideId>B001295</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <middleName />
+        <state>IL</state>
+        <lastName>Bost</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>12</district>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VAN DREW:H.R. 1575.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H2505]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

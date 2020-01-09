@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <constitutionalAuthorityStatementText />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-11-18T15:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-12-04T17:26:48Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2015-12-04</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2015-11-18</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2015-11-18</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2015-11-18</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <congress>114</congress>
+    <title>Expressing disapproval of the President's plan to accept 10,000 Syrian refugees.</title>
+    <relatedBills />
+    <calendarNumbers />
+    <updateDate>2019-02-14T23:34:26Z</updateDate>
+    <sponsors>
+      <item>
+        <lastName>Williams</lastName>
+        <firstName>Roger</firstName>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <bioguideId>W000816</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+          <gpoId />
+          <lisID>2165</lisID>
+        </identifiers>
+        <middleName />
+        <state>TX</state>
+        <byRequestType />
+        <district>25</district>
+      </item>
+    </sponsors>
+    <notes />
+    <billNumber>533</billNumber>
+    <amendments />
+    <version>1.0.0</version>
+    <createDate>2015-11-19T09:46:08Z</createDate>
+    <introducedDate>2015-11-18</introducedDate>
+    <billType>HRES</billType>
+    <laws />
+    <cosponsors />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Expressing disapproval of the President's plan to accept 10,000 Syrian refugees.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Expressing disapproval of the President's plan to accept 10,000 Syrian refugees.</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2015-11-18T05:00:00Z</updateDate>
+          <text><![CDATA[<p> Disapproves the President's plan to accept 10,000 Syrian refugees.</p>]]></text>
+          <lastSummaryUpdateDate>2015-11-20T14:38:13Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-11-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2015-12-04</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

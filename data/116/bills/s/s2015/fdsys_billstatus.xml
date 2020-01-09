@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <state>WV</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <lastName>Manchin</lastName>
+        <bioguideId>M001183</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>AZ</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Martha</firstName>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <lastName>McSally</lastName>
+        <bioguideId>M001197</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001197</bioguideId>
+          <lisID>2225</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2019-06-27</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2019-06-27</actionDate>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <updateDate>2019-07-16T09:29:39Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-06-27T16:55:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2015is/xml/BILLS-116s2015is.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-27T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <title>Student Loan Disclosure Modernization Act</title>
+    <introducedDate>2019-06-27</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Higher Education Act of 1965 to direct the Secretary of Education to develop a plain language disclosure form for borrowers of Federal student loans, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Student Loan Disclosure Modernization Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Student Loan Disclosure Modernization Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Student Loan Disclosure Modernization Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <amendments />
+    <billType>S</billType>
+    <policyArea />
+    <billNumber>2015</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2019-06-28T04:42:15Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Scott</lastName>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>S001184</bioguideId>
+        <firstName>Tim</firstName>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

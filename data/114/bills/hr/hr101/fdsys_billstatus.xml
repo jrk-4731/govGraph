@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:05:43Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>13</district>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <lastName>CONYERS</lastName>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>C000714</bioguideId>
+        <state>MI</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-06T17:13:05Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-01-12T14:06:23Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju05</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-01-06</introducedDate>
+    <createDate>2015-01-07T09:38:04Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-01-12</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2015-01-06</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-01-06</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR E6-8)</text>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>E6-8</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/extensions-of-remarks-section/page/E6-8</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-01-06</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-01-06</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>101</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2015-01-06T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-01-12T21:10:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Home Foreclosure Reduction Act of 2015</b></p> <p> Amends federal bankruptcy law governing a Chapter 13 debtor (adjustment of debts of an individual with regular income) to exclude from the computation of debts the secured or unsecured portions of: (1) debts secured by the debtor's principal residence if the value of the residence is less than the applicable maximum amount of noncontingent, liquidated, secured debts; or (2) debts secured or formerly secured by the debtor's principal residence that was either sold in foreclosure or surrendered to the creditor if the property's value was less than the applicable maximum amount of noncontingent, liquidated, secured debts.</p> <p>Applies the credit counseling requirement to a Chapter 13 debtor who certifies receipt of notice that the holder of a claim secured by the debtor's principal residence may commence a foreclosure on it.</p> <p>Requires the court to disallow a claim that is subject to any remedy for rescission under the Truth in Lending Act, notwithstanding the prior entry of a foreclosure judgment.</p> <p>Permits a Chapter 13 bankruptcy plan to modify the rights of claim holders with respect to a claim for a loan originated before the effective date of this Act and secured by a security interest in the debtor's principal residence that is the subject of a foreclosure notice.</p> <p>Authorizes reduction of a claim secured by the debtor's principal residence, but only in specified circumstances, particularly if the debtor sells the residence.</p> <p>Permits a Chapter 13 bankruptcy plan to deny debtor liability for certain fees and charges incurred while the bankruptcy case is pending and arising from a debt secured by the debtor's principal residence, unless the claim holder observes specified requirements.</p> <p>Adds to conditions for court confirmation of a plan in bankruptcy that: (1) the holder of a claim secured by the debtor's principal residence retain the lien securing the claim until the later of the payment of the claim as reduced and modified, completion of all payments under the plan, or the discharge of a debtor from all debts; and (2) the plan modifies the claim in good faith and the court does not find that the debtor has been convicted of obtaining by actual fraud the extension, renewal, or refinancing of credit that gives rise to a modified claim.</p> <p>Authorizes the court, upon request, to confirm a plan proposing a reduction in the interest rate on the loan secured by such security interest and that does not reduce the principal, if certain requirements are met. </p> <p>Excludes from the final discharge of a debtor from all debts any unpaid portion of such a claim as reduced.</p> <p>Amends the federal judicial code to prescribe standing trustee fees regarding certain payments received under a Chapter 13 bankruptcy plan.</p> <p>Instructs the Comptroller General to study: (1) the number of Chapter 13 debtors who filed, during the year following enactment of this Act, for the purpose of restructuring their principal residence mortgages; (2) the number of mortgages restructured under this Act that subsequently resulted in default and foreclosure; (3) a comparison between the effectiveness of mortgages restructured under programs outside of bankruptcy and mortgages restructured under this Act; (4) the number of cases presented to the bankruptcy courts where mortgages were restructured under this Act that were appealed; (5) the number of bankruptcy cases where mortgages were restructured under this Act that were overturned on appeal; (6) the number of bankruptcy judges disciplined as a result of actions taken to restructure mortgages under this Act; and (7) whether the amendments made by this Act should be amended to include a sunset clause.</p> <p>Directs the Comptroller General to conduct: (1) a comprehensive review of the effects of the amendments made by this subtitle on the bankruptcy court, (2) a survey of whether the program should limit the types of homeowners eligible for the program, and (3) whether such amendments should remain in effect.</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDate>2015-01-06</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <links />
+      <actionDate>2015-01-12</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 1 (Tuesday, January 6, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CONYERS:H.R. 101.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 4.[Page H46]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Home Foreclosure Reduction Act of 2015</title>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipDate>2015-01-06</sponsorshipDate>
+        <district>9</district>
+        <lastName>Cohen</lastName>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipDate>2015-01-06</sponsorshipDate>
+        <district>18</district>
+        <lastName>JACKSON LEE</lastName>
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHEILA</firstName>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>J000288</bioguideId>
+        <sponsorshipDate>2015-01-06</sponsorshipDate>
+        <district>4</district>
+        <lastName>Johnson</lastName>
+        <state>GA</state>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Henry</firstName>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+          <lisID>1843</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C. "Hank"</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>M000404</bioguideId>
+        <sponsorshipDate>2015-01-06</sponsorshipDate>
+        <district>7</district>
+        <lastName>MCDERMOTT</lastName>
+        <state>WA</state>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JIM</firstName>
+        <identifiers>
+          <bioguideId>M000404</bioguideId>
+          <gpoId>8211</gpoId>
+          <lisID>766</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>S000185</bioguideId>
+        <sponsorshipDate>2015-01-06</sponsorshipDate>
+        <district>3</district>
+        <lastName>Scott</lastName>
+        <state>VA</state>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <identifiers>
+          <lisID>1037</lisID>
+          <bioguideId>S000185</bioguideId>
+          <gpoId>8194</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C. "Bobby"</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Home Foreclosure Reduction Act of 2015</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend title 11 of the United States Code with respect to modification of certain mortgages on principal residences, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Home Foreclosure Reduction Act of 2015</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

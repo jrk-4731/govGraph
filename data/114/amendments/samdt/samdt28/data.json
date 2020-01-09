@@ -1,0 +1,170 @@
+{
+  "actions": [
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "Record Vote Number: 26", 
+          "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00026"
+        }, 
+        {
+          "name": "S.Amdt.28", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/28"
+        }, 
+        {
+          "name": "SA 28", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/28"
+        }
+      ], 
+      "references": [], 
+      "text": "Motion to table amendment SA 28 agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.28", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/28"
+        }, 
+        {
+          "name": "S400-401", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S400-401"
+        }, 
+        {
+          "name": "S401", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S401"
+        }, 
+        {
+          "name": "S406-407", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S406-407"
+        }, 
+        {
+          "name": "SA 2", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/2"
+        }, 
+        {
+          "name": "SA 28", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/28"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment SA 28 proposed by Senator Whitehouse to Amendment SA 2. (consideration: CR S400-401, S406-407; text: CR S401) To require campaign finance disclosures for certain persons benefitting from tar sands development.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "97000", 
+      "links": [
+        {
+          "name": "Record Vote Number: 26", 
+          "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=1&vote=00026"
+        }, 
+        {
+          "name": "S.Amdt.28", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/28"
+        }, 
+        {
+          "name": "SA 28", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/28"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in Senate: Motion to table amendment SA 28 agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 26.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-22", 
+      "action_code": "93000", 
+      "links": [
+        {
+          "name": "S.Amdt.28", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/28"
+        }, 
+        {
+          "name": "S400-401", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S400-401"
+        }, 
+        {
+          "name": "S401", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S401"
+        }, 
+        {
+          "name": "S406-407", 
+          "url": "https://www.congress.gov/congressional-record/volume-161/senate-section/page/S406-407"
+        }, 
+        {
+          "name": "SA 2", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/2"
+        }, 
+        {
+          "name": "SA 28", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/28"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S400-401, S406-407", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S401", 
+          "type": "text"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 28 proposed by Senator Whitehouse to Amendment SA 2.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2015-01-13", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt28-114", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2-114", 
+    "amendment_type": "samdt", 
+    "congress": 114, 
+    "description": null, 
+    "number": 2, 
+    "purpose": "In the nature of a substitute."
+  }, 
+  "amends_bill": {
+    "bill_id": "s1-114", 
+    "bill_type": "s", 
+    "congress": 114, 
+    "number": 1
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "114", 
+  "description": null, 
+  "introduced_at": "2015-01-13", 
+  "number": 28, 
+  "proposed_at": "2015-01-22T05:00:00Z", 
+  "purpose": "To require campaign finance disclosures for certain persons benefitting from tar sands development.", 
+  "sponsor": {
+    "bioguide_id": "W000802", 
+    "district": null, 
+    "name": "Whitehouse, Sheldon", 
+    "state": "RI", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2015-01-13", 
+  "updated_at": "2019-02-27T14:40:26Z"
+}

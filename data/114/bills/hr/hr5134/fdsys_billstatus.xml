@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2016-04-30T04:50:44Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2016-04-29</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2016-04-29</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2016-04-29</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2016-04-29</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2016-04-29</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-02-06T19:37:33Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-04-29T13:03:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-04-29T13:03:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <district>8</district>
+        <state>NJ</state>
+        <bioguideId>S001165</bioguideId>
+        <middleName />
+        <lastName>Sires</lastName>
+        <sponsorshipDate>2016-04-29</sponsorshipDate>
+        <firstName>Albio</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <district>23</district>
+        <state>FL</state>
+        <bioguideId>W000797</bioguideId>
+        <middleName />
+        <lastName>Wasserman Schultz</lastName>
+        <sponsorshipDate>2016-04-29</sponsorshipDate>
+        <firstName>Debbie</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2235</lisID>
+          <bioguideId>C001107</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <state>FL</state>
+        <bioguideId>C001107</bioguideId>
+        <middleName />
+        <lastName>Curbelo</lastName>
+        <sponsorshipDate>2016-04-29</sponsorshipDate>
+        <firstName>Carlos</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>7893</gpoId>
+          <bioguideId>D000600</bioguideId>
+          <lisID>1717</lisID>
+        </identifiers>
+        <district>25</district>
+        <state>FL</state>
+        <bioguideId>D000600</bioguideId>
+        <middleName />
+        <lastName>Diaz-Balart</lastName>
+        <sponsorshipDate>2016-04-29</sponsorshipDate>
+        <firstName>Mario</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-21]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+        </identifiers>
+        <district>21</district>
+        <state>FL</state>
+        <bioguideId>D000610</bioguideId>
+        <middleName>E.</middleName>
+        <lastName>Deutch</lastName>
+        <sponsorshipDate>2016-04-29</sponsorshipDate>
+        <firstName>Theodore</firstName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <lastName>ROS-LEHTINEN</lastName>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <bioguideId>R000435</bioguideId>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <gpoId>7890</gpoId>
+          <lisID>985</lisID>
+        </identifiers>
+        <firstName>ILEANA</firstName>
+        <byRequestType />
+        <district>27</district>
+        <middleName />
+        <state>FL</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills>
+      <item>
+        <number>2845</number>
+        <congress>114</congress>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2016-07-15</actionDate>
+          <text>Became Public Law No: 114-194.</text>
+        </latestAction>
+        <latestTitle>Venezuela Defense of Human Rights and Civil Society Extension Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 67 (Friday, April 29, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 5134.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution[Page H2150]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Venezuela Defense of Human Rights and Civil Society Extension Act of 2016</title>
+    <billNumber>5134</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2016-04-29</introducedDate>
+    <textVersions>
+      <item>
+        <date>2016-04-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5134ih/xml/BILLS-114hr5134ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Venezuela Defense of Human Rights and Civil Society Extension Act of 2016</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To extend the termination of sanctions with respect to Venezuela under the Venezuela Defense of Human Rights and Civil Society Act of 2014.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Venezuela Defense of Human Rights and Civil Society Extension Act of 2016</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2016-04-29</actionDate>
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Foreign property</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Venezuela</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2016-04-29</actionDate>
+          <text><![CDATA[<p><strong>Venezuela Defense of Human Rights and Civil Society Extension Act of 2016</strong></p> <p>This bill amends the Venezuela Defense of Human Rights and Civil Society Act of 2014 to extend through December 31, 2019, provisions requiring the President to impose sanctions against individuals in Venezuela who are responsible for human rights violations.</p>]]></text>
+          <lastSummaryUpdateDate>2016-05-20T20:54:08Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2016-04-29T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

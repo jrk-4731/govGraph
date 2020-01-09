@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-06-12T04:57:14Z</createDate>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-11</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2019-06-11</actionDate>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Kyrsten</firstName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001191</bioguideId>
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <state>AZ</state>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-06-11</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>3204</number>
+        <latestTitle>Nogales Wastewater Fairness Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+          <actionDate>2019-06-11</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-06-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1783is/xml/BILLS-116s1783is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-06-11</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>AZ</state>
+        <bioguideId>M001197</bioguideId>
+        <lastName>McSally</lastName>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <byRequestType />
+        <firstName>Martha</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-11T19:09:57Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <chamberName />
+        <title>A bill to establish responsibility for the International Outfall Interceptor.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Nogales Wastewater Fairness Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Nogales Wastewater Fairness Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Nogales Wastewater Fairness Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <billNumber>1783</billNumber>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-06-27T03:54:19Z</updateDate>
+    <title>Nogales Wastewater Fairness Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

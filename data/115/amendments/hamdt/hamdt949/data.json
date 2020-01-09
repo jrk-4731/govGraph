@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-07-18T22:53:28-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.949", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/949"
+        }, 
+        {
+          "name": "Roll no. 362", 
+          "url": "http://clerk.house.gov/evs/2018/roll362.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 362, 
+      "text": "On agreeing to the McHenry amendment (A080) Failed by recorded vote: 201 - 212 (Roll no. 362).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-07-18T21:23:27-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.949", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/949"
+        }, 
+        {
+          "name": "H6540", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6540"
+        }, 
+        {
+          "name": "H6540-6542", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6540-6542"
+        }, 
+        {
+          "name": "H6553-6554", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6553-6554"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6540-6542, H6553-6554", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6540", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A080) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-18", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-18T21:23:27-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.949", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/949"
+        }, 
+        {
+          "name": "H6540", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6540"
+        }, 
+        {
+          "name": "H6540-6542", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6540-6542"
+        }, 
+        {
+          "name": "H6553-6554", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H6553-6554"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6540-6542, H6553-6554", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6540", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A080) offered by Mr. McHenry.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-18T22:53:28-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.949", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/949"
+        }, 
+        {
+          "name": "Roll no. 362", 
+          "url": "http://clerk.house.gov/evs/2018/roll362.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-18T22:53:28-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.949", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/949"
+        }, 
+        {
+          "name": "Roll no. 362", 
+          "url": "http://clerk.house.gov/evs/2018/roll362.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-18T22:53:28-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.949", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/949"
+        }, 
+        {
+          "name": "Roll no. 362", 
+          "url": "http://clerk.house.gov/evs/2018/roll362.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the McHenry amendment (A080) Failed by recorded vote: 201 - 212 (Roll no. 362).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-18", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt949-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr6147-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 6147
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to prohibit any taxpayer funds from going to support the Post Service's efforts to (1) expand or enhance financial services products, or (2) carry out any pilot programs or task forces pursuant to that end.", 
+  "introduced_at": "2018-07-18", 
+  "number": 949, 
+  "purpose": "An amendment numbered 87 printed in House Report 115-830 to prohibit any taxpayer funds from going to support the Post Service's efforts to (1) expand or enhance financial services products, or (2) carry out any pilot programs or task forces pursuant to that end.", 
+  "sponsor": {
+    "bioguide_id": "M001156", 
+    "district": "10", 
+    "name": "McHenry, Patrick T.", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2018-07-18T22:53:28-04:00", 
+  "updated_at": "2019-06-13T18:31:43Z"
+}

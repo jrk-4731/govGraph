@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>114</congress>
+    <notes />
+    <updateDate>2018-06-02T06:59:07Z</updateDate>
+    <laws />
+    <createDate>2015-08-06T08:30:21Z</createDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <firstName>Cory</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Gardner</lastName>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2015-08-05</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <state>CO</state>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To authorize 2 additional district judgeships for the district of Colorado.</latestTitle>
+        <number>2919</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2015-07-09</actionDate>
+          <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+        </latestAction>
+        <congress>114</congress>
+      </item>
+    </relatedBills>
+    <billNumber>1962</billNumber>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2015-08-05</actionDate>
+    </latestAction>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2015-08-05T19:42:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <title>A bill to authorize 2 additional district judgeships for the district of Colorado.</title>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-08-14T20:37:31Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-08-05</actionDate>
+          <updateDate>2015-08-05T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This bill requires the President to appoint, with the advice and consent of the Senate,&nbsp;two additional district judges for the district of Colorado.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2015-08-05</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Federal district courts</name>
+          </item>
+          <item>
+            <name>Judges</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to authorize 2 additional district judgeships for the district of Colorado.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to authorize 2 additional district judgeships for the district of Colorado.</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <bioguideId>B001267</bioguideId>
+        <middleName>F.</middleName>
+        <firstName>Michael</firstName>
+        <state>CO</state>
+        <byRequestType />
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+        </identifiers>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-08-05</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2015-08-05</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

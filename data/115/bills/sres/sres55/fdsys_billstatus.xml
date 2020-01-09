@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <middleName />
+        <firstName>Dan</firstName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+        <lastName>Sullivan</lastName>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+          <lisID>2290</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AK</state>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <party>D</party>
+        <lastName>Gillibrand</lastName>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <createDate>2017-02-08T08:07:46Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <party>R</party>
+        <state>AK</state>
+        <lastName>Murkowski</lastName>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>M001153</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+        <actionDate>2017-02-17</actionDate>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-02-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-02-17</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1416</url>
+            <name>S1416</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1416)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1416)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1416</url>
+            <name>S1416</name>
+          </link>
+        </links>
+        <actionDate>2017-02-17</actionDate>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S870-871</url>
+            <name>S870-871</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S870-871)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-02-07</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <billType>SRES</billType>
+    <billNumber>55</billNumber>
+    <updateDate>2019-04-18T16:55:20Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments>
+      <amendment>
+        <number>191</number>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2017-02-17</actionDate>
+          <text>Amendment SA 191 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <congress>115</congress>
+        <purpose>To improve the resolution.</purpose>
+        <purpose>To improve the resolution.</purpose>
+        <createDate>2017-02-18T10:14:44Z</createDate>
+        <congress>115</congress>
+        <amendedBill>
+          <title>A resolution recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</title>
+          <congress>115</congress>
+          <number>55</number>
+          <originChamberCode>S</originChamberCode>
+          <originChamber>Senate</originChamber>
+          <type>SRES</type>
+        </amendedBill>
+        <description />
+        <updateDate>2019-04-18T16:55:20Z</updateDate>
+        <sponsors>
+          <item>
+            <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+            <party>R</party>
+            <state>AK</state>
+            <lastName>Murkowski</lastName>
+            <firstName>Lisa</firstName>
+            <middleName />
+            <identifiers>
+              <bioguideId>M001153</bioguideId>
+              <gpoId>8234</gpoId>
+              <lisID>1694</lisID>
+            </identifiers>
+            <bioguideId>M001153</bioguideId>
+          </item>
+        </sponsors>
+        <submittedDate>2017-02-17T05:00:00Z</submittedDate>
+        <links />
+        <version>1.0.0</version>
+        <actions>
+          <actionTypeCounts>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2017-02-17</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.191</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/191</url>
+                </link>
+                <link>
+                  <name>SA 191</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/191</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 191 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-02-17</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.191</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/191</url>
+                </link>
+                <link>
+                  <name>S1416</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1416</url>
+                </link>
+                <link>
+                  <name>SA 191</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/191</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 191 proposed by Senator Cornyn for Senator Murkowski. (consideration: S1416; text: CR S1416) To improve the resolution.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-02-17</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-02-17</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 191 proposed by Senator Cornyn for Senator Murkowski.(consideration: S1416; text: CR S1416)</text>
+              <committee />
+              <actionCode>93000</actionCode>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>S.Amdt.191</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/191</url>
+                </link>
+                <link>
+                  <name>S1416</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1416</url>
+                </link>
+                <link>
+                  <name>SA 191</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/191</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-02-17</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 191 agreed to in Senate by Unanimous Consent.</text>
+              <committee />
+              <actionCode>94000</actionCode>
+              <type>Floor</type>
+              <links>
+                <link>
+                  <name>S.Amdt.191</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/191</url>
+                </link>
+                <link>
+                  <name>SA 191</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/191</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2017-02-17</actionDate>
+              <text>Senate amendment submitted</text>
+              <committee />
+              <actionCode>91000</actionCode>
+              <type>Floor</type>
+              <links />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+            </item>
+          </actions>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <count>6</count>
+        </actions>
+        <type>SAMDT</type>
+        <amendedAmendment />
+        <proposedDate>2017-02-17T05:00:00Z</proposedDate>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <number>191</number>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <chamber>Senate</chamber>
+        <titles />
+        <notes />
+        <description />
+      </amendment>
+    </amendments>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-17T18:56:47Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-02-07T17:20:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>Recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-02-10</actionDate>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+        </latestAction>
+        <number>110</number>
+        <type>HRES</type>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-02-07</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres55ats/xml/BILLS-115sres55ats.xml</url>
+          </item>
+        </formats>
+        <date>2017-02-17T05:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sres55is/xml/BILLS-115sres55is.xml</url>
+          </item>
+        </formats>
+        <date>2017-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>A resolution recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Recognizes the centennial anniversary of the establishment of Denali National Park and Preserve, Alaska. </p> <p>Designates February 26, 2017, as Denali National Park and Preserve Day. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-03-16T19:31:58Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-07</actionDate>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Recognizes the centennial anniversary of the establishment of Denali National Park and Preserve, Alaska. </p> <p>Designates February 26, 2017, as Denali National Park and Preserve Day</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-03-16T19:32:39Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-17</actionDate>
+          <updateDate>2017-02-17T15:35:21Z</updateDate>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+      <actionDate>2017-02-17</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

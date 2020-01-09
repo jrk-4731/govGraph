@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2016-09-13T05:17:12Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2016-09-12</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2016-09-12</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2016-09-12</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>S001197</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <lastName>Sasse</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+        </identifiers>
+        <middleName />
+        <state>NE</state>
+        <party>R</party>
+        <firstName>Ben</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>CO-OP Consumer Protection Act of 2016</b></p> <p> This bill amends the Internal Revenue Code to exempt from penalties for failing to purchase and maintain minimum essential health care coverage individuals whose coverage under a plan offered by a qualified nonprofit health insurance issuer receiving funds through the Consumer Operated and Oriented Plan program was terminated. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2016-09-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDate>2016-09-12</actionDate>
+          <lastSummaryUpdateDate>2016-11-16T21:22:31Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <firstName>ROB</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <sponsorshipDate>2016-09-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+        </identifiers>
+        <bioguideId>P000449</bioguideId>
+        <party>R</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>PORTMAN</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <sponsorshipDate>2016-09-12</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <party>R</party>
+        <state>AR</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cotton</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <sponsorshipDate>2016-09-12</sponsorshipDate>
+        <identifiers>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <bioguideId>M000303</bioguideId>
+        <party>R</party>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCAIN</lastName>
+        <middleName>SIDNEY</middleName>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <sponsorshipDate>2016-09-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1609</lisID>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+        </identifiers>
+        <bioguideId>V000127</bioguideId>
+        <party>R</party>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Vitter</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>MARK</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+        </identifiers>
+        <bioguideId>K000360</bioguideId>
+        <party>R</party>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>KIRK</lastName>
+        <middleName>STEVEN</middleName>
+      </item>
+      <item>
+        <firstName>Dean</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <sponsorshipDate>2016-09-27</sponsorshipDate>
+        <identifiers>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+          <bioguideId>H001041</bioguideId>
+        </identifiers>
+        <bioguideId>H001041</bioguideId>
+        <party>R</party>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Heller</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <bioguideId>B001261</bioguideId>
+        <party>R</party>
+        <state>WY</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Barrasso</lastName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-09-12T22:16:51Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <introducedDate>2016-09-12</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <title>CO-OP Consumer Protection Act of 2016</title>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2016-09-29</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 653.</text>
+        </latestAction>
+        <number>954</number>
+        <latestTitle>CO-OP Consumer Protection Act of 2016</latestTitle>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <billNumber>3311</billNumber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>CO-OP Consumer Protection Act of 2016</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to exempt individuals whose health plans under the Consumer Operated and Oriented Plan program have been terminated from the individual mandate penalty.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>CO-OP Consumer Protection Act of 2016</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-06-02T07:48:00Z</updateDate>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

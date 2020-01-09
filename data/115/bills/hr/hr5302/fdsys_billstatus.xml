@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-03-29</actionDate>
+        <committee>
+          <systemCode>hswm01</systemCode>
+          <name>Social Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-03-15</actionDate>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-03-15</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-03-15</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title II of the Social Security Act to provide that an individual's entitlement to any benefit thereunder shall continue through the month of his or her death (without affecting any other person's entitlement to benefits for that month) and that such individual's benefit shall be payable for such month only to the extent proportionate to the number of days in such month preceding the date of such individual's death.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Benefit Adjustment of Social Security Income Compensation Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>BASIC Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>BASIC Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>BASIC Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Benefit Adjustment of Social Security Income Compensation Act</title>
+      </item>
+    </titles>
+    <title>BASIC Act</title>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <actionDate>2018-03-29</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <firstName>PETER</firstName>
+        <party>D</party>
+        <lastName>DEFAZIO</lastName>
+        <district>4</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T16:21:16Z</updateDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>BASIC Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-08-03</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <number>1739</number>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-03-29T18:08:52Z</date>
+                </item>
+              </activities>
+              <name>Social Security Subcommittee</name>
+              <systemCode>hswm01</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-03-15T14:01:40Z</date>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2018-03-16T07:11:00Z</createDate>
+    <introducedDate>2018-03-15</introducedDate>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>5302</billNumber>
+    <cosponsors>
+      <item>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001227</bioguideId>
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+        </identifiers>
+        <district>1</district>
+        <firstName>ROBERT</firstName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <lastName>BRADY</lastName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001068</bioguideId>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <district>9</district>
+        <firstName>Steve</firstName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <lastName>Cohen</lastName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001166</bioguideId>
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <firstName>Jerry</firstName>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <lastName>McNerney</lastName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <firstName>ELEANOR</firstName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000551</bioguideId>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <district>3</district>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <lastName>Grijalva</lastName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000469</bioguideId>
+        <identifiers>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <district>20</district>
+        <firstName>Paul</firstName>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <lastName>Tonko</lastName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000410</bioguideId>
+        <identifiers>
+          <lisID>462</lisID>
+          <bioguideId>G000410</bioguideId>
+          <gpoId>8185</gpoId>
+        </identifiers>
+        <district>29</district>
+        <firstName>GENE</firstName>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <lastName>GREEN</lastName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000002</bioguideId>
+        <identifiers>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <firstName>JERROLD</firstName>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <lastName>NADLER</lastName>
+        <sponsorshipDate>2018-03-15</sponsorshipDate>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 46 (Thursday, March 15, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeFAZIO:H.R. 5302.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 (relating to the power tomake all laws necessary and proper for carrying out thepowers vested in Congress)[Page H1652]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5302ih/xml/BILLS-115hr5302ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-03-15T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

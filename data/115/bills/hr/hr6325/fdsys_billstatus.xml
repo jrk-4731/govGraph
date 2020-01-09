@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-07-11T07:11:04Z</createDate>
+    <introducedDate>2018-07-10</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-08-06</actionDate>
+        <committee>
+          <name>Immigration and Citizenship Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2018-07-10</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-07-10</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-07-10</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <actionDate>2018-08-06</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-02-26T20:04:02Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2018-07-10T04:00:00Z</updateDate>
+          <actionDate>2018-07-10</actionDate>
+          <text><![CDATA[<p><b>Continue American Safety Act (CASA)</b></p> <p>This bill extends temporary protected status (TPS) for certain designated countries until January 21, 2021. It also grants TPS to nationals of Guatemala who meet certain requirements for 18 months after the enactment of this bill. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>6325</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+        </identifiers>
+        <bioguideId>J000032</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <state>TX</state>
+        <lastName>JACKSON LEE</lastName>
+        <byRequestType />
+        <district>18</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:25:52Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6325ih/xml/BILLS-115hr6325ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-07-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 115 (Tuesday, July 10, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JACKSON LEE:H.R. 6325.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clauses 4 of the UnitedStates Constitution.[Page H6041]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-10T16:01:45Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-08-06T18:03:53Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <bioguideId>C001084</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName>N.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <lastName>Cicilline</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <bioguideId>P000604</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Donald</firstName>
+        <lastName>Payne</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>J000298</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Pramila</firstName>
+        <lastName>Jayapal</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000187</bioguideId>
+          <lisID>1205</lisID>
+          <gpoId>7840</gpoId>
+        </identifiers>
+        <bioguideId>W000187</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <district>43</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>MAXINE</firstName>
+        <lastName>WATERS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001038</bioguideId>
+          <gpoId>8068</gpoId>
+          <lisID>1604</lisID>
+        </identifiers>
+        <bioguideId>C001038</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOSEPH</firstName>
+        <lastName>CROWLEY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+          <lisID>1843</lisID>
+        </identifiers>
+        <bioguideId>J000288</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName>C. "Hank"</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Henry</firstName>
+        <lastName>Johnson</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <bioguideId>M001143</bioguideId>
+        <party>D</party>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BETTY</firstName>
+        <lastName>MCCOLLUM</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2342</lisID>
+          <bioguideId>E000297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>E000297</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Adriano</firstName>
+        <lastName>Espaillat</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <gpoId>7924</gpoId>
+          <lisID>478</lisID>
+        </identifiers>
+        <bioguideId>G000535</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <middleName>V.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>LUIS</firstName>
+        <lastName>GUTIERREZ</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+          <lisID>2332</lisID>
+        </identifiers>
+        <bioguideId>R000606</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jamie</firstName>
+        <lastName>Raskin</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <bioguideId>S001200</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <sponsorshipDate>2018-10-16</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To extend the period of designation for certain countries for purposes of providing temporary protected status to nationals of those countries, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Continue American Safety Act (CASA)</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Continue American Safety Act (CASA)</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Continue American Safety Act (CASA)</title>
+      </item>
+    </titles>
+    <title>Continue American Safety Act (CASA)</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

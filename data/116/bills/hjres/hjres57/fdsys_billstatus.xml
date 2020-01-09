@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>57</billNumber>
+    <congress>116</congress>
+    <createDate>2019-05-09T07:27:15Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-31</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2019-05-08</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-05-08</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-05-08</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-31T17:15:42Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-08T14:01:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-06-14T07:15:26Z</updateDate>
+    <introducedDate>2019-05-08</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H3502-H3503]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHIFF:H.J. Res. 57.[[Page H3503]]Congress has the power to enact this legislation pursuantto the following:The power granted to Congress under Article I, Section 8 ofthe United States Constitution.____________________</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-05-31</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Proposing an amendment to the Constitution of the United States relating to the authority of Congress and the States to regulate contributions and expenditures in political campaigns and to enact public financing systems for such campaigns.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Proposing an amendment to the Constitution of the United States relating to the authority of Congress and the States to regulate contributions and expenditures in political campaigns and to enact public financing systems for such campaigns.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hjres57ih/xml/BILLS-116hjres57ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-05-08T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>HJRES</billType>
+    <cosponsors>
+      <item>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>Salud</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <lisID>2310</lisID>
+          <bioguideId>C001112</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001112</bioguideId>
+        <middleName>O.</middleName>
+        <lastName>Carbajal</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>24</district>
+        <party>D</party>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+      </item>
+      <item>
+        <state>MN</state>
+        <firstName>BETTY</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <bioguideId>M001143</bioguideId>
+        <middleName />
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+      </item>
+      <item>
+        <state>OR</state>
+        <firstName>EARL</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <bioguideId>B000574</bioguideId>
+        <middleName />
+        <lastName>BLUMENAUER</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <party>D</party>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+      </item>
+      <item>
+        <state>VT</state>
+        <firstName>Peter</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+        </identifiers>
+        <bioguideId>W000800</bioguideId>
+        <middleName />
+        <lastName>Welch</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <party>D</party>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>JANICE</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <bioguideId>S001145</bioguideId>
+        <middleName>D.</middleName>
+        <lastName>SCHAKOWSKY</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+      </item>
+      <item>
+        <state>TN</state>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <lastName>Cohen</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>JOSE</firstName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+        </identifiers>
+        <bioguideId>S000248</bioguideId>
+        <middleName>E.</middleName>
+        <lastName>SERRANO</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <party>D</party>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <bioguideId>T000472</bioguideId>
+        <middleName />
+        <lastName>Takano</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>41</district>
+        <party>D</party>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+      </item>
+      <item>
+        <state>OR</state>
+        <firstName>PETER</firstName>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <lastName>DEFAZIO</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+      </item>
+      <item>
+        <state>MN</state>
+        <firstName>Dean</firstName>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2413</lisID>
+          <bioguideId>P000616</bioguideId>
+        </identifiers>
+        <bioguideId>P000616</bioguideId>
+        <middleName />
+        <lastName>Phillips</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>D</party>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Susan</firstName>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <identifiers>
+          <lisID>2374</lisID>
+          <bioguideId>W000826</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000826</bioguideId>
+        <middleName />
+        <lastName>Wild</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+      </item>
+      <item>
+        <state>NM</state>
+        <firstName>Debra</firstName>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2423</lisID>
+          <gpoId />
+          <bioguideId>H001080</bioguideId>
+        </identifiers>
+        <bioguideId>H001080</bioguideId>
+        <middleName>A.</middleName>
+        <lastName>Haaland</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>Julia</firstName>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001285</bioguideId>
+        <middleName />
+        <lastName>Brownley</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>26</district>
+        <party>D</party>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>ZOE</firstName>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <bioguideId>L000397</bioguideId>
+        <middleName />
+        <lastName>LOFGREN</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+        <party>D</party>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>ADAM</firstName>
+        <lastName>SCHIFF</lastName>
+        <district>28</district>
+        <party>D</party>
+        <byRequestType />
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <middleName>B.</middleName>
+        <bioguideId>S001150</bioguideId>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <title>Proposing an amendment to the Constitution of the United States relating to the authority of Congress and the States to regulate contributions and expenditures in political campaigns and to enact public financing systems for such campaigns.</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

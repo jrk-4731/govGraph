@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-12</actionDate>
+        <committee>
+          <systemCode>hspw02</systemCode>
+          <name>Water Resources and Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionDate>2019-07-11</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-07-11</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-07-11</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <title>Commemorating the unofficial start of the inland waterway system navigation season and the role of the Corps of Engineers in facilitating access and increasing efficiencies in the American agricultural and trade economy.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Commemorating the unofficial start of the inland waterway system navigation season and the role of the Corps of Engineers in facilitating access and increasing efficiencies in the American agricultural and trade economy.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2019-07-12T07:12:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <date>2019-07-12T19:40:42Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water Resources and Environment Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2019-07-11T14:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2412</lisID>
+          <bioguideId>C001119</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <lastName>Craig</lastName>
+        <party>D</party>
+        <district>2</district>
+        <state>MN</state>
+        <bioguideId>C001119</bioguideId>
+        <firstName>Angie</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-07-11</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Commemorating the unofficial start of the inland waterway system navigation season and the role of the Corps of Engineers in facilitating access and increasing efficiencies in the American agricultural and trade economy.</title>
+    <cosponsors>
+      <item>
+        <state>IL</state>
+        <middleName />
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Rodney</firstName>
+        <lastName>Davis</lastName>
+        <bioguideId>D000619</bioguideId>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipDate>2019-07-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <middleName />
+        <district>16</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <lastName>Kelly</lastName>
+        <bioguideId>K000376</bioguideId>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+        </identifiers>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <sponsorshipDate>2019-07-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>IL</state>
+        <middleName />
+        <district>12</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mike</firstName>
+        <lastName>Bost</lastName>
+        <bioguideId>B001295</bioguideId>
+        <identifiers>
+          <lisID>2243</lisID>
+          <bioguideId>B001295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <sponsorshipDate>2019-07-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>IA</state>
+        <middleName />
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Abby</firstName>
+        <lastName>Finkenauer</lastName>
+        <bioguideId>F000467</bioguideId>
+        <identifiers>
+          <bioguideId>F000467</bioguideId>
+          <lisID>2394</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Finkenauer, Abby [D-IA-1]</fullName>
+        <sponsorshipDate>2019-07-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>IL</state>
+        <middleName>William</middleName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Daniel</firstName>
+        <lastName>Lipinski</lastName>
+        <bioguideId>L000563</bioguideId>
+        <identifiers>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+          <lisID>1781</lisID>
+        </identifiers>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <sponsorshipDate>2019-07-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <district>12</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Troy</firstName>
+        <lastName>Balderson</lastName>
+        <bioguideId>B001306</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001306</bioguideId>
+          <lisID>2370</lisID>
+        </identifiers>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <sponsorshipDate>2019-07-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+      </item>
+      <item>
+        <state>IA</state>
+        <middleName />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <lastName>Loebsack</lastName>
+        <bioguideId>L000565</bioguideId>
+        <identifiers>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+          <gpoId>7915</gpoId>
+        </identifiers>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <sponsorshipDate>2019-07-11</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <middleName />
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BETTY</firstName>
+        <lastName>MCCOLLUM</lastName>
+        <bioguideId>M001143</bioguideId>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <middleName />
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RON</firstName>
+        <lastName>KIND</lastName>
+        <bioguideId>K000188</bioguideId>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-07-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres484ih/xml/BILLS-116hres484ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <updateDate>2019-07-19T07:39:41Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-12</actionDate>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-07-11T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-07-11</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-07-18T19:40:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution (1) recognizes the start of the inland waterway system navigation season, (2) acknowledges the work of the U.S. Army Corps of Engineers in maintaining the inland waterway system as vital to the nation's economy, (3) recognizes that more than 78% of the locks and dams operated by the Corps on the system are well beyond their 50-year design life, and (4) expresses that investment in the inland waterway system is needed and would significantly impact the competitiveness of American commodities in international markets.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Army Corps of Engineers</name>
+          </item>
+          <item>
+            <name>Commodities markets</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Dams and canals</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Navigation, waterways, harbors</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>484</billNumber>
+    <constitutionalAuthorityStatementText />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-06T06:10:14Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S871-872</url>
+            <name>S871-872</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S871-872)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Barrasso. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-05</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Barrasso. Without written report.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-02-05</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billNumber>46</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-05T21:51:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Rules and Administration Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <activities>
+            <item>
+              <date>2019-02-05T21:51:23Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Environment and Public Works Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <latestAction>
+      <actionDate>2019-02-05</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S871-872)</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-05T05:00:00Z</updateDate>
+          <actionDate>2019-02-05</actionDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Environment and Public Works for the 116th Congress.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-02-15T23:20:38Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <updateDate>2019-02-05T13:41:09Z</updateDate>
+          <actionDate>2019-02-05</actionDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Environment and Public Works for the 116th Congress.</p>]]></text>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-02-15T23:20:21Z</lastSummaryUpdateDate>
+          <name>Reported to Senate</name>
+          <versionCode>25</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>An original resolution authorizing expenditures by the Committee on Environment and Public Works.</latestTitle>
+        <latestAction>
+          <text>Referred to the Committee on Rules and Administration. (text: CR S869-870)</text>
+          <actionDate>2019-02-05</actionDate>
+        </latestAction>
+        <type>SRES</type>
+        <number>41</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-11T15:42:25Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Environment and Public Works</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Committee on Environment and Public Works.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Committee on Environment and Public Works.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-02-05</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres46is/xml/BILLS-116sres46is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-05T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <lastName>Barrasso</lastName>
+        <state>WY</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>John</firstName>
+        <bioguideId>B001261</bioguideId>
+        <middleName />
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>An original resolution authorizing expenditures by the Committee on Environment and Public Works.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

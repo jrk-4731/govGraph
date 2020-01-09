@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <date>2018-09-17T15:27:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-09-17T17:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To designate the community-based outpatient clinic of the Department of Veterans Affairs in Lake Charles, Louisiana, as the "Douglas Fournet Department of Veterans Affairs Clinic".</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>To designate the community-based outpatient clinic of the Department of Veterans Affairs in Lake Charles, Louisiana, as the "Douglas Fournet Department of Veterans Affairs Clinic".</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <actions>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionDate>2018-09-17</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-09-17</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2018-09-17</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2018-09-17</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 154 (Monday, September 17, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIGGINS of Louisiana:H.R. 6839.Congress has the power to enact this legislation pursuantto the following:Clause 18 of Section 8 of Article 1 of the Constitution[Page H8732]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <amendments />
+    <updateDate>2019-05-21T18:05:36Z</updateDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2018-09-17T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6839ih/xml/BILLS-115hr6839ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>To designate the community-based outpatient clinic of the Department of Veterans Affairs in Lake Charles, Louisiana, as the "Douglas Fournet Department of Veterans Affairs Clinic".</title>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill designates the Department of Veterans Affairs community-based outpatient clinic in Lake Charles, Louisiana, as the "Douglas Fournet Department of Veterans Affairs Clinic."</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-05-21T14:01:28Z</lastSummaryUpdateDate>
+          <actionDate>2018-09-17</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2018-09-17T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs in Lake Charles, Louisiana, as the "Douglas Fournet Department of Veterans Affairs Clinic".</latestTitle>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Became Public Law No: 115-421.</text>
+        </latestAction>
+        <type>S</type>
+        <number>3444</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Louisiana</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <lastName>Higgins</lastName>
+        <district>3</district>
+        <bioguideId>H001077</bioguideId>
+        <middleName />
+        <identifiers>
+          <lisID>2329</lisID>
+          <bioguideId>H001077</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <firstName>Clay</firstName>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <party>R</party>
+        <state>LA</state>
+      </item>
+    </sponsors>
+    <createDate>2018-09-18T07:10:47Z</createDate>
+    <latestAction>
+      <actionDate>2018-09-17</actionDate>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <links />
+    </latestAction>
+    <billNumber>6839</billNumber>
+    <laws />
+    <introducedDate>2018-09-17</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>117</billNumber>
+    <congress>116</congress>
+    <createDate>2019-02-09T08:10:14Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H2263-2264)</text>
+        <actionCode>B00100</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-27</actionDate>
+        <links>
+          <link>
+            <name>H2263-2264</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2263-2264</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2019-02-11</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-08</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-11T20:56:43Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:04:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-06-14T07:14:14Z</updateDate>
+    <introducedDate>2019-02-08</introducedDate>
+    <constitutionalAuthorityStatementText />
+    <latestAction>
+      <actionDate>2019-02-27</actionDate>
+      <links />
+      <text>Sponsor introductory remarks on measure. (CR H2263-2264)</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Expressing support for health and wellness coaches.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Expressing support for health and wellness coaches.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres117ih/xml/BILLS-116hres117ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>HRES</billType>
+    <cosponsors>
+      <item>
+        <firstName>Markwayne</firstName>
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001190</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>Mullin</lastName>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OK</state>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Jamie</firstName>
+        <district>8</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>Raskin</lastName>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <middleName />
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DC</state>
+        <middleName>HOLMES</middleName>
+      </item>
+      <item>
+        <firstName>PETER</firstName>
+        <district>4</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000191</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <identifiers>
+          <lisID>279</lisID>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <firstName>Scott</firstName>
+        <district>52</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000608</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>Peters</lastName>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <middleName>H.</middleName>
+      </item>
+      <item>
+        <firstName>CAROLYN</firstName>
+        <district>12</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000087</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>MALONEY</lastName>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <firstName>TIM</firstName>
+        <district>13</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>RYAN</lastName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <middleName />
+      </item>
+      <item>
+        <firstName>MIKE</firstName>
+        <district>18</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000482</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>DOYLE</lastName>
+        <fullName>Rep. Doyle, Michael F. [D-PA-18]</fullName>
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <district>9</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>Cohen</lastName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Vicente</firstName>
+        <district>15</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000581</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>Gonzalez</lastName>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <identifiers>
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <middleName />
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <firstName>GRACE</firstName>
+        <district>32</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>NAPOLITANO</lastName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <firstName>LLOYD</firstName>
+        <district>35</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000399</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>DOGGETT</lastName>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <identifiers>
+          <lisID>303</lisID>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Brett</firstName>
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000558</bioguideId>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <lastName>Guthrie</lastName>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <identifiers>
+          <bioguideId>G000558</bioguideId>
+          <lisID>1922</lisID>
+          <gpoId>7954</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>KY</state>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Vern</firstName>
+        <district>16</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001260</bioguideId>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <lastName>Buchanan</lastName>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <identifiers>
+          <bioguideId>B001260</bioguideId>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <middleName />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>Donald</firstName>
+        <lastName>Payne</lastName>
+        <district>10</district>
+        <party>D</party>
+        <byRequestType />
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <state>NJ</state>
+        <middleName>M.</middleName>
+        <bioguideId>P000604</bioguideId>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <title>Expressing support for health and wellness coaches.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This resolution expresses support for the efforts of health and wellness coaches.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-08</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-02-21T19:47:18Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-08T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

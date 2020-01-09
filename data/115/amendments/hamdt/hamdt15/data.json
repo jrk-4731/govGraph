@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-10T17:48:37-05:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.15", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/15"
+        }, 
+        {
+          "name": "Roll no. 30", 
+          "url": "http://clerk.house.gov/evs/2017/roll030.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 30, 
+      "text": "On agreeing to the Clay amendment Failed by recorded vote: 163 - 253 (Roll no. 30).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-01-10T15:07:45-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.15", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/15"
+        }, 
+        {
+          "name": "H265", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H265"
+        }, 
+        {
+          "name": "H265-266", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H265-266"
+        }, 
+        {
+          "name": "H281-282", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H281-282"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H265-266, H281-282", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H265", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A002) offered by Mr. Clay.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-10", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-10T15:07:45-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.15", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/15"
+        }, 
+        {
+          "name": "H265", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H265"
+        }, 
+        {
+          "name": "H265-266", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H265-266"
+        }, 
+        {
+          "name": "H281-282", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H281-282"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H265-266, H281-282", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H265", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A002) offered by Mr. Clay.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-10T17:48:37-05:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.15", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/15"
+        }, 
+        {
+          "name": "Roll no. 30", 
+          "url": "http://clerk.house.gov/evs/2017/roll030.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Clay amendment Failed by recorded vote: 163 - 253 (Roll no. 30).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-10", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-10T17:48:37-05:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.15", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/15"
+        }, 
+        {
+          "name": "Roll no. 30", 
+          "url": "http://clerk.house.gov/evs/2017/roll030.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-10T17:48:37-05:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.15", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/15"
+        }, 
+        {
+          "name": "Roll no. 30", 
+          "url": "http://clerk.house.gov/evs/2017/roll030.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt15-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr79-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 79
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to limit the types of fees \"demo day\" sponsors can collect and require an issuer to be a real business.", 
+  "introduced_at": "2017-01-10", 
+  "number": 15, 
+  "purpose": "An amendment numbered 2 printed in Part B of House Report 115-2 to limit the types of fees \"demo day\" sponsors can collect and require an issuer to be a real business.", 
+  "sponsor": {
+    "bioguide_id": "C001049", 
+    "district": "1", 
+    "name": "Clay, Wm. Lacy", 
+    "state": "MO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2017-01-10T17:48:37-05:00", 
+  "updated_at": "2019-04-18T16:47:05Z"
+}

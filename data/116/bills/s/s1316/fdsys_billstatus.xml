@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-02T20:28:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-05-02</introducedDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <laws />
+    <updateDate>2019-06-18T09:21:57Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-05-03T04:42:12Z</createDate>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <lastName>Murphy</lastName>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CT</state>
+        <bioguideId>M001169</bioguideId>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2618-2619</url>
+            <name>S2618-2619</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services. (text: CR S2618-2619)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <actionDate>2019-05-02</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to require the Secretary of Defense to award grants to fund research on orthotics and prosthetics, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Wounded Warrior Research Enhancement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Wounded Warrior Research Enhancement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Wounded Warrior Research Enhancement Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <billNumber>1316</billNumber>
+    <committeeReports />
+    <title>Wounded Warrior Research Enhancement Act</title>
+    <latestAction>
+      <actionDate>2019-05-02</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services. (text: CR S2618-2619)</text>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-05-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1316is/xml/BILLS-116s1316is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-05-22</actionDate>
+          <text>Referred to the House Committee on Armed Services.</text>
+        </latestAction>
+        <number>2907</number>
+        <latestTitle>Wounded Warrior Research Enhancement Act</latestTitle>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <middleName>J.</middleName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+        <lastName>DURBIN</lastName>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

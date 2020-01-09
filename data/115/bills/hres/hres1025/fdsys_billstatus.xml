@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <middleName />
+        <district>41</district>
+        <lastName>Takano</lastName>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000472</bioguideId>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres1025ih/xml/BILLS-115hres1025ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-07-24T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <updateDate>2019-04-18T15:55:48Z</updateDate>
+    <congress>115</congress>
+    <billNumber>1025</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2018-07-24</actionDate>
+          <lastSummaryUpdateDate>2018-09-06T20:18:23Z</lastSummaryUpdateDate>
+          <updateDate>2018-07-24T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses support for policies that provide necessary resources to maintain a robust Veterans Health Administration (VHA) and create integrated veterans health care networks.</p> <p>Expresses opposition to policies that would move resources from the VHA to the private sector.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HRES</billType>
+    <constitutionalAuthorityStatementText />
+    <originChamber>House</originChamber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-07-24T18:33:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-24T14:02:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+        <firstName>Raul</firstName>
+        <lastName>Grijalva</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>AZ</state>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+      </item>
+      <item>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <lastName>Pocan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>WI</state>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+      </item>
+      <item>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipDate>2018-09-06</sponsorshipDate>
+        <firstName>Gwen</firstName>
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>WI</state>
+        <district>4</district>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-07-24</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsvr03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2018-07-24</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Expressing support for policies that maintain a robust, fully-funded and staffed Veterans Health Administration of the Department of Veterans Affairs and do not jeopardize care for veterans by moving essential resources to the private sector.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Expressing support for policies that maintain a robust, fully-funded and staffed Veterans Health Administration of the Department of Veterans Affairs and do not jeopardize care for veterans by moving essential resources to the private sector.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <introducedDate>2018-07-24</introducedDate>
+    <title>Expressing support for policies that maintain a robust, fully-funded and staffed Veterans Health Administration of the Department of Veterans Affairs and do not jeopardize care for veterans by moving essential resources to the private sector.</title>
+    <latestAction>
+      <actionDate>2018-07-24</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <notes />
+    <relatedBills />
+    <version>1.0.0</version>
+    <createDate>2018-07-25T07:10:52Z</createDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

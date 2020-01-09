@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <placeholderTextForH>1</placeholderTextForH>
+        <considerationByHouse>1</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-26</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionTime>16:50:47</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionTime>16:50:43</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2053-2054</url>
+            <name>H2053-2054</name>
+          </link>
+        </links>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2053-2054)</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionTime>16:50:43</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2053-2054</url>
+            <name>H2053-2054</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2053-2054)</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionTime>16:45:36</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/116th-congress/house-bill/525</url>
+            <name>H.R. 525</name>
+          </link>
+        </links>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 525.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionTime>16:45:33</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H2053-2055</url>
+            <name>H2053-2055</name>
+          </link>
+        </links>
+        <text>Considered under suspension of the rules. (consideration: CR H2053-2055)</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-02-25</actionDate>
+        <actionTime>16:45:08</actionTime>
+        <links />
+        <text>Mr. Engel moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-01-25</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-01-11</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XI of the Social Security Act to direct the Secretary of Health and Human Services to establish a public-private partnership for purposes of identifying health care waste, fraud, and abuse.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Strengthening the Health Care Fraud Prevention Task Force Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Strengthening the Health Care Fraud Prevention Task Force Act of 2019</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Strengthening the Health Care Fraud Prevention Task Force Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Strengthening the Health Care Fraud Prevention Task Force Act of 2019</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Strengthening the Health Care Fraud Prevention Task Force Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000791</bioguideId>
+          <lisID>1596</lisID>
+          <gpoId>8115</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>GREG</firstName>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <bioguideId>W000791</bioguideId>
+        <state>OR</state>
+        <district>2</district>
+        <lastName>WALDEN</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <updateDate>2019-07-19T23:45:07Z</updateDate>
+    <billNumber>525</billNumber>
+    <createDate>2019-01-12T08:10:16Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WALDEN:H.R. 525.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H520]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-01-11T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-11</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-07-19T23:36:13Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Strengthening the Health Care Fraud Prevention Task Force Act of 2019</b></p> <p>This bill establishes statutory authority and requirements for a partnership between health insurance plans, government agencies, law enforcement, and health care organizations in order to detect and prevent health care waste, fraud, and abuse. The partnership must be established under the Health Care Fraud and Abuse Control Program, which is administered by the Department of Health and Human Services (HHS) and the Department of Justice (DOJ). Among other requirements, the partnership must (1) promote data sharing between partners, (2) analyze data to identify fraudulent practices, (3) refer potential criminal cases to law enforcement, and (4) conduct education and outreach.</p> <p>Currently, HHS and DOJ administer the Healthcare Fraud Prevention Partnership. The purpose of the partnership is to address health care fraud through voluntary data sharing between public and private sectors; the partnership was created in 2012 through agency action. The bill transfers all functions, personnel, assets, liabilities, and administrative actions of this partnership to the partnership established under the bill. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2019-02-26T20:41:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-01-25T16:19:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-11T14:05:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-11T14:05:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-02-26</actionDate>
+    </latestAction>
+    <laws />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <firstName>FRANK</firstName>
+        <state>NJ</state>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>PALLONE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000034</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+      </item>
+      <item>
+        <firstName>KEVIN</firstName>
+        <state>TX</state>
+        <middleName />
+        <district>8</district>
+        <identifiers>
+          <gpoId>8164</gpoId>
+          <bioguideId>B000755</bioguideId>
+          <lisID>1468</lisID>
+        </identifiers>
+        <party>R</party>
+        <lastName>BRADY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000755</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+      </item>
+      <item>
+        <firstName>RICHARD</firstName>
+        <state>MA</state>
+        <middleName>E.</middleName>
+        <district>1</district>
+        <identifiers>
+          <lisID>854</lisID>
+          <bioguideId>N000015</bioguideId>
+          <gpoId>7967</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>NEAL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000015</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-01-11</sponsorshipDate>
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr525rfs/xml/BILLS-116hr525rfs.xml</url>
+          </item>
+        </formats>
+        <type>Referred in Senate</type>
+        <date>2019-02-26T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr525eh/xml/BILLS-116hr525eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2019-02-25T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr525ih/xml/BILLS-116hr525ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-11T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2019-01-11</introducedDate>
+    <cboCostEstimates />
+    <title>Strengthening the Health Care Fraud Prevention Task Force Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

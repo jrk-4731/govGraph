@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <becamePublicLaw>2</becamePublicLaw>
+        <placeholderTextForH>1</placeholderTextForH>
+        <presentedToPresident>1</presentedToPresident>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <placeholderTextForE>3</placeholderTextForE>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInSenate>1</introducedInSenate>
+        <billReferrals>2</billReferrals>
+        <considerationByHouse>1</considerationByHouse>
+        <generalDebate>1</generalDebate>
+      </actionTypeCounts>
+      <item>
+        <text>Became Public Law No: 115-92.</text>
+        <type>President</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4374/text/pl</url>
+            <name>Public Law No: 115-92</name>
+          </link>
+        </links>
+        <actionCode>E40000</actionCode>
+        <actionDate>2017-12-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Became Public Law No: 115-92.</text>
+        <type>BecameLaw</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4374/text/pl</url>
+            <name>Public Law No: 115-92</name>
+          </link>
+        </links>
+        <actionCode>36000</actionCode>
+        <actionDate>2017-12-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <type>President</type>
+        <links />
+        <actionCode>E30000</actionCode>
+        <actionDate>2017-12-12</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Signed by President.</text>
+        <type>BecameLaw</type>
+        <links />
+        <actionCode>36000</actionCode>
+        <actionDate>2017-12-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <type>Floor</type>
+        <links />
+        <actionCode>E20000</actionCode>
+        <actionDate>2017-11-30</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Presented to President.</text>
+        <type>President</type>
+        <links />
+        <actionCode>28000</actionCode>
+        <actionDate>2017-11-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7270</url>
+            <name>S7270</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S7270)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7270)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S7270</url>
+            <name>S7270</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <actionDate>2017-11-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-11-15</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate, read twice.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>16:16:14</actionTime>
+        <links />
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-11-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9297-9298)</text>
+        <actionTime>16:16:12</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9297-9298</url>
+            <name>H9297-9298</name>
+          </link>
+        </links>
+        <actionCode>H37300</actionCode>
+        <actionDate>2017-11-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9297-9298)</text>
+        <actionTime>16:16:12</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9297-9298</url>
+            <name>H9297-9298</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <actionDate>2017-11-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4374.</text>
+        <actionTime>15:56:29</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4374</url>
+            <name>H.R. 4374</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-11-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H9297-9300)</text>
+        <actionTime>15:56:28</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H9297-9300</url>
+            <name>H9297-9300</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-11-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <text>Mr. Walden moved to suspend the rules and pass the bill.</text>
+        <actionTime>15:56:20</actionTime>
+        <links />
+        <actionCode>H30300</actionCode>
+        <actionDate>2017-11-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-11-14</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-13</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-11-13</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-11-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-11-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Federal Food, Drug, and Cosmetic Act to authorize additional emergency uses for medical products to reduce deaths and severity of injuries caused by agents of war, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To amend the Federal Food, Drug, and Cosmetic Act to authorize additional emergency uses for medical products to reduce deaths and severity of injuries caused by agents of war, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1596</lisID>
+          <bioguideId>W000791</bioguideId>
+          <gpoId>8115</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>GREG</firstName>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <bioguideId>W000791</bioguideId>
+        <state>OR</state>
+        <district>2</district>
+        <lastName>WALDEN</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <updateDate>2019-07-15T21:58:14Z</updateDate>
+    <billNumber>4374</billNumber>
+    <createDate>2017-11-14T03:11:16Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 185 (Monday, November 13, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WALDEN:H.R. 4374.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution.[[Page H9179]][Page H9178]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-02-06T16:13:55Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>This bill amends the Federal Food, Drug, and Cosmetic Act to allow the Food and Drug Administration (FDA)&nbsp;to authorize&nbsp;the emergency use of an otherwise unapproved&nbsp;medical product if the Department of Defense (DOD)&nbsp;determines that there is a military emergency involving an agent that may cause imminently life-threatening and specific risk to U.S. forces. If a military emergency is determined to exist, the bill allows DOD to request that the FDA&nbsp;expedite certain procedures for approving medical&nbsp;products that would be reasonably likely to diagnose, prevent, treat, or mitigate such risk.&nbsp;The FDA&nbsp;must take specified&nbsp;actions to facilitate such a request by DOD.</p> <p>The bill repeals provisions of the National Defense Authorization Act for Fiscal Year 2018 that allow DOD, rather than the FDA,&nbsp;to authorize the emergency use of an unapproved product under similar circumstances.</p> <p>Unless DOD determines&nbsp;such meetings to be unnecessary, the FDA shall meet with&nbsp;DOD:&nbsp;(1) semi-annually to conduct a full review of relevant medical products in the DOD portfolio; and (2) quarterly to discuss the development status of regenerative medicine advanced therapy, blood, and vaccine medical products and projects that DOD prioritizes. </p>]]></text>
+          <actionDate>2017-11-13</actionDate>
+          <updateDate>2017-11-13T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <lastSummaryUpdateDate>2018-02-09T17:19:01Z</lastSummaryUpdateDate>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) This bill amends the Federal Food, Drug, and Cosmetic Act to allow the Food and Drug Administration (FDA)&nbsp;to authorize&nbsp;the emergency use of an otherwise unapproved&nbsp;medical product if the Department of Defense (DOD)&nbsp;determines that there is a military emergency involving an agent that may cause imminently life-threatening and specific risk to U.S. forces. If a military emergency is determined to exist, the bill allows DOD to request that the FDA&nbsp;expedite certain procedures for approving medical&nbsp;products that would be reasonably likely to diagnose, prevent, treat, or mitigate such risk.&nbsp;The FDA&nbsp;must take specified&nbsp;actions to facilitate such a request by DOD.</p> <p>The bill repeals provisions of the National Defense Authorization Act for Fiscal Year 2018 that allow DOD, rather than the FDA,&nbsp;to authorize the emergency use of an unapproved product under similar circumstances.</p> <p>Unless DOD determines&nbsp;such meetings to be unnecessary, the FDA shall meet with&nbsp;DOD:&nbsp;(1) semi-annually to conduct a full review of relevant medical products in the DOD portfolio; and (2) quarterly to discuss the development status of regenerative medicine advanced therapy, blood, and vaccine medical products and projects that DOD prioritizes. </p>]]></text>
+          <actionDate>2017-11-15</actionDate>
+          <updateDate>2017-11-15T17:09:01Z</updateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2018-02-09T17:21:00Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)</p> <p>(Sec. 1) This bill amends the Federal Food, Drug, and Cosmetic Act to allow the Food and Drug Administration (FDA)&nbsp;to authorize&nbsp;the emergency use of an otherwise unapproved&nbsp;medical product if the Department of Defense (DOD)&nbsp;determines that there is a military emergency involving an agent that may cause imminently life-threatening and specific risk to U.S. forces. If a military emergency is determined to exist, the bill allows DOD to request that the FDA&nbsp;expedite certain procedures for approving medical&nbsp;products that would be reasonably likely to diagnose, prevent, treat, or mitigate such risk.&nbsp;The FDA&nbsp;must take specified&nbsp;actions to facilitate such a request by DOD.</p> <p>The bill repeals provisions of the National Defense Authorization Act for Fiscal Year 2018 that allow DOD, rather than the FDA,&nbsp;to authorize the emergency use of an unapproved product under similar circumstances.</p> <p>Unless DOD determines&nbsp;such meetings to be unnecessary, the FDA shall meet with&nbsp;DOD:&nbsp;(1) semi-annually to conduct a full review of relevant medical products in the DOD portfolio; and (2) quarterly to discuss the development status of regenerative medicine advanced therapy, blood, and vaccine medical products and projects that DOD prioritizes. </p>]]></text>
+          <actionDate>2017-11-16</actionDate>
+          <updateDate>2017-11-16T14:08:25Z</updateDate>
+        </item>
+        <item>
+          <versionCode>49</versionCode>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2018-02-09T17:23:21Z</lastSummaryUpdateDate>
+          <name>Public Law</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.)</p> <p>(Sec. 1) This bill amends the Federal Food, Drug, and Cosmetic Act to allow the Food and Drug Administration (FDA)&nbsp;to authorize&nbsp;the emergency use of an otherwise unapproved&nbsp;medical product if the Department of Defense (DOD)&nbsp;determines that there is a military emergency involving an agent that may cause imminently life-threatening and specific risk to U.S. forces. If a military emergency is determined to exist, the bill allows DOD to request that the FDA&nbsp;expedite certain procedures for approving medical&nbsp;products that would be reasonably likely to diagnose, prevent, treat, or mitigate such risk.&nbsp;The FDA&nbsp;must take specified&nbsp;actions to facilitate such a request by DOD.</p> <p>The bill repeals provisions of the National Defense Authorization Act for Fiscal Year 2018 that allow DOD, rather than the FDA,&nbsp;to authorize the emergency use of an unapproved product under similar circumstances.</p> <p>Unless DOD determines&nbsp;such meetings to be unnecessary, the FDA shall meet with&nbsp;DOD:&nbsp;(1) semi-annually to conduct a full review of relevant medical products in the DOD portfolio; and (2) quarterly to discuss the development status of regenerative medicine advanced therapy, blood, and vaccine medical products and projects that DOD prioritizes. </p>]]></text>
+          <actionDate>2017-12-12</actionDate>
+          <updateDate>2017-12-13T04:59:58Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-11-14T20:19:00Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-13T17:00:48Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-13T17:00:43Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <links>
+        <link>
+          <url>https://www.congress.gov/bill/115th-congress/house-bill/4374/text/pl</url>
+          <name>Public Law No: 115-92</name>
+        </link>
+      </links>
+      <text>Became Public Law No: 115-92.</text>
+      <actionDate>2017-12-12</actionDate>
+    </latestAction>
+    <laws>
+      <item>
+        <number>115-92</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Blood and blood diseases</name>
+          </item>
+          <item>
+            <name>Chemical and biological weapons</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Immunology and vaccination</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4374enr/xml/BILLS-115hr4374enr.xml</url>
+          </item>
+        </formats>
+        <type>Enrolled Bill</type>
+        <date />
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4374rds/xml/BILLS-115hr4374rds.xml</url>
+          </item>
+        </formats>
+        <type>Received in Senate</type>
+        <date>2017-11-15T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4374eh/xml/BILLS-115hr4374eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2017-11-15T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4374ih/xml/BILLS-115hr4374ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2017-11-13T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2017-11-13</introducedDate>
+    <cboCostEstimates />
+    <title>To amend the Federal Food, Drug, and Cosmetic Act to authorize additional emergency uses for medical products to reduce deaths and severity of injuries caused by agents of war, and for other purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

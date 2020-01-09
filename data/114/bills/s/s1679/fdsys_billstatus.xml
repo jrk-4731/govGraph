@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-06-26T09:12:13Z</createDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2016-09-13T14:30:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-25T14:47:52Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <systemCode>sssb00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2016-06-30T14:00:00Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Northern Mariana Islands</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>Virgin Islands</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <introducedDate>2015-06-25</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2016-09-13</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 114-451.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-06-30</actionDate>
+        <committee>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <systemCode>sssb00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-06-25</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-06-25</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>2</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <type>HR</type>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2016-05-09</actionDate>
+        </latestAction>
+        <number>2901</number>
+        <latestTitle>Flood Insurance Market Parity and Modernization Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>1679</billNumber>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <updateDate>2015-06-25T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-11-24T18:19:37Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-06-25</actionDate>
+          <text><![CDATA[<p><b>Flood Insurance Market Parity and Modernization Act</b></p> <p>This bill amends the Flood Disaster Protection Act of 1973 to make technical amendments to requirements for flood insurance under either the federal program or private flood insurance.</p> <p>"Private flood insurance" shall include any policy issued by an insurance company eligible as a nonadmitted insurer to provide flood insurance in the state or jurisdiction where the property to be insured is located.</p> <p>The flood insurance program under the Act, including both private and federal flood insurance, shall extend to Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.</p> <p>The National Flood Insurance Act of 1968 is amended to direct the Federal Emergency Management Agency to consider any period during which a property was continuously covered by private flood insurance to be a period of continuous insurance coverage.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-08-16T23:11:03Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-06-25</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Tester</lastName>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <state>ID</state>
+        <bioguideId>C000880</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-21</sponsorshipDate>
+        <middleName>D.</middleName>
+        <identifiers>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>CRAPO</lastName>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <state>AR</state>
+        <bioguideId>B001236</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-08</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+      </item>
+      <item>
+        <firstName>ROGER</firstName>
+        <state>MS</state>
+        <bioguideId>W000437</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-21</sponsorshipDate>
+        <middleName>F.</middleName>
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>WICKER</lastName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+      </item>
+      <item>
+        <firstName>Marco</firstName>
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-09</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+      </item>
+      <item>
+        <firstName>ROB</firstName>
+        <state>OH</state>
+        <bioguideId>P000449</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-23</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>PORTMAN</lastName>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+      </item>
+      <item>
+        <firstName>Thad</firstName>
+        <state>MS</state>
+        <bioguideId>C000567</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-22</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>C000567</bioguideId>
+          <lisID>213</lisID>
+          <gpoId>8292</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Cochran</lastName>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <state>IN</state>
+        <bioguideId>D000607</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-19</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+          <lisID>1850</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Donnelly</lastName>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+      </item>
+      <item>
+        <firstName>JEFF</firstName>
+        <state>AZ</state>
+        <bioguideId>F000444</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>FLAKE</lastName>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+      </item>
+      <item>
+        <firstName>Rand</firstName>
+        <state>KY</state>
+        <bioguideId>P000603</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-11-15</sponsorshipDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Paul</lastName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2016-09-13</actionDate>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 114-451.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+        </identifiers>
+        <bioguideId>H001041</bioguideId>
+        <party>R</party>
+        <state>NV</state>
+        <firstName>Dean</firstName>
+        <middleName />
+        <lastName>Heller</lastName>
+        <byRequestType />
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+      </item>
+    </sponsors>
+    <title>Flood Insurance Market Parity and Modernization Act</title>
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Flood Insurance Market Parity and Modernization Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Flood Disaster Protection Act of 1973 to require that certain buildings and personal property be covered by flood insurance, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Flood Insurance Market Parity and Modernization Act</title>
+      </item>
+    </titles>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

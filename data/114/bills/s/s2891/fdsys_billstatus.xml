@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <item>
+        <actionTime>11:54:28</actionTime>
+        <text>Held at the desk.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H15000</actionCode>
+        <links />
+        <actionDate>2016-05-27</actionDate>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>10:02:55</actionTime>
+        <text>Received in the House.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H14000</actionCode>
+        <links />
+        <actionDate>2016-05-27</actionDate>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2016-05-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2016-05-26</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/senate-section/page/S3377-3378</url>
+            <name>S3377-3378</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/senate-section/page/S3378</url>
+            <name>S3378</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S3377-3378; text as passed Senate: CR S3378)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3377-3378; text as passed Senate: CR S3378)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/senate-section/page/S3377-3378</url>
+            <name>S3377-3378</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/senate-section/page/S3378</url>
+            <name>S3378</name>
+          </link>
+        </links>
+        <actionDate>2016-05-26</actionDate>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2016-05-25</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 487.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2016-05-25</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. Without written report.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <links />
+        <actionDate>2016-05-25</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2016-05-25</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-04-28</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2016-04-28</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <orderedReported>1</orderedReported>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <sentToHouse>1</sentToHouse>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>2891</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[Designates the facility of the United States Postal Service located at 525 North Broadway in Aurora, Illinois, as the "Kenneth M. Christy Post Office Building."]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2016-04-28T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDate>2016-04-28</actionDate>
+          <lastSummaryUpdateDate>2016-04-29T08:10:39Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to designate the facility of the United States Postal Service located at 525 North Broadway in Aurora, Illinois, as the "Kenneth M. Christy Post Office Building".</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to designate the facility of the United States Postal Service located at 525 North Broadway in Aurora, Illinois, as the "Kenneth M. Christy Post Office Building".</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0487</number>
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2016-05-25T21:29:43Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2016-05-25T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2016-04-28T21:38:31Z</date>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2018-06-02T07:18:29Z</updateDate>
+    <title>A bill to designate the facility of the United States Postal Service located at 525 North Broadway in Aurora, Illinois, as the "Kenneth M. Christy Post Office Building".</title>
+    <congress>114</congress>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Illinois</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <actionTime>11:54:28</actionTime>
+      <actionDate>2016-05-27</actionDate>
+      <links />
+      <text>Held at the desk.</text>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <middleName>STEVEN</middleName>
+        <bioguideId>K000360</bioguideId>
+        <identifiers>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2016-04-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>MARK</firstName>
+        <lastName>KIRK</lastName>
+      </item>
+    </cosponsors>
+    <createDate>2016-04-29T05:37:03Z</createDate>
+    <introducedDate>2016-04-28</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <byRequestType />
+        <middleName>J.</middleName>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To designate the facility of the United States Postal Service located at 525 N Broadway in Aurora, Illinois, as the "Kenneth M. Christy Post Office Building".</latestTitle>
+        <number>4960</number>
+        <latestAction>
+          <text>Became Public Law No: 114-193.</text>
+          <actionDate>2016-07-15</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

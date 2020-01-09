@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Duckworth</lastName>
+        <sponsorshipDate>2018-07-30</sponsorshipDate>
+        <party>D</party>
+        <firstName>Tammy</firstName>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>D000622</bioguideId>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Tester</lastName>
+        <sponsorshipDate>2018-09-06</sponsorshipDate>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cortez Masto</lastName>
+        <sponsorshipDate>2018-09-12</sponsorshipDate>
+        <party>D</party>
+        <firstName>Catherine</firstName>
+        <identifiers>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+          <lisID>2299</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>C001113</bioguideId>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gardner</lastName>
+        <sponsorshipDate>2018-09-18</sponsorshipDate>
+        <party>R</party>
+        <firstName>Cory</firstName>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>G000562</bioguideId>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+      </item>
+    </cosponsors>
+    <createDate>2018-07-31T04:25:47Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <party>R</party>
+        <state>MT</state>
+        <lastName>Daines</lastName>
+        <firstName>Steve</firstName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>D000618</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2018-08-15</actionDate>
+        <committee>
+          <name>National Parks Subcommittee</name>
+          <systemCode>sseg04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-07-30</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S5457</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5457</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S5457; text of measure as introduced: CR S5457)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2018-07-30</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>3298</billNumber>
+    <updateDate>2019-04-18T16:44:58Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>sseg04</systemCode>
+              <activities>
+                <item>
+                  <date>2018-08-15T20:00:46Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>National Parks Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-07-30T22:31:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills />
+    <introducedDate>2018-07-30</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3298is/xml/BILLS-115s3298is.xml</url>
+          </item>
+        </formats>
+        <date>2018-07-30T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Vietnam Veterans Memorial Visitor Center Extension Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to extend the authority of the Vietnam Veterans Memorial Fund, Inc., to establish a visitor center for the Vietnam Veterans Memorial.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Vietnam Veterans Memorial Visitor Center Extension Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Vietnam Veterans Memorial Visitor Center Extension Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Vietnam Veterans Memorial Visitor Center Extension Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <actionDate>2018-08-15</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

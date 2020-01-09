@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <state>NM</state>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001046</bioguideId>
+        <firstName>Martin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2018-02-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <state>HI</state>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001042</bioguideId>
+        <firstName>Mazie</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <createDate>2018-02-18T21:46:30Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <party>D</party>
+        <state>WA</state>
+        <lastName>CANTWELL</lastName>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>C000127</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-15</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2018-02-15</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>2445</billNumber>
+    <updateDate>2019-04-18T16:41:42Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-02-15T21:01:03Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Energy and Natural Resources Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>1460</number>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+          <actionDate>2017-09-19</actionDate>
+        </latestAction>
+        <type>S</type>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To require the Secretary of Energy to initiate the development of voluntary model pathways for modernizing the electric grid, and for other purposes.</latestTitle>
+        <congress>115</congress>
+        <number>3290</number>
+        <latestAction>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+          <actionDate>2017-07-18</actionDate>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <introducedDate>2018-02-15</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2445is/xml/BILLS-115s2445is.xml</url>
+          </item>
+        </formats>
+        <date>2018-02-15T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Grid Modernization Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for the modernization of the electric grid, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Grid Modernization Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Grid Modernization Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Grid Modernization Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2018-02-15</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

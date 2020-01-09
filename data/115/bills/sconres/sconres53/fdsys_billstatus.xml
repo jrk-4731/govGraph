@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-11-30T05:25:19Z</createDate>
+    <introducedDate>2018-11-29</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2018-11-29</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7245</url>
+            <name>S7245</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S7245)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2018-11-29</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S7245)</text>
+      <actionDate>2018-11-29</actionDate>
+    </latestAction>
+    <title>A concurrent resolution honoring the 75th anniversary of the All-American Girls Professional Baseball League.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-01-30T20:41:55Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Honors the 75th anniversary of the All-American Girls Professional Baseball League.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2018-11-29</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2018-11-29T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>53</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <lastName>Warren</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115sconres53is/xml/BILLS-115sconres53is.xml</url>
+          </item>
+        </formats>
+        <date>2018-11-29T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <billType>SCONRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestTitle>Honoring the 75th anniversary of the All-American Girls Professional Baseball League (AAGPBL).</latestTitle>
+        <congress>115</congress>
+        <type>HCONRES</type>
+        <number>143</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+          <actionDate>2018-11-29</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-11-29T19:43:45Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <sponsorshipDate>2018-11-29</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+        <lastName>MARKEY</lastName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A concurrent resolution honoring the 75th anniversary of the All-American Girls Professional Baseball League.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A concurrent resolution honoring the 75th anniversary of the All-American Girls Professional Baseball League.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:29:17Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

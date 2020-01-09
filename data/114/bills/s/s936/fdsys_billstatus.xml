@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>936</billNumber>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-08-16T22:53:51Z</updateDate>
+    <committeeReports />
+    <amendments />
+    <actions>
+      <item>
+        <actionDate>2015-04-14</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-04-14</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>A bill to amend the Ohio &amp; Erie Canal National Heritage Canalway Act of 1996 to repeal the funding limitation.</title>
+    <relatedBills />
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2015-04-14T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Amends the Ohio &amp; Erie National Heritage Canalway Act of 1996 to repeal the limitation on the total amount that may be appropriated for the Ohio &amp; Erie National Heritage Canalway. </p>]]></text>
+          <lastSummaryUpdateDate>2015-07-10T18:20:51Z</lastSummaryUpdateDate>
+          <actionDate>2015-04-14</actionDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-14T22:01:49Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Ohio &amp; Erie Canal National Heritage Canalway Act of 1996 to repeal the funding limitation.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Ohio &amp; Erie Canal National Heritage Canalway Act of 1996 to repeal the funding limitation.</title>
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Dams and canals</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Ohio</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <cosponsors />
+    <latestAction>
+      <actionDate>2015-04-14</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <introducedDate>2015-04-14</introducedDate>
+    <billType>S</billType>
+    <calendarNumbers />
+    <createDate>2015-04-15T08:46:13Z</createDate>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <byRequestType />
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

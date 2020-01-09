@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:34:28Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2016-03-11T22:55:11Z</pubDate>
+        <url>https://www.cbo.gov/publication/51376</url>
+        <title>H.R. 4314, Counterterrorism Screening and Assistance Act of 2016</title>
+      </item>
+    </cboCostEstimates>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName>M.</middleName>
+        <byRequestType />
+        <district>1</district>
+        <firstName>Lee</firstName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <lastName>Zeldin</lastName>
+        <identifiers>
+          <lisID>2261</lisID>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <bioguideId>Z000017</bioguideId>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-04-04T20:30:48Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-01-05T19:00:48Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-02-03T20:35:39Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-01-05T19:00:43Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Border Security, Facilitation, and Operations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-01-07T20:08:10Z</date>
+                </item>
+              </activities>
+              <systemCode>hshm11</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2016-01-07T19:38:07Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2016-01-05T19:00:38Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2016-01-05</introducedDate>
+    <createDate>2016-01-06T09:47:50Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>18</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <considerationByHouse>2</considerationByHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>3</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>4</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-04-04</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionDate>2016-03-21</actionDate>
+        <links />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>18:52:08</actionTime>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 2 (Roll no. 130). (text: CR H1480-1482)</text>
+        <committee />
+        <actionDate>2016-03-21</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H1480-1482</url>
+            <name>H1480-1482</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2016/roll130.xml</url>
+            <name>Roll no. 130</name>
+          </link>
+        </links>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>18:52:07</actionTime>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 2 (Roll no. 130).(text: CR H1480-1482)</text>
+        <committee />
+        <actionDate>2016-03-21</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H1480-1482</url>
+            <name>H1480-1482</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2016/roll130.xml</url>
+            <name>Roll no. 130</name>
+          </link>
+        </links>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>18:52:07</actionTime>
+      </item>
+      <item>
+        <text>Considered as unfinished business. (consideration: CR H1491-1492)</text>
+        <committee />
+        <actionDate>2016-03-21</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H1491-1492</url>
+            <name>H1491-1492</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>18:32:40</actionTime>
+      </item>
+      <item>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <committee />
+        <actionDate>2016-03-21</actionDate>
+        <links />
+        <actionCode>H37220</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:02:11</actionTime>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4314.</text>
+        <committee />
+        <actionDate>2016-03-21</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/114th-congress/house-bill/4314</url>
+            <name>H.R. 4314</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:43:35</actionTime>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H1480-1484)</text>
+        <committee />
+        <actionDate>2016-03-21</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H1480-1484</url>
+            <name>H1480-1484</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:43:30</actionTime>
+      </item>
+      <item>
+        <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+        <committee />
+        <actionDate>2016-03-21</actionDate>
+        <links />
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>16:43:15</actionTime>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H656)</text>
+        <committee />
+        <actionDate>2016-02-10</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H656</url>
+            <name>H656</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-02-03</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-01-07</actionDate>
+        <committee>
+          <systemCode>hshm11</systemCode>
+          <name>Border Security, Facilitation, and Operations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-01-07</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-01-07</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Homeland Security, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2016-01-05</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Homeland Security, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <actionDate>2016-01-05</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Homeland Security, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionDate>2016-01-05</actionDate>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Homeland Security, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionDate>2016-01-05</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2016-01-05</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2016-01-05</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>6381</number>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2016-12-16</actionDate>
+          <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        </latestAction>
+        <latestTitle>DHS Reform and Improvement Act</latestTitle>
+      </item>
+    </relatedBills>
+    <billNumber>4314</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-01-05T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Counterterrorism Screening and Assistance Act of 2016</strong></p> <p>This bill expresses the sense of Congress that: (1) the U.S. government must ensure that capacity-building assistance to combat terrorist travel is coordinated among departments and agencies as well as with foreign implementing partners, and (2) such assistance should be prioritized for the highest-risk countries for travel by terrorists and foreign fighters. </p> <p>The Department of State shall submit to Congress biennially a foreign partner engagement plan that catalogues existing capacity-building initiatives abroad to combat travel by terrorists and foreign fighters and identifies areas for adjustment to align efforts with risk-based priorities. </p> <p>The Department of Homeland Security (DHS) and the State Department shall accelerate the provision of appropriate versions of the following systems to foreign governments: </p> <ul> <li>U.S. Customs and Border Protection's Automated Targeting System--Global, and </li> <li>the State Department's Personal Identification Secure Comparison and Evaluation System. </li> </ul> <p>DHS may provide, with specified exceptions, excess DHS nonlethal equipment and supplies (as well as related training) to a foreign government if that would: </p> <ul> <li>further U.S. homeland security interests; or </li> <li>enhance the recipient government's capacity to mitigate the threat of terrorism, infectious disease or natural disaster, protect lawful trade and travel, or enforce intellectual property rights.</li> </ul> <p>DHS shall: </p> <ul> <li>notify Congress before providing such systems, equipment, or supplies; and </li> <li>report to Congress annually through 2021 regarding foreign government efforts to combat terrorist and foreign fighter travel.</li> </ul>]]></text>
+          <lastSummaryUpdateDate>2016-03-22T15:48:00Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-01-05</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <updateDate>2016-03-21T14:38:14Z</updateDate>
+          <text><![CDATA[<p><strong>Counterterrorism Screening and Assistance Act of 2016</strong></p> <p>(Sec. 2) This bill expresses the sense of Congress that: (1) the U.S. government must ensure that capacity-building assistance to combat terrorist travel is coordinated among departments and agencies as well as with foreign implementing partners, and (2) such assistance should be prioritized for the highest-risk countries for travel by terrorists and foreign fighters. </p> <p>The Department of State shall submit to Congress biennially a foreign partner engagement plan that catalogues existing capacity-building initiatives abroad to combat travel by terrorists and foreign fighters and identifies areas for adjustment to align efforts with risk-based priorities. </p> <p> The plan shall be developed in coordination with all relevant U.S. government departments and agencies. </p> <p> The plan shall: </p> <ul> <li>include a risk assessment of each country that includes identification of the number of U.S.-bound flights that originate from last points of departure in the country, visa waiver program status or visa application and denial rates, and the country's overall terror threat environment; </li> <li>detail U.S. government programs and activities for building the country's capacity to combat travel by terrorists and foreign fighters, including estimated spending levels; and </li> <li>outline a plan for prioritizing U.S. government resources for high- and medium-risk countries. </li> </ul> <p>(Sec. 3) The Department of Homeland Security (DHS) and the State Department shall accelerate the provision of appropriate versions of the following systems to foreign governments: </p> <ul> <li>U.S. Customs and Border Protection's Automated Targeting System--Global, and </li> <li>the State Department's Personal Identification Secure Comparison and Evaluation System.</li> </ul> <p> Prioritization shall be given to high- and medium-risk countries.</p> <p>DHS may provide, with specified exceptions, excess DHS nonlethal equipment and supplies (as well as related training) to a foreign government if that would: </p> <ul> <li>further U.S. homeland security interests; and </li> <li>enhance the recipient government's capacity to mitigate the threat of terrorism, infectious disease or natural disaster, protect lawful trade and travel, or enforce intellectual property rights.</li> </ul> <p>DHS and the State Department shall notify Congress before providing such systems, equipment, or supplies.</p> <p> A notification shall include: </p> <ul> <li> the vulnerability to be mitigated; </li> <li> an explanation as to why the recipient is unable or unwilling to independently acquire such systems, equipment, or supplies;</li> <li>an evacuation plan for sensitive technologies; </li> <li> how the United States will ensure that such systems, equipment, or supplies are being used as intended; and </li> <li> the total dollar value involved.</li> </ul> <p>(Sec. 4) The State Department shall: (1) report to Congress annually through 2021 regarding foreign government efforts to combat terrorist and foreign fighter travel, and (2) incorporate the report into the annual country reports on terrorism.</p> <p> The State Department may suspend non-humanitarian, non-trade-related foreign assistance to a foreign country identified in such a report as a country to which the minimum standards for serious and sustained efforts to combat terrorist and foreign fighter travel are applicable but whose government is not fully complying with such standards and is not making significant efforts to bring itself into compliance.</p>  <p>(Sec. 6) No additional funds are authorized to be appropriated to carry out this Act.</p>]]></text>
+          <lastSummaryUpdateDate>2016-03-28T21:08:29Z</lastSummaryUpdateDate>
+          <name>Passed House amended</name>
+          <versionCode>36</versionCode>
+          <actionDate>2016-03-21</actionDate>
+          <actionDesc>Passed House amended</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes>
+      <recordedVote>
+        <congress>114</congress>
+        <url>http://clerk.house.gov/evs/2016/roll130.xml</url>
+        <rollNumber>130</rollNumber>
+        <date>2016-03-21T22:52:07Z</date>
+        <chamber>House</chamber>
+        <sessionNumber>2</sessionNumber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+      <links />
+      <actionDate>2016-04-04</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 2 (Tuesday, January 5, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ZELDIN:H.R. 4314.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the United States Constitution.[Page H14]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Counterterrorism Screening and Assistance Act of 2016</title>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <middleName />
+        <district>24</district>
+        <bioguideId>K000386</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+        </identifiers>
+        <lastName>Katko</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <firstName>Martha</firstName>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+        <bioguideId>M001197</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <lastName>McSally</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <firstName>Barry</firstName>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <middleName />
+        <district>11</district>
+        <bioguideId>L000583</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000583</bioguideId>
+          <lisID>2238</lisID>
+        </identifiers>
+        <lastName>Loudermilk</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <firstName>Will</firstName>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <middleName />
+        <district>23</district>
+        <bioguideId>H001073</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2269</lisID>
+          <gpoId />
+          <bioguideId>H001073</bioguideId>
+        </identifiers>
+        <lastName>Hurd</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <firstName>John</firstName>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <middleName />
+        <district>4</district>
+        <bioguideId>R000601</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+        </identifiers>
+        <lastName>Ratcliffe</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <firstName>Tulsi</firstName>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+        <bioguideId>G000571</bioguideId>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+          <lisID>2122</lisID>
+        </identifiers>
+        <lastName>Gabbard</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <firstName>Ralph</firstName>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <middleName>Lee</middleName>
+        <district>5</district>
+        <bioguideId>A000374</bioguideId>
+        <state>LA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000374</bioguideId>
+          <lisID>2244</lisID>
+        </identifiers>
+        <lastName>Abraham</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <firstName>Kyrsten</firstName>
+        <sponsorshipDate>2016-03-21</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <bioguideId>S001191</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Sinema</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2016-03-21</sponsorshipDate>
+        <middleName>T.</middleName>
+        <district>10</district>
+        <bioguideId>M001157</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+          <lisID>1804</lisID>
+        </identifiers>
+        <lastName>McCaul</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Customs enforcement</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+          <item>
+            <name>World health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Counterterrorism Screening and Assistance Act of 2016</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Counterterrorism Screening and Assistance Act of 2016</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To require a plan to combat international travel by terrorists and foreign fighters, accelerate the transfer of certain border security systems to foreign partner governments, establish minimum international border security standards, authorize the suspension of foreign assistance to countries not making significant efforts to comply with such minimum standards, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Counterterrorism Screening and Assistance Act of 2016</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

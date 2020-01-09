@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <actionDate>2019-07-17</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-07-17</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-07-17</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To modify the Federal TRIO programs.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To modify the Federal TRIO programs.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2296</lisID>
+          <gpoId />
+          <bioguideId>D000626</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Warren</firstName>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <bioguideId>D000626</bioguideId>
+        <state>OH</state>
+        <district>8</district>
+        <lastName>Davidson</lastName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <updateDate>2019-07-19T07:39:08Z</updateDate>
+    <billNumber>3800</billNumber>
+    <createDate>2019-07-18T07:12:10Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 120 (Wednesday, July 17, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. DAVIDSON of Ohio:H.R. 3800.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18: To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H6000]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-17T14:02:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Education and Labor.</text>
+      <actionDate>2019-07-17</actionDate>
+    </latestAction>
+    <laws />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <district>12</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000370</bioguideId>
+          <lisID>2201</lisID>
+        </identifiers>
+        <lastName>Adams</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000370</bioguideId>
+        <middleName>S.</middleName>
+        <state>NC</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>D</party>
+        <firstName>Alma</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <district>13</district>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <gpoId />
+          <lisID>2342</lisID>
+        </identifiers>
+        <lastName>Espaillat</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000297</bioguideId>
+        <middleName />
+        <state>NY</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>D</party>
+        <firstName>Adriano</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <district>4</district>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001160</bioguideId>
+        <middleName />
+        <state>WI</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>D</party>
+        <firstName>Gwen</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1590</lisID>
+          <gpoId>7920</gpoId>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <lastName>SIMPSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001148</bioguideId>
+        <middleName>K.</middleName>
+        <state>ID</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Thompson, Glenn [R-PA-15]</fullName>
+        <district>15</district>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+        </identifiers>
+        <lastName>Thompson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000467</bioguideId>
+        <middleName />
+        <state>PA</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>R</party>
+        <firstName>Glenn</firstName>
+      </item>
+    </cosponsors>
+    <policyArea />
+    <notes />
+    <textVersions />
+    <introducedDate>2019-07-17</introducedDate>
+    <cboCostEstimates />
+    <title>To modify the Federal TRIO programs.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

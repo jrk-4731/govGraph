@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2019-04-30</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-04-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-04-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <billNumber>2417</billNumber>
+    <sponsors>
+      <item>
+        <state>MA</state>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <party>D</party>
+        <bioguideId>M001196</bioguideId>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Seth</firstName>
+        <byRequestType />
+        <lastName>Moulton</lastName>
+        <district>6</district>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000466</bioguideId>
+        <district>1</district>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOSE</firstName>
+        <party>D</party>
+        <lastName>SERRANO</lastName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000248</bioguideId>
+        <district>15</district>
+        <identifiers>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sean</firstName>
+        <party>D</party>
+        <lastName>Maloney</lastName>
+        <middleName>Patrick</middleName>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001185</bioguideId>
+        <district>18</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joseph</firstName>
+        <party>D</party>
+        <lastName>Morelle</lastName>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001206</bioguideId>
+        <district>25</district>
+        <identifiers>
+          <lisID>2371</lisID>
+          <gpoId />
+          <bioguideId>M001206</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHEILA</firstName>
+        <party>D</party>
+        <lastName>JACKSON LEE</lastName>
+        <middleName />
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000032</bioguideId>
+        <district>18</district>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Josh</firstName>
+        <party>D</party>
+        <lastName>Harder</lastName>
+        <middleName />
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001090</bioguideId>
+        <district>10</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2377</lisID>
+          <bioguideId>H001090</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <party>D</party>
+        <lastName>Tonko</lastName>
+        <middleName />
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000469</bioguideId>
+        <district>20</district>
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>116</congress>
+    <laws />
+    <calendarNumbers />
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2417ih/xml/BILLS-116hr2417ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-30T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <title>HEADs UP Act</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Dental care</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-06-04T07:15:34Z</updateDate>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committeeReports />
+    <introducedDate>2019-04-30</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Public Health Service Act to expand and improve health care services by health centers and the National Health Service Corps for individuals with a developmental disability, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Healthcare Extension and Accessibility for Developmentally disabled and Underserved Population Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>HEADs UP Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>HEADs UP Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Healthcare Extension and Accessibility for Developmentally disabled and Underserved Population Act of 2019</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>HEADs UP Act</title>
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-30T14:00:49Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-05-01T07:12:10Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MOULTON:H.R. 2417.Congress has the power to enact this legislation pursuantto the following:Article 1 section 8 of the US Constitution.[Page H3341]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

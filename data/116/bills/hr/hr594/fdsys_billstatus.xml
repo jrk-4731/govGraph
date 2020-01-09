@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>594</billNumber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr594ih/xml/BILLS-116hr594ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <title>Ellie's Law</title>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-01-25</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-16</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2019-01-25</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>PETER</firstName>
+        <lastName>KING</lastName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <state>NY</state>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <bioguideId>K000210</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Gwen</firstName>
+        <lastName>Moore</lastName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <state>WI</state>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <bioguideId>M001160</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <state>DC</state>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>GREGORY</firstName>
+        <lastName>MEEKS</lastName>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <state>NY</state>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+          <lisID>1506</lisID>
+        </identifiers>
+        <bioguideId>M001137</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+        <lastName>Collins</lastName>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <state>NY</state>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>C001092</bioguideId>
+          <gpoId />
+          <lisID>2151</lisID>
+        </identifiers>
+        <bioguideId>C001092</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <state>PA</state>
+        <sponsorshipDate>2019-03-12</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>F000466</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mary</firstName>
+        <lastName>Scanlon</lastName>
+        <fullName>Rep. Scanlon, Mary Gay [D-PA-5]</fullName>
+        <state>PA</state>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>Gay</middleName>
+        <identifiers>
+          <lisID>2373</lisID>
+          <bioguideId>S001205</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001205</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jackie</firstName>
+        <lastName>Speier</lastName>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <state>CA</state>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <bioguideId>S001175</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Donald</firstName>
+        <lastName>Payne</lastName>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <state>NJ</state>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <bioguideId>P000604</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jamie</firstName>
+        <lastName>Raskin</lastName>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <state>MD</state>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000606</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BOBBY</firstName>
+        <lastName>RUSH</lastName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <state>IL</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <identifiers>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <bioguideId>R000515</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>George</firstName>
+        <lastName>Holding</lastName>
+        <fullName>Rep. Holding, George [R-NC-2]</fullName>
+        <state>NC</state>
+        <sponsorshipDate>2019-04-04</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>H001065</bioguideId>
+          <lisID>2143</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001065</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <state>NH</state>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <bioguideId>K000382</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ayanna</firstName>
+        <lastName>Pressley</lastName>
+        <fullName>Rep. Pressley, Ayanna [D-MA-7]</fullName>
+        <state>MA</state>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2405</lisID>
+          <bioguideId>P000617</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>P000617</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Brendan</firstName>
+        <lastName>Boyle</lastName>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <state>PA</state>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001296</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Stephen</firstName>
+        <lastName>Lynch</lastName>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <state>MA</state>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <identifiers>
+          <gpoId>7974</gpoId>
+          <lisID>1686</lisID>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <bioguideId>L000562</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>C. A.</firstName>
+        <lastName>Ruppersberger</lastName>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <state>MD</state>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>Dutch</middleName>
+        <identifiers>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+        </identifiers>
+        <bioguideId>R000576</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BENNIE</firstName>
+        <lastName>THOMPSON</lastName>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <state>MS</state>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <bioguideId>T000193</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joseph</firstName>
+        <lastName>Kennedy</lastName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <state>MA</state>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000379</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Dwight</firstName>
+        <lastName>Evans</lastName>
+        <fullName>Rep. Evans, Dwight [D-PA-3]</fullName>
+        <state>PA</state>
+        <sponsorshipDate>2019-06-06</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+          <lisID>2298</lisID>
+        </identifiers>
+        <bioguideId>E000296</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Sean</firstName>
+        <lastName>Casten</lastName>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+        <state>IL</state>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2398</lisID>
+          <gpoId />
+          <bioguideId>C001117</bioguideId>
+        </identifiers>
+        <bioguideId>C001117</bioguideId>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <introducedDate>2019-01-16</introducedDate>
+    <createDate>2019-01-17T08:10:12Z</createDate>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for further comprehensive research at the National Institute of Neurological Disorders and Stroke on unruptured intracranial aneurysms.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ellie Helton, Lisa Colagrossi, Teresa Anne Lawrence, and Jennifer Sedney Focused Research Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ellie's Law</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Ellie's Law</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Ellie Helton, Lisa Colagrossi, Teresa Anne Lawrence, and Jennifer Sedney Focused Research Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Ellie’s Law</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <laws />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>C001067</bioguideId>
+        <middleName>D.</middleName>
+        <firstName>Yvette</firstName>
+        <lastName>Clarke</lastName>
+        <state>NY</state>
+        <party>D</party>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <district>9</district>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. CLARKE of New York:H.R. 594.Congress has the power to enact this legislation pursuantto the following:the power granted to Congress under Article I of the UnitedStates Constitution and it subsequent amendments, and furtherclarified and interpreted by the Supreme Court of the UnitedStates.[Page H677]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <updateDate>2019-06-28T07:11:52Z</updateDate>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2019-03-25</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+        <latestTitle>Ellie's Law</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>864</number>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-16T15:06:45Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-25T20:17:44Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

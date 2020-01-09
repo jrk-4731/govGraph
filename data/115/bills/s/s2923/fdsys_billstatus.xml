@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-05-22</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-05-22</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to support the development of evidence-based family-focused residential treatment programs.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Building Capacity for Family-Focused Residential Treatment Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Building Capacity for Family-Focused Residential Treatment Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Building Capacity for Family-Focused Residential Treatment Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2018-05-23T04:26:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2018-05-22T22:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <bioguideId>G000386</bioguideId>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 484.</text>
+          <actionDate>2018-06-25</actionDate>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>HEAL Act of 2018</latestTitle>
+        <congress>115</congress>
+        <number>3120</number>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports />
+    <introducedDate>2018-05-22</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <laws />
+    <cosponsors>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <middleName />
+        <firstName>Robert</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <party>D</party>
+        <lastName>Menendez</lastName>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-05-22</sponsorshipDate>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+      </item>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <middleName />
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <party>D</party>
+        <lastName>Manchin</lastName>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-08-23</sponsorshipDate>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2923is/xml/BILLS-115s2923is.xml</url>
+          </item>
+        </formats>
+        <date>2018-05-22T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <title>Building Capacity for Family-Focused Residential Treatment Act</title>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-07-19T21:27:28Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2018-05-22</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-07-19T20:47:42Z</lastSummaryUpdateDate>
+          <updateDate>2018-05-22T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Building Capacity for Family-Focused Residential Treatment Act</b></p> <p>This bill requires the Department of Health and Human Services to award grants in order to support the development and evaluation of family-focused residential treatment programs (substance use disorder treatment programs for pregnant and postpartum women, as well as parents and guardians, which allow their children to remain with them during treatment).</p>]]></text>
+          <actionDate>2018-05-22</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2923</billNumber>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

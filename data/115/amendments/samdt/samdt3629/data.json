@@ -1,0 +1,163 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-07-31", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.3629", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3629"
+        }, 
+        {
+          "name": "SA 3628", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3628"
+        }, 
+        {
+          "name": "SA 3629", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3629"
+        }
+      ], 
+      "references": [], 
+      "text": "SA 3629 fell when SA 3628 withdrawn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-31", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.3629", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3629"
+        }, 
+        {
+          "name": "S5468", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5468"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S5468", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-26", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.3629", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3629"
+        }, 
+        {
+          "name": "S5411-5412", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5411-5412"
+        }, 
+        {
+          "name": "S5412", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5412"
+        }, 
+        {
+          "name": "SA 3628", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3628"
+        }, 
+        {
+          "name": "SA 3629", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3629"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment SA 3629 proposed by Senator McConnell to Amendment SA 3628. (consideration: CR S5411-5412; text: CR S5412) Of a perfecting nature.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-26", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-26", 
+      "action_code": "93000", 
+      "links": [
+        {
+          "name": "S.Amdt.3629", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3629"
+        }, 
+        {
+          "name": "S5411-5412", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5411-5412"
+        }, 
+        {
+          "name": "S5412", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S5412"
+        }, 
+        {
+          "name": "SA 3628", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3628"
+        }, 
+        {
+          "name": "SA 3629", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/3629"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S5411-5412", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5412", 
+          "type": "text"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 3629 proposed by Senator McConnell to Amendment SA 3628.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-07-26", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3629-115", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt3628-115", 
+    "amendment_type": "samdt", 
+    "congress": 115, 
+    "description": null, 
+    "number": 3628, 
+    "purpose": "To change the enactment date."
+  }, 
+  "amends_bill": {
+    "bill_id": "s1182-115", 
+    "bill_type": "s", 
+    "congress": 115, 
+    "number": 1182
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "115", 
+  "description": null, 
+  "introduced_at": "2018-07-26", 
+  "number": 3629, 
+  "proposed_at": "2018-07-26T04:00:00Z", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "bioguide_id": "M000355", 
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2018-07-26", 
+  "updated_at": "2019-06-13T20:33:44Z"
+}

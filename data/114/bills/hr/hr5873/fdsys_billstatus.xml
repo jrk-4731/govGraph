@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-12T19:45:39Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2016-12-02T16:01:28Z</pubDate>
+        <url>https://www.cbo.gov/publication/52310</url>
+        <title>H.R. 5873, a bill to designate the Federal building and United States courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the “R.E. Thomason Federal Building and United States Courthouse”</title>
+      </item>
+    </cboCostEstimates>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>16</district>
+        <firstName>Beto</firstName>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <lastName>O'Rourke</lastName>
+        <identifiers>
+          <lisID>2162</lisID>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>O000170</bioguideId>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2016-11-17T22:58:43Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2016-09-27T19:39:58Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Environment and Public Works Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2016-09-20T20:25:40Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2016-09-14T15:49:40Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2016-07-14T13:10:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2016-09-14T21:30:27Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2016-07-15T21:29:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 114-772</citation>
+      </committeeReport>
+    </committeeReports>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>114-252</number>
+      </item>
+    </laws>
+    <introducedDate>2016-07-14</introducedDate>
+    <createDate>2016-07-15T07:14:37Z</createDate>
+    <actions>
+      <item>
+        <type>President</type>
+        <actionCode>E40000</actionCode>
+        <committee />
+        <text>Became Public Law No: 114-252.</text>
+        <actionDate>2016-12-08</actionDate>
+        <links>
+          <link>
+            <name>Public Law No: 114-252</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-bill/5873/text/pl</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <committee />
+        <text>Became Public Law No: 114-252.</text>
+        <actionDate>2016-12-08</actionDate>
+        <links>
+          <link>
+            <name>Public Law No: 114-252</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-bill/5873/text/pl</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>President</type>
+        <actionCode>E30000</actionCode>
+        <committee />
+        <text>Signed by President.</text>
+        <actionDate>2016-12-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
+        <committee />
+        <text>Signed by President.</text>
+        <actionDate>2016-12-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>E20000</actionCode>
+        <committee />
+        <text>Presented to President.</text>
+        <actionDate>2016-11-28</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>President</type>
+        <actionCode>28000</actionCode>
+        <committee />
+        <text>Presented to President.</text>
+        <actionDate>2016-11-28</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-11-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2016-11-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <committee />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <actionDate>2016-11-17</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-11-17</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S6493</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/senate-section/page/S6493</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6493)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6493)</text>
+        <actionDate>2016-11-17</actionDate>
+        <links>
+          <link>
+            <name>S6493</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/senate-section/page/S6493</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-09-27</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>15:55:17</actionTime>
+        <actionDate>2016-09-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5886)</text>
+        <actionTime>15:55:14</actionTime>
+        <actionDate>2016-09-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5886</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H5886</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <committee />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5886)</text>
+        <actionTime>15:55:14</actionTime>
+        <actionDate>2016-09-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5886</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H5886</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5873.</text>
+        <actionTime>15:47:03</actionTime>
+        <actionDate>2016-09-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H.R. 5873</name>
+            <url>https://www.congress.gov/bill/114th-congress/house-bill/5873</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <text>Considered under suspension of the rules. (consideration: CR H5886-5887)</text>
+        <actionTime>15:47:01</actionTime>
+        <actionDate>2016-09-26</actionDate>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>H5886-5887</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/house-section/page/H5886-5887</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <text>Mr. Davis, Rodney moved to suspend the rules and pass the bill.</text>
+        <actionTime>15:47:00</actionTime>
+        <actionDate>2016-09-26</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <committee />
+        <text>Placed on the House Calendar, Calendar No. 145.</text>
+        <actionDate>2016-09-20</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-772.</text>
+        <actionDate>2016-09-20</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 114-772</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/772</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 114-772.</text>
+        <actionDate>2016-09-20</actionDate>
+        <links>
+          <link>
+            <name>H. Rept. 114-772</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/772</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2016-09-14</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-09-14</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-09-14</actionDate>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-07-15</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionDate>2016-07-14</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2016-07-14</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2016-07-14</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForE>3</placeholderTextForE>
+        <placeholderTextForH>3</placeholderTextForH>
+        <presentedToPresident>1</presentedToPresident>
+        <committeeDischarged>1</committeeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInHouse>1</introducedInHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <becamePublicLaw>2</becamePublicLaw>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <considerationByHouse>1</considerationByHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedSenate>1</passedSenate>
+        <billReferrals>1</billReferrals>
+        <sentToHouse>1</sentToHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <generalDebate>1</generalDebate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>5873</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2016-12-12T14:54:40Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2016-07-14</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2016-07-14T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill designates the federal building and U.S. courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the "R. E. Thomason Federal Building and United States Courthouse."</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2016-12-12T19:24:49Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <actionDate>2016-09-20</actionDate>
+          <name>Reported to House without amendment</name>
+          <versionCode>79</versionCode>
+          <updateDate>2016-09-20T14:14:02Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>This bill designates the federal building and U.S. courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the "R. E. Thomason Federal Building and United States Courthouse."</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2016-12-12T19:24:58Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2016-09-26</actionDate>
+          <name>Passed House without amendment</name>
+          <versionCode>81</versionCode>
+          <updateDate>2016-09-26T14:26:12Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>This bill designates the federal building and U.S. courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the "R. E. Thomason Federal Building and United States Courthouse."</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2016-12-12T19:25:07Z</lastSummaryUpdateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2016-11-17</actionDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <updateDate>2016-11-17T15:39:42Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>This bill designates the federal building and U.S. courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the "R. E. Thomason Federal Building and United States Courthouse."</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2016-12-12T19:34:11Z</lastSummaryUpdateDate>
+          <actionDesc>Public Law</actionDesc>
+          <actionDate>2016-12-08</actionDate>
+          <name>Public Law</name>
+          <versionCode>49</versionCode>
+          <updateDate>2016-12-09T04:59:58Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>This bill designates the federal building and U.S. courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the "R. E. Thomason Federal Building and United States Courthouse.&quot;</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Became Public Law No: 114-252.</text>
+      <links>
+        <link>
+          <url>https://www.congress.gov/bill/114th-congress/house-bill/5873/text/pl</url>
+          <name>Public Law No: 114-252</name>
+        </link>
+      </links>
+      <actionDate>2016-12-08</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 114 (Thursday, July 14, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. O'ROURKE:H.R. 5873.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8 of the Constitution, Congresshas the power ``to make all Laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States, or any Department or Officerthereof''.[Page H5014]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5873enr/xml/BILLS-114hr5873enr.xml</url>
+          </item>
+        </formats>
+        <date>2016-11-19T05:00:00Z</date>
+        <type>Enrolled Bill</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5873rfs/xml/BILLS-114hr5873rfs.xml</url>
+          </item>
+        </formats>
+        <date>2016-09-27T04:00:00Z</date>
+        <type>Referred in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5873eh/xml/BILLS-114hr5873eh.xml</url>
+          </item>
+        </formats>
+        <date>2016-09-26T04:00:00Z</date>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5873rh/xml/BILLS-114hr5873rh.xml</url>
+          </item>
+        </formats>
+        <date>2016-09-20T04:00:00Z</date>
+        <type>Reported in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5873ih/xml/BILLS-114hr5873ih.xml</url>
+          </item>
+        </formats>
+        <date>2016-07-14T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <title>To designate the Federal building and United States courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the "R.E. Thomason Federal Building and United States Courthouse".</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To designate the Federal building and United States courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the "R.E. Thomason Federal Building and United States Courthouse".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To designate the Federal building and United States courthouse located at 511 East San Antonio Avenue in El Paso, Texas, as the "R.E. Thomason Federal Building and United States Courthouse".</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers>
+      <item>
+        <calendar>H00145</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

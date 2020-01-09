@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-04-29</actionDate>
+        <committee>
+          <systemCode>hsed02</systemCode>
+          <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-29</actionDate>
+        <committee>
+          <systemCode>hsed10</systemCode>
+          <name>Workforce Protections Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Workforce Protections.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-02-12</actionDate>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-02-12</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-02-12</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <title>Responsibility in Federal Contracting Act</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2015-02-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr924ih/xml/BILLS-114hr924ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2015-04-29</actionDate>
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </latestAction>
+    <createDate>2015-02-13T06:14:12Z</createDate>
+    <billNumber>924</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Jolly, David W. [R-FL-13]</fullName>
+        <district>13</district>
+        <middleName>W.</middleName>
+        <state>FL</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>J000296</bioguideId>
+        <identifiers>
+          <bioguideId>J000296</bioguideId>
+          <gpoId />
+          <lisID>2199</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Jolly</lastName>
+        <party>R</party>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <district>3</district>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>D000615</bioguideId>
+        <identifiers>
+          <lisID>2057</lisID>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Duncan</lastName>
+        <party>R</party>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <district>27</district>
+        <middleName />
+        <state>TX</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>F000460</bioguideId>
+        <identifiers>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+          <bioguideId>F000460</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Farenthold</lastName>
+        <party>R</party>
+        <firstName>Blake</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <district>8</district>
+        <middleName />
+        <state>AZ</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>F000448</bioguideId>
+        <identifiers>
+          <gpoId>7799</gpoId>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Franks</lastName>
+        <party>R</party>
+        <firstName>Trent</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <district>2</district>
+        <middleName />
+        <state>UT</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>S001192</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001192</bioguideId>
+          <lisID>2168</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Stewart</lastName>
+        <party>R</party>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <district>0</district>
+        <middleName>M.</middleName>
+        <state>WY</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>L000571</bioguideId>
+        <identifiers>
+          <lisID>1960</lisID>
+          <bioguideId>L000571</bioguideId>
+          <gpoId>8225</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lummis</lastName>
+        <party>R</party>
+        <firstName>Cynthia</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <district>5</district>
+        <middleName>E.</middleName>
+        <state>OH</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>L000566</bioguideId>
+        <identifiers>
+          <bioguideId>L000566</bioguideId>
+          <lisID>1885</lisID>
+          <gpoId>8095</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Latta</lastName>
+        <party>R</party>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <district>4</district>
+        <middleName />
+        <state>CA</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>M001177</bioguideId>
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>McClintock</lastName>
+        <party>R</party>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <district>6</district>
+        <middleName>L.</middleName>
+        <state>TX</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>B000213</bioguideId>
+        <identifiers>
+          <lisID>62</lisID>
+          <gpoId>8162</gpoId>
+          <bioguideId>B000213</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BARTON</lastName>
+        <party>R</party>
+        <firstName>JOE</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <district>32</district>
+        <middleName />
+        <state>TX</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>S000250</bioguideId>
+        <identifiers>
+          <gpoId>8188</gpoId>
+          <bioguideId>S000250</bioguideId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SESSIONS</lastName>
+        <party>R</party>
+        <firstName>PETE</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <district>3</district>
+        <middleName>B.</middleName>
+        <state>NC</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>J000255</bioguideId>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+          <lisID>612</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>JONES</lastName>
+        <party>R</party>
+        <firstName>WALTER</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <district>5</district>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>M001182</bioguideId>
+        <identifiers>
+          <bioguideId>M001182</bioguideId>
+          <gpoId>8145</gpoId>
+          <lisID>2059</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Mulvaney</lastName>
+        <party>R</party>
+        <firstName>Mick</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <district>5</district>
+        <middleName />
+        <state>TX</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>H001036</bioguideId>
+        <identifiers>
+          <lisID>1749</lisID>
+          <gpoId>8161</gpoId>
+          <bioguideId>H001036</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hensarling</lastName>
+        <party>R</party>
+        <firstName>Jeb</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <district>2</district>
+        <middleName />
+        <state>NM</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>P000588</bioguideId>
+        <identifiers>
+          <bioguideId>P000588</bioguideId>
+          <gpoId>8057</gpoId>
+          <lisID>1738</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pearce</lastName>
+        <party>R</party>
+        <firstName>Stevan</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <district>6</district>
+        <middleName />
+        <state>WI</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>G000576</bioguideId>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+          <lisID>2276</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <firstName>Glenn</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <district>4</district>
+        <middleName />
+        <state>TN</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>D000616</bioguideId>
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DesJarlais</lastName>
+        <party>R</party>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <district>4</district>
+        <middleName />
+        <state>KS</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>P000602</bioguideId>
+        <identifiers>
+          <bioguideId>P000602</bioguideId>
+          <gpoId>7952</gpoId>
+          <lisID>2022</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pompeo</lastName>
+        <party>R</party>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <district>1</district>
+        <middleName />
+        <state>FL</state>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <bioguideId>M001144</bioguideId>
+        <identifiers>
+          <gpoId>7873</gpoId>
+          <lisID>1685</lisID>
+          <bioguideId>M001144</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <district>6</district>
+        <middleName />
+        <state>AZ</state>
+        <sponsorshipDate>2015-02-25</sponsorshipDate>
+        <bioguideId>S001183</bioguideId>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+          <gpoId>7802</gpoId>
+          <lisID>1994</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Schweikert</lastName>
+        <party>R</party>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hurt, Robert [R-VA-5]</fullName>
+        <district>5</district>
+        <middleName />
+        <state>VA</state>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <bioguideId>H001060</bioguideId>
+        <identifiers>
+          <bioguideId>H001060</bioguideId>
+          <lisID>2069</lisID>
+          <gpoId>8196</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Hurt</lastName>
+        <party>R</party>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <district>4</district>
+        <middleName>M.</middleName>
+        <state>MS</state>
+        <sponsorshipDate>2015-03-16</sponsorshipDate>
+        <bioguideId>P000601</bioguideId>
+        <identifiers>
+          <gpoId>8022</gpoId>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Palazzo</lastName>
+        <party>R</party>
+        <firstName>Steven</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <district>24</district>
+        <middleName />
+        <state>TX</state>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <bioguideId>M001158</bioguideId>
+        <identifiers>
+          <lisID>1806</lisID>
+          <bioguideId>M001158</bioguideId>
+          <gpoId>8766</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Marchant</lastName>
+        <party>R</party>
+        <firstName>Kenny</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <district>12</district>
+        <middleName>W.</middleName>
+        <state>GA</state>
+        <sponsorshipDate>2015-05-19</sponsorshipDate>
+        <bioguideId>A000372</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+          <lisID>2239</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Allen</lastName>
+        <party>R</party>
+        <firstName>Rick</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <district>10</district>
+        <middleName>B.</middleName>
+        <state>GA</state>
+        <sponsorshipDate>2015-05-19</sponsorshipDate>
+        <bioguideId>H001071</bioguideId>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+          <lisID>2237</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Hice</lastName>
+        <party>R</party>
+        <firstName>Jody</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <district>7</district>
+        <middleName>ABNEY</middleName>
+        <state>TX</state>
+        <sponsorshipDate>2015-09-29</sponsorshipDate>
+        <bioguideId>C001048</bioguideId>
+        <identifiers>
+          <lisID>1670</lisID>
+          <gpoId>8163</gpoId>
+          <bioguideId>C001048</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CULBERSON</lastName>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <district>6</district>
+        <middleName />
+        <state>KY</state>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <bioguideId>B001282</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barr</lastName>
+        <party>R</party>
+        <firstName>Andy</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <byRequestType />
+        <lastName>Gosar</lastName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <district>4</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 24 (Thursday, February 12, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOSAR:H.R. 924.Congress has the power to enact this legislation pursuantto the following:Because this legislation adjusts the formula the federalgovernment uses to spend money on federal contracts, it isauthorized by the Constitution under Article 1, Section 8,Clause 1, which grants Congress its spending power.[Page H1036]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-02-12</actionDate>
+          <text><![CDATA[<p><b>Responsibility in Federal Contracting Act</b></p> <p> Requires that the locally prevailing wage paid to various classes of laborers and mechanics working under federally-financed or federally-assisted contracts for construction, alteration, and repair of public buildings or public works (Davis-Bacon Act) be determined by the Secretary of Labor (as under current law), but acting through the Bureau of Labor Statistics (BLS), using surveys carried out by BLS that use proper random statistical sampling techniques.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2015-02-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-02-23T20:13:27Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:09:50Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2015-02-12</introducedDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>Responsibility in Federal Contracting Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>To require that the prevailing wage utilized for purposes of subchapter IV of chapter 31 of title 40, United States Code (commonly referred to as the Davis-Bacon Act), be determined by the Bureau of Labor Statistics.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Responsibility in Federal Contracting Act</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-12T15:06:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+              <systemCode>hsed02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-04-29T14:43:59Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <name>Workforce Protections Subcommittee</name>
+              <systemCode>hsed10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-04-29T14:38:46Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

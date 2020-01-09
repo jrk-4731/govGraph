@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for designation of May 2019 as "Health and Fitness Month".</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Expressing support for designation of May 2019 as "Health and Fitness Month".</title>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText />
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-05-08</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-05-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-05-08</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2019-05-08</introducedDate>
+    <billNumber>362</billNumber>
+    <notes />
+    <committeeReports />
+    <recordedVotes />
+    <createDate>2019-05-09T07:27:15Z</createDate>
+    <amendments />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-08T14:03:05Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <updateDate>2019-06-11T07:15:13Z</updateDate>
+    <cboCostEstimates />
+    <congress>116</congress>
+    <sponsors>
+      <item>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <bioguideId>V000131</bioguideId>
+        <byRequestType />
+        <firstName>Marc</firstName>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+          <lisID>2166</lisID>
+        </identifiers>
+        <state>TX</state>
+        <middleName>A.</middleName>
+        <lastName>Veasey</lastName>
+        <district>33</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <title>Expressing support for designation of May 2019 as "Health and Fitness Month".</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-05-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres362ih/xml/BILLS-116hres362ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HRES</billType>
+    <latestAction>
+      <actionDate>2019-05-08</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <bioguideId>R000486</bioguideId>
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+          <lisID>997</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>LUCILLE</firstName>
+        <middleName />
+        <state>CA</state>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>40</district>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

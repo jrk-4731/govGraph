@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>99</billNumber>
+    <congress>116</congress>
+    <createDate>2019-01-04T13:32:52Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:04:25Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-03T21:43:21Z</date>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-06-14T20:30:08Z</updateDate>
+    <introducedDate>2019-01-03</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BUCHANAN:H.R. 99.Congress has the power to enact this legislation pursuantto the following:To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[Page H213]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-01-03</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <title>To amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Thin Blue Line Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Thin Blue Line Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Thin Blue Line Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr99ih/xml/BILLS-116hr99ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-03T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Thin Blue Line Act</latestTitle>
+        <congress>116</congress>
+        <number>1508</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2019-05-16</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <state>IL</state>
+        <party>R</party>
+        <bioguideId>B001295</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <lastName>Bost</lastName>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <state>KY</state>
+        <party>R</party>
+        <bioguideId>B001282</bioguideId>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <firstName>Andy</firstName>
+        <lastName>Barr</lastName>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2236</lisID>
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <state>GA</state>
+        <party>R</party>
+        <bioguideId>C001103</bioguideId>
+        <sponsorshipDate>2019-02-26</sponsorshipDate>
+        <firstName>Earl</firstName>
+        <lastName>Carter</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L. "Buddy"</middleName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2402</lisID>
+          <gpoId />
+          <bioguideId>W000824</bioguideId>
+        </identifiers>
+        <fullName>Rep. Watkins, Steve [R-KS-2]</fullName>
+        <state>KS</state>
+        <party>R</party>
+        <bioguideId>W000824</bioguideId>
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <lastName>Watkins</lastName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2411</lisID>
+          <bioguideId>H001088</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
+        <state>MN</state>
+        <party>R</party>
+        <bioguideId>H001088</bioguideId>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <firstName>Jim</firstName>
+        <lastName>Hagedorn</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2415</lisID>
+          <bioguideId>S001212</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <state>MN</state>
+        <party>R</party>
+        <bioguideId>S001212</bioguideId>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <firstName>Pete</firstName>
+        <lastName>Stauber</lastName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001275</bioguideId>
+          <lisID>2018</lisID>
+          <gpoId>7947</gpoId>
+        </identifiers>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <state>IN</state>
+        <party>R</party>
+        <bioguideId>B001275</bioguideId>
+        <sponsorshipDate>2019-03-29</sponsorshipDate>
+        <firstName>Larry</firstName>
+        <lastName>Bucshon</lastName>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S000364</bioguideId>
+          <lisID>1527</lisID>
+          <gpoId>7939</gpoId>
+        </identifiers>
+        <fullName>Rep. Shimkus, John [R-IL-15]</fullName>
+        <state>IL</state>
+        <party>R</party>
+        <bioguideId>S000364</bioguideId>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <lastName>SHIMKUS</lastName>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <state>IL</state>
+        <party>R</party>
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <firstName>Rodney</firstName>
+        <lastName>Davis</lastName>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>Vern</firstName>
+        <lastName>Buchanan</lastName>
+        <district>16</district>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <identifiers>
+          <bioguideId>B001260</bioguideId>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <middleName />
+        <bioguideId>B001260</bioguideId>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <title>Thin Blue Line Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-03</actionDate>
+          <text><![CDATA[<p><b>Thin Blue Line Act</b></p> <p>This bill expands the list of statutory aggravating factors in death penalty determinations to also include killing or targeting a law enforcement officer, firefighter, or other first responder.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-01-16T17:58:57Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

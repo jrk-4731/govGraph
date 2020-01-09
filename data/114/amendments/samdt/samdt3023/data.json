@@ -1,0 +1,167 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-02-02", 
+      "action_code": "", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "Record Vote Number: 10", 
+          "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=2&vote=00010"
+        }, 
+        {
+          "name": "S.Amdt.3023", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/3023"
+        }, 
+        {
+          "name": "SA 3023", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/3023"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 10, 
+      "text": "Amendment SA 3023, under the order of 2/1/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 10.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.3023", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/3023"
+        }, 
+        {
+          "name": "S468", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/senate-section/page/S468"
+        }, 
+        {
+          "name": "S470-471", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/senate-section/page/S470-471"
+        }, 
+        {
+          "name": "SA 2953", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/2953"
+        }, 
+        {
+          "name": "SA 3023", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/3023"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment SA 3023 proposed by Senator Lee to Amendment SA 2953. (consideration: CR S468, S470-471; text: CR S468) To modify the authority of the President of the United States to declare national monuments.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-27", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "action_code": "95000", 
+      "links": [
+        {
+          "name": "Record Vote Number: 10", 
+          "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=114&session=2&vote=00010"
+        }, 
+        {
+          "name": "S.Amdt.3023", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/3023"
+        }, 
+        {
+          "name": "SA 3023", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/3023"
+        }
+      ], 
+      "references": [], 
+      "text": "Senate amendment not agreed to: Amendment SA 3023, under the order of 2/1/16, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 10.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-02-02", 
+      "action_code": "93000", 
+      "links": [
+        {
+          "name": "S.Amdt.3023", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/3023"
+        }, 
+        {
+          "name": "S468", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/senate-section/page/S468"
+        }, 
+        {
+          "name": "S470-471", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/senate-section/page/S470-471"
+        }, 
+        {
+          "name": "SA 2953", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/2953"
+        }, 
+        {
+          "name": "SA 3023", 
+          "url": "https://www.congress.gov/amendment/114th-congress/senate-amendment/3023"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S468, S470-471", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S468", 
+          "type": "text"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 3023 proposed by Senator Lee to Amendment SA 2953.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-01-27", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt3023-114", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt2953-114", 
+    "amendment_type": "samdt", 
+    "congress": 114, 
+    "description": null, 
+    "number": 2953, 
+    "purpose": "In the nature of a substitute."
+  }, 
+  "amends_bill": {
+    "bill_id": "s2012-114", 
+    "bill_type": "s", 
+    "congress": 114, 
+    "number": 2012
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "114", 
+  "description": null, 
+  "introduced_at": "2016-01-27", 
+  "number": 3023, 
+  "proposed_at": "2016-02-02T05:00:00Z", 
+  "purpose": "To modify the authority of the President of the United States to declare national monuments.", 
+  "sponsor": {
+    "bioguide_id": "L000577", 
+    "district": null, 
+    "name": "Lee, Mike", 
+    "state": "UT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2016-02-02", 
+  "updated_at": "2019-03-03T14:40:32Z"
+}

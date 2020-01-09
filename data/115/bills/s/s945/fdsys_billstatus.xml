@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lee</lastName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>King</lastName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <party>I</party>
+        <firstName>Angus</firstName>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+      </item>
+    </cosponsors>
+    <createDate>2017-04-27T00:41:42Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <state>TX</state>
+        <lastName>Cornyn</lastName>
+        <firstName>John</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>C001056</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2555</url>
+            <name>S2555</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2555)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-04-26</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>945</billNumber>
+    <updateDate>2019-04-18T16:35:20Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-04-26T15:28:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>New HOPE Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>2155</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+          <actionDate>2017-04-26</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Career and Technical Education for Adult Learners Act of 2018</latestTitle>
+        <congress>115</congress>
+        <type>S</type>
+        <number>3083</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S3984)</text>
+          <actionDate>2018-06-18</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Strengthening Career and Technical Education for the 21st Century Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>2353</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Became Public Law No: 115-224.</text>
+          <actionDate>2018-07-31</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Free Career and Technical Education for High School Students Act</latestTitle>
+        <congress>115</congress>
+        <type>S</type>
+        <number>3101</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2018-06-20</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Equity in Career and Technical Education Act of 2018</latestTitle>
+        <congress>115</congress>
+        <type>S</type>
+        <number>3129</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2018-06-25</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>WORKER Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>6623</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+          <actionDate>2018-08-16</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-04-26</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s945is/xml/BILLS-115s945is.xml</url>
+          </item>
+        </formats>
+        <date>2017-04-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>New HOPE Act</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Carl D. Perkins Career and Technical Education Act of 2006 to authorize funds to identify and eliminate excessive occupational licensure.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>New Hope and Opportunity through the Power of Employment Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>New HOPE Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>New HOPE Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>New HOPE Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>New Hope and Opportunity through the Power of Employment Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-04-26</actionDate>
+          <updateDate>2017-04-26T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>New Hope and Opportunity through the Power of Employment Act or the New HOPE Act</b></p> <p>This bill amends the Carl D. Perkins Career and Technical Education Act of 2006 to require state leadership activities funded by the Act to include consulting and coordinating with other state agencies for the identification, consolidation, or elimination of licenses or certifications that pose an unnecessary barrier to entry for aspiring workers and provide limited consumer protection.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-09-26T17:18:59Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2555)</text>
+      <actionDate>2017-04-26</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

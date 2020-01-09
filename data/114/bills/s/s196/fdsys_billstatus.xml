@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-20T21:31:13Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>NV</state>
+        <party>D</party>
+        <firstName>HARRY</firstName>
+        <fullName>Sen. Reid, Harry [D-NV]</fullName>
+        <bioguideId>R000146</bioguideId>
+        <lastName>REID</lastName>
+        <identifiers>
+          <lisID>952</lisID>
+          <bioguideId>R000146</bioguideId>
+          <gpoId>8271</gpoId>
+        </identifiers>
+        <byRequestType />
+        <middleName>M.</middleName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-01-20</actionDate>
+          <updateDate>2015-01-20T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Garden Valley Withdrawal Act</b></p> <p> Withdraws 805,100 acres of federal land in Garden Valley, Nevada, from: (1) entry, appropriation, and disposal under the public land laws; (2) location, entry, and patent under the mining laws; and (3) operation of the mineral leasing, mineral materials, and geothermal leasing laws.</p> <ul> </ul>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2015-03-26T18:30:02Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-01-20</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S285</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S285</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S285)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-01-20</actionDate>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>Garden Valley Withdrawal Act</title>
+    <introducedDate>2015-01-20</introducedDate>
+    <cosponsors />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Garden Valley Withdrawal Act</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for the withdrawal of certain Federal land in Garden Valley, Nevada.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Garden Valley Withdrawal Act</title>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2015-01-20</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S285)</text>
+    </latestAction>
+    <billType>S</billType>
+    <createDate>2015-01-21T04:46:24Z</createDate>
+    <committeeReports />
+    <updateDate>2018-08-16T22:53:49Z</updateDate>
+    <amendments />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>114</congress>
+        <latestTitle>Garden Valley Withdrawal Act</latestTitle>
+        <latestAction>
+          <actionDate>2015-03-16</actionDate>
+          <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        </latestAction>
+        <number>857</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <congress>114</congress>
+        <latestTitle>401(Kids) Education Savings Account Modernization Act of 2016</latestTitle>
+        <latestAction>
+          <actionDate>2016-01-28</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <number>2471</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <billNumber>196</billNumber>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

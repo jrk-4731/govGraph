@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-08T05:55:24Z</createDate>
+    <title>Payment Integrity Information Act of 2019</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s375rfh/xml/BILLS-116s375rfh.xml</url>
+          </item>
+        </formats>
+        <type>Referred in House</type>
+        <date>2019-07-17T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s375es/xml/BILLS-116s375es.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in Senate</type>
+        <date>2019-07-16T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s375rs/xml/BILLS-116s375rs.xml</url>
+          </item>
+        </formats>
+        <type>Reported to Senate</type>
+        <date>2019-05-06T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s375is/xml/BILLS-116s375is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <amendments />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <sentToHouse>1</sentToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <reportedToSenate>2</reportedToSenate>
+        <passedSenate>1</passedSenate>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-07-17</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionCode>H14000</actionCode>
+        <actionDate>2019-07-17</actionDate>
+        <committee />
+        <actionTime>13:10:39</actionTime>
+      </item>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4864-4870</url>
+            <name>S4864-4870</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4864-4970</url>
+            <name>S4864-4970</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S4864-4870; text: CR S4864-4970)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4864-4870; text: CR S4864-4970)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4864-4870</url>
+            <name>S4864-4870</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4864-4970</url>
+            <name>S4864-4970</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <actionDate>2019-07-16</actionDate>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-05-06</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 76.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-05-06</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/35</url>
+            <name>report No. 116-35</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-35.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 116-35.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/35</url>
+            <name>report No. 116-35</name>
+          </link>
+        </links>
+        <actionCode>14000</actionCode>
+        <actionDate>2019-05-06</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2019-02-13</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-07</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-02-07</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <version>1.0.0</version>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-35</citation>
+      </committeeReport>
+    </committeeReports>
+    <updateDate>2019-07-19T04:42:39Z</updateDate>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-07-18T00:39:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-05-06T21:00:53Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-02-13T17:23:07Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-02-07T18:14:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Transportation costs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2019-07-17</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <links />
+    </latestAction>
+    <laws />
+    <congress>116</congress>
+    <billNumber>375</billNumber>
+    <sponsors>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <state>DE</state>
+        <byRequestType />
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <lastName>CARPER</lastName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>J000293</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <firstName>Gary</firstName>
+        <party>D</party>
+        <lastName>Peters</lastName>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+          <gpoId />
+          <lisID>2462</lisID>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <lastName>Braun</lastName>
+        <state>IN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <bioguideId>B001310</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <fullName>Sen. Braun, Mike  [R-IN]</fullName>
+      </item>
+    </cosponsors>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0076</number>
+      </item>
+    </calendarNumbers>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates>
+      <item>
+        <title>S. 375, Payment Integrity Information Act of 2019</title>
+        <url>https://www.cbo.gov/publication/55153</url>
+        <pubDate>2019-04-22T21:01:16Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <introducedDate>2019-02-07</introducedDate>
+    <relatedBills />
+    <titles>
+      <item>
+        <title>Payment Integrity Information Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Payment Integrity Information Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Payment Integrity Information Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>A bill to improve efforts to identify and reduce Governmentwide improper payments, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Payment Integrity Information Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Payment Integrity Information Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Payment Integrity Information Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-10-13</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-03</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-03</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>To amend the Omnibus Crime Control and Safe Streets Act of 1968 to extend public safety officers' death benefits to fire police officers.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Fire Police Fairness Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Fire Police Fairness Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Fire Police Fairness Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <title>Fire Police Fairness Act</title>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <actionDate>2017-10-13</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-10-03</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-03-13T19:39:34Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Fire Police Fairness Act</b></p> <p>This bill amends the Omnibus Crime Control and Safe Streets Act of 1968 to include a fire police officer within the definition of &quot;public safety officer&quot; for purposes of death benefits under the Public Safety Officers' Benefits program. </p>]]></text>
+          <updateDate>2017-10-03T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+        </identifiers>
+        <bioguideId>C001069</bioguideId>
+        <middleName />
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <lastName>Courtney</lastName>
+        <district>2</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T16:15:52Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Fire Police Fairness Act</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2018-05-16</actionDate>
+        </latestAction>
+        <number>2871</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-10-03T14:01:20Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-10-13T20:30:18Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-10-04T03:11:23Z</createDate>
+    <introducedDate>2017-10-03</introducedDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>3918</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <middleName />
+        <state>PA</state>
+        <firstName>Glenn</firstName>
+        <party>R</party>
+        <bioguideId>T000467</bioguideId>
+        <district>5</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Thompson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+        <middleName />
+        <state>DE</state>
+        <firstName>Lisa</firstName>
+        <party>D</party>
+        <bioguideId>B001303</bioguideId>
+        <district>0</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001303</bioguideId>
+          <lisID>2313</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Blunt Rochester</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <middleName />
+        <state>CT</state>
+        <firstName>ROSA</firstName>
+        <party>D</party>
+        <bioguideId>D000216</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>DELAURO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <firstName>Daniel</firstName>
+        <party>R</party>
+        <bioguideId>D000625</bioguideId>
+        <district>11</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Donovan</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <middleName />
+        <state>PA</state>
+        <firstName>Dwight</firstName>
+        <party>D</party>
+        <bioguideId>E000296</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Evans</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <bioguideId>F000466</bioguideId>
+        <district>8</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <middleName>A.</middleName>
+        <state>CT</state>
+        <firstName>James</firstName>
+        <party>D</party>
+        <bioguideId>H001047</bioguideId>
+        <district>4</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1913</lisID>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Himes</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <middleName />
+        <state>NJ</state>
+        <firstName>Leonard</firstName>
+        <party>R</party>
+        <bioguideId>L000567</bioguideId>
+        <district>7</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1936</lisID>
+          <bioguideId>L000567</bioguideId>
+          <gpoId>8049</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lance</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <middleName>B.</middleName>
+        <state>WV</state>
+        <firstName>David</firstName>
+        <party>R</party>
+        <bioguideId>M001180</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>McKinley</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <middleName />
+        <state>NJ</state>
+        <firstName>FRANK</firstName>
+        <party>D</party>
+        <bioguideId>P000034</bioguideId>
+        <district>6</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>PALLONE</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <middleName>J.</middleName>
+        <state>NJ</state>
+        <firstName>WILLIAM</firstName>
+        <party>D</party>
+        <bioguideId>P000096</bioguideId>
+        <district>9</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1510</lisID>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>PASCRELL</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <middleName>M.</middleName>
+        <state>NJ</state>
+        <firstName>Donald</firstName>
+        <party>D</party>
+        <bioguideId>P000604</bioguideId>
+        <district>10</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Payne</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <middleName />
+        <state>OH</state>
+        <firstName>TIM</firstName>
+        <party>D</party>
+        <bioguideId>R000577</bioguideId>
+        <district>13</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>RYAN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <middleName />
+        <state>NJ</state>
+        <firstName>Albio</firstName>
+        <party>D</party>
+        <bioguideId>S001165</bioguideId>
+        <district>8</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sires</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <middleName />
+        <state>NJ</state>
+        <firstName>Bonnie</firstName>
+        <party>D</party>
+        <bioguideId>W000822</bioguideId>
+        <district>12</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2259</lisID>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Watson Coleman</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <firstName>FRANK</firstName>
+        <party>R</party>
+        <bioguideId>L000554</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>699</lisID>
+          <bioguideId>L000554</bioguideId>
+          <gpoId>8044</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LOBIONDO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <middleName>B.</middleName>
+        <state>CT</state>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <bioguideId>L000557</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+          <gpoId>7866</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LARSON</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <middleName>H.</middleName>
+        <state>CT</state>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <bioguideId>E000293</bioguideId>
+        <district>5</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <lisID>2114</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Esty</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <middleName />
+        <state>FL</state>
+        <firstName>Darren</firstName>
+        <party>D</party>
+        <bioguideId>S001200</bioguideId>
+        <district>9</district>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Soto</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <middleName>A.</middleName>
+        <state>FL</state>
+        <firstName>Dennis</firstName>
+        <party>R</party>
+        <bioguideId>R000593</bioguideId>
+        <district>15</district>
+        <sponsorshipDate>2017-10-25</sponsorshipDate>
+        <identifiers>
+          <gpoId>7884</gpoId>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ross</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <middleName />
+        <state>FL</state>
+        <firstName>Charlie</firstName>
+        <party>D</party>
+        <bioguideId>C001111</bioguideId>
+        <district>13</district>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <identifiers>
+          <lisID>2321</lisID>
+          <bioguideId>C001111</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Crist</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <middleName />
+        <state>PA</state>
+        <firstName>Patrick</firstName>
+        <party>R</party>
+        <bioguideId>M001181</bioguideId>
+        <district>7</district>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <identifiers>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Meehan</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <middleName />
+        <state>PA</state>
+        <firstName>Lou</firstName>
+        <party>R</party>
+        <bioguideId>B001269</bioguideId>
+        <district>11</district>
+        <sponsorshipDate>2018-02-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001269</bioguideId>
+          <lisID>2054</lisID>
+          <gpoId>8129</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barletta</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <middleName />
+        <state>PA</state>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <bioguideId>M001179</bioguideId>
+        <district>10</district>
+        <sponsorshipDate>2018-03-09</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001179</bioguideId>
+          <lisID>2053</lisID>
+          <gpoId>8128</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Marino</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <middleName />
+        <state>NJ</state>
+        <firstName>Donald</firstName>
+        <party>D</party>
+        <bioguideId>N000188</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2018-03-20</sponsorshipDate>
+        <identifiers>
+          <lisID>2202</lisID>
+          <bioguideId>N000188</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Norcross</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Young, David [R-IA-3]</fullName>
+        <middleName />
+        <state>IA</state>
+        <firstName>David</firstName>
+        <party>R</party>
+        <bioguideId>Y000066</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2242</lisID>
+          <bioguideId>Y000066</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Young</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <middleName>R.</middleName>
+        <state>MA</state>
+        <firstName>William</firstName>
+        <party>D</party>
+        <bioguideId>K000375</bioguideId>
+        <district>9</district>
+        <sponsorshipDate>2018-05-22</sponsorshipDate>
+        <identifiers>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Keating</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <middleName />
+        <state>FL</state>
+        <firstName>Debbie</firstName>
+        <party>D</party>
+        <bioguideId>W000797</bioguideId>
+        <district>23</district>
+        <sponsorshipDate>2018-07-12</sponsorshipDate>
+        <identifiers>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wasserman Schultz</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <middleName>N.</middleName>
+        <state>RI</state>
+        <firstName>David</firstName>
+        <party>D</party>
+        <bioguideId>C001084</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2018-09-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cicilline</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <middleName />
+        <state>VA</state>
+        <firstName>Barbara</firstName>
+        <party>R</party>
+        <bioguideId>C001105</bioguideId>
+        <district>10</district>
+        <sponsorshipDate>2018-09-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Comstock</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <middleName>Dutch</middleName>
+        <state>MD</state>
+        <firstName>C. A.</firstName>
+        <party>D</party>
+        <bioguideId>R000576</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2018-12-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ruppersberger</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <middleName>J.</middleName>
+        <state>NY</state>
+        <firstName>John</firstName>
+        <party>R</party>
+        <bioguideId>F000464</bioguideId>
+        <district>19</district>
+        <sponsorshipDate>2018-12-20</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000464</bioguideId>
+          <gpoId />
+          <lisID>2343</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Faso</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 158 (Tuesday, October 3, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COURTNEY:H.R. 3918.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H7750]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr3918ih/xml/BILLS-115hr3918ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-10-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

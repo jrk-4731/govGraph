@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <title>Expressing support for the designation of September 2016 as National Ovarian Cancer Awareness Month.</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>228</number>
+        <latestAction>
+          <actionDate>2015-08-05</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        </latestAction>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+        <latestTitle>A resolution designating September 2015 as "National Ovarian Cancer Awareness Month".</latestTitle>
+      </item>
+      <item>
+        <number>378</number>
+        <latestAction>
+          <actionDate>2015-07-23</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+        <latestTitle>Expressing support for the designation of September 2015 as "National Ovarian Cancer Awareness Month".</latestTitle>
+      </item>
+      <item>
+        <number>521</number>
+        <latestAction>
+          <actionDate>2016-07-14</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        </latestAction>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>SRES</type>
+        <latestTitle>A resolution expressing support for the designation of September 2016 as National Ovarian Cancer Awareness Month.</latestTitle>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2016-07-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres811ih/xml/BILLS-114hres811ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2016-07-07</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <createDate>2016-07-08T05:34:30Z</createDate>
+    <billNumber>811</billNumber>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <lastName>ISRAEL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <bioguideId>I000057</bioguideId>
+        <identifiers>
+          <lisID>1663</lisID>
+          <bioguideId>I000057</bioguideId>
+          <gpoId>8063</gpoId>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2016-07-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>PA</state>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <bioguideId>F000451</bioguideId>
+        <identifiers>
+          <bioguideId>F000451</bioguideId>
+          <gpoId>8126</gpoId>
+          <lisID>1797</lisID>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <sponsorshipDate>2016-07-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>WI</state>
+        <lastName>Duffy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <bioguideId>D000614</bioguideId>
+        <identifiers>
+          <bioguideId>D000614</bioguideId>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+        </identifiers>
+        <firstName>Sean</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <sponsorshipDate>2016-07-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>OR</state>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <bioguideId>D000191</bioguideId>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <sponsorshipDate>2016-07-12</sponsorshipDate>
+      </item>
+      <item>
+        <state>NY</state>
+        <lastName>NADLER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <bioguideId>N000002</bioguideId>
+        <identifiers>
+          <gpoId>8069</gpoId>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <firstName>JERROLD</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+      </item>
+      <item>
+        <state>NH</state>
+        <lastName>Guinta</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <fullName>Rep. Guinta, Frank C. [R-NH-1]</fullName>
+        <bioguideId>G000570</bioguideId>
+        <identifiers>
+          <gpoId>8041</gpoId>
+          <bioguideId>G000570</bioguideId>
+          <lisID>2038</lisID>
+        </identifiers>
+        <firstName>Frank</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <state>OR</state>
+        <lastName>BLUMENAUER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <bioguideId>B000574</bioguideId>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+        </identifiers>
+        <firstName>EARL</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <state>NY</state>
+        <lastName>Stefanik</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <bioguideId>S001196</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <firstName>Elise</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <state>MD</state>
+        <lastName>Van Hollen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Van Hollen, Chris [D-MD-8]</fullName>
+        <bioguideId>V000128</bioguideId>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+      </item>
+      <item>
+        <state>PA</state>
+        <lastName>Meehan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <bioguideId>M001181</bioguideId>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <firstName>Patrick</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>NY</state>
+        <lastName>Gibson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <bioguideId>G000564</bioguideId>
+        <identifiers>
+          <gpoId>8081</gpoId>
+          <bioguideId>G000564</bioguideId>
+          <lisID>2043</lisID>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <sponsorshipDate>2016-09-07</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>D000216</bioguideId>
+        <state>CT</state>
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>ROSA</firstName>
+        <byRequestType />
+        <lastName>DELAURO</lastName>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <district>3</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Expresses support for the designation of National Ovarian Cancer Awareness Month.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2016-07-07T04:00:00Z</updateDate>
+          <actionDate>2016-07-07</actionDate>
+          <lastSummaryUpdateDate>2016-07-11T23:00:21Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:26:36Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2016-07-07</introducedDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for the designation of September 2016 as National Ovarian Cancer Awareness Month.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Expressing support for the designation of September 2016 as National Ovarian Cancer Awareness Month.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2016-07-07T14:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

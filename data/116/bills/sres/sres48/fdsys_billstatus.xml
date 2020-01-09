@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-02-07T06:10:14Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S922-923</url>
+            <name>S922-923</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S922-923)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Original measure reported to Senate by Senator Wicker. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <type>Committee</type>
+        <text>Committee on Commerce, Science, and Transportation. Original measure reported to Senate by Senator Wicker. Without written report.</text>
+        <actionDate>2019-02-06</actionDate>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-06</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billNumber>48</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-06T19:34:08Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-02-06T19:33:49Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <latestAction>
+      <actionDate>2019-02-06</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S922-923)</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-02-06T05:00:00Z</updateDate>
+          <actionDate>2019-02-06</actionDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Commerce, Science, and Transportation for the 116th Congress.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-02-15T23:24:51Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <updateDate>2019-02-06T14:48:22Z</updateDate>
+          <actionDate>2019-02-06</actionDate>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Commerce, Science, and Transportation for the 116th Congress.</p>]]></text>
+          <actionDesc>Reported to Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-02-15T23:24:42Z</lastSummaryUpdateDate>
+          <name>Reported to Senate</name>
+          <versionCode>25</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <relatedBills />
+    <updateDate>2019-04-11T15:46:46Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Banking, Housing, and Urban Affairs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-02-06</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres48is/xml/BILLS-116sres48is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-02-06T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <lastName>WICKER</lastName>
+        <state>MS</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>ROGER</firstName>
+        <bioguideId>W000437</bioguideId>
+        <middleName>F.</middleName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

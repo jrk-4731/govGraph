@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-07-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require U.S. Customs and Border Protection to perform an initial health screening on detainees, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A bill to require U.S. Customs and Border Protection to perform an initial health screening on detainees, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>TOM</firstName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <updateDate>2019-07-19T07:39:30Z</updateDate>
+    <billNumber>2135</billNumber>
+    <createDate>2019-07-18T04:42:11Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-17T20:29:18Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2019-07-17</actionDate>
+    </latestAction>
+    <laws />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <middleName />
+        <firstName>Sherrod</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <party>D</party>
+        <lastName>Brown</lastName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <middleName />
+        <firstName>Martin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <party>D</party>
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+      </item>
+    </cosponsors>
+    <title>A bill to require U.S. Customs and Border Protection to perform an initial health screening on detainees, and for other purposes.</title>
+    <notes />
+    <textVersions />
+    <introducedDate>2019-07-17</introducedDate>
+    <cboCostEstimates />
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

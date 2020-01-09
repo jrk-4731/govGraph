@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-02T15:02:20Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-03T15:48:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-02-03</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-02</actionDate>
+          <lastSummaryUpdateDate>2017-02-07T19:27:45Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses support for the designation of National Cancer Prevention Day.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <title>Expressing support for designation of February 4, 2017, as National Cancer Prevention Day.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Expressing support for designation of February 4, 2017, as National Cancer Prevention Day.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-03</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-02-02</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-02</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-02-02</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <middleName />
+        <state>VA</state>
+        <firstName>Barbara</firstName>
+        <party>R</party>
+        <bioguideId>C001105</bioguideId>
+        <district>10</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <gpoId />
+          <lisID>2273</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Comstock</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <middleName />
+        <state>CA</state>
+        <firstName>John</firstName>
+        <party>D</party>
+        <bioguideId>G000559</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Garamendi</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <middleName>D.</middleName>
+        <state>GA</state>
+        <firstName>SANFORD</firstName>
+        <party>D</party>
+        <bioguideId>B000490</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <lisID>91</lisID>
+          <bioguideId>B000490</bioguideId>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>BISHOP</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <middleName />
+        <state>HI</state>
+        <firstName>Colleen</firstName>
+        <party>D</party>
+        <bioguideId>H001050</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <lisID>2010</lisID>
+          <bioguideId>H001050</bioguideId>
+          <gpoId>7912</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Hanabusa</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <middleName />
+        <state>OH</state>
+        <firstName>TIM</firstName>
+        <party>D</party>
+        <bioguideId>R000577</bioguideId>
+        <district>13</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>RYAN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <middleName />
+        <state>CA</state>
+        <firstName>Julia</firstName>
+        <party>D</party>
+        <bioguideId>B001285</bioguideId>
+        <district>26</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Brownley</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <middleName />
+        <state>OH</state>
+        <firstName>Joyce</firstName>
+        <party>D</party>
+        <bioguideId>B001281</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Beatty</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <bioguideId>H000324</bioguideId>
+        <district>20</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>HASTINGS</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <middleName>N.</middleName>
+        <state>FL</state>
+        <firstName>Stephanie</firstName>
+        <party>D</party>
+        <bioguideId>M001202</bioguideId>
+        <district>7</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <lisID>2318</lisID>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <middleName />
+        <state>CA</state>
+        <firstName>ZOE</firstName>
+        <party>D</party>
+        <bioguideId>L000397</bioguideId>
+        <district>19</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <middleName>H.</middleName>
+        <state>CT</state>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <bioguideId>E000293</bioguideId>
+        <district>5</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2114</lisID>
+          <bioguideId>E000293</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Esty</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <firstName>JOSE</firstName>
+        <party>D</party>
+        <bioguideId>S000248</bioguideId>
+        <district>15</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SERRANO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <middleName>S.</middleName>
+        <state>FL</state>
+        <firstName>Frederica</firstName>
+        <party>D</party>
+        <bioguideId>W000808</bioguideId>
+        <district>24</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <firstName>Joseph</firstName>
+        <party>D</party>
+        <bioguideId>K000379</bioguideId>
+        <district>4</district>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kennedy</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <middleName>J.</middleName>
+        <state>CA</state>
+        <firstName>Norma</firstName>
+        <party>D</party>
+        <bioguideId>T000474</bioguideId>
+        <district>35</district>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2231</lisID>
+          <bioguideId>T000474</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Torres</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <middleName>G.</middleName>
+        <state>CA</state>
+        <firstName>David</firstName>
+        <party>R</party>
+        <bioguideId>V000129</bioguideId>
+        <district>21</district>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2105</lisID>
+          <bioguideId>V000129</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Valadao</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <middleName>A.</middleName>
+        <state>KY</state>
+        <firstName>John</firstName>
+        <party>D</party>
+        <bioguideId>Y000062</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+          <gpoId>7955</gpoId>
+          <lisID>1853</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Yarmuth</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>HRES</billType>
+    <sponsors>
+      <item>
+        <firstName>Debbie</firstName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <middleName />
+        <bioguideId>D000624</bioguideId>
+        <lastName>Dingell</lastName>
+        <state>MI</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <notes />
+    <billNumber>84</billNumber>
+    <updateDate>2019-04-18T15:53:11Z</updateDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>Expressing support for designation of February 4, 2018, as National Cancer Prevention Day.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HRES</type>
+        <number>721</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2018-02-09</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres84ih/xml/BILLS-115hres84ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-02-02T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2017-02-03T05:17:27Z</createDate>
+    <introducedDate>2017-02-02</introducedDate>
+    <committeeReports />
+    <title>Expressing support for designation of February 4, 2017, as National Cancer Prevention Day.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

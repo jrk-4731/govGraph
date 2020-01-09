@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-05-19T11:33:12-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.1079", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1079"
+        }, 
+        {
+          "name": "Roll no. 226", 
+          "url": "http://clerk.house.gov/evs/2016/roll226.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 226, 
+      "text": "On agreeing to the Maloney, Sean amendment (A030) Failed by recorded vote: 212 - 213 (Roll no. 226).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-05-19T10:20:06-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.1079", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1079"
+        }, 
+        {
+          "name": "H2857", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H2857"
+        }, 
+        {
+          "name": "H2857-2859", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H2857-2859"
+        }, 
+        {
+          "name": "H2865", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H2865"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H2857-2859, H2865", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2857", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A030) offered by Mr. Maloney, Sean.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19T11:33:12-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.1079", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1079"
+        }, 
+        {
+          "name": "Roll no. 226", 
+          "url": "http://clerk.house.gov/evs/2016/roll226.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19T11:33:12-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.1079", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1079"
+        }, 
+        {
+          "name": "Roll no. 226", 
+          "url": "http://clerk.house.gov/evs/2016/roll226.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Maloney, Sean amendment (A030) Failed by recorded vote: 212 - 213 (Roll no. 226).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19T11:33:12-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.1079", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1079"
+        }, 
+        {
+          "name": "Roll no. 226", 
+          "url": "http://clerk.house.gov/evs/2016/roll226.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19T10:20:06-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.1079", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1079"
+        }, 
+        {
+          "name": "H2857", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H2857"
+        }, 
+        {
+          "name": "H2857-2859", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H2857-2859"
+        }, 
+        {
+          "name": "H2865", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H2865"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H2857-2859, H2865", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2857", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A030) offered by Mr. Maloney, Sean.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-05-19", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1079-114", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4974-114", 
+    "bill_type": "hr", 
+    "congress": 114, 
+    "number": 4974
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "114", 
+  "description": "Amendment prohibits the use of funds in contravention of Executive Orders regarding antidiscrimination.", 
+  "introduced_at": "2016-05-19", 
+  "number": 1079, 
+  "purpose": "An amendment to prohibit the use of funds to be used in contravention of Executive Order no. 13672 of July 21, 2014 (\"Further Amendments to Executive Order 11478, Equal Employment Opportunity in the Federal Government, and Executive Order 11246, Equal Employment Opportunity\").", 
+  "sponsor": {
+    "bioguide_id": "M001185", 
+    "district": "18", 
+    "name": "Maloney, Sean Patrick", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2016-05-19T11:33:12-04:00", 
+  "updated_at": "2019-02-17T14:41:25Z"
+}

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>SCONRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-10-07T19:36:09Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+        <lastName>Sullivan</lastName>
+        <middleName />
+        <state>AK</state>
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <billReferrals>1</billReferrals>
+        <sentToHouse>1</sentToHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2015-10-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <type>Floor</type>
+        <actionDate>2015-10-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:34:14</actionTime>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionDate>2015-10-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-10-06</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S7162-7163</url>
+            <name>S7162-7163</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S7171</url>
+            <name>S7171</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7171; text as passed Senate: CR S7162-7163)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S7171; text as passed Senate: CR S7162-7163)</text>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <actionDate>2015-10-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S7162-7163</url>
+            <name>S7162-7163</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S7171</url>
+            <name>S7171</name>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2015-10-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Policy sciences</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>22</billNumber>
+    <cboCostEstimates />
+    <laws />
+    <title>A concurrent resolution recognizing the 50th anniversary of the White House Fellows program.</title>
+    <introducedDate>2015-10-06</introducedDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sconres22rfh/xml/BILLS-114sconres22rfh.xml</url>
+          </item>
+        </formats>
+        <type>Referred in House</type>
+        <date>2015-10-07T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sconres22es/xml/BILLS-114sconres22es.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in Senate</type>
+        <date>2015-10-06T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sconres22ats/xml/BILLS-114sconres22ats.xml</url>
+          </item>
+        </formats>
+        <type>Agreed to Senate</type>
+        <date>2015-10-06T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <createDate>2015-10-07T09:16:33Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>REED</lastName>
+        <middleName>F.</middleName>
+        <bioguideId>R000122</bioguideId>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipDate>2015-10-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <notes />
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <number>82</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HCONRES</type>
+        <latestTitle>Recognizing the 50th Anniversary of the White House Fellows Program.</latestTitle>
+        <latestAction>
+          <actionDate>2015-10-22</actionDate>
+          <text>Sponsor introductory remarks on measure. (CR H7099)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2019-01-09T21:26:11Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2015-10-07</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <congress>114</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A concurrent resolution recognizing the 50th anniversary of the White House Fellows program.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A concurrent resolution recognizing the 50th anniversary of the White House Fellows program.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Recognizes the 50th anniversary of the White House Fellows program and commends the White House Fellows for their continuing lifetime commitment to public service.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-11-06T12:35:54Z</lastSummaryUpdateDate>
+          <actionDate>2015-10-06</actionDate>
+          <updateDate>2015-10-06T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Recognizes the 50th anniversary of the White House Fellows program and commends the White House Fellows for their continuing lifetime commitment to public service.</p>]]></text>
+          <versionCode>82</versionCode>
+          <lastSummaryUpdateDate>2015-11-06T12:36:40Z</lastSummaryUpdateDate>
+          <actionDate>2015-10-06</actionDate>
+          <updateDate>2015-10-06T18:36:39Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

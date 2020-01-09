@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-03-23T13:30:36Z</createDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-03-19T19:19:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <introducedDate>2015-03-19</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2015-03-19</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1664</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S1664</url>
+          </link>
+          <link>
+            <name>S1665-1666</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S1665-1666</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1664; text of measure as introduced: CR S1665-1666)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-03-19</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestTitle>Coquille Forest Fairness Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2015-04-07</actionDate>
+          <text>Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>1437</number>
+        <congress>114</congress>
+      </item>
+      <item>
+        <latestTitle>Western Oregon Tribal Fairness Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2015-09-17</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <type>HR</type>
+        <number>2791</number>
+        <congress>114</congress>
+      </item>
+      <item>
+        <latestTitle>Oregon and California Land Grant Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2015-07-16</actionDate>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        </latestAction>
+        <type>S</type>
+        <number>132</number>
+        <congress>114</congress>
+      </item>
+    </relatedBills>
+    <billNumber>816</billNumber>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-03-19</actionDate>
+          <updateDate>2015-03-19T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-03-28T22:01:05Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p> Amends the Coquille Restoration Act to require the Department of the Interior to manage the Coquille Forest in accordance with the laws pertaining to the management of Indian trust land. (Currently, Interior is also required to manage the Forest under applicable state and federal forestry and environmental protection laws, and subject to critical habitat designations under the Endangered Species Act and the standards and guidelines of federal forest plans on adjacent or nearby federal lands.) </p> <p>Continues to apply: (1) federal law relating to the export of unprocessed logs harvested from federal land to any unprocessed logs that are harvested from the Forest, and (2) competitive bidding requirements to sales of timber from the Forest. </p> <p>Removes a provision: (1) giving the U.S. District Court for the District of Oregon jurisdiction over certain actions concerning the placement of lands in Coos County and Curry County, Oregon, into trust for the Coquille Tribe and the management of the Coquille Forest; and (2) limiting available remedies to equitable relief, unless otherwise provided for by law.</p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-08-16T22:53:50Z</updateDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <state>OR</state>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2015-03-19</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1664; text of measure as introduced: CR S1665-1666)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <bioguideId>W000779</bioguideId>
+        <party>D</party>
+        <state>OR</state>
+        <firstName>RON</firstName>
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <byRequestType />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+      </item>
+    </sponsors>
+    <title>A bill to amend the Coquille Restoration Act to clarify certain provisions relating to the management of the Coquille Forest.</title>
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Coquille Restoration Act to clarify certain provisions relating to the management of the Coquille Forest.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Coquille Restoration Act to clarify certain provisions relating to the management of the Coquille Forest.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

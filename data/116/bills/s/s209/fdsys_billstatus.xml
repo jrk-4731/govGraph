@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <bioguideId>B001261</bioguideId>
+        <firstName>John</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <state>WY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Barrasso</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <bioguideId>U000039</bioguideId>
+        <firstName>TOM</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>UDALL</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Smith, Tina  [D-MN]</fullName>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+          <lisID>2365</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001203</bioguideId>
+        <firstName>Tina</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Smith</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+        </identifiers>
+        <bioguideId>C000127</bioguideId>
+        <firstName>MARIA</firstName>
+        <middleName />
+        <sponsorshipDate>2019-01-29</sponsorshipDate>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>CANTWELL</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+        </identifiers>
+        <bioguideId>S001198</bioguideId>
+        <firstName>Dan</firstName>
+        <middleName />
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <state>AK</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Sullivan</lastName>
+      </item>
+    </cosponsors>
+    <actions>
+      <item>
+        <actionDate>2019-07-03</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-06-28</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-06-28</actionDate>
+        <text>Received in the House.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H14000</actionCode>
+        <actionTime>15:32:46</actionTime>
+      </item>
+      <item>
+        <actionDate>2019-06-28</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4652-4664</url>
+            <name>S4652-4664</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4653-4660</url>
+            <name>S4653-4660</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Voice Vote. (consideration: CR S4652-4664; text: CR S4653-4660)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2019-06-27</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4652-4664; text: CR S4653-4660)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4652-4664</url>
+            <name>S4652-4664</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S4653-4660</url>
+            <name>S4653-4660</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-04-29</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-04-29</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/34</url>
+            <name>report No. 116-34</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-34.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2019-04-29</actionDate>
+        <text>Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 116-34.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/34</url>
+            <name>report No. 116-34</name>
+          </link>
+        </links>
+        <actionCode>14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-01-29</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-24</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-01-24</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <sentToHouse>1</sentToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <passedSenate>1</passedSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+      <actionDate>2019-07-03</actionDate>
+      <links />
+    </latestAction>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Indian claims</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-03-25T19:28:46Z</pubDate>
+        <title>S. 209, PROGRESS for Indian Tribes Act</title>
+        <url>https://www.cbo.gov/publication/55051</url>
+      </item>
+    </cboCostEstimates>
+    <originChamber>Senate</originChamber>
+    <updateDate>2019-07-17T04:43:58Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-28T20:03:27Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-07-03T15:51:36Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii24</systemCode>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-04-29T22:39:52Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-01-29T19:30:38Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-24T19:38:58Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+          <type>Other</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestTitle>PROGRESS for Indian Tribes Act</latestTitle>
+        <type>HR</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2031</number>
+        <latestAction>
+          <actionDate>2019-04-30</actionDate>
+          <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <date>2019-06-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s209rfh/xml/BILLS-116s209rfh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2019-06-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s209es/xml/BILLS-116s209es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-04-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s209rs/xml/BILLS-116s209rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-01-24T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s209is/xml/BILLS-116s209is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>PROGRESS for Indian Tribes Act</title>
+    <introducedDate>2019-01-24</introducedDate>
+    <titles>
+      <item>
+        <title>PROGRESS for Indian Tribes Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>PROGRESS for Indian Tribes Act</title>
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <title>A bill to amend the Indian Self-Determination and Education Assistance Act to provide further self-governance by Indian Tribes, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>PROGRESS for Indian Tribes Act</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>PROGRESS for Indian Tribes Act</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>PROGRESS for Indian Tribes Act</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <amendments />
+    <billType>S</billType>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <billNumber>209</billNumber>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0073</number>
+      </item>
+    </calendarNumbers>
+    <createDate>2019-01-25T06:10:13Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Hoeven</lastName>
+        <state>ND</state>
+        <identifiers>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001061</bioguideId>
+        <firstName>John</firstName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-34</citation>
+      </committeeReport>
+    </committeeReports>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

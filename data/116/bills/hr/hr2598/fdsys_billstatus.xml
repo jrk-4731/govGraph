@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <bioguideId>C001063</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Henry</firstName>
+        <district>28</district>
+        <lastName>Cuellar</lastName>
+        <middleName />
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <party>D</party>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <gpoId>8184</gpoId>
+          <lisID>1807</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>TN</state>
+        <bioguideId>R000612</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <district>6</district>
+        <lastName>Rose</lastName>
+        <middleName>W.</middleName>
+        <fullName>Rep. Rose, John W. [R-TN-6]</fullName>
+        <party>R</party>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <identifiers>
+          <lisID>2441</lisID>
+          <gpoId />
+          <bioguideId>R000612</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8766</gpoId>
+          <bioguideId>M001158</bioguideId>
+          <lisID>1806</lisID>
+        </identifiers>
+        <lastName>Marchant</lastName>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Kenny</firstName>
+        <district>24</district>
+        <bioguideId>M001158</bioguideId>
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>2598</billNumber>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MARCHANT:H.R. 2598.Congress has the power to enact this legislation pursuantfollowing:Article I, Section 8, clause 14 provides Congress with thepower to make rules for the government and regulation of theland and naval forces.[Page H3502]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-05-09</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2598ih/xml/BILLS-116hr2598ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-08T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Developing Education by Leveraging Tuition Assistance Act</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-09</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2019-05-08</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Armed Services.</text>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-08</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2019-05-08</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-08T14:02:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-05-09T19:46:49Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-06-20T07:49:17Z</updateDate>
+    <committeeReports />
+    <createDate>2019-05-09T07:27:17Z</createDate>
+    <introducedDate>2019-05-08</introducedDate>
+    <laws />
+    <titles>
+      <item>
+        <title>Developing Education by Leveraging Tuition Assistance Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>DELTA Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend title 10, United States Code, to allow members of the Armed Forces to use Department of Defense tuition assistance to pay for education or training at lower or lateral degree levels.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>DELTA Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Developing Education by Leveraging Tuition Assistance Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Developing Education by Leveraging Tuition Assistance Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <policyArea />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

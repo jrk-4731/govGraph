@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3526-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000386", 
+      "district": "24", 
+      "name": "Katko, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-27", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-27", 
+  "number": "3526", 
+  "official_title": "To authorize certain counter terrorist networks activities of U.S. Customs and Border Protection, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Counter Terrorist Network Act", 
+  "sponsor": {
+    "bioguide_id": "U000040", 
+    "district": "14", 
+    "name": "Underwood, Lauren", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-27", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Congressional oversight", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Government employee pay, benefits, personnel management", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Intergovernmental relations", 
+    "International organizations and cooperation", 
+    "Law enforcement officers", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize certain counter terrorist networks activities of U.S. Customs and Border Protection, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Counter Terrorist Network Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Counter Terrorist Network Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Counter Terrorist Network Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-17T03:52:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3526.xml"
+}

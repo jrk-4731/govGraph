@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-02-28T16:15:51-05:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.48", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/48"
+        }, 
+        {
+          "name": "Roll no. 106", 
+          "url": "http://clerk.house.gov/evs/2017/roll106.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 106, 
+      "text": "On agreeing to the Plaskett amendment (A004) Failed by recorded vote: 181 - 243 (Roll no. 106).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-02-28T15:16:22-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.48", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/48"
+        }, 
+        {
+          "name": "H1379", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H1379"
+        }, 
+        {
+          "name": "H1379-1381", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H1379-1381"
+        }, 
+        {
+          "name": "H1383-1384", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H1383-1384"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1379-1381, H1383-1384", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1379", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Ms. Plaskett.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-28", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-28T16:15:51-05:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.48", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/48"
+        }, 
+        {
+          "name": "Roll no. 106", 
+          "url": "http://clerk.house.gov/evs/2017/roll106.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Plaskett amendment (A004) Failed by recorded vote: 181 - 243 (Roll no. 106).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-28T15:16:22-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.48", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/48"
+        }, 
+        {
+          "name": "H1379", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H1379"
+        }, 
+        {
+          "name": "H1379-1381", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H1379-1381"
+        }, 
+        {
+          "name": "H1383-1384", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H1383-1384"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H1379-1381, H1383-1384", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1379", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A004) offered by Ms. Plaskett.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-28T16:15:51-05:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.48", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/48"
+        }, 
+        {
+          "name": "Roll no. 106", 
+          "url": "http://clerk.house.gov/evs/2017/roll106.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-28T16:15:51-05:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.48", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/48"
+        }, 
+        {
+          "name": "Roll no. 106", 
+          "url": "http://clerk.house.gov/evs/2017/roll106.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-02-28", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt48-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr998-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 998
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to prohibit the use of funds to carry out the requirements of this Act.", 
+  "introduced_at": "2017-02-28", 
+  "number": 48, 
+  "purpose": "An amendment numbered 4 printed in House Report 115-20 to provide that no funding will be authorized to carry out the requirements of this Act.", 
+  "sponsor": {
+    "bioguide_id": "P000610", 
+    "district": "0", 
+    "name": "Plaskett, Stacey E.", 
+    "state": "VI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2017-02-28T16:15:51-05:00", 
+  "updated_at": "2019-04-18T16:47:09Z"
+}

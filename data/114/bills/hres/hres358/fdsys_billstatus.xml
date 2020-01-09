@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2015-07-11T08:49:17Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2015-07-10</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-07-10</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-07-10</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <updateDate>2019-02-06T19:37:18Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-07-10T13:00:48Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>S000583</bioguideId>
+        <sponsorshipDate>2015-07-10</sponsorshipDate>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8177</gpoId>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+        </identifiers>
+        <firstName>LAMAR</firstName>
+        <middleName />
+        <district>21</district>
+        <lastName>SMITH</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>D000399</bioguideId>
+        <sponsorshipDate>2015-07-10</sponsorshipDate>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8181</gpoId>
+          <lisID>303</lisID>
+          <bioguideId>D000399</bioguideId>
+        </identifiers>
+        <firstName>LLOYD</firstName>
+        <middleName />
+        <district>35</district>
+        <lastName>DOGGETT</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>TX</state>
+        <bioguideId>C001063</bioguideId>
+        <sponsorshipDate>2015-07-10</sponsorshipDate>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8184</gpoId>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+        </identifiers>
+        <firstName>Henry</firstName>
+        <middleName />
+        <district>28</district>
+        <lastName>Cuellar</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>H001073</bioguideId>
+        <sponsorshipDate>2015-07-10</sponsorshipDate>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001073</bioguideId>
+          <lisID>2269</lisID>
+        </identifiers>
+        <firstName>Will</firstName>
+        <middleName />
+        <district>23</district>
+        <lastName>Hurd</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>Castro</lastName>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <bioguideId>C001091</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001091</bioguideId>
+          <lisID>2163</lisID>
+        </identifiers>
+        <firstName>Joaquin</firstName>
+        <byRequestType />
+        <district>20</district>
+        <middleName />
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills />
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <title>Welcoming the United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Committee's inscription of the San Antonio Missions to the World Heritage list, recognizing the San Antonio Missions as having universal historical and cultural significance, and congratulating the people of San Antonio for their years of hard work to make this designation a reality.</title>
+    <billNumber>358</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2015-07-10</introducedDate>
+    <textVersions>
+      <item>
+        <date>2015-07-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres358ih/xml/BILLS-114hres358ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Welcoming the United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Committee's inscription of the San Antonio Missions to the World Heritage list, recognizing the San Antonio Missions as having universal historical and cultural significance, and congratulating the people of San Antonio for their years of hard work to make this designation a reality.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <title>Welcoming the United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Committee's inscription of the San Antonio Missions to the World Heritage list, recognizing the San Antonio Missions as having universal historical and cultural significance, and congratulating the people of San Antonio for their years of hard work to make this designation a reality.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2015-07-10</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-07-10</actionDate>
+          <text><![CDATA[<p>Welcomes the United Nations Educational, Scientific and Cultural Organization World Heritage Committee's inscription of the San Antonio Missions to the World Heritage list, recognizes the San Antonio Missions as having universal historical and cultural significance, and congratulates the people of San Antonio for their years of hard work to make this designation a reality. </p>]]></text>
+          <updateDate>2015-07-10T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-07-13T16:22:55Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

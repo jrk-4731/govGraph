@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Military law</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2015-11-23</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-03-16</actionDate>
+        <committee>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2015-02-12</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2015-02-12</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2015-02-12</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2015-02-12</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2015-02-12</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-11-23T15:15:15Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsas02</systemCode>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2015-02-12T15:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-03-16T20:34:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2015-02-12T15:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>956</billNumber>
+    <updateDate>2019-02-14T23:14:37Z</updateDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>PA</state>
+        <bioguideId>M001181</bioguideId>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <identifiers>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <lastName>Meehan</lastName>
+        <district>7</district>
+        <firstName>Patrick</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CO</state>
+        <bioguideId>C001077</bioguideId>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+        </identifiers>
+        <lastName>Coffman</lastName>
+        <district>6</district>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C. "Hank"</middleName>
+        <state>GA</state>
+        <bioguideId>J000288</bioguideId>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+        <district>4</district>
+        <firstName>Henry</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <lastName>Chu</lastName>
+        <district>27</district>
+        <firstName>Judy</firstName>
+      </item>
+      <item>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>NJ</state>
+        <bioguideId>M001193</bioguideId>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <identifiers>
+          <lisID>2258</lisID>
+          <gpoId />
+          <bioguideId>M001193</bioguideId>
+        </identifiers>
+        <lastName>MacArthur</lastName>
+        <district>3</district>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>KS</state>
+        <bioguideId>J000290</bioguideId>
+        <sponsorshipDate>2015-10-20</sponsorshipDate>
+        <identifiers>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+        <lastName>Jenkins</lastName>
+        <district>2</district>
+        <firstName>Lynn</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2015-11-23</actionDate>
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 24 (Thursday, February 12, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SPEIER:H.R. 956.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article 1, Section 8 of the United StatesConstitution.[Page H1037]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <introducedDate>2015-02-12</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Military TRAC Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Military Track Register and Alert Communities Act of 2015</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Adam Walsh Child Protection and Safety Act of 2006 to require the Secretary of Defense maintain a registry of sex offenders.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Military TRAC Act</title>
+      </item>
+    </titles>
+    <title>Military TRAC Act</title>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-02-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-03-17T20:52:36Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p style="MARGIN: 0in 0in 10pt" class="MsoNormal"></p> <p><strong>Military Track Register and Alert Communities Act of 2015 or the Military TRAC Act </strong></p> <p>Amends the Adam Walsh Child Protection and Safety Act of 2006 to require the Department of Defense to&nbsp;maintain a sex offender registry of individuals convicted of certain sex offenses under the Uniform Code of Military Justice or&nbsp;of other military offenses&nbsp;appropriate for&nbsp;sex offender registration purposes.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2015-02-12</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2015-02-13T06:14:12Z</createDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>Speier</lastName>
+        <state>CA</state>
+        <bioguideId>S001175</bioguideId>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <firstName>Jackie</firstName>
+        <identifiers>
+          <lisID>1890</lisID>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>14</district>
+        <middleName />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills />
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

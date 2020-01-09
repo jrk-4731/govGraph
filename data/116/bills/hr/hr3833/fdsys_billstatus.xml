@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <district>10</district>
+        <bioguideId>M001201</bioguideId>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <bioguideId>M001201</bioguideId>
+          <gpoId />
+          <lisID>2334</lisID>
+        </identifiers>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <lastName>Mitchell</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <district>6</district>
+        <bioguideId>M001196</bioguideId>
+        <firstName>Seth</firstName>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <lastName>Moulton</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <district>1</district>
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+          <lisID>2345</lisID>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-07-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2019-07-18</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-07-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-07-18</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Referred to the Committee on Education and Labor, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2019-07-18</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Suzanne</firstName>
+        <party>D</party>
+        <lastName>Bonamici</lastName>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <lisID>2092</lisID>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>B001278</bioguideId>
+        <district>1</district>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <updateDate>2019-07-19T07:39:13Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2019-07-18T13:03:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <date>2019-07-18T13:03:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <textVersions />
+    <title>To amend the Higher Education Act of 1965 to provide for the automatic recertification of income for income-driven repayment plans, and for other purposes.</title>
+    <introducedDate>2019-07-18</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Higher Education Act of 1965 to provide for the automatic recertification of income for income-driven repayment plans, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Higher Education Act of 1965 to provide for the automatic recertification of income for income-driven repayment plans, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <billNumber>3833</billNumber>
+    <billType>HR</billType>
+    <policyArea />
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2019-07-19T07:12:14Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

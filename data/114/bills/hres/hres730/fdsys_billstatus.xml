@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2018-11-21T21:23:32Z</updateDate>
+    <committeeReports />
+    <billNumber>730</billNumber>
+    <title>Expressing the sense of the House of Representatives regarding the important role of the health care industry in identifying victims of sex trafficking.</title>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-05-20</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2016-05-13</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2016-05-13</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2016-05-13</actionDate>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <bioguideId>B001273</bioguideId>
+        <party>R</party>
+        <district>6</district>
+        <lastName>Black</lastName>
+        <byRequestType />
+        <firstName>Diane</firstName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-05-20T21:10:11Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-13T13:00:26Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HRES</billType>
+    <introducedDate>2016-05-13</introducedDate>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001185</bioguideId>
+        <firstName>Terri</firstName>
+        <middleName>A.</middleName>
+        <lastName>Sewell</lastName>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <district>7</district>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000608</bioguideId>
+        <firstName>Scott</firstName>
+        <middleName>H.</middleName>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <district>52</district>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H000324</bioguideId>
+        <firstName>ALCEE</firstName>
+        <middleName>L.</middleName>
+        <lastName>HASTINGS</lastName>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <district>20</district>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000179</bioguideId>
+        <firstName>GRACE</firstName>
+        <middleName>F.</middleName>
+        <lastName>NAPOLITANO</lastName>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <district>32</district>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001289</bioguideId>
+        <firstName>Bradley</firstName>
+        <middleName />
+        <lastName>Byrne</lastName>
+        <identifiers>
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <district>1</district>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000459</bioguideId>
+        <firstName>Charles</firstName>
+        <middleName>J. "Chuck"</middleName>
+        <lastName>Fleischmann</lastName>
+        <identifiers>
+          <lisID>2061</lisID>
+          <bioguideId>F000459</bioguideId>
+          <gpoId>8150</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+        <district>3</district>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000814</bioguideId>
+        <firstName>Randy</firstName>
+        <middleName>K.</middleName>
+        <lastName>Weber</lastName>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <district>14</district>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001063</bioguideId>
+        <firstName>Janice</firstName>
+        <middleName />
+        <lastName>Hahn</lastName>
+        <identifiers>
+          <bioguideId>H001063</bioguideId>
+          <lisID>2089</lisID>
+          <gpoId>8360</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hahn, Janice [D-CA-44]</fullName>
+        <district>44</district>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001084</bioguideId>
+        <firstName>David</firstName>
+        <middleName>N.</middleName>
+        <lastName>Cicilline</lastName>
+        <identifiers>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <district>1</district>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>A000055</bioguideId>
+        <firstName>ROBERT</firstName>
+        <middleName>B.</middleName>
+        <lastName>ADERHOLT</lastName>
+        <identifiers>
+          <gpoId>7789</gpoId>
+          <lisID>1460</lisID>
+          <bioguideId>A000055</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Aderholt, Robert B. [R-AL-4]</fullName>
+        <district>4</district>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000582</bioguideId>
+        <firstName>David</firstName>
+        <middleName>P.</middleName>
+        <lastName>Roe</lastName>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <district>1</district>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001101</bioguideId>
+        <firstName>Katherine</firstName>
+        <middleName>M.</middleName>
+        <lastName>Clark</lastName>
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+          <lisID>2196</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-05-13</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <district>5</district>
+      </item>
+      <item>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000375</bioguideId>
+        <firstName>William</firstName>
+        <middleName>R.</middleName>
+        <lastName>Keating</lastName>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <district>9</district>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000611</bioguideId>
+        <firstName>Bruce</firstName>
+        <middleName />
+        <lastName>Poliquin</lastName>
+        <identifiers>
+          <lisID>2247</lisID>
+          <bioguideId>P000611</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2016-06-08</sponsorshipDate>
+        <state>ME</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <district>2</district>
+      </item>
+      <item>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000812</bioguideId>
+        <firstName>Ann</firstName>
+        <middleName />
+        <lastName>Wagner</lastName>
+        <identifiers>
+          <lisID>2137</lisID>
+          <gpoId />
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-06-28</sponsorshipDate>
+        <state>MO</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2016-05-20</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the House of Representatives regarding the important role of the health care industry in identifying victims of sex trafficking.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the House of Representatives regarding the important role of the health care industry in identifying victims of sex trafficking.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-05-13</actionDate>
+          <lastSummaryUpdateDate>2016-05-19T18:53:08Z</lastSummaryUpdateDate>
+          <updateDate>2016-05-13T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Condemns acts of sex trafficking.</p> Urges emergency health care providers to understand the prevalence, characteristics, and indicators of sex trafficking and the important role such providers play in recognizing, helping, and rescuing victims.]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <createDate>2016-05-14T04:54:41Z</createDate>
+    <constitutionalAuthorityStatementText />
+    <congress>114</congress>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

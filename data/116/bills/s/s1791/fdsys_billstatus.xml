@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-11</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-06-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to prohibit discrimination on the basis of religion, sex (including sexual orientation and gender identity), and marital status in the administration and provision of child welfare services, to improve safety, well-being, and permanency for lesbian, gay, bisexual, transgender, and queer or questioning foster youth, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Every Child Deserves a Family Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Every Child Deserves a Family Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Every Child Deserves a Family Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <updateDate>2019-07-18T09:32:55Z</updateDate>
+    <billNumber>1791</billNumber>
+    <createDate>2019-06-12T04:57:14Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-11T22:05:17Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-06-11</actionDate>
+    </latestAction>
+    <laws />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2019-06-05</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Every Child Deserves a Family Act</latestTitle>
+        <congress>116</congress>
+        <number>3114</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Families</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>MA</state>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>CT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Murphy</lastName>
+        <bioguideId>M001169</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>CA</state>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kamala</firstName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Harris</lastName>
+        <bioguideId>H001075</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001075</bioguideId>
+          <gpoId />
+          <lisID>2301</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>WA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>PATTY</firstName>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>MURRAY</lastName>
+        <bioguideId>M001111</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+          <lisID>1409</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>VT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Bernard</firstName>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Sanders</lastName>
+        <bioguideId>S000033</bioguideId>
+        <party>I</party>
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeanne</firstName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Shaheen</lastName>
+        <bioguideId>S001181</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NV</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jacklyn</firstName>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Rosen</lastName>
+        <bioguideId>R000608</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>2339</lisID>
+          <gpoId />
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>WI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Tammy</firstName>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Baldwin</lastName>
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>VT</state>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>PATRICK</firstName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>LEAHY</lastName>
+        <bioguideId>L000174</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>OR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>WYDEN</lastName>
+        <bioguideId>W000779</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>RI</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Sheldon</firstName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Whitehouse</lastName>
+        <bioguideId>W000802</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>OR</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Merkley</lastName>
+        <bioguideId>M001176</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>MN</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Amy</firstName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>IL</state>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <lastName>DURBIN</lastName>
+        <bioguideId>D000563</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>CO</state>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-19</sponsorshipDate>
+        <lastName>Bennet</lastName>
+        <bioguideId>B001267</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>CA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>DIANNE</firstName>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-28</sponsorshipDate>
+        <lastName>FEINSTEIN</lastName>
+        <bioguideId>F000062</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>OH</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Sherrod</firstName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-28</sponsorshipDate>
+        <lastName>Brown</lastName>
+        <bioguideId>B000944</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>NJ</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-28</sponsorshipDate>
+        <lastName>Menendez</lastName>
+        <bioguideId>M000639</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MI</state>
+        <middleName>ANN</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>DEBORAH</firstName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <lastName>STABENOW</lastName>
+        <bioguideId>S000770</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>MD</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <lastName>Van Hollen</lastName>
+        <bioguideId>V000128</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>PA</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Bob</firstName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <lastName>Casey</lastName>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <title>Every Child Deserves a Family Act</title>
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1791is/xml/BILLS-116s1791is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-06-11T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2019-06-11</introducedDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

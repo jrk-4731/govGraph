@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <links />
+      <actionDate>2019-04-12</actionDate>
+      <text>Message on Senate action sent to the House.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Bradley</firstName>
+        <byRequestType />
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <state>IL</state>
+        <middleName>Scott</middleName>
+        <identifiers>
+          <lisID>2124</lisID>
+          <gpoId />
+          <bioguideId>S001190</bioguideId>
+        </identifiers>
+        <lastName>Schneider</lastName>
+        <district>10</district>
+        <bioguideId>S001190</bioguideId>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <billType>HCONRES</billType>
+    <laws />
+    <introducedDate>2019-04-03</introducedDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-12</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2456</url>
+            <name>S2456</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2456)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2456)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2456</url>
+            <name>S2456</name>
+          </link>
+        </links>
+        <actionDate>2019-04-11</actionDate>
+      </item>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <actionTime>15:13:25</actionTime>
+        <links />
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H3168)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <actionTime>15:13:21</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3168</url>
+            <name>H3168</name>
+          </link>
+        </links>
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3168)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <actionTime>15:13:21</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3168</url>
+            <name>H3168</name>
+          </link>
+        </links>
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Considered by unanimous consent. (consideration: CR H3168)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <actionTime>15:12:59</actionTime>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/house-section/page/H3168</url>
+            <name>H3168</name>
+          </link>
+        </links>
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Committee on House Administration discharged.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <links />
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Committee on House Administration discharged.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <links />
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Ms. Lofgren asked unanimous consent to discharge from committee and consider.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <actionTime>15:12:30</actionTime>
+        <links />
+        <actionDate>2019-04-09</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <text>Referred to the House Committee on House Administration.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-04-03</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-04-03</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-04-03</actionDate>
+      </item>
+      <actionTypeCounts>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <agreedToInSenate>1</agreedToInSenate>
+        <sentToHouse>1</sentToHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <committeeDischarged>1</committeeDischarged>
+        <billReferrals>1</billReferrals>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-05-29T04:27:11Z</updateDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Kustoff, David [R-TN-8]</fullName>
+        <identifiers>
+          <lisID>2348</lisID>
+          <bioguideId>K000392</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Kustoff</lastName>
+        <district>8</district>
+        <bioguideId>K000392</bioguideId>
+        <state>TN</state>
+        <firstName>David</firstName>
+        <middleName />
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <lastName>Deutch</lastName>
+        <district>22</district>
+        <bioguideId>D000610</bioguideId>
+        <state>FL</state>
+        <firstName>Theodore</firstName>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2261</lisID>
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+        <lastName>Zeldin</lastName>
+        <district>1</district>
+        <bioguideId>Z000017</bioguideId>
+        <state>NY</state>
+        <firstName>Lee</firstName>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <identifiers>
+          <gpoId>7902</gpoId>
+          <lisID>688</lisID>
+          <bioguideId>L000287</bioguideId>
+        </identifiers>
+        <lastName>LEWIS</lastName>
+        <district>5</district>
+        <bioguideId>L000287</bioguideId>
+        <state>GA</state>
+        <firstName>JOHN</firstName>
+        <middleName />
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date />
+        <type>Enrolled Bill</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres31enr/xml/BILLS-116hconres31enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-04-10T04:00:00Z</date>
+        <type>Received in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres31rds/xml/BILLS-116hconres31rds.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-04-09T04:00:00Z</date>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres31eh/xml/BILLS-116hconres31eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date>2019-04-03T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres31ih/xml/BILLS-116hconres31ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-04-03</actionDate>
+          <updateDate>2019-04-03T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-04-11T22:14:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This concurrent resolution authorizes the use of Emancipation Hall in the Capitol Visitor Center on April 29, 2019, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <actionDate>2019-04-09</actionDate>
+          <updateDate>2019-04-09T12:30:10Z</updateDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2019-04-11T22:13:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This concurrent resolution authorizes the use of Emancipation Hall in the Capitol Visitor Center on April 29, 2019, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</p>]]></text>
+          <name>Passed House</name>
+          <versionCode>53</versionCode>
+        </item>
+        <item>
+          <actionDate>2019-04-11</actionDate>
+          <updateDate>2019-04-11T10:43:55Z</updateDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-05-23T14:36:21Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This concurrent resolution authorizes the use of Emancipation Hall in the Capitol Visitor Center on April 29, 2019, for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</p>]]></text>
+          <name>Passed Senate</name>
+          <versionCode>55</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <amendments />
+    <title>Authorizing the use of Emancipation Hall for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Authorizing the use of Emancipation Hall for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Authorizing the use of Emancipation Hall for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Germany</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>U.S. Capitol</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-04-09T19:12:35Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2019-04-03T13:04:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2019-04-04T07:12:06Z</createDate>
+    <billNumber>31</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

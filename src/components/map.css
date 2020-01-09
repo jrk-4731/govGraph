@@ -1,0 +1,691 @@
+/* Container needed to position the button. Adjust the width as needed */
+.imgContainer {
+  display: inline-block;
+  position: relative;
+  width: auto;
+  margin: auto;
+  height: 99%;
+  border: 5px solid slategray;
+}
+
+/* Make the image responsive */
+.mapImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: 100%;
+}
+
+.imgContainer .congressDropDown {
+  border: 3px solid black;
+  position: absolute;
+  cursor: pointer;
+  display: inline-block;
+  top: 10%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  z-index:999999999999999999999;
+}
+
+.imgContainer .dropDownName{
+  position: absolute;
+  cursor: pointer;
+  display: inline-block;
+  top: 3%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  z-index:999999999999999999999;
+}
+
+/* Style the button and place it in the middle of the container/image */
+
+.imgContainer .btn {
+  position: absolute;
+  cursor: pointer;
+  display: inline-block;
+  width: 1%;
+  height: 1%;
+  padding: 3px;
+  border-radius: 50%;
+}
+
+.imgContainer .btn .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding: 10px;
+
+  /* Position the tooltip text */
+  position: absolute;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.imgContainer .btn:hover {
+  z-index: 9999;
+  opacity: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.imgContainer .btn:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Other {
+  background-color: green;
+}
+
+.Republican {
+  background-color: darkred;
+}
+
+.Democrat {
+  background-color: darkblue;
+}
+
+.AL-1 {
+  top: 67%;
+  left: 64%;
+  transform: translate(-50%, -50%);
+}
+
+.AL-2 {
+  top: 63%;
+  left: 64%;
+  transform: translate(-50%, -50%);
+}
+
+.AK-1 {
+  top: 79%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+}
+
+.AK-2 {
+  top: 85%;
+  left: 13%;
+  transform: translate(-50%, -50%);
+}
+
+.AZ-1 {
+  top: 63%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+}
+
+.AZ-2 {
+  top: 57%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+}
+
+.AR-1 {
+  top: 62%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+}
+
+.AR-2 {
+  top: 57%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+}
+
+.CA-1 {
+  top: 40%;
+  left: 7%;
+  transform: translate(-50%, -50%);
+}
+
+.CA-2 {
+  top: 46%;
+  left: 9%;
+  transform: translate(-50%, -50%);
+}
+
+.CO-1 {
+  top: 43%;
+  left: 32%;
+  transform: translate(-50%, -50%);
+}
+
+.CO-2 {
+  top: 48%;
+  left: 34%;
+  transform: translate(-50%, -50%);
+}
+
+.CT-1 {
+  top: 37%;
+  left: 94%;
+  transform: translate(-50%, -50%);
+}
+
+.CT-2 {
+  top: 41%;
+  left: 96%;
+  transform: translate(-50%, -50%);
+}
+
+.DE-1 {
+  top: 60%;
+  left: 93%;
+  transform: translate(-50%, -50%);
+}
+
+.DE-2 {
+  top: 60%;
+  left: 97%;
+  transform: translate(-50%, -50%);
+}
+
+.FL-1 {
+  top: 75%;
+  left: 73%;
+  transform: translate(-50%, -50%);
+}
+
+.FL-2 {
+  top: 81%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}
+
+.GA-1 {
+  top: 62%;
+  left: 69%;
+  transform: translate(-50%, -50%);
+}
+
+.GA-2 {
+  top: 68%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+}
+
+.HI-1 {
+  top: 85%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
+
+.HI-2 {
+  top: 91%;
+  left: 34%;
+  transform: translate(-50%, -50%);
+}
+
+.ID-1 {
+  top: 21%;
+  left: 19%;
+  transform: translate(-50%, -50%);
+}
+
+.ID-2 {
+  top: 28%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+}
+
+.IL-1 {
+  top: 45%;
+  left: 59%;
+  transform: translate(-50%, -50%);
+}
+
+.IL-2 {
+  top: 40%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+}
+
+.IN-1 {
+  top: 39%;
+  left: 63%;
+  transform: translate(-50%, -50%);
+}
+
+.IN-2 {
+  top: 43%;
+  left: 63%;
+  transform: translate(-50%, -50%);
+}
+
+.IA-1 {
+  top: 33%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+}
+
+.IA-2 {
+  top: 38%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+}
+
+.KS-1 {
+  top: 45%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+}
+
+.KS-2 {
+  top: 50%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+}
+
+.KY-1 {
+  top: 50%;
+  left: 64%;
+  transform: translate(-50%, -50%);
+}
+
+.KY-2 {
+  top: 49%;
+  left: 68%;
+  transform: translate(-50%, -50%);
+}
+
+.LA-1 {
+  top: 69%;
+  left: 54%;
+  transform: translate(-50%, -50%);
+}
+
+.LA-2 {
+  top: 73%;
+  left: 54%;
+  transform: translate(-50%, -50%);
+}
+
+.ME-1 {
+  top: 13%;
+  left: 87%;
+  transform: translate(-50%, -50%);
+}
+
+.ME-2 {
+  top: 19%;
+  left: 87%;
+  transform: translate(-50%, -50%);
+}
+
+.MD-1 {
+  top: 70%;
+  left: 93%;
+  transform: translate(-50%, -50%);
+}
+
+.MD-2 {
+  top: 75%;
+  left: 96%;
+  transform: translate(-50%, -50%);
+}
+
+.MA-1 {
+  top: 18%;
+  left: 93%;
+  transform: translate(-50%, -50%);
+}
+
+.MA-2 {
+  top: 20%;
+  left: 96%;
+  transform: translate(-50%, -50%);
+}
+
+.MI-1 {
+  top: 26%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+
+.MI-2 {
+  top: 31%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+
+.MN-1 {
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.MN-2 {
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.MS-1 {
+  top: 64%;
+  left: 59%;
+  transform: translate(-50%, -50%);
+}
+
+.MS-2 {
+  top: 69%;
+  left: 59%;
+  transform: translate(-50%, -50%);
+}
+
+.MO-1 {
+  top: 46%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+}
+
+.MO-2 {
+  top: 50%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+}
+
+.MT-1 {
+  top: 14%;
+  left: 27%;
+  transform: translate(-50%, -50%);
+}
+
+.MT-2 {
+  top: 20%;
+  left: 31%;
+  transform: translate(-50%, -50%);
+}
+
+.NE-1 {
+  top: 36%;
+  left: 42%;
+  transform: translate(-50%, -50%);
+}
+
+.NE-2 {
+  top: 40%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+}
+
+.NV-1 {
+  top: 37%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+}
+
+.NV-2 {
+  top: 44%;
+  left: 16%;
+  transform: translate(-50%, -50%);
+}
+
+.NH-1 {
+  top: 21%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+}
+
+.NH-2 {
+  top: 24.5%;
+  left: 85%;
+  transform: translate(-50%, -50%);
+}
+
+.NJ-1 {
+  top: 48%;
+  left: 94%;
+  transform: translate(-50%, -50%);
+}
+
+.NJ-2 {
+  top: 53%;
+  left: 95%;
+  transform: translate(-50%, -50%);
+}
+
+.NM-1 {
+  top: 59%;
+  left: 32%;
+  transform: translate(-50%, -50%);
+}
+
+.NM-2 {
+  top: 63%;
+  left: 32%;
+  transform: translate(-50%, -50%);
+}
+
+.NY-1 {
+  top: 24%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+}
+
+.NY-2 {
+  top: 29%;
+  left: 81.5%;
+  transform: translate(-50%, -50%);
+}
+
+.NC-1 {
+  top: 53%;
+  left: 73%;
+  transform: translate(-50%, -50%);
+}
+
+.NC-2 {
+  top: 55%;
+  left: 78%;
+  transform: translate(-50%, -50%);
+}
+
+.ND-1 {
+  top: 17%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.ND-2 {
+  top: 20%;
+  left: 44%;
+  transform: translate(-50%, -50%);
+}
+
+.OH-1 {
+  top: 37%;
+  left: 69%;
+  transform: translate(-50%, -50%);
+}
+
+.OH-2 {
+  top: 42%;
+  left: 69%;
+  transform: translate(-50%, -50%);
+}
+
+.OK-1 {
+  top: 56%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+}
+
+.OK-2 {
+  top: 61%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+}
+
+.OR-1 {
+  top: 21%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
+
+.OR-2 {
+  top: 25%;
+  left: 11%;
+  transform: translate(-50%, -50%);
+}
+
+.PA-1 {
+  top: 35%;
+  left: 78%;
+  transform: translate(-50%, -50%);
+}
+
+.PA-2 {
+  top: 35%;
+  left: 74%;
+  transform: translate(-50%, -50%);
+}
+
+.RI-1 {
+  top: 29%;
+  left: 93%;
+  transform: translate(-50%, -50%);
+}
+
+.RI-2 {
+  top: 29%;
+  left: 97%;
+  transform: translate(-50%, -50%);
+}
+
+.SC-1 {
+  top: 58%;
+  left: 74%;
+  transform: translate(-50%, -50%);
+}
+
+.SC-2 {
+  top: 62%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}
+
+.SD-1 {
+  top: 26%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.SD-2 {
+  top: 30%;
+  left: 43%;
+  transform: translate(-50%, -50%);
+}
+
+.TN-1 {
+  top: 56%;
+  left: 62%;
+  transform: translate(-50%, -50%);
+}
+
+.TN-2 {
+  top: 55%;
+  left: 66%;
+  transform: translate(-50%, -50%);
+}
+
+.TX-1 {
+  top: 64%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.TX-2 {
+  top: 72%;
+  left: 42%;
+  transform: translate(-50%, -50%);
+}
+
+.UT-1 {
+  top: 40%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+}
+
+.UT-2 {
+  top: 45%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+}
+
+.VT-1 {
+  top: 21%;
+  left: 83%;
+  transform: translate(-50%, -50%);
+}
+
+.VT-2 {
+  top: 24.5%;
+  left: 83%;
+  transform: translate(-50%, -50%);
+}
+
+.VA-1 {
+  top: 44%;
+  left: 77%;
+  transform: translate(-50%, -50%);
+}
+
+.VA-2 {
+  top: 48%;
+  left: 76%;
+  transform: translate(-50%, -50%);
+}
+
+.WA-1 {
+  top: 10%;
+  left: 13%;
+  transform: translate(-50%, -50%);
+}
+
+.WA-2 {
+  top: 14%;
+  left: 14%;
+  transform: translate(-50%, -50%);
+}
+
+.WV-1 {
+  top: 42%;
+  left: 74%;
+  transform: translate(-50%, -50%);
+}
+
+.WV-2 {
+  top: 46%;
+  left: 72%;
+  transform: translate(-50%, -50%);
+}
+
+.WI-1 {
+  top: 25%;
+  left: 57%;
+  transform: translate(-50%, -50%);
+}
+
+.WI-2 {
+  top: 30%;
+  left: 57%;
+  transform: translate(-50%, -50%);
+}
+
+.WY-1 {
+  top: 28%;
+  left: 32%;
+  transform: translate(-50%, -50%);
+}
+
+.WY-2 {
+  top: 34%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}

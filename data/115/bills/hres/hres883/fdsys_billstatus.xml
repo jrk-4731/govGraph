@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres883ih/xml/BILLS-115hres883ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-05-09T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>HRES</billType>
+    <introducedDate>2018-05-09</introducedDate>
+    <committeeReports />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>Expressing support for the designation of May 2017 as "Mental Health Month".</latestTitle>
+        <type>HRES</type>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-05-12</actionDate>
+        </latestAction>
+        <number>320</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <constitutionalAuthorityStatementText />
+    <title>Expressing support for the designation of May 2018 as "Mental Health Month".</title>
+    <cboCostEstimates />
+    <createDate>2018-05-10T07:10:49Z</createDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Expressing support for the designation of May 2018 as "Mental Health Month".</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Expressing support for the designation of May 2018 as "Mental Health Month".</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <lastName>NAPOLITANO</lastName>
+        <middleName>F.</middleName>
+        <byRequestType />
+        <state>CA</state>
+        <district>32</district>
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <notes />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-05-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <firstName>John</firstName>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <bioguideId>K000386</bioguideId>
+        <lastName>Katko</lastName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-05-11T18:56:56Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-09T14:01:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>883</billNumber>
+    <amendments />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2018-05-11</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-05-11</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-05-09</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-05-09</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-05-09</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2018-05-09</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-05-16T18:05:23Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Supports the designation of Mental Health Month to remove the stigma associated with mental illness and to place emphasis on scientific findings regarding mental health recovery.</p>]]></text>
+          <updateDate>2018-05-09T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-04-18T15:55:25Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

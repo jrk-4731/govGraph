@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-06-04</actionDate>
+        <committee>
+          <name>Trade Subcommittee</name>
+          <systemCode>hswm04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-06-02</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-06-02</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-06-02</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2015-06-02</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2015-06-02</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Trade Subcommittee</name>
+              <systemCode>hswm04</systemCode>
+              <activities>
+                <item>
+                  <date>2015-06-04T17:57:49Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-06-02T14:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-06-02T14:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-06-02</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-06-10T15:47:27Z</lastSummaryUpdateDate>
+          <updateDate>2015-06-02T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Collectible Firearms Protection Act</strong></p> <p> Amends the Arms Export Control Act to allow the importation of certain firearms listed as curios or relics into the United States by a licensed importer without the requirement of an authorization from or payment to the Department of State or the Department of Defense upon certification to the Attorney General that such firearms are lawfully possessed under the laws of the exporting country.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Collectible Firearms Protection Act</title>
+    <recordedVotes />
+    <updateDate>2019-02-06T19:37:18Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Trade.</text>
+      <links />
+      <actionDate>2015-06-04</actionDate>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <amendments />
+    <version>1.0.0</version>
+    <billNumber>2611</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>WY</state>
+        <bioguideId>L000571</bioguideId>
+        <identifiers>
+          <gpoId>8225</gpoId>
+          <lisID>1960</lisID>
+          <bioguideId>L000571</bioguideId>
+        </identifiers>
+        <firstName>Cynthia</firstName>
+        <middleName>M.</middleName>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <byRequestType />
+        <lastName>Lummis</lastName>
+        <district>0</district>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <date>2015-06-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr2611ih/xml/BILLS-114hr2611ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <createDate>2015-06-03T08:47:48Z</createDate>
+    <relatedBills />
+    <committeeReports />
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 87 (Tuesday, June 2, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. LUMMIS:H.R. 2611.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3: ``To regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes.''[Page H3758]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <bioguideId>K000363</bioguideId>
+        <middleName />
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>K000363</bioguideId>
+          <gpoId>8002</gpoId>
+          <lisID>1733</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <district>2</district>
+        <fullName>Rep. Kline, John [R-MN-2]</fullName>
+        <sponsorshipDate>2015-06-09</sponsorshipDate>
+        <lastName>Kline</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001195</bioguideId>
+        <middleName>X.</middleName>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>2277</lisID>
+          <bioguideId>M001195</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Alexander</firstName>
+        <district>2</district>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <sponsorshipDate>2015-06-10</sponsorshipDate>
+        <lastName>Mooney</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+        </identifiers>
+        <firstName>WALTER</firstName>
+        <district>3</district>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2015-09-17</sponsorshipDate>
+        <lastName>JONES</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000564</bioguideId>
+        <middleName />
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>1834</lisID>
+          <bioguideId>L000564</bioguideId>
+          <gpoId>7863</gpoId>
+        </identifiers>
+        <firstName>Doug</firstName>
+        <district>5</district>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <sponsorshipDate>2015-10-06</sponsorshipDate>
+        <lastName>Lamborn</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Collectible Firearms Protection Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Arms Export Control Act to provide that certain firearms listed as curios or relics may be imported into the United States by a licensed importer without obtaining authorization from the Department of State or the Department of Defense, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Collectible Firearms Protection Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <congress>114</congress>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <introducedDate>2015-06-02</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

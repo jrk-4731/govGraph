@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <links />
+      <actionDate>2016-09-19</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2016-09-19T18:00:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-09-19</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 141 (Monday, September 19, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACK:H.R. 6067.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1:The Congress shall have power to lay and collect taxes,duties, imposts and excises, to pay the debts and provide forthe common defense and general welfare of the United States;but all duties, imposts and excises shall be uniformthroughout the United States;____________________[Page H5644]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Relief from Obamacare Exchange Failures Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide an exemption from the individual mandate for certain individuals without access to Exchange coverage.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Relief from Obamacare Exchange Failures Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <version>1.0.0</version>
+    <congress>114</congress>
+    <actions>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2016-09-19</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2016-09-19</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2016-09-19</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <createDate>2016-09-20T05:11:59Z</createDate>
+    <laws />
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>McSally</lastName>
+        <identifiers>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+          <lisID>2225</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2016-09-19</sponsorshipDate>
+        <firstName>Martha</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <middleName />
+      </item>
+      <item>
+        <district>8</district>
+        <bioguideId>F000448</bioguideId>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franks</lastName>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2016-09-27</sponsorshipDate>
+        <firstName>Trent</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <middleName />
+      </item>
+      <item>
+        <district>6</district>
+        <bioguideId>S001183</bioguideId>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schweikert</lastName>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+          <gpoId>7802</gpoId>
+          <lisID>1994</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2016-11-16</sponsorshipDate>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <middleName />
+      </item>
+    </cosponsors>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Relief from Obamacare Exchange Failures Act </b></p> <p>This bill amends the Internal Revenue Code to exempt from the requirement to maintain minimum essential health coverage an individual who for any month is: (1) unable to obtain coverage under a qualified health plan through an exchange established under the Patient Protection and Affordable Care Act because no qualified health plan is offered to the individual through an exchange, (2) is not eligible for specified government-sponsored programs that provide health coverage, and (3) is not eligible for affordable employer-sponsored coverage. </p>]]></text>
+          <updateDate>2016-09-19T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2016-09-19</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-11-16T21:14:02Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HR</billType>
+    <billNumber>6067</billNumber>
+    <title>Relief from Obamacare Exchange Failures Act</title>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>Diane</firstName>
+        <bioguideId>B001273</bioguideId>
+        <middleName />
+        <lastName>Black</lastName>
+        <identifiers>
+          <lisID>2063</lisID>
+          <bioguideId>B001273</bioguideId>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <state>TN</state>
+        <byRequestType />
+        <district>6</district>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-11-09T00:09:23Z</updateDate>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

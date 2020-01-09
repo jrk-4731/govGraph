@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2016-12-09T05:16:40Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2016-12-08</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2016-12-08</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2016-12-08</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <updateDate>2019-02-06T19:37:29Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-12-08T14:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <lastName>ROYCE</lastName>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <bioguideId>R000487</bioguideId>
+        <identifiers>
+          <gpoId>7845</gpoId>
+          <bioguideId>R000487</bioguideId>
+          <lisID>998</lisID>
+        </identifiers>
+        <firstName>ED</firstName>
+        <byRequestType />
+        <district>39</district>
+        <middleName />
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills />
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <title>Denouncing the wrongful and unjust seizure and confiscation of private property of Iranians both inside and outside of Iran, including United States citizens of Iranian descent, by the Government of Iran.</title>
+    <billNumber>951</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2016-12-08</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2016-12-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres951ih/xml/BILLS-114hres951ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Denouncing the wrongful and unjust seizure and confiscation of private property of Iranians both inside and outside of Iran, including United States citizens of Iranian descent, by the Government of Iran.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Denouncing the wrongful and unjust seizure and confiscation of private property of Iranians both inside and outside of Iran, including United States citizens of Iranian descent, by the Government of Iran.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2016-12-08</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2016-12-08</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-02-02T20:19:49Z</lastSummaryUpdateDate>
+          <updateDate>2016-12-08T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Denounces the wrongful and unjust seizure and confiscation of private property of Iranians both inside and outside of Iran, including U.S. citizens of Iranian descent, by the government of Iran. Calls on such government to provide fair, comprehensive, and nondiscriminatory restitution of, or compensation for, all such property.</p> <ul> </ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

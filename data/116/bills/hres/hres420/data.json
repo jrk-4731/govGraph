@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres420-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000619", 
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-04", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-04", 
+  "number": "420", 
+  "official_title": "Permitting official photographs of the House of Representatives to be taken while the House is in actual session on a date designated by the Speaker.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "L000397", 
+    "district": "19", 
+    "name": "Lofgren, Zoe", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-04", 
+  "subjects": [
+    "Congress", 
+    "House of Representatives", 
+    "Legislative rules and procedure", 
+    "Photography and imaging", 
+    "U.S. Capitol"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-04T04:00:00Z", 
+    "text": "This resolution authorizes official photographs of the House of Representatives to be taken while the House is in actual session, on a date designated by the Speaker."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Permitting official photographs of the House of Representatives to be taken while the House is in actual session on a date designated by the Speaker.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Permitting official photographs of the House of Representatives to be taken while the House is in actual session on a date designated by the Speaker.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-06-11T22:15:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres420.xml"
+}

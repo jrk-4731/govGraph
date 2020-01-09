@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>50</billNumber>
+    <billType>HRES</billType>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-01-16</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-01-16</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-01-16</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2019-01-17T08:10:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <name>Oversight and Reform Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-16T15:01:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <committeeReports />
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-16</actionDate>
+          <text><![CDATA[<p>This resolution supports the recognition of January 22 each year as the Day of Tears in the United States, and encourages citizens to lower their flags to half-staff to memorialize the unborn.</p>]]></text>
+          <updateDate>2019-01-16T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-03-28T22:11:35Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <middleName>B.</middleName>
+        <lastName>Hice</lastName>
+        <bioguideId>H001071</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+          <lisID>2237</lisID>
+        </identifiers>
+        <firstName>Jody</firstName>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <district>10</district>
+        <party>R</party>
+        <state>GA</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001195</bioguideId>
+        <middleName>X.</middleName>
+        <firstName>Alexander</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>2</district>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <identifiers>
+          <bioguideId>M001195</bioguideId>
+          <lisID>2277</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <lastName>Mooney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WV</state>
+      </item>
+      <item>
+        <bioguideId>H001053</bioguideId>
+        <middleName />
+        <firstName>Vicky</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>4</district>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <gpoId>8012</gpoId>
+          <lisID>2032</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <lastName>Hartzler</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <bioguideId>M001187</bioguideId>
+        <middleName />
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>11</district>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <lastName>Meadows</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <lastName>Gosar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres50ih/xml/BILLS-116hres50ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-01-16T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <title>Memorializing the unborn by lowering the United States flag to half-staff on the 22d day of January each year.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Memorializing the unborn by lowering the United States flag to half-staff on the 22d day of January each year.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Abortion</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>National symbols</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-28T22:15:07Z</updateDate>
+    <recordedVotes />
+    <congress>116</congress>
+    <introducedDate>2019-01-16</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-01-16</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <links />
+    </latestAction>
+    <title>Memorializing the unborn by lowering the United States flag to half-staff on the 22d day of January each year.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

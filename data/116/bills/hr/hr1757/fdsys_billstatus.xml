@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-14</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <textVersions>
+      <item>
+        <date>2019-03-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1757ih/xml/BILLS-116hr1757ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Property tax</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>State and local taxation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2019-05-22</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2894</number>
+        <type>HR</type>
+        <latestTitle>Save the State and Local Tax Deduction for Middle Class Families Act of 2019</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <lastName>Casten</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+        <identifiers>
+          <lisID>2398</lisID>
+          <bioguideId>C001117</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001117</bioguideId>
+        <middleName />
+        <firstName>Sean</firstName>
+        <district>6</district>
+        <sponsorshipDate>2019-03-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>Scanlon</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Scanlon, Mary Gay [D-PA-5]</fullName>
+        <identifiers>
+          <lisID>2373</lisID>
+          <bioguideId>S001205</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001205</bioguideId>
+        <middleName>Gay</middleName>
+        <firstName>Mary</firstName>
+        <district>5</district>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+      </item>
+      <item>
+        <lastName>Lipinski</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <bioguideId>L000563</bioguideId>
+        <middleName>William</middleName>
+        <firstName>Daniel</firstName>
+        <district>3</district>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>Cleaver</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <identifiers>
+          <lisID>1790</lisID>
+          <gpoId>8013</gpoId>
+          <bioguideId>C001061</bioguideId>
+        </identifiers>
+        <bioguideId>C001061</bioguideId>
+        <middleName />
+        <firstName>Emanuel</firstName>
+        <district>5</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+      </item>
+      <item>
+        <lastName>Butterfield</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <identifiers>
+          <lisID>1761</lisID>
+          <gpoId>8024</gpoId>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <bioguideId>B001251</bioguideId>
+        <middleName />
+        <firstName>G. K.</firstName>
+        <district>1</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+      </item>
+      <item>
+        <lastName>CLYBURN</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Clyburn, James E. [D-SC-6]</fullName>
+        <identifiers>
+          <lisID>208</lisID>
+          <bioguideId>C000537</bioguideId>
+          <gpoId>8146</gpoId>
+        </identifiers>
+        <bioguideId>C000537</bioguideId>
+        <middleName>E.</middleName>
+        <firstName>JAMES</firstName>
+        <district>6</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+      </item>
+      <item>
+        <lastName>Richmond</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <identifiers>
+          <gpoId>7960</gpoId>
+          <bioguideId>R000588</bioguideId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <bioguideId>R000588</bioguideId>
+        <middleName>L.</middleName>
+        <firstName>Cedric</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+      </item>
+      <item>
+        <lastName>Lawson</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <identifiers>
+          <lisID>2317</lisID>
+          <bioguideId>L000586</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>L000586</bioguideId>
+        <middleName />
+        <firstName>Al</firstName>
+        <district>5</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+      </item>
+      <item>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <identifiers>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <bioguideId>T000193</bioguideId>
+        <middleName />
+        <firstName>BENNIE</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+      </item>
+      <item>
+        <lastName>Green</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <identifiers>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <bioguideId>G000553</bioguideId>
+        <middleName />
+        <firstName>Al</firstName>
+        <district>9</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+      </item>
+      <item>
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <bioguideId>W000808</bioguideId>
+        <middleName>S.</middleName>
+        <firstName>Frederica</firstName>
+        <district>24</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+      </item>
+      <item>
+        <lastName>Carson</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <bioguideId>C001072</bioguideId>
+        <middleName />
+        <firstName>Andre</firstName>
+        <district>7</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+      </item>
+      <item>
+        <lastName>Watson Coleman</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <identifiers>
+          <lisID>2259</lisID>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000822</bioguideId>
+        <middleName />
+        <firstName>Bonnie</firstName>
+        <district>12</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>Moore</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <bioguideId>M001160</bioguideId>
+        <middleName />
+        <firstName>Gwen</firstName>
+        <district>4</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+      </item>
+      <item>
+        <lastName>JOHNSON</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <identifiers>
+          <lisID>599</lisID>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <bioguideId>J000126</bioguideId>
+        <middleName>BERNICE</middleName>
+        <firstName>EDDIE</firstName>
+        <district>30</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+      </item>
+      <item>
+        <lastName>Fudge</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <identifiers>
+          <gpoId>8101</gpoId>
+          <bioguideId>F000455</bioguideId>
+          <lisID>1895</lisID>
+        </identifiers>
+        <bioguideId>F000455</bioguideId>
+        <middleName>L.</middleName>
+        <firstName>Marcia</firstName>
+        <district>11</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000385</bioguideId>
+        <middleName>L.</middleName>
+        <firstName>Robin</firstName>
+        <district>2</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>Clarke</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <bioguideId>C001067</bioguideId>
+        <middleName>D.</middleName>
+        <firstName>Yvette</firstName>
+        <district>9</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+      </item>
+      <item>
+        <lastName>Payne</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <bioguideId>P000604</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Donald</firstName>
+        <district>10</district>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>Foster</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <identifiers>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+        </identifiers>
+        <bioguideId>F000454</bioguideId>
+        <middleName />
+        <firstName>Bill</firstName>
+        <district>11</district>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+    </cosponsors>
+    <updateDate>2019-06-27T07:13:57Z</updateDate>
+    <createDate>2019-03-15T07:12:08Z</createDate>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+      <actionDate>2019-03-14</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-14T13:02:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-03-14</introducedDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+    <congress>116</congress>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <bioguideId>U000040</bioguideId>
+        <party>D</party>
+        <lastName>Underwood</lastName>
+        <fullName>Rep. Underwood, Lauren [D-IL-14]</fullName>
+        <byRequestType />
+        <district>14</district>
+        <firstName>Lauren</firstName>
+        <identifiers>
+          <lisID>2399</lisID>
+          <bioguideId>U000040</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>IL</state>
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>1757</billNumber>
+    <title>To amend the Internal Revenue Code of 1986 to increase the limitation on the amount individuals can deduct for certain State and local taxes.</title>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to increase the limitation on the amount individuals can deduct for certain State and local taxes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to increase the limitation on the amount individuals can deduct for certain State and local taxes.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <recordedVotes />
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. UNDERWOOD:H.R. 1757.Congress has the power to enact this legislation pursuantto the following:Constitution of the United States, Article 1, Section 8[Page H2746]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

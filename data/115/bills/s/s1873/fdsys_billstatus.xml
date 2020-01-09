@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <sentToHouse>1</sentToHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <placeholderTextForH>1</placeholderTextForH>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionDate>2018-01-29</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionTime>14:07:52</actionTime>
+        <committee />
+        <actionDate>2018-01-29</actionDate>
+        <text>Received in the House.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H14000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-01-29</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Voice Vote.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2018-01-25</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S525-526</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S525-526</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S525-526)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-01-25</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <actionDate>2018-01-25</actionDate>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-27</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-09-27</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>8</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+        <state>CT</state>
+        <party>D</party>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <byRequestType />
+        <firstName>Richard</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to require the Secretary of Veterans Affairs to carry out a program to establish peer specialists in patient aligned care teams at medical centers of the Department of Veterans Affairs, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veteran Partners' Efforts to Enhance Reintegration Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veteran PEER Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Veteran Partners' Efforts to Enhance Reintegration Act</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Veteran PEER Act</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veteran PEER Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <title>Veteran PEER Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <title>Veteran Partners’ Efforts to Enhance Reintegration Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veteran PEER Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veteran Partners’ Efforts to Enhance Reintegration Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2018-01-29T22:01:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <date>2018-01-29T17:01:46Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2018-01-25T20:58:15Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-09-27T19:44:52Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1873rfh/xml/BILLS-115s1873rfh.xml</url>
+          </item>
+        </formats>
+        <date>2018-01-29T05:00:00Z</date>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1873es/xml/BILLS-115s1873es.xml</url>
+          </item>
+        </formats>
+        <date>2018-01-25T05:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1873is/xml/BILLS-115s1873is.xml</url>
+          </item>
+        </formats>
+        <date>2017-09-27T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <lastName>Blunt</lastName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <state>MO</state>
+        <party>R</party>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000575</bioguideId>
+        <firstName>Roy</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <lastName>WICKER</lastName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <state>MS</state>
+        <party>R</party>
+        <sponsorshipDate>2017-11-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000437</bioguideId>
+        <firstName>ROGER</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <lastName>Baldwin</lastName>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <state>WI</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001230</bioguideId>
+        <firstName>Tammy</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <lastName>Brown</lastName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <state>OH</state>
+        <party>D</party>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <firstName>Sherrod</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2288</lisID>
+          <bioguideId>R000605</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Rounds</lastName>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <state>SD</state>
+        <party>R</party>
+        <sponsorshipDate>2017-11-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000605</bioguideId>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <lastName>Heller</lastName>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <state>NV</state>
+        <party>R</party>
+        <sponsorshipDate>2017-12-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001041</bioguideId>
+        <firstName>Dean</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <state>MA</state>
+        <party>D</party>
+        <sponsorshipDate>2018-01-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <firstName>Elizabeth</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <state>ME</state>
+        <party>R</party>
+        <sponsorshipDate>2018-01-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>MARGARET</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+        </identifiers>
+        <lastName>Hassan</lastName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipDate>2018-01-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Wood</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001076</bioguideId>
+        <firstName>Margaret</firstName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Veteran Partners' Efforts to Enhance Reintegration Act or the Veteran PEER Act</strong></p> <p>This bill directs the Department of Veterans Affairs (VA) to carry out a program to establish not fewer than two peer specialists in patient aligned care teams at VA medical centers to promote the use and integration of services for mental health, substance use disorder, and behavior health in a primary care setting.</p> <p>The VA shall ensure that the needs of female veterans are specifically addressed and that female peer specialists are included in the program.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2017-09-27</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2018-09-24T14:22:22Z</lastSummaryUpdateDate>
+          <updateDate>2017-09-27T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <text><![CDATA[<p><strong>Veteran Partners' Efforts to Enhance Reintegration Act or the Veteran PEER Act</strong></p> <p> (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to carry out a program to establish not fewer than two peer specialists in patient aligned care teams at VA medical centers to promote the use and integration of services for mental health, substance use disorder, and behavior health in a primary care setting.</p> <p>The VA shall ensure that the needs of female veterans are specifically addressed and that female peer specialists are included in the program.</p>]]></text>
+          <name>Passed Senate amended</name>
+          <versionCode>35</versionCode>
+          <actionDate>2018-01-25</actionDate>
+          <actionDesc>Passed Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2018-09-24T14:22:16Z</lastSummaryUpdateDate>
+          <updateDate>2018-01-25T12:34:05Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments>
+      <amendment>
+        <description />
+        <type>SAMDT</type>
+        <updateDate>2019-06-13T18:43:55Z</updateDate>
+        <number>1920</number>
+        <submittedDate>2018-01-25T05:00:00Z</submittedDate>
+        <titles />
+        <purpose>To modify the timeline for establishment of the program.</purpose>
+        <amendedAmendment />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <links />
+        <amendedBill>
+          <type>S</type>
+          <originChamberCode>S</originChamberCode>
+          <title>Veteran PEER Act</title>
+          <number>1873</number>
+          <originChamber>Senate</originChamber>
+          <congress>115</congress>
+        </amendedBill>
+        <congress>115</congress>
+        <type>SAMDT</type>
+        <description />
+        <createDate>2018-01-26T05:31:06Z</createDate>
+        <version>1.0.0</version>
+        <notes />
+        <chamber>Senate</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <sponsors>
+          <item>
+            <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+            <middleName />
+            <bioguideId>B000575</bioguideId>
+            <identifiers>
+              <gpoId>8313</gpoId>
+              <lisID>1464</lisID>
+              <bioguideId>B000575</bioguideId>
+            </identifiers>
+            <lastName>Blunt</lastName>
+            <party>R</party>
+            <state>MO</state>
+            <firstName>Roy</firstName>
+          </item>
+        </sponsors>
+        <proposedDate>2018-01-25T05:00:00Z</proposedDate>
+        <actions>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <actions>
+            <item>
+              <actionDate>2018-01-25</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1920</url>
+                  <name>S.Amdt.1920</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1920</url>
+                  <name>SA 1920</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1920 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2018-01-25</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1920</url>
+                  <name>S.Amdt.1920</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S525</url>
+                  <name>S525</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1920</url>
+                  <name>SA 1920</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1920 proposed by Senator McConnell for Senator Blunt. (consideration: CR S525; text: CR S525) To modify the timeline for establishment of the program.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2018-01-25</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>93000</actionCode>
+              <actionDate>2018-01-25</actionDate>
+              <type>Floor</type>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1920</url>
+                  <name>S.Amdt.1920</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S525</url>
+                  <name>S525</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1920</url>
+                  <name>SA 1920</name>
+                </link>
+              </links>
+              <text>Senate amendment proposed (on the floor): Amendment SA 1920 proposed by Senator McConnell for Senator Blunt.(consideration: CR S525; text: CR S525)</text>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>94000</actionCode>
+              <actionDate>2018-01-25</actionDate>
+              <type>Floor</type>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1920</url>
+                  <name>S.Amdt.1920</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1920</url>
+                  <name>SA 1920</name>
+                </link>
+              </links>
+              <text>Senate amendment agreed to: Amendment SA 1920 agreed to in Senate by Unanimous Consent.</text>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionCode>91000</actionCode>
+              <actionDate>2018-01-25</actionDate>
+              <type>Floor</type>
+              <committee />
+              <links />
+              <text>Senate amendment submitted</text>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentProposed>1</amendmentProposed>
+          </actionTypeCounts>
+          <count>6</count>
+        </actions>
+        <purpose>To modify the timeline for establishment of the program.</purpose>
+        <congress>115</congress>
+        <number>1920</number>
+        <latestAction>
+          <actionDate>2018-01-25</actionDate>
+          <text>Amendment SA 1920 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+      </amendment>
+    </amendments>
+    <congress>115</congress>
+    <laws />
+    <title>Veteran PEER Act</title>
+    <latestAction>
+      <actionDate>2018-01-29</actionDate>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <relatedBills>
+      <item>
+        <number>5674</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>VA MISSION Act of 2018</latestTitle>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 516.</text>
+          <actionDate>2018-05-11</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>2193</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>Caring for our Veterans Act of 2017</latestTitle>
+        <latestAction>
+          <text>By Senator Isakson from Committee on Veterans' Affairs filed written report. Report No. 115-212.</text>
+          <actionDate>2018-03-07</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>5830</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>Veteran PEER Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Veterans' Affairs.</text>
+          <actionDate>2018-05-15</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>2906</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>VA MISSION Act of 2018</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2018-05-22</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>2372</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestTitle>VA MISSION Act of 2018</latestTitle>
+        <latestAction>
+          <text>Became Public Law No: 115-182.</text>
+          <actionDate>2018-06-06</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <billType>S</billType>
+    <createDate>2017-09-28T00:26:19Z</createDate>
+    <updateDate>2019-06-13T18:43:55Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <recordedVotes />
+    <billNumber>1873</billNumber>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-09-27</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

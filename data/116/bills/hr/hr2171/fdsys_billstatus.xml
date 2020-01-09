@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-04-10T07:12:09Z</createDate>
+    <billType>HR</billType>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committee>
+          <name>Military Personnel Subcommittee</name>
+          <systemCode>hsas02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Armed Services.</text>
+        <actionDate>2019-04-09</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-04-09</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2019-04-09</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <lastName>Banks</lastName>
+        <party>R</party>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+          <gpoId />
+          <lisID>2326</lisID>
+        </identifiers>
+        <firstName>Jim</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001299</bioguideId>
+        <district>3</district>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea />
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </latestAction>
+    <relatedBills />
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-04-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2171ih/xml/BILLS-116hr2171ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-04-09</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>PR</state>
+        <district>0</district>
+        <bioguideId>G000582</bioguideId>
+        <lastName>Gonzalez-Colon</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000582</bioguideId>
+          <lisID>2347</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Gonzalez-Colon, Jenniffer [R-PR-At Large]</fullName>
+        <byRequestType />
+        <firstName>Jenniffer</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Pages H3218-H3219]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Miss GONZALEZ-COLON of Puerto Rico:H.R. 2171.Congress has the power to enact this legislation pursuantto the following:[[Page H3219]]The Congress has the power to enact this legislationpursuant to Article I, Section 1, U.S. Constitution, whichprovide as follows:To make all laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsas02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-10T19:33:08Z</date>
+                </item>
+              </activities>
+              <name>Military Personnel Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-09T14:03:50Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 10, United States Code, to ensure that certain TRICARE beneficiaries who reside in Puerto Rico may enroll in TRICARE Prime, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend title 10, United States Code, to ensure that certain TRICARE beneficiaries who reside in Puerto Rico may enroll in TRICARE Prime, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <billNumber>2171</billNumber>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-06-26T07:39:19Z</updateDate>
+    <title>To amend title 10, United States Code, to ensure that certain TRICARE beneficiaries who reside in Puerto Rico may enroll in TRICARE Prime, and for other purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

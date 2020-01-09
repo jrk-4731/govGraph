@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2019-05-15</introducedDate>
+    <cosponsors>
+      <item>
+        <lastName>Smith</lastName>
+        <party>R</party>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Adrian</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <identifiers>
+          <lisID>1860</lisID>
+          <gpoId>8040</gpoId>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>S001172</bioguideId>
+        <state>NE</state>
+      </item>
+      <item>
+        <lastName>Schrader</lastName>
+        <party>D</party>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kurt</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <identifiers>
+          <lisID>1950</lisID>
+          <gpoId>8118</gpoId>
+          <bioguideId>S001180</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>S001180</bioguideId>
+        <state>OR</state>
+      </item>
+      <item>
+        <lastName>Yoho</lastName>
+        <party>R</party>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <gpoId />
+          <lisID>2115</lisID>
+        </identifiers>
+        <middleName>S.</middleName>
+        <bioguideId>Y000065</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <lastName>SENSENBRENNER</lastName>
+        <party>R</party>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>F.</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <identifiers>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <middleName>JAMES</middleName>
+        <bioguideId>S000244</bioguideId>
+        <state>WI</state>
+      </item>
+    </cosponsors>
+    <createDate>2019-05-16T07:12:19Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-06-04T17:43:18Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Veterinary Medicine Loan Repayment Program Enhancement Act</strong></p> <p>This bill modifies the requirements for calculating taxable income to exclude from gross income payments under the federal veterinary medicine loan repayment program or any state loan repayment or forgiveness program that is intended to provide for increased access to veterinary services in such state.</p>]]></text>
+          <updateDate>2019-05-15T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-05-15</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <number>1163</number>
+        <latestTitle>Veterinary Medicine Loan Repayment Program Enhancement Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-04-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <title>Veterinary Medicine Loan Repayment Program Enhancement Act</title>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2019-05-15</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-05-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-05-15</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <billNumber>2746</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KIND:H.R. 2746.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1[Page H3842]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes />
+    <committeeReports />
+    <laws />
+    <billType>HR</billType>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-05-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2746ih/xml/BILLS-116hr2746ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <state>WI</state>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <firstName>RON</firstName>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <middleName />
+        <lastName>KIND</lastName>
+        <district>3</district>
+        <byRequestType />
+        <party>D</party>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to provide for an exclusion for assistance provided to participants in certain veterinary student loan repayment or forgiveness programs.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Veterinary Medicine Loan Repayment Program Enhancement Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Veterinary Medicine Loan Repayment Program Enhancement Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Veterinary Medicine Loan Repayment Program Enhancement Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>116</congress>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-05-15</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-05-15T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2019-06-12T07:15:33Z</updateDate>
+    <amendments />
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-05-19</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-22</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S2354</url>
+            <name>S2354</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S2356-2357</url>
+            <name>S2356-2357</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure:CR S2354; text of measure as introduced: CR S2356-2357)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2015-04-22</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionCode>10000</actionCode>
+      </item>
+    </actions>
+    <updateDate>2018-08-16T22:53:53Z</updateDate>
+    <recordedVotes />
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <title>Marine and Hydrokinetic Renewable Energy Act of 2015</title>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Merkley</lastName>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <bioguideId>S001194</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>HI</state>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schatz</lastName>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <party>I</party>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <bioguideId>K000383</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ME</state>
+        <firstName>Angus</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-04-22</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-05-17T17:44:42Z</lastSummaryUpdateDate>
+          <updateDate>2015-04-22T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Marine and Hydrokinetic Renewable Energy Act of 2015</b></p> <p>This bill amends the Energy Independence and Security Act of 2007 to revise and reauthorize through FY2019 the program of research, development, demonstration, and commercial application to accelerate the introduction of marine and hydrokinetic renewable energy production. The program must give priority to fostering accelerated research, development, and commercialization of technology.</p> <p>The meaning of "marine and hydrokinetic renewable energy&quot; is expanded to include all forms of energy, not just electricity, from: (1) waves, tides, and currents in oceans, estuaries, and tidal areas; (2) free flowing water in rivers, lakes, and streams; (3) free flowing water in man-made channels; and (4) differentials in ocean temperature (ocean thermal energy conversion).</p> <p>National Marine Renewable Energy Research, Development, and Demonstration Centers must support in-water testing and demonstration of marine and hydrokinetic renewable energy technologies, including facilities capable of testing: (1) marine and hydrokinetic renewable energy systems of various technology readiness levels and scales, (2) a variety of technologies in multiple test berths at a single location, and (3) arrays of technology devices. </p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>2220</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>114</congress>
+        <latestTitle>Marine and Hydrokinetic Renewable Energy Act of 2015</latestTitle>
+        <latestAction>
+          <actionDate>2015-08-18</actionDate>
+          <text>Referred to the Subcommittee on Energy.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <actionDate>2015-05-19</actionDate>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <notes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>Marine and Hydrokinetic Renewable Energy Act of 2015</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to promote research, development, and demonstration of marine and hydrokinetic renewable energy technologies, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Marine and Hydrokinetic Renewable Energy Act of 2015</title>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <committeeReports />
+    <introducedDate>2015-04-22</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>RON</firstName>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <bioguideId>W000779</bioguideId>
+        <state>OR</state>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <byRequestType />
+        <middleName />
+        <lastName>WYDEN</lastName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <billNumber>1058</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Energy research</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2015-04-23T09:12:31Z</createDate>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2015-05-19T21:05:32Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-22T21:03:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

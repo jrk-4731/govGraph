@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2017-02-14</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-14</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-14</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-05-09T23:15:23Z</updateDate>
+    <latestAction>
+      <actionDate>2017-03-02</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2017-02-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr1035ih/xml/BILLS-115hr1035ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>1035</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <bioguideId>C001068</bioguideId>
+        <district>9</district>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>RYAN</lastName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <bioguideId>R000577</bioguideId>
+        <district>13</district>
+        <firstName>TIM</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Walters</lastName>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <bioguideId>W000820</bioguideId>
+        <district>45</district>
+        <firstName>Mimi</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2232</lisID>
+          <bioguideId>W000820</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Clark</lastName>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <bioguideId>C001101</bioguideId>
+        <district>5</district>
+        <firstName>Katherine</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <lisID>2196</lisID>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kuster</lastName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <bioguideId>K000382</bioguideId>
+        <district>2</district>
+        <firstName>Ann</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Davis</lastName>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <bioguideId>D000619</bioguideId>
+        <district>13</district>
+        <firstName>Rodney</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Moulton</lastName>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <bioguideId>M001196</bioguideId>
+        <district>6</district>
+        <firstName>Seth</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <lisID>2246</lisID>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>NOLAN</lastName>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <bioguideId>N000127</bioguideId>
+        <district>8</district>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <identifiers>
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bacon</lastName>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <bioguideId>B001298</bioguideId>
+        <district>2</district>
+        <firstName>Don</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <identifiers>
+          <lisID>2337</lisID>
+          <bioguideId>B001298</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Tsongas</lastName>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <bioguideId>T000465</bioguideId>
+        <district>3</district>
+        <firstName>Niki</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7970</gpoId>
+          <bioguideId>T000465</bioguideId>
+          <lisID>1884</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Sinema</lastName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <bioguideId>S001191</bioguideId>
+        <district>9</district>
+        <firstName>Kyrsten</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-02</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>LaHood</lastName>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <bioguideId>L000585</bioguideId>
+        <district>18</district>
+        <firstName>Darin</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>L000585</bioguideId>
+          <lisID>2295</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Poe</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Ted</firstName>
+        <district>2</district>
+        <byRequestType />
+        <state>TX</state>
+        <bioguideId>P000592</bioguideId>
+        <identifiers>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-14T15:03:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-02T18:54:44Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <title>To extend the civil statute of limitations for victims of Federal sex offenses.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Extending Justice for Sex Crime Victims Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Extending Justice for Sex Crime Victims Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Extending Justice for Sex Crime Victims Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-02-14</actionDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-02-14T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-01T16:52:04Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Extending Justice for Sex Crime Victims Act of </b><b>2017</b></p> <p>This bill amends the federal criminal code to revise the statute of limitations for a victim of a human trafficking offense or federal sexual offense to file a civil action to recover damages.</p> <p>Under current law, the statute of limitations is 10 years from the date the cause of action arose. This bill sets a 10-year statute of limitations from the date the victim discovers the offense or injury.</p> <p>Additionally, it extends the statute of limitations for a minor victim of a federal sex offense to file a civil action to 10 years (currently 3 years) from the date such individual reaches age 18.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2017-02-15T05:12:51Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Extending Justice for Sex Crime Victims Act of 2017</title>
+    <committeeReports />
+    <introducedDate>2017-02-14</introducedDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Extending Justice for Sex Crime Victims Act of 2017</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>30</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-01-04</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S61)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 26 (Tuesday, February 14, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. POE of Texas:H.R. 1035.Congress has the power to enact this legislation pursuantto the following:Clause 18 of section 8 of article I of the Constitutionwhich states that Congress has the power ``to make all lawswhich shall be necessary and proper for carrying intoExecution the foregoing Powers, and all other Powers vestedby this Constitution in the Government of the United States,or in any Department or Officer thereof.[Page H1185]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

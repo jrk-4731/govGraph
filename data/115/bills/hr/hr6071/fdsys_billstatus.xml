@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-06-14</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-06-12</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-06-12</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-06-12</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-06-12</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To amend the Public Health Service Act to clarify the intent of the 340B program and provide for enhanced 340B program integrity, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Stretching Entity Resources for Vulnerable Communities Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>SERV Communities Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>SERV Communities Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>SERV Communities Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Stretching Entity Resources for Vulnerable Communities Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2018-06-13T07:10:46Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-12T16:00:23Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-06-14T14:33:53Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm02</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-12T16:00:18Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsif00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+          <lisID>1814</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <lastName>Matsui</lastName>
+        <party>D</party>
+        <district>6</district>
+        <state>CA</state>
+        <bioguideId>M001163</bioguideId>
+        <firstName>Doris</firstName>
+        <middleName>O.</middleName>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <number>4392</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>To provide that the provision of the Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs final regulation relating to changes in the payment amount for certain drugs and biologicals purchased under the 340B drug discount program shall have no force or effect, and for other purposes.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-11-17</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports />
+    <introducedDate>2018-06-12</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>SERV Communities Act</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <gpoId />
+          <lisID>2172</lisID>
+        </identifiers>
+        <middleName>P.</middleName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <party>D</party>
+        <bioguideId>K000379</bioguideId>
+        <firstName>Joseph</firstName>
+        <lastName>Kennedy</lastName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-06</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <party>D</party>
+        <bioguideId>D000623</bioguideId>
+        <firstName>Mark</firstName>
+        <lastName>DeSaulnier</lastName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-06</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+          <lisID>1635</lisID>
+        </identifiers>
+        <middleName>B.</middleName>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>28</district>
+        <party>D</party>
+        <bioguideId>S001150</bioguideId>
+        <firstName>ADAM</firstName>
+        <lastName>SCHIFF</lastName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>27</district>
+        <party>D</party>
+        <bioguideId>C001080</bioguideId>
+        <firstName>Judy</firstName>
+        <lastName>Chu</lastName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-10</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <bioguideId>C001037</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <lastName>CAPUANO</lastName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-12</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>M000312</bioguideId>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-12</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1973</lisID>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>G000559</bioguideId>
+        <firstName>John</firstName>
+        <lastName>Garamendi</lastName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-12</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>19</district>
+        <party>D</party>
+        <bioguideId>L000397</bioguideId>
+        <firstName>ZOE</firstName>
+        <lastName>LOFGREN</lastName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8007</gpoId>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+        </identifiers>
+        <middleName>C.</middleName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <bioguideId>P000258</bioguideId>
+        <firstName>COLLIN</firstName>
+        <lastName>PETERSON</lastName>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-16</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1686</lisID>
+          <bioguideId>L000562</bioguideId>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>D</party>
+        <bioguideId>L000562</bioguideId>
+        <firstName>Stephen</firstName>
+        <lastName>Lynch</lastName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-16</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>P000607</bioguideId>
+        <firstName>Mark</firstName>
+        <lastName>Pocan</lastName>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-16</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2150</lisID>
+          <bioguideId>M001185</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>Patrick</middleName>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+        <party>D</party>
+        <bioguideId>M001185</bioguideId>
+        <firstName>Sean</firstName>
+        <lastName>Maloney</lastName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+          <lisID>1184</lisID>
+        </identifiers>
+        <middleName>M.</middleName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <bioguideId>V000081</bioguideId>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001038</bioguideId>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+        <party>D</party>
+        <bioguideId>C001038</bioguideId>
+        <firstName>JOSEPH</firstName>
+        <lastName>CROWLEY</lastName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+          <lisID>2332</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>D</party>
+        <bioguideId>R000606</bioguideId>
+        <firstName>Jamie</firstName>
+        <lastName>Raskin</lastName>
+        <state>MD</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-23</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2263</lisID>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+        <party>R</party>
+        <bioguideId>S001196</bioguideId>
+        <firstName>Elise</firstName>
+        <lastName>Stefanik</lastName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+          <lisID>2246</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <party>D</party>
+        <bioguideId>M001196</bioguideId>
+        <firstName>Seth</firstName>
+        <lastName>Moulton</lastName>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>D</party>
+        <bioguideId>N000127</bioguideId>
+        <firstName>RICHARD</firstName>
+        <lastName>NOLAN</lastName>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>V000108</bioguideId>
+          <gpoId>7940</gpoId>
+          <lisID>1188</lisID>
+        </identifiers>
+        <middleName>J.</middleName>
+        <fullName>Rep. Visclosky, Peter J. [D-IN-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>V000108</bioguideId>
+        <firstName>PETER</firstName>
+        <lastName>VISCLOSKY</lastName>
+        <state>IN</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <party>D</party>
+        <bioguideId>W000800</bioguideId>
+        <firstName>Peter</firstName>
+        <lastName>Welch</lastName>
+        <state>VT</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-07-27</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <middleName>L.</middleName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>R000515</bioguideId>
+        <firstName>BOBBY</firstName>
+        <lastName>RUSH</lastName>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-08-03</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+          <bioguideId>P000604</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <party>D</party>
+        <bioguideId>P000604</bioguideId>
+        <firstName>Donald</firstName>
+        <lastName>Payne</lastName>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-25</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>26</district>
+        <party>D</party>
+        <bioguideId>H001038</bioguideId>
+        <firstName>Brian</firstName>
+        <lastName>Higgins</lastName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-10-12</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000617</bioguideId>
+          <gpoId>8374</gpoId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <middleName>K.</middleName>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>D000617</bioguideId>
+        <firstName>Suzan</firstName>
+        <lastName>DelBene</lastName>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-10-23</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7839</gpoId>
+          <bioguideId>R000486</bioguideId>
+          <lisID>997</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>40</district>
+        <party>D</party>
+        <bioguideId>R000486</bioguideId>
+        <firstName>LUCILLE</firstName>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-11-09</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <state>DC</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-12-11</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6071ih/xml/BILLS-115hr6071ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-06-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2019-07-16T21:20:08Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2018-06-14</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-06-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2018-06-12</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-07-09T14:39:10Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Stretching Entity Resources for Vulnerable Communities Act or the SERV Communities Act</b></p> <p>This bill makes a series of changes to the 340B drug pricing program (i.e., a program that allows entities to receive covered outpatient drugs at reduced prices from manufacturers), including alterations relating to program integrity, discrimination against participating entities, and program eligibility.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>6071</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 97 (Tuesday, June 12, 2018)][Pages H5093-H5094]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MATSUI:H.R. 6071.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution[[Page H5094]]By Mr. DIAZ-BALARTH.R. 6072The principal constitutional authority for this legislationis clause 7 of section 9 of article I of the Constitution ofthe United States (the appropriation power), which states:``No Money shall be drawn from the Treasury, but inConsequence of Appropriations made by Law . . . .'' Inaddition, clause 1 of section 8 of article I of theConstitution (the spending power) provides: ``The Congressshall have the Power . . . to pay the Debts and provide forthe common Defence and general Welfare of the United States .. . .'' Together, these specific constitutional provisionsestablish the congressional power of the purse, grantingCongress the authority to appropriate funds, to determinetheir purpose, amount, and period of availability, and to setforth terms and conditions governing their use.</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

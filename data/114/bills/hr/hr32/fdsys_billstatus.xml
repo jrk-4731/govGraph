@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:34:19Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>11</district>
+        <firstName>Lou</firstName>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <lastName>Barletta</lastName>
+        <identifiers>
+          <gpoId>8129</gpoId>
+          <bioguideId>B001269</bioguideId>
+          <lisID>2054</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>B001269</bioguideId>
+        <state>PA</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-06T17:06:15Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-02-02T14:25:48Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-01-06</introducedDate>
+    <createDate>2015-01-07T09:38:04Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-02-02</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2015-01-06</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-01-06</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-01-06</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>227</number>
+        <latestTitle>To prohibit the use of funds for certain immigration-related policies, and for other purposes.</latestTitle>
+        <type>HR</type>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-02-02</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>32</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Defense of Legal Workers Act of 2015</strong></p> <p> Amends the Immigration and Nationality Act to: (1) exclude from the definition of &quot;unauthorized alien,&quot; with respect to the unlawful employment of aliens, any alien otherwise admitted to and lawfully present in the United States; and (2) consider an alien without lawful status to be an unauthorized alien whose employment is unlawful.</p>]]></text>
+          <actionDate>2015-01-06</actionDate>
+          <lastSummaryUpdateDate>2015-01-14T19:29:48Z</lastSummaryUpdateDate>
+          <updateDate>2015-01-06T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2015-02-02</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 1 (Tuesday, January 6, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BARLETTA:H.R. 32.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses 4 and 18[Page H44]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Defense of Legal Workers Act of 2015</title>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>King</lastName>
+        <bioguideId>K000362</bioguideId>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <district>4</district>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <state>IA</state>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brooks</lastName>
+        <bioguideId>B001274</bioguideId>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <district>5</district>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mo</firstName>
+        <state>AL</state>
+        <identifiers>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-01-09</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JONES</lastName>
+        <bioguideId>J000255</bioguideId>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <district>3</district>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ellmers</lastName>
+        <bioguideId>E000291</bioguideId>
+        <fullName>Rep. Ellmers, Renee L. [R-NC-2]</fullName>
+        <district>2</district>
+        <middleName>L.</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Renee</firstName>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>E000291</bioguideId>
+          <gpoId>8025</gpoId>
+          <lisID>2036</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-11-02</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Defense of Legal Workers Act of 2015</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Immigration and Nationality Act to expand the definition of an unauthorized alien to include aliens who have not been admitted to and are not lawfully present in the United States, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Defense of Legal Workers Act of 2015</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

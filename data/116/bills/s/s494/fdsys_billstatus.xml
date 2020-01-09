@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-14</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <date>2019-02-14T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s494is/xml/BILLS-116s494is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Seafood</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1218</number>
+        <latestTitle>American Fisheries Advisory Committee Act</latestTitle>
+        <latestAction>
+          <text>Subcommittee Hearings Held.</text>
+          <actionDate>2019-05-08</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <middleName />
+        <state>AK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>CANTWELL</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+        </identifiers>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <firstName>MARIA</firstName>
+        <bioguideId>C000127</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <middleName />
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <middleName>J.</middleName>
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <updateDate>2019-06-26T03:02:08Z</updateDate>
+    <createDate>2019-02-15T12:40:19Z</createDate>
+    <latestAction>
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+      <links />
+      <actionDate>2019-04-03</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2019-04-03T13:30:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-14T16:59:14Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-02-14</introducedDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates>
+      <item>
+        <title>S. 494, American Fisheries Advisory Committee Act</title>
+        <url>https://www.cbo.gov/publication/55149</url>
+        <pubDate>2019-04-18T20:24:15Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <calendarNumbers />
+    <amendments />
+    <congress>116</congress>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <title>American Fisheries Advisory Committee Act</title>
+    <sponsors>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <party>R</party>
+        <lastName>Sullivan</lastName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <byRequestType />
+        <firstName>Dan</firstName>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+          <lisID>2290</lisID>
+        </identifiers>
+        <state>AK</state>
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>494</billNumber>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish the American Fisheries Advisory Committee to assist in the awarding of fisheries research and development grants, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>American Fisheries Advisory Committee Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>American Fisheries Advisory Committee Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>American Fisheries Advisory Committee Act</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-14</actionDate>
+          <text><![CDATA[<p><b>American Fisheries Advisory Committee Act</b></p> <p>This bill directs the National Oceanic and Atmospheric Administration (NOAA)to establish the American Fisheries Advisory Committee to advise on an existing grant program to address the needs of fishing communities, optimize economic benefits by building and maintaining sustainable fisheries, and increase opportunities to keep working waterfronts viable.</p> <p>NOAA must establish six regions within the committee.The committee must consist of members chosen regionally and across all sectors of the fishing industry.Additionally, the committee must: (1)identify the needs of the fishing industry, (2)develop grant proposals to fund projects that address the industry needs, (3)review grant applications, and (4)provide NOAA with grant applicants for approval.</p> <p>NOAA may not approve a grant application unlessthe application selected for funding meets the proposal criteria developed by the committee.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-06-18T15:42:12Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2019-02-14T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

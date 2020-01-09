@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2016-09-09T05:03:03Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2016-09-08</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2016-09-08</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2016-09-08</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <updateDate>2019-02-06T19:37:41Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-09-08T14:01:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>TIBERI</lastName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <bioguideId>T000462</bioguideId>
+        <identifiers>
+          <bioguideId>T000462</bioguideId>
+          <gpoId>8102</gpoId>
+          <lisID>1664</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <state>OH</state>
+        <party>R</party>
+        <firstName>PATRICK</firstName>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <lastName>DELAURO</lastName>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <bioguideId>D000216</bioguideId>
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+          <lisID>281</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <state>CT</state>
+        <party>D</party>
+        <firstName>ROSA</firstName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>THOMPSON</lastName>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <bioguideId>T000460</bioguideId>
+        <identifiers>
+          <gpoId>7806</gpoId>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <state>CA</state>
+        <party>D</party>
+        <firstName>MIKE</firstName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Heck</lastName>
+        <fullName>Rep. Heck, Joseph J. [R-NV-3]</fullName>
+        <bioguideId>H001055</bioguideId>
+        <identifiers>
+          <bioguideId>H001055</bioguideId>
+          <gpoId>8061</gpoId>
+          <lisID>2040</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <state>NV</state>
+        <party>R</party>
+        <firstName>Joseph</firstName>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <lastName>RYAN</lastName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <bioguideId>R000577</bioguideId>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <state>OH</state>
+        <party>D</party>
+        <firstName>TIM</firstName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Marino</lastName>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <bioguideId>M001179</bioguideId>
+        <identifiers>
+          <gpoId>8128</gpoId>
+          <bioguideId>M001179</bioguideId>
+          <lisID>2053</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <state>PA</state>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Bonamici</lastName>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <bioguideId>B001278</bioguideId>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>OR</state>
+        <party>D</party>
+        <firstName>Suzanne</firstName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>PALLONE</lastName>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <bioguideId>P000034</bioguideId>
+        <identifiers>
+          <gpoId>8048</gpoId>
+          <bioguideId>P000034</bioguideId>
+          <lisID>887</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <state>NJ</state>
+        <party>D</party>
+        <firstName>FRANK</firstName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>DEFAZIO</lastName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <bioguideId>D000191</bioguideId>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <state>OR</state>
+        <party>D</party>
+        <firstName>PETER</firstName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <lastName>LOBIONDO</lastName>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <bioguideId>L000554</bioguideId>
+        <identifiers>
+          <gpoId>8044</gpoId>
+          <lisID>699</lisID>
+          <bioguideId>L000554</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <state>NJ</state>
+        <party>R</party>
+        <firstName>FRANK</firstName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <lastName>Barletta</lastName>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <bioguideId>B001269</bioguideId>
+        <identifiers>
+          <bioguideId>B001269</bioguideId>
+          <gpoId>8129</gpoId>
+          <lisID>2054</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <state>PA</state>
+        <party>R</party>
+        <firstName>Lou</firstName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>BRADY</lastName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <bioguideId>B001227</bioguideId>
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <gpoId>8119</gpoId>
+          <lisID>1469</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>PA</state>
+        <party>D</party>
+        <firstName>ROBERT</firstName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <lastName>Cicilline</lastName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <bioguideId>C001084</bioguideId>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>RI</state>
+        <party>D</party>
+        <firstName>David</firstName>
+        <middleName>N.</middleName>
+      </item>
+      <item>
+        <lastName>CAPUANO</lastName>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <bioguideId>C001037</bioguideId>
+        <identifiers>
+          <gpoId>7973</gpoId>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <state>MA</state>
+        <party>D</party>
+        <firstName>MICHAEL</firstName>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <lastName>DOYLE</lastName>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <bioguideId>D000482</bioguideId>
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+          <gpoId>8132</gpoId>
+          <lisID>316</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <state>PA</state>
+        <party>D</party>
+        <firstName>MIKE</firstName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>LARSON</lastName>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <bioguideId>L000557</bioguideId>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+          <lisID>1583</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <state>CT</state>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <middleName>B.</middleName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>PASCRELL</lastName>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <bioguideId>P000096</bioguideId>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <firstName>WILLIAM</firstName>
+        <byRequestType />
+        <district>9</district>
+        <middleName>J.</middleName>
+        <state>NJ</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills />
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <title>Expressing condolences to the people of Italy and support for the Government of Italy in the aftermath of the devastating earthquake that struck the Lazio and Marche regions of Italy.</title>
+    <billNumber>849</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2016-09-08</introducedDate>
+    <textVersions>
+      <item>
+        <date>2016-09-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres849ih/xml/BILLS-114hres849ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing condolences to the people of Italy and support for the Government of Italy in the aftermath of the devastating earthquake that struck the Lazio and Marche regions of Italy.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Expressing condolences to the people of Italy and support for the Government of Italy in the aftermath of the devastating earthquake that struck the Lazio and Marche regions of Italy.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2016-09-08</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-09-08</actionDate>
+          <text><![CDATA[<p>Declares that the House of Representatives:</p> <ul> <li>mourns the loss of life and expresses condolences to the families of those killed and injured in the earthquake in Italy on August 24, 2016,</li> <li>recognizes the deep ties between the United States and Italy and expresses continued solidarity with the people of Italy during this time of crisis,</li> <li>applauds the courageous actions of the first responders and volunteers, and</li> <li>supports President Obama's offer of assistance to Italy.</li> </ul> <p>Commends the many U.S. organizations, including the National Italian-American Foundation, supporting the Italian people and raising funds to aid in the rebuilding and relief efforts.</p> <p>Expresses gratitude to the people of the United States who have generously supported humanitarian aid agencies working to assist the people of Italy.</p>]]></text>
+          <updateDate>2016-09-08T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-10-28T19:55:17Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

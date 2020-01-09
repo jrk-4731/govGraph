@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>114</congress>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-02-12</actionDate>
+        <committee>
+          <name>Asia and the Pacific Subcommittee</name>
+          <systemCode>hsfa05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2015-09-18</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-09-18</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-09-18</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+      <links />
+      <actionDate>2016-02-12</actionDate>
+    </latestAction>
+    <introducedDate>2015-09-18</introducedDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <bioguideId>W000795</bioguideId>
+        <state>SC</state>
+        <lastName>Wilson</lastName>
+        <byRequestType />
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+          <lisID>1688</lisID>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>HCONRES</billType>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <state>VA</state>
+        <bioguideId>F000445</bioguideId>
+        <sponsorshipDate>2015-09-18</sponsorshipDate>
+        <fullName>Rep. Forbes, J. Randy [R-VA-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000445</bioguideId>
+          <gpoId>8786</gpoId>
+          <lisID>1683</lisID>
+        </identifiers>
+        <firstName>J.</firstName>
+        <middleName>Randy</middleName>
+        <district>4</district>
+        <lastName>Forbes</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>LA</state>
+        <bioguideId>A000374</bioguideId>
+        <sponsorshipDate>2015-09-28</sponsorshipDate>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>A000374</bioguideId>
+          <gpoId />
+          <lisID>2244</lisID>
+        </identifiers>
+        <firstName>Ralph</firstName>
+        <middleName>Lee</middleName>
+        <district>5</district>
+        <lastName>Abraham</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>GU</state>
+        <bioguideId>B001245</bioguideId>
+        <sponsorshipDate>2015-09-28</sponsorshipDate>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+        </identifiers>
+        <firstName>Madeleine</firstName>
+        <middleName>Z.</middleName>
+        <district>0</district>
+        <lastName>Bordallo</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>CA</state>
+        <bioguideId>L000578</bioguideId>
+        <sponsorshipDate>2015-09-28</sponsorshipDate>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+          <lisID>2100</lisID>
+        </identifiers>
+        <firstName>Doug</firstName>
+        <middleName />
+        <district>1</district>
+        <lastName>LaMalfa</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>CA</state>
+        <bioguideId>R000409</bioguideId>
+        <sponsorshipDate>2015-09-28</sponsorshipDate>
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7851</gpoId>
+          <bioguideId>R000409</bioguideId>
+          <lisID>979</lisID>
+        </identifiers>
+        <firstName>DANA</firstName>
+        <middleName />
+        <district>48</district>
+        <lastName>ROHRABACHER</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <updateDate>2019-02-06T19:37:22Z</updateDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <title>Expressing the sense of Congress that the President in consultation with the Department of the Treasury should apply economic sanctions against Chinese businesses and state-owned enterprises that can be linked to cyberattacks against United States entities.</title>
+    <calendarNumbers />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-09-18</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-09-22T14:17:34Z</lastSummaryUpdateDate>
+          <updateDate>2015-09-18T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Expresses the sense of Congress that the President should apply economic sanctions to Chinese businesses and state-owned enterprises as a result of documented Chinese cyberattacks against U.S. entities in order to punish and deter such actions and strengthen U.S. cybersecurity.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hconres78ih/xml/BILLS-114hconres78ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2015-09-18T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billNumber>78</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>China</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of Congress that the President in consultation with the Department of the Treasury should apply economic sanctions against Chinese businesses and state-owned enterprises that can be linked to cyberattacks against United States entities.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of Congress that the President in consultation with the Department of the Treasury should apply economic sanctions against Chinese businesses and state-owned enterprises that can be linked to cyberattacks against United States entities.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <createDate>2015-09-19T08:48:10Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-02-12T21:47:58Z</date>
+                </item>
+              </activities>
+              <name>Asia and the Pacific Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-09-18T13:02:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

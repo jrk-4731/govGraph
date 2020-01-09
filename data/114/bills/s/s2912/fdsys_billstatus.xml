@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2016-05-11T05:43:17Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-09-22</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-05-10</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2016-05-10</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2016-09-22</actionDate>
+      <links />
+      <text>Committee on Homeland Security and Governmental Affairs. Hearings held.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>J000293</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <lastName>Johnson</lastName>
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>WI</state>
+        <party>R</party>
+        <firstName>Ron</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <updateDate>2016-05-10T04:00:00Z</updateDate>
+          <actionDate>2016-05-10</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>Trickett Wendler Right to Try Act of 2016</b></p> <p>This bill bars the federal government from prohibiting or restricting the production, manufacture, distribution, prescribing, or dispensing of an experimental drug, biological product, or device that is: (1) intended to treat a patient who has been diagnosed with a terminal illness; and (2) authorized by, and in accordance with, state law. The federal government may not restrict the possession or use of such a treatment by a patient certified by a physician as having exhausted all other treatment options.</p> <p>A producer, manufacturer, distributor, prescriber, dispenser, possessor, or user of such a treatment has no liability regarding the treatment.</p> <p>The outcome of production, manufacture, distribution, prescribing, dispensing, possession, or use of such a treatment may not be used by a federal agency to adversely impact review or approval of the treatment.</p> <p>The treatment must: (1) have successfully completed a phase 1 (initial, small scale) clinical trial; (2) remain under investigation in a clinical trial approved by the Food and Drug Administration (FDA); and (3) not be approved, licensed, or cleared for sale under the Federal Food, Drug, or Cosmetic Act or the Public Health Service Act.</p> <p>Not later than 30 days after enactment of this bill, and every 30 days thereafter until implementation is complete, the FDA must report on its progress in implementing a streamlined application process for compassionate use of experimental drugs and biological products.</p> <ul> </ul>]]></text>
+          <lastSummaryUpdateDate>2016-06-21T18:16:16Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <state>AK</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <firstName>Lisa</firstName>
+      </item>
+      <item>
+        <lastName>Perdue</lastName>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <state>GA</state>
+        <party>R</party>
+        <middleName>Alfred</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <bioguideId>P000612</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>HATCH</lastName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <state>UT</state>
+        <party>R</party>
+        <middleName>GRANT</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <bioguideId>H000338</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <firstName>ORRIN</firstName>
+      </item>
+      <item>
+        <lastName>Blunt</lastName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <state>MO</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <firstName>Roy</firstName>
+      </item>
+      <item>
+        <lastName>FLAKE</lastName>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <state>AZ</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <bioguideId>F000444</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7803</gpoId>
+          <lisID>1633</lisID>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <firstName>JEFF</firstName>
+      </item>
+      <item>
+        <lastName>Isakson</lastName>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <state>GA</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <bioguideId>I000055</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+        <firstName>Johnny</firstName>
+      </item>
+      <item>
+        <lastName>INHOFE</lastName>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <state>OK</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <bioguideId>I000024</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+        </identifiers>
+        <firstName>JIM</firstName>
+      </item>
+      <item>
+        <lastName>MCCAIN</lastName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <state>AZ</state>
+        <party>R</party>
+        <middleName>SIDNEY</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-18</sponsorshipDate>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <lastName>Tillis</lastName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <middleName>Roland</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>T000476</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2291</lisID>
+          <gpoId />
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <lastName>GRAHAM</lastName>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <state>SC</state>
+        <party>R</party>
+        <middleName>O.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>G000359</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <firstName>LINDSEY</firstName>
+      </item>
+      <item>
+        <lastName>GRASSLEY</lastName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <state>IA</state>
+        <party>R</party>
+        <middleName>ERNEST</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>G000386</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+      </item>
+      <item>
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <state>FL</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <firstName>Marco</firstName>
+      </item>
+      <item>
+        <lastName>Sessions</lastName>
+        <fullName>Sen. Sessions, Jeff [R-AL]</fullName>
+        <state>AL</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>S001141</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001141</bioguideId>
+          <lisID>1548</lisID>
+          <gpoId>8281</gpoId>
+        </identifiers>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <state>WV</state>
+        <party>R</party>
+        <middleName>MOORE</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+      </item>
+      <item>
+        <lastName>Corker</lastName>
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+        <state>TN</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>C001071</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8294</gpoId>
+          <bioguideId>C001071</bioguideId>
+          <lisID>1825</lisID>
+        </identifiers>
+        <firstName>Bob</firstName>
+      </item>
+      <item>
+        <lastName>Cotton</lastName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <state>AR</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <bioguideId>C001095</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <lastName>Risch</lastName>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <state>ID</state>
+        <party>R</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-23</sponsorshipDate>
+        <bioguideId>R000584</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <state>AR</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-07</sponsorshipDate>
+        <bioguideId>B001236</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <lastName>Vitter</lastName>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <state>LA</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-08</sponsorshipDate>
+        <bioguideId>V000127</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1609</lisID>
+          <gpoId>8267</gpoId>
+          <bioguideId>V000127</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>Toomey</lastName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <state>PA</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-08</sponsorshipDate>
+        <bioguideId>T000461</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Pat</firstName>
+      </item>
+      <item>
+        <lastName>COATS</lastName>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <state>IN</state>
+        <party>R</party>
+        <middleName>RAY</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-09</sponsorshipDate>
+        <bioguideId>C000542</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>209</lisID>
+          <gpoId>8299</gpoId>
+          <bioguideId>C000542</bioguideId>
+        </identifiers>
+        <firstName>DANIEL</firstName>
+      </item>
+      <item>
+        <lastName>Barrasso</lastName>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <state>WY</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-09</sponsorshipDate>
+        <bioguideId>B001261</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <lastName>Sullivan</lastName>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <state>AK</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <bioguideId>S001198</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+          <lisID>2290</lisID>
+        </identifiers>
+        <firstName>Dan</firstName>
+      </item>
+      <item>
+        <lastName>Cruz</lastName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-16</sponsorshipDate>
+        <bioguideId>C001098</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <lastName>ENZI</lastName>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <state>WY</state>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-06</sponsorshipDate>
+        <bioguideId>E000285</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <lastName>WICKER</lastName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <state>MS</state>
+        <party>R</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-07</sponsorshipDate>
+        <bioguideId>W000437</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <firstName>ROGER</firstName>
+      </item>
+      <item>
+        <lastName>Daines</lastName>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <state>MT</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>D000618</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2138</lisID>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <lastName>CRAPO</lastName>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <state>ID</state>
+        <party>R</party>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>C000880</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <lastName>Lankford</lastName>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <state>OK</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>L000575</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+        </identifiers>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <lastName>Manchin</lastName>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <state>WV</state>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>M001183</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+        </identifiers>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <lastName>ROBERTS</lastName>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <state>KS</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>R000307</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <firstName>PAT</firstName>
+      </item>
+      <item>
+        <lastName>Hoeven</lastName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <state>ND</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>H001061</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <lastName>SHELBY</lastName>
+        <fullName>Sen. Shelby, Richard C. [R-AL]</fullName>
+        <state>AL</state>
+        <party>R</party>
+        <middleName>CRAIG</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>S000320</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000320</bioguideId>
+          <gpoId>8277</gpoId>
+          <lisID>1049</lisID>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <lastName>Heller</lastName>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <state>NV</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>H001041</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <firstName>Dean</firstName>
+      </item>
+      <item>
+        <lastName>MCCONNELL</lastName>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <state>KY</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>M000355</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <firstName>MITCH</firstName>
+      </item>
+      <item>
+        <lastName>MORAN</lastName>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <state>KS</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>M000934</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+        </identifiers>
+        <firstName>JERRY</firstName>
+      </item>
+      <item>
+        <lastName>Rounds</lastName>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <state>SD</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>R000605</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+        </identifiers>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>Cochran</lastName>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <state>MS</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <bioguideId>C000567</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>213</lisID>
+          <gpoId>8292</gpoId>
+          <bioguideId>C000567</bioguideId>
+        </identifiers>
+        <firstName>Thad</firstName>
+      </item>
+      <item>
+        <lastName>Donnelly</lastName>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <state>IN</state>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-06</sponsorshipDate>
+        <bioguideId>D000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7941</gpoId>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+        </identifiers>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <lastName>Gardner</lastName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <state>CO</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-21</sponsorshipDate>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <firstName>Cory</firstName>
+      </item>
+      <item>
+        <lastName>Paul</lastName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <state>KY</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-22</sponsorshipDate>
+        <bioguideId>P000603</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <firstName>Rand</firstName>
+      </item>
+      <item>
+        <lastName>Sasse</lastName>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <state>NE</state>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-26</sponsorshipDate>
+        <bioguideId>S001197</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ben</firstName>
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <state>ME</state>
+        <party>I</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-11-15</sponsorshipDate>
+        <bioguideId>K000383</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Angus</firstName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2016-09-22T14:00:34Z</date>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-10T18:51:50Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <introducedDate>2016-05-10</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Product safety and quality</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <title>Trickett Wendler Right to Try Act of 2016</title>
+    <relatedBills>
+      <item>
+        <latestTitle>Right to Try Act of 2015</latestTitle>
+        <latestAction>
+          <actionDate>2015-07-29</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <congress>114</congress>
+        <number>3012</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <billNumber>2912</billNumber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Trickett Wendler Right to Try Act of 2016</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to authorize the use of unapproved medical products by patients diagnosed with a terminal illness in accordance with State law, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Trickett Wendler Right to Try Act of 2016</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-06-02T07:18:39Z</updateDate>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

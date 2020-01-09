@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>2</reportedToSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-09-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 204.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2015-09-09</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 114-124</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/senate-report/124</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-124.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 114-124.</text>
+        <type>Committee</type>
+        <actionDate>2015-09-09</actionDate>
+        <links>
+          <link>
+            <name>report No. 114-124</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/senate-report/124</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2015-07-30</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-06-10</actionDate>
+        <committee>
+          <name>National Parks Subcommittee</name>
+          <systemCode>sseg04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 114-338.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-01-12</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-01-12</actionDate>
+        <links />
+      </item>
+    </actions>
+    <updateDate>2018-08-16T22:53:57Z</updateDate>
+    <recordedVotes />
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <title>National Park Access Act</title>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2015-08-18T16:06:00Z</pubDate>
+        <title>S. 145, National Park Access Act</title>
+        <url>https://www.cbo.gov/publication/50742</url>
+      </item>
+    </cboCostEstimates>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>A000360</bioguideId>
+        <middleName />
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <state>TN</state>
+        <lastName>Alexander</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lamar</firstName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <middleName>F.</middleName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <state>CO</state>
+        <lastName>Bennet</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001071</bioguideId>
+        <middleName />
+        <fullName>Sen. Corker, Bob [R-TN]</fullName>
+        <state>TN</state>
+        <lastName>Corker</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001071</bioguideId>
+          <gpoId>8294</gpoId>
+          <lisID>1825</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000562</bioguideId>
+        <middleName />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <state>CO</state>
+        <lastName>Gardner</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <middleName />
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <state>UT</state>
+        <lastName>Lee</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000303</bioguideId>
+        <middleName>SIDNEY</middleName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <state>AZ</state>
+        <lastName>MCCAIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000338</bioguideId>
+        <middleName>GRANT</middleName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <state>UT</state>
+        <lastName>HATCH</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>ORRIN</firstName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <middleName>R.</middleName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <state>SD</state>
+        <lastName>THUNE</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2015-01-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <middleName />
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <state>OK</state>
+        <lastName>INHOFE</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JIM</firstName>
+        <sponsorshipDate>2015-01-13</sponsorshipDate>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <state>NM</state>
+        <lastName>Heinrich</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Martin</firstName>
+        <sponsorshipDate>2015-06-09</sponsorshipDate>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-03-26T23:27:15Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>National Park Access Act</b></p> <p> Requires the Director of the National Park Service to refund to each state all of the funds that it used to reopen and temporarily operate a unit of the National Park System during the period in October 2013 in which there was a lapse in appropriations for that unit.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-01-12</actionDate>
+          <updateDate>2015-01-12T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2015-09-18T21:22:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>National Park Access Act</b></p> <p> (Sec. 3) Requires the Director of the National Park Service to refund to each state all of the funds that it used to reopen and temporarily operate a unit of the National Park System during the period in October 2013 in which there was a lapse in appropriations for that unit.</p> <p>Funds of the National Park Service appropriated after the enactment of this Act shall be used to carry out this Act. </p>]]></text>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+          <actionDate>2015-09-09</actionDate>
+          <updateDate>2015-09-09T13:50:33Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <latestAction>
+      <actionDate>2015-09-09</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 204.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>National Park Access Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Reported to Senate</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>National Park Access Act</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to require the Director of the National Park Service to refund to States all State funds that were used to reopen and temporarily operate a unit of the National Park System during the October 2013 shutdown.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>National Park Access Act</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <laws />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 114-124</citation>
+      </committeeReport>
+    </committeeReports>
+    <introducedDate>2015-01-12</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>JEFF</firstName>
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <bioguideId>F000444</bioguideId>
+        <state>AZ</state>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <byRequestType />
+        <middleName />
+        <lastName>FLAKE</lastName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billNumber>145</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2015-01-13T04:55:52Z</createDate>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0204</number>
+      </item>
+    </calendarNumbers>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2015-09-09T17:13:26Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2015-07-30T14:08:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2015-01-12T19:45:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-06-10T18:08:34Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <systemCode>sseg04</systemCode>
+              <name>National Parks Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

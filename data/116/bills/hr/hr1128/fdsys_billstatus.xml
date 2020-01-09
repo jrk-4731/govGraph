@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-02-28</actionDate>
+        <committee>
+          <systemCode>hsii24</systemCode>
+          <name>Indigenous Peoples of the United States Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Budget, and in addition to the Committees on Natural Resources, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-02-08</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Budget, and in addition to the Committees on Natural Resources, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-02-08</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Budget, and in addition to the Committees on Natural Resources, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-02-08</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-02-08</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-02-08</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide advance appropriations authority for certain accounts of the Bureau of Indian Affairs and Bureau of Indian Education of the Department of the Interior and the Indian Health Service of the Department of Health and Human Services, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Indian Programs Advanced Appropriations Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Indian Programs Advanced Appropriations Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Indian Programs Advanced Appropriations Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2019-02-09T08:10:16Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:05:20Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+              <systemCode>hsii24</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-28T17:57:54Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:05:25Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-08T14:05:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <lastName>MCCOLLUM</lastName>
+        <party>D</party>
+        <district>4</district>
+        <state>MN</state>
+        <bioguideId>M001143</bioguideId>
+        <firstName>BETTY</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Budget.</text>
+          <actionDate>2019-01-25</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <number>229</number>
+        <latestTitle>Indian Programs Advance Appropriations Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-02-08</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Indian Programs Advanced Appropriations Act</title>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>0</district>
+        <bioguideId>Y000033</bioguideId>
+        <firstName>DON</firstName>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+        </identifiers>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <lastName>YOUNG</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>4</district>
+        <bioguideId>C001053</bioguideId>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <lastName>Cole</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>1</district>
+        <bioguideId>H001080</bioguideId>
+        <firstName>Debra</firstName>
+        <identifiers>
+          <lisID>2423</lisID>
+          <gpoId />
+          <bioguideId>H001080</bioguideId>
+        </identifiers>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <lastName>Haaland</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>G000551</bioguideId>
+        <firstName>Raul</firstName>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>36</district>
+        <bioguideId>R000599</bioguideId>
+        <firstName>Raul</firstName>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <gpoId />
+          <lisID>2109</lisID>
+        </identifiers>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <lastName>Ruiz</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>2</district>
+        <bioguideId>M001190</bioguideId>
+        <firstName>Markwayne</firstName>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <lastName>Mullin</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>12</district>
+        <bioguideId>W000822</bioguideId>
+        <firstName>Bonnie</firstName>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <lastName>Watson Coleman</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>L000570</bioguideId>
+        <firstName>Ben</firstName>
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <bioguideId>L000570</bioguideId>
+          <lisID>1939</lisID>
+        </identifiers>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <lastName>Lujan</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>Ray</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <district>1</district>
+        <bioguideId>T000468</bioguideId>
+        <firstName>Dina</firstName>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+        </identifiers>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-06</sponsorshipDate>
+        <district>21</district>
+        <bioguideId>S001196</bioguideId>
+        <firstName>Elise</firstName>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <lastName>Stefanik</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>D000629</bioguideId>
+        <firstName>Sharice</firstName>
+        <identifiers>
+          <bioguideId>D000629</bioguideId>
+          <gpoId />
+          <lisID>2403</lisID>
+        </identifiers>
+        <fullName>Rep. Davids, Sharice [D-KS-3]</fullName>
+        <lastName>Davids</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KS</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <district>0</district>
+        <bioguideId>A000377</bioguideId>
+        <firstName>Kelly</firstName>
+        <identifiers>
+          <bioguideId>A000377</bioguideId>
+          <lisID>2417</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Armstrong, Kelly [R-ND-At Large]</fullName>
+        <lastName>Armstrong</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ND</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <district>6</district>
+        <bioguideId>K000381</bioguideId>
+        <firstName>Derek</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+        </identifiers>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-10</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>G000559</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <lastName>Garamendi</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <district>2</district>
+        <bioguideId>C001119</bioguideId>
+        <firstName>Angie</firstName>
+        <identifiers>
+          <bioguideId>C001119</bioguideId>
+          <gpoId />
+          <lisID>2412</lisID>
+        </identifiers>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <lastName>Craig</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>H001056</bioguideId>
+        <firstName>Jaime</firstName>
+        <identifiers>
+          <gpoId>8207</gpoId>
+          <bioguideId>H001056</bioguideId>
+          <lisID>2071</lisID>
+        </identifiers>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <lastName>Herrera Beutler</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>K000188</bioguideId>
+        <firstName>RON</firstName>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <district>5</district>
+        <bioguideId>H001083</bioguideId>
+        <firstName>Kendra</firstName>
+        <identifiers>
+          <bioguideId>H001083</bioguideId>
+          <lisID>2431</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Horn, Kendra S. [D-OK-5]</fullName>
+        <lastName>Horn</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OK</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <district>4</district>
+        <bioguideId>M001194</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>M001194</bioguideId>
+          <gpoId />
+          <lisID>2248</lisID>
+        </identifiers>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <lastName>Moolenaar</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <district>4</district>
+        <bioguideId>K000379</bioguideId>
+        <firstName>Joseph</firstName>
+        <identifiers>
+          <lisID>2172</lisID>
+          <gpoId />
+          <bioguideId>K000379</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <lastName>Kennedy</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <district>12</district>
+        <bioguideId>D000624</bioguideId>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+        </identifiers>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <lastName>Dingell</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <district>11</district>
+        <bioguideId>S001215</bioguideId>
+        <firstName>Haley</firstName>
+        <identifiers>
+          <bioguideId>S001215</bioguideId>
+          <gpoId />
+          <lisID>2409</lisID>
+        </identifiers>
+        <fullName>Rep. Stevens, Haley M. [D-MI-11]</fullName>
+        <lastName>Stevens</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <district>10</district>
+        <bioguideId>H001064</bioguideId>
+        <firstName>Denny</firstName>
+        <identifiers>
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <lastName>Heck</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <district>2</district>
+        <bioguideId>S001148</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <bioguideId>S001148</bioguideId>
+          <gpoId>7920</gpoId>
+          <lisID>1590</lisID>
+        </identifiers>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <lastName>SIMPSON</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ID</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <district>29</district>
+        <bioguideId>C001097</bioguideId>
+        <firstName>Tony</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001097</bioguideId>
+          <lisID>2107</lisID>
+        </identifiers>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <lastName>Cardenas</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <district>4</district>
+        <bioguideId>H001066</bioguideId>
+        <firstName>Steven</firstName>
+        <identifiers>
+          <bioguideId>H001066</bioguideId>
+          <lisID>2147</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Horsford, Steven [D-NV-4]</fullName>
+        <lastName>Horsford</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NV</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>A000378</bioguideId>
+        <firstName>Cynthia</firstName>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+          <gpoId />
+          <lisID>2395</lisID>
+        </identifiers>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <lastName>Axne</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <district>7</district>
+        <bioguideId>G000574</bioguideId>
+        <firstName>Ruben</firstName>
+        <identifiers>
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-10</sponsorshipDate>
+        <district>23</district>
+        <bioguideId>W000797</bioguideId>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <lastName>Wasserman Schultz</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-10</sponsorshipDate>
+        <district>9</district>
+        <bioguideId>S001200</bioguideId>
+        <firstName>Darren</firstName>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-12</sponsorshipDate>
+        <district>13</district>
+        <bioguideId>C001111</bioguideId>
+        <firstName>Charlie</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001111</bioguideId>
+          <lisID>2321</lisID>
+        </identifiers>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <lastName>Crist</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-12</sponsorshipDate>
+        <district>2</district>
+        <bioguideId>H001068</bioguideId>
+        <firstName>Jared</firstName>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+          <lisID>2101</lisID>
+        </identifiers>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-02-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1128ih/xml/BILLS-116hr1128ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <updateDate>2019-07-19T22:00:07Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-02-28</actionDate>
+      <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-02-08T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Indian Programs Advanced Appropriations Act </b></p> <p>This bill authorizes advance appropriations for several covered appropriations accounts of (1) the Bureau of Indian Affairs and Bureau of Indian Education within the Department of the Interior, and (2) the Indian Health Service within the Department of Health and Human Services. The advance appropriations provide new budget authority that first becomes available for the first fiscal year after the budget year. </p> <p>The covered accounts within the Bureau of Indian Affairs and Bureau of Indian Education include (1) Operation of Indian Programs, (2) Contract Support Costs, and (3) the Indian Guaranteed Loan Program Account. </p> <p>The covered accounts within the Indian Health Service include (1) Indian Health Services, and (2) Contract Support Costs. </p> <p>The bill also requires the President's budget and the supporting documents submitted to Congress to include detailed estimates related to the advance appropriations. </p>]]></text>
+          <lastSummaryUpdateDate>2019-07-19T21:46:09Z</lastSummaryUpdateDate>
+          <actionDate>2019-02-08</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>1128</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. McCOLLUM:H.R. 1128.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution[Page H1493]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

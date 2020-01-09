@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2016-07-15T07:14:33Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-14</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2016-07-14</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-14</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2016-07-14</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2016-07-14</actionDate>
+      </item>
+    </actions>
+    <updateDate>2019-02-06T22:37:47Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Appropriations Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-07-14T13:10:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsap00</systemCode>
+        </item>
+        <item>
+          <name>Oversight and Reform Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-07-14T13:09:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <state>IL</state>
+        <bioguideId>K000385</bioguideId>
+        <middleName>L.</middleName>
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <firstName>Robin</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+        </identifiers>
+        <district>10</district>
+        <state>VA</state>
+        <bioguideId>C001105</bioguideId>
+        <middleName />
+        <lastName>Comstock</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <firstName>Barbara</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <district>11</district>
+        <state>VA</state>
+        <bioguideId>C001078</bioguideId>
+        <middleName>E.</middleName>
+        <lastName>Connolly</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <firstName>Gerald</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+        </identifiers>
+        <district>6</district>
+        <state>WA</state>
+        <bioguideId>K000381</bioguideId>
+        <middleName />
+        <lastName>Kilmer</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <firstName>Derek</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <district>33</district>
+        <state>CA</state>
+        <bioguideId>L000582</bioguideId>
+        <middleName />
+        <lastName>Lieu</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>2071</lisID>
+          <bioguideId>H001056</bioguideId>
+          <gpoId>8207</gpoId>
+        </identifiers>
+        <district>3</district>
+        <state>WA</state>
+        <bioguideId>H001056</bioguideId>
+        <middleName />
+        <lastName>Herrera Beutler</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <firstName>Jaime</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8163</gpoId>
+          <lisID>1670</lisID>
+          <bioguideId>C001048</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <state>TX</state>
+        <bioguideId>C001048</bioguideId>
+        <middleName>ABNEY</middleName>
+        <lastName>CULBERSON</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Yoder, Kevin [R-KS-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId>7951</gpoId>
+          <bioguideId>Y000063</bioguideId>
+          <lisID>2021</lisID>
+        </identifiers>
+        <district>3</district>
+        <state>KS</state>
+        <bioguideId>Y000063</bioguideId>
+        <middleName />
+        <lastName>Yoder</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <firstName>Kevin</firstName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <lastName>Hurd</lastName>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <bioguideId>H001073</bioguideId>
+        <identifiers>
+          <bioguideId>H001073</bioguideId>
+          <gpoId />
+          <lisID>2269</lisID>
+        </identifiers>
+        <firstName>Will</firstName>
+        <byRequestType />
+        <district>23</district>
+        <middleName />
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2016-09-26</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Modernizing Government Technology Act of 2016</latestTitle>
+        <type>HR</type>
+        <number>6004</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2016-07-14</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Modernizing Outdated and Vulnerable Equipment and Information Technology Act of 2016</latestTitle>
+        <type>S</type>
+        <number>3263</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 114 (Thursday, July 14, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HURD of Texas:H.R. 5792.Congress has the power to enact this legislation pursuantto the following:Article I, Section IX--No Money shall be drawn from theTreasury but in consequence of approprations made by law; anda regular statement and account of the receipts andexpenditures of all public money shall be published from timeto time.[Page H5012]</pre>]]></constitutionalAuthorityStatementText>
+    <title>MOVE IT Act</title>
+    <billNumber>5792</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2016-07-14</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5792ih/xml/BILLS-114hr5792ih.xml</url>
+          </item>
+        </formats>
+        <date>2016-07-14T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>MOVE IT Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Modernizing Outdated and Vulnerable Equipment and Information Technology Act of 2016</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To promote innovation and realize the efficiency gains and economic benefits of on-demand computing by accelerating the acquisition and deployment of innovative technology and computing resources throughout the Federal Government, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>MOVE IT Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2016-07-14</actionDate>
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <updateDate>2016-07-14T04:00:00Z</updateDate>
+          <actionDate>2016-07-14</actionDate>
+          <lastSummaryUpdateDate>2016-09-22T21:07:51Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Modernizing Outdated and Vulnerable Equipment and Information Technology Act of 2016 or MOVE IT Act</strong></p> <p>This bill prohibits a covered agency (specified agencies for which there are Chief Financial Officers) from storing or processing government information on a federal information system with any cloud service provider unless the provider has an authorization to operate a cloud computing service from the agency or the Joint Authorization Board. </p> <p>The Office of the Director of National Intelligence (ODNI) may waive the applicability of such prohibition to any national security system in the interest of national security and shall submit a statement justifying such waiver.</p> <p>The ODNI shall: (1) coordinate with the Federal Risk and Authorization Management Program Office (FRAMPO) to establish mandatory guidelines for the submission of an application for such an authorization that shall streamline and accelerate the accreditation process; (2) host a public-private industry cloud commercial working group representing cloud service providers, which shall provide recommendations directly to FRAMPO's Program Management Office and Joint Authorization Board regarding their operations, processes improvements, and best practices; (3) establish key performance metrics for FRAMPO; (4) report on the effectiveness and efficiency of FRAMPO; and (5) assess cloud computing opportunities and issue policies and guidelines for the adoption of government-wide programs providing for a standardized approach to security assessment and operational authorization for cloud computing products and services.</p> <p>There is established in each such agency an information technology system modernization and working capital fund for necessary expenses:</p> <ul> <li>for the replacement of a legacy information technology system;</li> <li>for the transition to cloud computing and innovative platforms and technologies;</li> <li> to assist and support efforts to provide information technology capabilities that address evolving threats to information security; and </li> <li>for developmental, modernization, and enhancement activities of information technology.</li> </ul> <p>Each agency shall prioritize amounts within such fund to be used initially for cost savings activities approved by the Federal Chief Information Officer.</p> <p>The Government Accountability Office shall report on the implementation and operation of each such fund, current practices compared with industry best practices for the effective oversight and governance of a cloud computing working capital fund, the basis for the fund's use and operation, the fund's efficacy to accelerate technology transitions, and recommendations for improvement.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

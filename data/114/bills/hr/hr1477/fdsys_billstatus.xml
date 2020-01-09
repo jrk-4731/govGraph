@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2015-03-19</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2015-03-19</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2015-03-19</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <title>Fair Access to Science and Technology Research Act of 2015</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <type>S</type>
+        <number>779</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2016-03-08</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 384.</text>
+        </latestAction>
+        <latestTitle>Fair Access to Science and Technology Research Act of 2015</latestTitle>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <date>2015-03-19T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr1477ih/xml/BILLS-114hr1477ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2015-03-19</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <createDate>2015-03-23T13:30:35Z</createDate>
+    <billNumber>1477</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Yoder, Kevin [R-KS-3]</fullName>
+        <district>3</district>
+        <lastName>Yoder</lastName>
+        <firstName>Kevin</firstName>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>Y000063</bioguideId>
+          <gpoId>7951</gpoId>
+          <lisID>2021</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Y000063</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <district>19</district>
+        <lastName>LOFGREN</lastName>
+        <firstName>ZOE</firstName>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <district>9</district>
+        <lastName>KAPTUR</lastName>
+        <firstName>MARCY</firstName>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <state>OH</state>
+        <identifiers>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000009</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. McDermott, Jim [D-WA-7]</fullName>
+        <district>7</district>
+        <lastName>MCDERMOTT</lastName>
+        <firstName>JIM</firstName>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <state>WA</state>
+        <identifiers>
+          <gpoId>8211</gpoId>
+          <bioguideId>M000404</bioguideId>
+          <lisID>766</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000404</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <district>18</district>
+        <lastName>ESHOO</lastName>
+        <firstName>ANNA</firstName>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName>G.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000215</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <district>2</district>
+        <lastName>Huffman</lastName>
+        <firstName>Jared</firstName>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <district>2</district>
+        <lastName>Pocan</lastName>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2015-06-23</sponsorshipDate>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2016-07-25</sponsorshipDate>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000582</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <district>32</district>
+        <lastName>NAPOLITANO</lastName>
+        <firstName>GRACE</firstName>
+        <sponsorshipDate>2016-11-17</sponsorshipDate>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000179</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <district>5</district>
+        <lastName>Kildee</lastName>
+        <firstName>Daniel</firstName>
+        <sponsorshipDate>2016-11-17</sponsorshipDate>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName>T.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000380</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <district>4</district>
+        <lastName>Jordan</lastName>
+        <firstName>Jim</firstName>
+        <sponsorshipDate>2016-11-17</sponsorshipDate>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>J000289</bioguideId>
+          <gpoId>8094</gpoId>
+          <lisID>1868</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000289</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Ribble, Reid J. [R-WI-8]</fullName>
+        <district>8</district>
+        <lastName>Ribble</lastName>
+        <firstName>Reid</firstName>
+        <sponsorshipDate>2016-11-17</sponsorshipDate>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>R000587</bioguideId>
+          <lisID>2073</lisID>
+          <gpoId>8221</gpoId>
+        </identifiers>
+        <party>R</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000587</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <district>13</district>
+        <lastName>CONYERS</lastName>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2016-11-17</sponsorshipDate>
+        <state>MI</state>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000714</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>D000482</bioguideId>
+        <state>PA</state>
+        <identifiers>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>MIKE</firstName>
+        <byRequestType />
+        <lastName>DOYLE</lastName>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <district>14</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 47 (Thursday, March 19, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MICHAEL F. DOYLE of Pennsylvania:H.R. 1477.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3:The Congress shall have power to regulate commerce withforeign nations, and among the several states, and withIndian tribes.andArticle I, Section 8, Clause 18:The Congress shall have power to make all laws which shallbe necessary and proper for carrying into Execution theforegoing Powers, and all other Power vested by thisConstitution in the Government of the United States, or inany Department of Officer thereof.[Page H1804]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Fair Access to Science and Technology Research Act of 2015</strong></p> <p>Requires each federal agency with extramural research expenditures of over $100 million to develop a federal research public access policy that is consistent with, and that advances, the purposes of the agency and that follows common procedures for the collection and depositing of research papers. </p> <p>Makes each federal research public access policy applicable to: (1) researchers employed by the federal agency whose works remain in the public domain, and (2) researchers funded by the agency. Specifies exclusions.</p> <p>Requires each federal agency to submit an annual report on its federal research public access policy to specified congressional committees. </p>]]></text>
+          <lastSummaryUpdateDate>2015-03-28T14:12:09Z</lastSummaryUpdateDate>
+          <actionDate>2015-03-19</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2015-03-19T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:26:00Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2015-03-19</introducedDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Fair Access to Science and Technology Research Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To provide for Federal agencies to develop public access policies relating to research conducted by employees of that agency or from funds administered by that agency.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Fair Access to Science and Technology Research Act of 2015</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-19T13:02:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

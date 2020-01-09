@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-27T04:42:08Z</createDate>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>Monuments and memorials</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-26</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-03-26</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <middleName />
+        <party>D</party>
+        <firstName>TOM</firstName>
+        <bioguideId>U000039</bioguideId>
+        <lastName>UDALL</lastName>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <state>NM</state>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-03-26</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-06-19</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 88.</text>
+        </latestAction>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2500</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+      </item>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-06-20</actionDate>
+          <text>Motion to proceed to measure considered in Senate. (consideration: CR S4145-4151; S4151-4162)</text>
+        </latestAction>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1790</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s871is/xml/BILLS-116s871is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-03-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2019-03-26</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>NM</state>
+        <bioguideId>H001046</bioguideId>
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <byRequestType />
+        <firstName>Martin</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-26T16:18:29Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <title>A bill to establish the White Sands National Park in the State of New Mexico as a unit of the National Park System, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>White Sands National Park Establishment Act</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>White Sands National Park Establishment Act</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>White Sands National Park Establishment Act</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <billNumber>871</billNumber>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-06-24T12:29:37Z</updateDate>
+    <title>White Sands National Park Establishment Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

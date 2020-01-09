@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3285-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001081", 
+      "district": "5", 
+      "name": "Hayes, Jahana", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-13", 
+      "state": "CT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-13", 
+  "number": "3285", 
+  "official_title": "To provide for a grant program for handgun licensing programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Handgun Purchaser Licensing Act", 
+  "sponsor": {
+    "bioguide_id": "R000606", 
+    "district": "8", 
+    "name": "Raskin, Jamie", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-13", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Criminal justice information and records", 
+    "Firearms and explosives", 
+    "Law enforcement administration and funding", 
+    "Licensing and registrations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for a grant program for handgun licensing programs, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Handgun Purchaser Licensing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Handgun Purchaser Licensing Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Handgun Purchaser Licensing Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-12T18:02:03Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3285.xml"
+}

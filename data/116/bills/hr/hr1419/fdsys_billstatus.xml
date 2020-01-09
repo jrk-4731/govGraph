@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <firstName>Salud</firstName>
+        <state>CA</state>
+        <middleName>O.</middleName>
+        <district>24</district>
+        <identifiers>
+          <lisID>2310</lisID>
+          <bioguideId>C001112</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Carbajal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001112</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+      </item>
+      <item>
+        <firstName>Ed</firstName>
+        <state>CO</state>
+        <middleName />
+        <district>7</district>
+        <identifiers>
+          <bioguideId>P000593</bioguideId>
+          <lisID>1835</lisID>
+          <gpoId>7865</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Perlmutter</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000593</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-02-28</sponsorshipDate>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+      </item>
+      <item>
+        <firstName>RICK</firstName>
+        <state>WA</state>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>L000560</bioguideId>
+          <gpoId>8206</gpoId>
+          <lisID>1675</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>LARSEN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000560</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <middleName />
+        <district>9</district>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+      </item>
+    </cosponsors>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2019-03-01T08:10:07Z</createDate>
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2019-02-28</actionDate>
+    </latestAction>
+    <updateDate>2019-07-16T16:08:45Z</updateDate>
+    <billType>HR</billType>
+    <recordedVotes />
+    <title>Public Option Deficit Reduction Act</title>
+    <version>1.0.0</version>
+    <billNumber>1419</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-02-28T14:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-02-28</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>3</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-01-03</actionDate>
+        </latestAction>
+        <latestTitle>Keeping Health Insurance Affordable Act of 2019</latestTitle>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2019-02-28</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2019-02-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2019-02-28</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Patient Protection and Affordable Care Act to establish a public health insurance option.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Public Option Deficit Reduction Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Public Option Deficit Reduction Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Public Option Deficit Reduction Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1419ih/xml/BILLS-116hr1419ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-28T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DeFAZIO:H.R. 1419.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 (relating to the power tomake all laws necessary and proper for carrying out thepowers vested in Congress)[Page H2315]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments />
+    <laws />
+    <sponsors>
+      <item>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <firstName>PETER</firstName>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <state>OR</state>
+        <party>D</party>
+        <district>4</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <lastName>DEFAZIO</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2016-11-18T05:08:26Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-11-17</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S6486</name>
+            <url>https://www.congress.gov/congressional-record/volume-162/senate-section/page/S6486</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S6486)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2016-11-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <actionDate>2016-11-17</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S6486)</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>TX</state>
+        <party>R</party>
+        <firstName>John</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2016-11-17T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-12-09T19:56:05Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>American Law Enforcement Heroes Act of 2016</b></p> <p>This bill amends the Omnibus Crime Control and Safe Streets Act of 1968 to specify that hiring and training additional career law enforcement officers, as an allowable use of grant funds under the Community Oriented Policing Services program, includes prioritizing the hiring and training of veterans.</p>]]></text>
+          <actionDate>2016-11-17</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors />
+    <amendments />
+    <committeeReports />
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-11-17T21:56:38Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <introducedDate>2016-11-17</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <title>American Law Enforcement Heroes Act of 2016</title>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestTitle>American Law Enforcement Heroes Act of 2016</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>6380</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2016-12-05</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <billNumber>3474</billNumber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>American Law Enforcement Heroes Act of 2016</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize COPS grantees to use grant funds to hire veterans as career law enforcement officers, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>American Law Enforcement Heroes Act of 2016</title>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-06-02T07:48:47Z</updateDate>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

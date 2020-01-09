@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T14:06:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <notes />
+    <laws />
+    <updateDate>2019-03-14T14:00:08Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <sponsors>
+      <item>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <party>D</party>
+        <district>43</district>
+        <middleName />
+        <byRequestType />
+        <bioguideId>W000187</bioguideId>
+        <lastName>WATERS</lastName>
+        <firstName>MAXINE</firstName>
+        <identifiers>
+          <gpoId>7840</gpoId>
+          <lisID>1205</lisID>
+          <bioguideId>W000187</bioguideId>
+        </identifiers>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+      <actionDate>2019-03-13</actionDate>
+    </latestAction>
+    <title>Providing amounts for the expenses of the Committee on Financial Services in the One Hundred Sixteenth Congress.</title>
+    <cosponsors />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <billType>HRES</billType>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2019-03-13</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-03-13</actionDate>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-03-13</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>228</billNumber>
+    <originChamber>House</originChamber>
+    <createDate>2019-03-14T07:12:06Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congress</name>
+          </item>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Financial Services</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres228ih/xml/BILLS-116hres228ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on Financial Services in the One Hundred Sixteenth Congress.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on Financial Services in the One Hundred Sixteenth Congress.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea />
+    <version>1.0.0</version>
+    <introducedDate>2019-03-13</introducedDate>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

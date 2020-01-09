@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:30:53Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>7</district>
+        <firstName>David</firstName>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <lastName>Rouzer</lastName>
+        <identifiers>
+          <lisID>2256</lisID>
+          <bioguideId>R000603</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <bioguideId>R000603</bioguideId>
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Science, Space, and Technology Committee</name>
+          <subcommittees>
+            <item>
+              <name>Environment Subcommittee</name>
+              <systemCode>hssy18</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-08-18T20:48:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hssy00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-01T16:02:00Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <name>Conservation and Forestry Subcommittee</name>
+              <systemCode>hsag15</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-07-13T19:35:58Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-01T16:01:45Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Environment and Climate Change Subcommittee</name>
+              <systemCode>hsif18</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-06-05T14:47:18Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-01T16:01:40Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <subcommittees>
+            <item>
+              <name>Water Resources and Environment Subcommittee</name>
+              <systemCode>hspw02</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-06-02T17:38:25Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-01T16:01:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-06-01</introducedDate>
+    <createDate>2015-06-02T09:21:55Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2015-08-18</actionDate>
+        <committee>
+          <name>Environment Subcommittee</name>
+          <systemCode>hssy18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-07-13</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-06-05</actionDate>
+        <committee>
+          <name>Environment and Climate Change Subcommittee</name>
+          <systemCode>hsif18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and the Economy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-06-02</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2015-06-01</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2015-06-01</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2015-06-01</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2015-06-01</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2015-06-01</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2015-06-01</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2015-06-01</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>4</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>4</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>11</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>2599</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Don't Ignore the Will of the American People Act </b></p> <p>This bill prohibits the obligation of funds made available under the Consolidated and Further Continuing Appropriations Act, 2015, to the Environmental Protection Agency (EPA) for its Office of the Administrator until the EPA rescinds the rule entitled, &quot;Clean Water Rule: Definition of Waters of the United States,&quot; about the scope of the Clean Water Act.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2015-06-01T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-06-01</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2016-06-22T15:31:41Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Environment.</text>
+      <links />
+      <actionDate>2015-08-18</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 86 (Monday, June 1, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROUZER:H.R. 2599.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the United StatesConstitution states that ``The Congress shall have Power Tomake all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States or in any Department of Officer thereof''[Page H3642]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Don't Ignore the Will of the American People Act</title>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Lakes and rivers</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Wetlands</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Don't Ignore the Will of the American People Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To prohibit the obligation of certain funds until the Administrator of the Environmental Protection Agency withdraws the rule relating to the definition of "waters of the United States".</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Don't Ignore the Will of the American People Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

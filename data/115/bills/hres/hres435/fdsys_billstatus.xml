@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-14T16:09:35Z</date>
+                </item>
+              </activities>
+              <name>Consumer Protection and Commerce Subcommittee</name>
+              <systemCode>hsif17</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-11T16:02:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Education and Labor</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-11T16:02:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+      <actionDate>2017-07-14</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-28T20:50:22Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Recognizes: (1) during National Youth Sports Week, the millions of youth in this nation benefitting from youth sports and the parents, volunteers, and local and national organizations that make youth sports in this country possible; and (2) the efforts to improve youth sports through promotion of Physical activity, Living healthy, Accessibility, Youth development, and Safety (P.L.A.Y.S.).</p>]]></text>
+          <updateDate>2017-07-11T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-07-11</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <title>Recognizing the millions of youth in this Nation benefitting from youth sports and the parents, volunteers, and local and national organizations that make youth sports in this country possible, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Recognizing the millions of youth in this Nation benefitting from youth sports and the parents, volunteers, and local and national organizations that make youth sports in this country possible, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <committee>
+          <systemCode>hsif17</systemCode>
+          <name>Consumer Protection and Commerce Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-07-11</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-11</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-07-11</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <state>MI</state>
+        <firstName>Daniel</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2134</lisID>
+          <bioguideId>K000380</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kildee</lastName>
+        <middleName>T.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>K000380</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Patrick</firstName>
+        <identifiers>
+          <lisID>2052</lisID>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Meehan</lastName>
+        <middleName />
+        <district>7</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>M001181</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>Cheri</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2127</lisID>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bustos</lastName>
+        <middleName />
+        <district>17</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>B001286</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NJ</state>
+        <firstName>WILLIAM</firstName>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <gpoId>8050</gpoId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>PASCRELL</lastName>
+        <middleName>J.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>P000096</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <firstName>Jim</firstName>
+        <identifiers>
+          <bioguideId>J000289</bioguideId>
+          <lisID>1868</lisID>
+          <gpoId>8094</gpoId>
+        </identifiers>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jordan</lastName>
+        <middleName />
+        <district>4</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>J000289</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Takano</lastName>
+        <middleName />
+        <district>41</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>T000472</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>GU</state>
+        <firstName>Madeleine</firstName>
+        <identifiers>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+        </identifiers>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bordallo</lastName>
+        <middleName>Z.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>B001245</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>RI</state>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>L000559</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NJ</state>
+        <firstName>FRANK</firstName>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+          <lisID>887</lisID>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>PALLONE</lastName>
+        <middleName />
+        <district>6</district>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>P000034</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TX</state>
+        <firstName>Marc</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Veasey</lastName>
+        <middleName>A.</middleName>
+        <district>33</district>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>V000131</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>OH</state>
+        <firstName>Joyce</firstName>
+        <identifiers>
+          <lisID>2153</lisID>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Beatty</lastName>
+        <middleName />
+        <district>3</district>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>B001281</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billType>HRES</billType>
+    <sponsors>
+      <item>
+        <firstName>RON</firstName>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <middleName />
+        <bioguideId>K000188</bioguideId>
+        <lastName>KIND</lastName>
+        <state>WI</state>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <notes />
+    <billNumber>435</billNumber>
+    <updateDate>2019-04-18T15:54:09Z</updateDate>
+    <relatedBills>
+      <item>
+        <type>SRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>227</number>
+        <congress>115</congress>
+        <latestTitle>A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</latestTitle>
+        <latestAction>
+          <actionDate>2017-08-02</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres435ih/xml/BILLS-115hres435ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-07-11T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2017-07-12T03:11:32Z</createDate>
+    <introducedDate>2017-07-11</introducedDate>
+    <committeeReports />
+    <title>Recognizing the millions of youth in this Nation benefitting from youth sports and the parents, volunteers, and local and national organizations that make youth sports in this country possible, and for other purposes.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

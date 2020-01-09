@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/866</url>
+            <name>H. Rept. 114-866</name>
+          </link>
+        </links>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 114-866, Part I.</text>
+        <actionDate>2016-12-12</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/114th-congress/house-report/866</url>
+            <name>H. Rept. 114-866</name>
+          </link>
+        </links>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 114-866, Part I.</text>
+        <actionDate>2016-12-12</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2016-07-13</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 21.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-07-13</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2016-07-12</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2016-07-12</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2016-07-12</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2016-07-12</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2016-07-12</actionDate>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2016-07-07</actionDate>
+        <committee>
+          <name>Monetary Policy and Trade Subcommittee</name>
+          <systemCode>hsba20</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Monetary Policy and Trade Prior to Introduction and Referral.</text>
+        <type>Committee</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Monetary Policy and Trade Subcommittee</name>
+              <systemCode>hsba20</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2016-07-07T20:26:50Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsba00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2016-12-12T21:22:51Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2016-07-13T13:51:05Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2016-07-12T14:01:15Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-07-12T14:01:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-07-12T04:00:00Z</updateDate>
+          <actionDate>2016-07-12</actionDate>
+          <text><![CDATA[<p>This bill prohibits the Department of the Treasury from issuing a license for the export or re-export of commercial passenger aircraft to the Islamic Republic of Iran.</p> <p>Treasury shall submit an annual report to Congress:</p> <ul> <li>stating whether any U.S. financial institution is involved with the sale or lease of commercial passenger aircraft or aircraft spare parts to Iran by a non-U.S. manufacturer, and whether any such involvement is with respect to such aircraft or spare parts comprising 10% or more U.S. content; and</li> <li>containing a description of the risks related to repayment, money laundering, and the financing of terrorism faced by U.S. financial institutions that are involved in such transactions.</li> </ul> <p>The Export-Import Bank shall report annually to Congress on the use of Bank assistance for such transactions.</p>]]></text>
+          <lastSummaryUpdateDate>2016-11-18T14:59:35Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <updateDate>2016-12-12T14:08:19Z</updateDate>
+          <actionDate>2016-12-12</actionDate>
+          <text><![CDATA[<p><b>Stop U.S. Support for State Sponsors of Terrorism Act</b></p> <p>(Sec. 2) This bill prohibits the Department of the Treasury from issuing a license for the export or re-export of commercial passenger aircraft to the Islamic Republic of Iran.</p> <p>(Sec. 3) Treasury shall submit an annual report to Congress:</p> <UL> <LI>stating whether any U.S. financial institution is involved with the sale or lease of commercial passenger aircraft or aircraft spare parts to Iran by a non-U.S. manufacturer, and whether any such involvement is with respect to such aircraft or spare parts comprising 10% or more U.S. content; and <LI>containing a description of the risks related to repayment, money laundering, and the financing of terrorism faced by U.S. financial institutions that are involved in such transactions. </LI> </UL> <p>(Sec. 4) The Export-Import Bank shall report annually to Congress on the use of Bank assistance for such transactions.</p>]]></text>
+          <lastSummaryUpdateDate>2017-03-01T19:11:58Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to House amended, Part I</actionDesc>
+          <versionCode>18</versionCode>
+          <name>Reported to House amended, Part I</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Stop U.S. Support for State Sponsors of Terrorism Act</title>
+    <recordedVotes />
+    <updateDate>2019-02-06T19:37:39Z</updateDate>
+    <latestAction>
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 114-866, Part I.</text>
+      <links />
+      <actionDate>2016-12-12</actionDate>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <amendments />
+    <version>1.0.0</version>
+    <billNumber>5729</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>NC</state>
+        <bioguideId>P000606</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <middleName />
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <byRequestType />
+        <lastName>Pittenger</lastName>
+        <district>9</district>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <date>2016-07-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5729ih/xml/BILLS-114hr5729ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <createDate>2016-07-13T05:51:49Z</createDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2016-11-28</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>No U.S. Financing for Iran Act</latestTitle>
+        <type>HR</type>
+        <number>5711</number>
+      </item>
+      <item>
+        <latestAction>
+          <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+          <actionDate>2016-07-11</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To prohibit the Secretary of the Treasury from issuing certain licenses in connection with the export or re-export of a commercial passenger aircraft to the Islamic Republic of Iran, to require the Secretary of the Treasury to issue an annual report on the status of, and risks related to, U.S. financial institutions involved with the sale or lease of such a commercial passenger aircraft, and for other purposes.</latestTitle>
+        <type>HR</type>
+        <number>5716</number>
+      </item>
+    </relatedBills>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 114-866</citation>
+      </committeeReport>
+    </committeeReports>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2016-08-31T21:32:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/51931</url>
+        <title>H.R. 5729, Stop U.S. Support for State Sponsors of Terrorism Act</title>
+      </item>
+    </cboCostEstimates>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 112 (Tuesday, July 12, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PITTENGER:H.R. 5729.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3, the Commerce Clause.[Page H4815]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors />
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <title>Stop U.S. Support for State Sponsors of Terrorism Act</title>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To prohibit the Secretary of the Treasury from issuing certain licenses in connection with the export or re-export of a commercial passenger aircraft to the Islamic Republic of Iran, to require annual reports by the Secretary of the Treasury and the Export-Import Bank on financing issues related to the sale or lease of such a commercial passenger aircraft or spare parts for such an aircraft, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Stop U.S. Support for State Sponsors of Terrorism Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <congress>114</congress>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <introducedDate>2016-07-12</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

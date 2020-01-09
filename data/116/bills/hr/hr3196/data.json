@@ -1,0 +1,230 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "B00100", 
+      "links": [
+        {
+          "name": "E748", 
+          "url": "https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E748"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR E748", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-20", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSSY"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-132", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/132"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Science, Space, and Technology. H. Rept. 116-132.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-27", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "96", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 96.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3196-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-132"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001117", 
+      "district": "6", 
+      "name": "Casten, Sean", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-19", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001068", 
+      "district": "9", 
+      "name": "Cohen, Steve", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-19", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000582", 
+      "district": "0", 
+      "name": "Gonzalez-Colon, Jenniffer", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-11", 
+      "state": "PR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001083", 
+      "district": "5", 
+      "name": "Horn, Kendra S.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-19", 
+      "state": "OK", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000563", 
+      "district": "3", 
+      "name": "Lipinski, Daniel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-19", 
+      "state": "IL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-06-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-11", 
+  "number": "3196", 
+  "official_title": "To designate the Large Synoptic Survey Telescope as the \"Vera Rubin Survey Telescope\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Vera Rubin Survey Telescope Designation Act", 
+  "sponsor": {
+    "bioguide_id": "J000126", 
+    "district": "30", 
+    "name": "Johnson, Eddie Bernice", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-06-20", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Astronomy", 
+    "Congressional tributes", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the Large Synoptic Survey Telescope as the \"Vera Rubin Survey Telescope\".", 
+      "type": "official"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Vera Rubin Survey Telescope Designation Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-22T16:30:08Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3196.xml"
+}

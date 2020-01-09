@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>National symbols</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-06-16</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2016-06-14</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2016-06-14</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2016-06-14</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2016-06-14T14:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2016-06-16T16:47:02Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>5476</billNumber>
+    <updateDate>2019-02-14T23:14:53Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <firstName>PETER</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>T.</middleName>
+        <district>2</district>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <lastName>KING</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <firstName>WILLIAM</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>9</district>
+        <bioguideId>P000096</bioguideId>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+        </identifiers>
+        <lastName>PASCRELL</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <firstName>David</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>G.</middleName>
+        <district>8</district>
+        <bioguideId>R000578</bioguideId>
+        <state>WA</state>
+        <identifiers>
+          <lisID>1810</lisID>
+          <bioguideId>R000578</bioguideId>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <lastName>Reichert</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <firstName>Timothy</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>1</district>
+        <bioguideId>W000799</bioguideId>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>W000799</bioguideId>
+          <gpoId>8001</gpoId>
+          <lisID>1856</lisID>
+        </identifiers>
+        <lastName>Walz</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+        <bioguideId>C001069</bioguideId>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1836</lisID>
+          <gpoId>7867</gpoId>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <lastName>Courtney</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <firstName>ROSA</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName />
+        <district>3</district>
+        <bioguideId>D000216</bioguideId>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <lastName>DELAURO</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <bioguideId>E000293</bioguideId>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+          <lisID>2114</lisID>
+        </identifiers>
+        <lastName>Esty</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <firstName>James</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <bioguideId>H001047</bioguideId>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <lastName>Himes</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <lastName>Grijalva</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <bioguideId>C001037</bioguideId>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7973</gpoId>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+        </identifiers>
+        <lastName>CAPUANO</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <firstName>GREGORY</firstName>
+        <sponsorshipDate>2016-06-14</sponsorshipDate>
+        <middleName>W.</middleName>
+        <district>5</district>
+        <bioguideId>M001137</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8067</gpoId>
+          <lisID>1506</lisID>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <lastName>MEEKS</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Heck, Joseph J. [R-NV-3]</fullName>
+        <firstName>Joseph</firstName>
+        <sponsorshipDate>2016-09-14</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>3</district>
+        <bioguideId>H001055</bioguideId>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2040</lisID>
+          <bioguideId>H001055</bioguideId>
+          <gpoId>8061</gpoId>
+        </identifiers>
+        <lastName>Heck</lastName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2016-06-16</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 94 (Tuesday, June 14, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LARSON of Connecticut:H.R. 5476.Congress has the power to enact this legislation pursuantto the following:H.R.Article I, Section 8, Clause 18[Page H3816]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <introducedDate>2016-06-14</introducedDate>
+    <titles>
+      <item>
+        <title>Honoring Hometown Heroes Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To amend title 4, United States Code, to provide for the flying of the flag at half-staff in the event of the death of a first responder in the line of duty.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Honoring Hometown Heroes Act</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <title>Honoring Hometown Heroes Act</title>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Honoring Hometown Heroes Act</strong></p> <p>This bill authorizes the governor of a state, territory, or possession of the United States or the Mayor of the District of Columbia to proclaim that the U.S. flag shall be flown at half-staff in the event of the death of a first responder (public safety officer) working in such jurisdiction who dies while serving in the line of duty.</p>]]></text>
+          <actionDate>2016-06-14</actionDate>
+          <lastSummaryUpdateDate>2016-06-29T21:00:07Z</lastSummaryUpdateDate>
+          <updateDate>2016-06-14T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2016-06-15T05:49:15Z</createDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>LARSON</lastName>
+        <state>CT</state>
+        <bioguideId>L000557</bioguideId>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+          <lisID>1583</lisID>
+        </identifiers>
+        <byRequestType />
+        <district>1</district>
+        <middleName>B.</middleName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills />
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

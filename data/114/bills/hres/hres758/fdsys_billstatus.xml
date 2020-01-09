@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Amends rule X (Organization of Committees) of the Rules of the House of Representatives to establish a Permanent Select Committee on Aging. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2016-06-03T21:01:14Z</lastSummaryUpdateDate>
+          <actionDate>2016-05-26</actionDate>
+          <updateDate>2016-05-26T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>758</billNumber>
+    <title>Amending the Rules of the House of Representatives to establish a Permanent Select Committee on Aging.</title>
+    <actions>
+      <item>
+        <links />
+        <actionDate>2016-05-26</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Rules.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-05-26</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-05-26</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2016-05-27T05:26:19Z</createDate>
+    <sponsors>
+      <item>
+        <firstName>David</firstName>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <party>D</party>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <lastName>Cicilline</lastName>
+        <state>RI</state>
+        <bioguideId>C001084</bioguideId>
+        <middleName>N.</middleName>
+        <district>1</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <committeeReports />
+    <laws />
+    <relatedBills />
+    <latestAction>
+      <actionDate>2016-05-26</actionDate>
+      <links />
+      <text>Referred to the House Committee on Rules.</text>
+    </latestAction>
+    <introducedDate>2016-05-26</introducedDate>
+    <billType>HRES</billType>
+    <cosponsors>
+      <item>
+        <district>9</district>
+        <party>D</party>
+        <firstName>JANICE</firstName>
+        <lastName>SCHAKOWSKY</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <middleName>D.</middleName>
+        <state>IL</state>
+        <bioguideId>S001145</bioguideId>
+      </item>
+      <item>
+        <district>6</district>
+        <party>D</party>
+        <firstName>Doris</firstName>
+        <lastName>Matsui</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <middleName>O.</middleName>
+        <state>CA</state>
+        <bioguideId>M001163</bioguideId>
+      </item>
+      <item>
+        <district>9</district>
+        <party>D</party>
+        <firstName>Yvette</firstName>
+        <lastName>Clarke</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <middleName>D.</middleName>
+        <state>NY</state>
+        <bioguideId>C001067</bioguideId>
+      </item>
+      <item>
+        <district>9</district>
+        <party>D</party>
+        <firstName>MARCY</firstName>
+        <lastName>KAPTUR</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <middleName />
+        <state>OH</state>
+        <bioguideId>K000009</bioguideId>
+      </item>
+      <item>
+        <district>24</district>
+        <party>D</party>
+        <firstName>Frederica</firstName>
+        <lastName>Wilson</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <middleName>S.</middleName>
+        <state>FL</state>
+        <bioguideId>W000808</bioguideId>
+      </item>
+      <item>
+        <district>9</district>
+        <party>D</party>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+      </item>
+      <item>
+        <district>1</district>
+        <party>D</party>
+        <firstName>Michelle</firstName>
+        <lastName>Lujan Grisham</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2146</lisID>
+          <bioguideId>L000580</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <middleName />
+        <state>NM</state>
+        <bioguideId>L000580</bioguideId>
+      </item>
+      <item>
+        <district>4</district>
+        <party>D</party>
+        <firstName>PETER</firstName>
+        <lastName>DEFAZIO</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <middleName>A.</middleName>
+        <state>OR</state>
+        <bioguideId>D000191</bioguideId>
+      </item>
+      <item>
+        <district>7</district>
+        <party>D</party>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+          <lisID>1184</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <bioguideId>V000081</bioguideId>
+      </item>
+      <item>
+        <district>6</district>
+        <party>D</party>
+        <firstName>Grace</firstName>
+        <lastName>Meng</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <middleName />
+        <state>NY</state>
+        <bioguideId>M001188</bioguideId>
+      </item>
+      <item>
+        <district>12</district>
+        <party>D</party>
+        <firstName>Debbie</firstName>
+        <lastName>Dingell</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <middleName />
+        <state>MI</state>
+        <bioguideId>D000624</bioguideId>
+      </item>
+      <item>
+        <district>3</district>
+        <party>D</party>
+        <firstName>John</firstName>
+        <lastName>Garamendi</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>G000559</bioguideId>
+      </item>
+      <item>
+        <district>1</district>
+        <party>D</party>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <middleName />
+        <state>ME</state>
+        <bioguideId>P000597</bioguideId>
+      </item>
+      <item>
+        <district>2</district>
+        <party>D</party>
+        <firstName>JAMES</firstName>
+        <lastName>LANGEVIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <middleName>R.</middleName>
+        <state>RI</state>
+        <bioguideId>L000559</bioguideId>
+      </item>
+      <item>
+        <district>2</district>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <lastName>Pocan</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+          <lisID>2171</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <middleName />
+        <state>WI</state>
+        <bioguideId>P000607</bioguideId>
+      </item>
+      <item>
+        <district>1</district>
+        <party>D</party>
+        <firstName>Suzanne</firstName>
+        <lastName>Bonamici</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <middleName />
+        <state>OR</state>
+        <bioguideId>B001278</bioguideId>
+      </item>
+      <item>
+        <district>1</district>
+        <party>D</party>
+        <firstName>Dina</firstName>
+        <lastName>Titus</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <middleName />
+        <state>NV</state>
+        <bioguideId>T000468</bioguideId>
+      </item>
+      <item>
+        <district>12</district>
+        <party>D</party>
+        <firstName>CAROLYN</firstName>
+        <lastName>MALONEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <middleName>B.</middleName>
+        <state>NY</state>
+        <bioguideId>M000087</bioguideId>
+      </item>
+      <item>
+        <district>7</district>
+        <party>D</party>
+        <firstName>Ruben</firstName>
+        <lastName>Gallego</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <middleName />
+        <state>AZ</state>
+        <bioguideId>G000574</bioguideId>
+      </item>
+      <item>
+        <district>18</district>
+        <party>D</party>
+        <firstName>Patrick</firstName>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2117</lisID>
+          <gpoId />
+          <bioguideId>M001191</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Murphy, Patrick [D-FL-18]</fullName>
+        <middleName />
+        <state>FL</state>
+        <bioguideId>M001191</bioguideId>
+      </item>
+      <item>
+        <district>15</district>
+        <party>D</party>
+        <firstName>JOSE</firstName>
+        <lastName>SERRANO</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <bioguideId>S000248</bioguideId>
+      </item>
+      <item>
+        <district>9</district>
+        <party>D</party>
+        <firstName>William</firstName>
+        <lastName>Keating</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <middleName>R.</middleName>
+        <state>MA</state>
+        <bioguideId>K000375</bioguideId>
+      </item>
+      <item>
+        <district>3</district>
+        <party>D</party>
+        <firstName>Raul</firstName>
+        <lastName>Grijalva</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <middleName>M.</middleName>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+      </item>
+      <item>
+        <district>25</district>
+        <party>D</party>
+        <firstName>LOUISE</firstName>
+        <lastName>SLAUGHTER</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <bioguideId>S000480</bioguideId>
+      </item>
+      <item>
+        <district>17</district>
+        <party>D</party>
+        <firstName>Matt</firstName>
+        <lastName>Cartwright</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+          <lisID>2159</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <middleName />
+        <state>PA</state>
+        <bioguideId>C001090</bioguideId>
+      </item>
+      <item>
+        <district>9</district>
+        <party>D</party>
+        <firstName>Jerry</firstName>
+        <lastName>McNerney</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>M001166</bioguideId>
+      </item>
+      <item>
+        <district>11</district>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <lastName>DeSaulnier</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2227</lisID>
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>D000623</bioguideId>
+      </item>
+      <item>
+        <district>20</district>
+        <party>D</party>
+        <firstName>ALCEE</firstName>
+        <lastName>HASTINGS</lastName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+        </identifiers>
+        <sponsorshipDate>2016-06-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+      </item>
+    </cosponsors>
+    <amendments />
+    <updateDate>2018-06-02T01:22:18Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>Amending the Rules of the House of Representatives to establish a Permanent Select Committee on Aging.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Amending the Rules of the House of Representatives to establish a Permanent Select Committee on Aging.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <recordedVotes />
+    <calendarNumbers />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-26T13:04:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

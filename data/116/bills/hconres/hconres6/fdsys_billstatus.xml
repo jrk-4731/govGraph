@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-23</actionDate>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-23</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-23</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <billNumber>6</billNumber>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <title>Providing for a joint session of Congress to receive a message from the President.</title>
+    <updateDate>2019-03-15T16:45:07Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <sponsors>
+      <item>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001165</bioguideId>
+          <gpoId>7827</gpoId>
+          <lisID>1833</lisID>
+        </identifiers>
+        <fullName>Rep. McCarthy, Kevin [R-CA-23]</fullName>
+        <lastName>McCarthy</lastName>
+        <bioguideId>M001165</bioguideId>
+        <byRequestType />
+        <district>23</district>
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <congress>116</congress>
+    <committeeReports />
+    <laws />
+    <notes />
+    <billType>HCONRES</billType>
+    <cosponsors>
+      <item>
+        <firstName>Kevin</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001082</bioguideId>
+          <lisID>2372</lisID>
+        </identifiers>
+        <district>1</district>
+        <fullName>Rep. Hern, Kevin [R-OK-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <bioguideId>H001082</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <lastName>Hern</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Larry</firstName>
+        <identifiers>
+          <bioguideId>B001275</bioguideId>
+          <gpoId>7947</gpoId>
+          <lisID>2018</lisID>
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <bioguideId>B001275</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <lastName>Bucshon</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+          <lisID>2270</lisID>
+        </identifiers>
+        <district>36</district>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <bioguideId>B001291</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <lastName>Babin</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Carol</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2460</lisID>
+          <bioguideId>M001205</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <fullName>Rep. Miller, Carol D. [R-WV-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <bioguideId>M001205</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+        <lastName>Miller</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Jason</firstName>
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+          <gpoId />
+          <lisID>2191</lisID>
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <bioguideId>S001195</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <lastName>Smith</lastName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000589</bioguideId>
+          <lisID>2368</lisID>
+        </identifiers>
+        <district>8</district>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <bioguideId>L000589</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <lastName>Lesko</lastName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <createDate>2019-01-24T08:10:10Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsha00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-23T15:01:10Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2019-01-23</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This concurrent resolution provides for a joint session of Congress on January 29, 2019, to receive a message from the President.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-23</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-03-15T16:43:28Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-23T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText />
+    <relatedBills>
+      <item>
+        <type>HCONRES</type>
+        <number>9</number>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Providing for a joint session of Congress to receive a message from the President.</latestTitle>
+        <latestAction>
+          <text>Message on Senate action sent to the House.</text>
+          <actionDate>2019-02-05</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-23T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hconres6ih/xml/BILLS-116hconres6ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-01-23</introducedDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for a joint session of Congress to receive a message from the President.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing for a joint session of Congress to receive a message from the President.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

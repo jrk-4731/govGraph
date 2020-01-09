@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <sentToHouse>1</sentToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>2</reportedToSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <heldAtTheDesk>1</heldAtTheDesk>
+      </actionTypeCounts>
+      <item>
+        <text>Held at the desk.</text>
+        <actionTime>18:30:26</actionTime>
+        <links />
+        <actionCode>H15000</actionCode>
+        <actionDate>2019-06-10</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <actionTime>14:05:53</actionTime>
+        <links />
+        <actionCode>H14000</actionCode>
+        <actionDate>2019-06-10</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-06-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-06-05</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2576</url>
+            <name>CR 05/01/2019 S2576</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3266-3267</url>
+            <name>S3266-3267</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3266-3267; text: CR 05/01/2019 S2576)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3266-3267; text: CR 05/01/2019 S2576)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2576</url>
+            <name>CR 05/01/2019 S2576</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S3266-3267</url>
+            <name>S3266-3267</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <actionDate>2019-06-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2019-06-04</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 108.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-06-04</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/43</url>
+            <name>report No. 116-43</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment and with a preamble. With written report No. 116-43.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment and with a preamble. With written report No. 116-43.</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/116th-congress/senate-report/43</url>
+            <name>report No. 116-43</name>
+          </link>
+        </links>
+        <actionCode>14000</actionCode>
+        <actionDate>2019-06-04</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2019-05-15</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-05-01</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>9</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A concurrent resolution expressing support for the designation of October 28, 2019, as "Honoring the Nation's First Responders Day".</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A concurrent resolution expressing support for the designation of October 28, 2019, as "Honoring the Nation's First Responders Day".</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2019-05-02T04:42:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-06-04T18:34:46Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2019-05-15T14:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2019-05-01T21:26:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <bioguideId>W000817</bioguideId>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <number>37</number>
+        <latestTitle>Expressing support for designation of October 28 as "Honoring the Nation's First Responders Day".</latestTitle>
+        <latestAction>
+          <actionDate>2019-05-02</actionDate>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HCONRES</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 116-43</citation>
+      </committeeReport>
+    </committeeReports>
+    <introducedDate>2019-05-01</introducedDate>
+    <calendarNumbers>
+      <item>
+        <number>0108</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <recordedVotes />
+    <laws />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Cotton</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+        </identifiers>
+        <bioguideId>J000293</bioguideId>
+        <firstName>Ron</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Johnson</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <bioguideId>P000595</bioguideId>
+        <firstName>Gary</firstName>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Peters</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <identifiers>
+          <lisID>2339</lisID>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000608</bioguideId>
+        <firstName>Jacklyn</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <state>NV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Rosen</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <bioguideId>L000575</bioguideId>
+        <firstName>James</firstName>
+        <middleName />
+        <sponsorshipDate>2019-05-01</sponsorshipDate>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Lankford</lastName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2019-06-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres15es/xml/BILLS-116sconres15es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2019-06-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres15ats/xml/BILLS-116sconres15ats.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2019-06-04T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres15rs/xml/BILLS-116sconres15rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-05-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres15is/xml/BILLS-116sconres15is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <title>A concurrent resolution expressing support for the designation of October 28, 2019, as "Honoring the Nation's First Responders Day".</title>
+    <version>1.0.0</version>
+    <billType>SCONRES</billType>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <updateDate>2019-07-19T07:39:43Z</updateDate>
+    <latestAction>
+      <links />
+      <text>Held at the desk.</text>
+      <actionDate>2019-06-10</actionDate>
+      <actionTime>18:30:26</actionTime>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-07-16T18:59:46Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>This resolution supports the designation of October 28, 2019, as Honoring the Nation's First Responders Day.</p>]]></text>
+          <actionDate>2019-05-01</actionDate>
+          <updateDate>2019-05-01T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>15</billNumber>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

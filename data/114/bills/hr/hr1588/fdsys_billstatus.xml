@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:34:22Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>2</district>
+        <firstName>Martha</firstName>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <lastName>McSally</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>M001197</bioguideId>
+        <state>AZ</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-04-21T20:47:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-04-21T20:47:50Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-03-24T13:03:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-03-24</introducedDate>
+    <createDate>2015-03-25T08:45:43Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-03-24</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-03-24</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-03-24</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>847</number>
+        <latestTitle>Transnational Criminal Organization Illicit Spotter Prevention and Elimination Act</latestTitle>
+        <type>S</type>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-03-24</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>1588</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-03-24T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Transnational Criminal Organization Illicit Spotter Prevention and Elimination Act</strong></p> <p>Amends the Immigration and Nationality Act to make it a crime to: (1) transmit to another person the location, movement, or activities of law enforcement agents while intending to further a federal crime relating to U.S. immigration; and (2) destroy, alter, or damage any physical or electronic device used by the federal government to control the border or any port of entry.</p> <p> Subjects a violator to fine, up to 10 years' imprisonment, or both.</p> <p>Prohibits the carrying or use of a firearm in an alien smuggling crime.</p>]]></text>
+          <lastSummaryUpdateDate>2015-04-13T15:59:09Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-24</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2015-04-21</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 49 (Tuesday, March 24, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. McSALLY:H.R. 1588.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clauses 3 and 18 of the United StatesConstitution.[Page H1901]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Transnational Criminal Organization Illicit Spotter Prevention and Elimination Act</title>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <bioguideId>G000565</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <lastName>Gosar</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <firstName>Trent</firstName>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+        <bioguideId>F000448</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <lastName>Franks</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <firstName>David</firstName>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <middleName />
+        <district>6</district>
+        <bioguideId>S001183</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+          <lisID>1994</lisID>
+        </identifiers>
+        <lastName>Schweikert</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+        <firstName>MATT</firstName>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <middleName />
+        <district>5</district>
+        <bioguideId>S000018</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId />
+          <lisID>1009</lisID>
+          <bioguideId>S000018</bioguideId>
+        </identifiers>
+        <lastName>SALMON</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <firstName>Kyrsten</firstName>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+        <bioguideId>S001191</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Sinema</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <firstName>Stevan</firstName>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+        <bioguideId>P000588</bioguideId>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1738</lisID>
+          <bioguideId>P000588</bioguideId>
+          <gpoId>8057</gpoId>
+        </identifiers>
+        <lastName>Pearce</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <firstName>Mo</firstName>
+        <sponsorshipDate>2015-09-17</sponsorshipDate>
+        <middleName />
+        <district>5</district>
+        <bioguideId>B001274</bioguideId>
+        <state>AL</state>
+        <identifiers>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <lastName>Brooks</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <firstName>Earl</firstName>
+        <sponsorshipDate>2015-09-17</sponsorshipDate>
+        <middleName>L. "Buddy"</middleName>
+        <district>1</district>
+        <bioguideId>C001103</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <gpoId />
+          <lisID>2236</lisID>
+        </identifiers>
+        <lastName>Carter</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2015-11-30</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>2</district>
+        <bioguideId>D000533</bioguideId>
+        <state>TN</state>
+        <identifiers>
+          <lisID>322</lisID>
+          <gpoId>8149</gpoId>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <lastName>DUNCAN</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Ellmers, Renee L. [R-NC-2]</fullName>
+        <firstName>Renee</firstName>
+        <sponsorshipDate>2016-02-24</sponsorshipDate>
+        <middleName>L.</middleName>
+        <district>2</district>
+        <bioguideId>E000291</bioguideId>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>E000291</bioguideId>
+          <gpoId>8025</gpoId>
+          <lisID>2036</lisID>
+        </identifiers>
+        <lastName>Ellmers</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <firstName>Lynn</firstName>
+        <sponsorshipDate>2016-02-25</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+        <bioguideId>J000290</bioguideId>
+        <state>KS</state>
+        <identifiers>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+        </identifiers>
+        <lastName>Jenkins</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <firstName>Austin</firstName>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+        <bioguideId>S001189</bioguideId>
+        <state>GA</state>
+        <identifiers>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <lastName>Scott</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Smuggling and trafficking</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Transnational Criminal Organization Illicit Spotter Prevention and Elimination Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit the intentional hindering of immigration, border, and customs controls, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Transnational Criminal Organization Illicit Spotter Prevention and Elimination Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:34:22Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>6</district>
+        <firstName>Grace</firstName>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <lastName>Meng</lastName>
+        <identifiers>
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <bioguideId>M001188</bioguideId>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-05-15T17:25:42Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-21T16:02:35Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-21T16:02:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-04-21</introducedDate>
+    <createDate>2015-04-22T08:46:10Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2015-05-15</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee />
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>To require the Secretary of State to provide relevant Foreign Service officers with training related to medical graduates in the countries in which such officers are serving, and for other purposes.</latestTitle>
+        <congress>114</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1920</number>
+        <latestAction>
+          <actionDate>2015-04-21</actionDate>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>1921</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-04-21</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-04-29T18:39:10Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Grant Residency for Additional Doctors Act of 2015 or the GRAD Act of 2015</strong></p> <p>Directs the Secretary of State to: </p> <ul> <li>designate a Department of State officer or employee whose sole responsibility during the months of March, April, May, June, and any other period of time determined by the Secretary, shall be to facilitate the expedited review of J-visa applications of aliens applying for U.S. admission to participate in a graduate medical education or training program; and </li> <li> provide appropriate Foreign Service officers with training related to medical graduates and medical graduate programs in the countries in which they are serving.</li></ul>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2015-04-21T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2015-05-15</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 58 (Tuesday, April 21, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 1921.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2356]</pre>]]></constitutionalAuthorityStatementText>
+    <title>GRAD Act of 2015</title>
+    <cosponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <bioguideId>E000294</bioguideId>
+        <state>MN</state>
+        <middleName />
+        <lastName>Emmer</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+          <gpoId />
+          <lisID>2253</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-04-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+      </item>
+      <item>
+        <firstName>Alan</firstName>
+        <bioguideId>G000556</bioguideId>
+        <state>FL</state>
+        <middleName />
+        <lastName>Grayson</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7302</gpoId>
+          <bioguideId>G000556</bioguideId>
+          <lisID>1914</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-05-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+      </item>
+      <item>
+        <firstName>Eric</firstName>
+        <bioguideId>S001193</bioguideId>
+        <state>CA</state>
+        <middleName />
+        <lastName>Swalwell</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>15</district>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+      </item>
+      <item>
+        <firstName>BRAD</firstName>
+        <bioguideId>S000344</bioguideId>
+        <state>CA</state>
+        <middleName />
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-05-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>30</district>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+      </item>
+      <item>
+        <firstName>SHEILA</firstName>
+        <bioguideId>J000032</bioguideId>
+        <state>TX</state>
+        <middleName />
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-05-19</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <bioguideId>Y000062</bioguideId>
+        <state>KY</state>
+        <middleName>A.</middleName>
+        <lastName>Yarmuth</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1853</lisID>
+          <bioguideId>Y000062</bioguideId>
+          <gpoId>7955</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-06-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <bioguideId>T000475</bioguideId>
+        <state>MI</state>
+        <middleName>A.</middleName>
+        <lastName>Trott</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000475</bioguideId>
+          <gpoId />
+          <lisID>2250</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-07-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>11</district>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+      </item>
+      <item>
+        <firstName>Mo</firstName>
+        <bioguideId>B001274</bioguideId>
+        <state>AL</state>
+        <middleName />
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-11-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>GRAD Act of 2015</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Grant Residency for Additional Doctors Act of 2015</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To facilitate the expedited review of applications of aliens applying for admission to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act who are coming to the United States to participate in a program under which they will receive graduate medical education or training, require the Secretary of State to provide relevant Foreign Service officers with training regarding such aliens, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>GRAD Act of 2015</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

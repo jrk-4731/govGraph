@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <state>PA</state>
+        <middleName />
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2019-06-27</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <createDate>2019-06-28T04:42:14Z</createDate>
+    <congress>116</congress>
+    <notes />
+    <calendarNumbers />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <state>MT</state>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <lastName>Daines</lastName>
+        <bioguideId>D000618</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <gpoId />
+          <lisID>2138</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend title XVIII of the Social Security Act to provide transitional coverage and retroactive Medicare part D coverage for certain low-income beneficiaries.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Improving Low Income Access to Prescription Drugs Act of 2019</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Improving Low Income Access to Prescription Drugs Act of 2019</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Improving Low Income Access to Prescription Drugs Act of 2019</title>
+      </item>
+    </titles>
+    <billNumber>1999</billNumber>
+    <introducedDate>2019-06-27</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-06-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-07-16T03:51:36Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Subcommittee Hearings Held.</text>
+          <actionDate>2019-06-04</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Improving Low-Income Access to Prescription Drugs Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>3029</number>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-06-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1999is/xml/BILLS-116s1999is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <title>Improving Low Income Access to Prescription Drugs Act of 2019</title>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-27T16:58:32Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

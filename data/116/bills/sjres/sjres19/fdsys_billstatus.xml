@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>SJRES</billType>
+    <sponsors>
+      <item>
+        <bioguideId>S000320</bioguideId>
+        <firstName>RICHARD</firstName>
+        <byRequestType />
+        <lastName>SHELBY</lastName>
+        <fullName>Sen. Shelby, Richard C. [R-AL]</fullName>
+        <party>R</party>
+        <middleName>CRAIG</middleName>
+        <state>AL</state>
+        <identifiers>
+          <lisID>1049</lisID>
+          <bioguideId>S000320</bioguideId>
+          <gpoId>8277</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2019-05-02</actionDate>
+    </latestAction>
+    <updateDate>2019-05-10T04:42:29Z</updateDate>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2019-05-02</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-05-02</actionDate>
+        <committee />
+        <links />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <introducedDate>2019-05-02</introducedDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>A joint resolution proposing an amendment to the Constitution of the United States to require (except during time of war and subject to suspension by Congress) that the total amount of money expended by the United States during any fiscal year not exceed the amount of certain revenue received by the United States during such fiscal year and not exceed 20 percent of the gross domestic product of the United States during the previous calendar year.</title>
+    <createDate>2019-05-03T04:42:10Z</createDate>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sjres19is/xml/BILLS-116sjres19is.xml</url>
+          </item>
+        </formats>
+        <date>2019-05-02T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A joint resolution proposing an amendment to the Constitution of the United States to require (except during time of war and subject to suspension by Congress) that the total amount of money expended by the United States during any fiscal year not exceed the amount of certain revenue received by the United States during such fiscal year and not exceed 20 percent of the gross domestic product of the United States during the previous calendar year.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A joint resolution proposing an amendment to the Constitution of the United States to require (except during time of war and subject to suspension by Congress) that the total amount of money expended by the United States during any fiscal year not exceed the amount of certain revenue received by the United States during such fiscal year and not exceed 20 percent of the gross domestic product of the United States during the previous calendar year.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <cosponsors />
+    <committeeReports />
+    <billNumber>19</billNumber>
+    <cboCostEstimates />
+    <recordedVotes />
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-02T14:22:18Z</date>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <bioguideId>G000562</bioguideId>
+        <middleName />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <state>CO</state>
+        <firstName>Cory</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-12-12</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <createDate>2017-12-13T00:26:08Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <party>D</party>
+        <state>CO</state>
+        <lastName>Bennet</lastName>
+        <firstName>Michael</firstName>
+        <middleName>F.</middleName>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>B001267</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+          <systemCode>sseg03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-12-12</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-12-12</actionDate>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>2218</billNumber>
+    <updateDate>2019-04-18T16:40:43Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-12-12T16:24:27Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees>
+            <item>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <systemCode>sseg03</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2018-02-07T15:01:00Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Agriculture Improvement Act of 2018</latestTitle>
+        <congress>115</congress>
+        <number>2</number>
+        <latestAction>
+          <text>Became Public Law No: 115-334.</text>
+          <actionDate>2018-12-20</actionDate>
+        </latestAction>
+        <type>HR</type>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>West Fork Fire Station Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>4609</number>
+        <latestAction>
+          <text>By Senator Murkowski from Committee on Energy and Natural Resources filed written report. Report No. 115-316.</text>
+          <actionDate>2018-08-01</actionDate>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-12-12</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2218is/xml/BILLS-115s2218is.xml</url>
+          </item>
+        </formats>
+        <date>2017-12-12T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <title>West Fork Fire Station Act of 2017</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for the conveyance of a Forest Service site in Dolores County, Colorado, to be used for a fire station.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>West Fork Fire Station Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>West Fork Fire Station Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>West Fork Fire Station Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>West Fork Fire Station Act of 2017</b></p> <p>This bill directs the Department of Agriculture, on receiving a request from Dolores County in Colorado, to convey to the county, without consideration, approximately 3.61 acres of National Forest System land in the county to be used for a fire station, related infrastructure, and roads to facilitate access to and through such land. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-03-19T15:54:01Z</lastSummaryUpdateDate>
+          <actionDate>2017-12-12</actionDate>
+          <updateDate>2017-12-12T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+      <actionDate>2018-02-07</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

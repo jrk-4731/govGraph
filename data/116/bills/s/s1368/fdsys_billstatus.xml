@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Other</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-05-08T18:00:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-05-08</introducedDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <laws />
+    <updateDate>2019-06-21T11:07:19Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-05-09T04:42:09Z</createDate>
+    <billType>S</billType>
+    <cosponsors />
+    <policyArea />
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-08</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-05-08</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to provide for the recognition of the Lumbee Tribe of North Carolina, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Lumbee Recognition Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Lumbee Recognition Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Lumbee Recognition Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <billNumber>1368</billNumber>
+    <committeeReports />
+    <title>Lumbee Recognition Act</title>
+    <latestAction>
+      <actionDate>2019-05-08</actionDate>
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <date>2019-05-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1368is/xml/BILLS-116s1368is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <latestTitle>Lumbee Recognition Act</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <actionDate>2019-04-17</actionDate>
+          <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        </latestAction>
+        <number>1964</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>B001135</bioguideId>
+        <state>NC</state>
+        <firstName>RICHARD</firstName>
+        <lastName>BURR</lastName>
+        <party>R</party>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Native Americans</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

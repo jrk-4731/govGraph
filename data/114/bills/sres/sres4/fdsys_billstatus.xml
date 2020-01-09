@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <createDate>2015-01-07T08:31:09Z</createDate>
+    <amendments />
+    <relatedBills />
+    <billType>SRES</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional leadership</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <committeeReports />
+    <cosponsors />
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <firstName>MITCH</firstName>
+        <state>KY</state>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <lastName>MCCONNELL</lastName>
+        <identifiers>
+          <gpoId>8254</gpoId>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+        </identifiers>
+        <bioguideId>M000355</bioguideId>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billNumber>4</billNumber>
+    <congress>114</congress>
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <updateDate>2018-06-02T06:15:09Z</updateDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A resolution notifying the President of the United States of the election of a President pro tempore.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A resolution notifying the President of the United States of the election of a President pro tempore.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-01-06</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S20</url>
+            <name>S20</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S6</url>
+            <name>S6</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text as  passed Senate: CR S6; text of measure as introduced: CR S20)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-01-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6; text as  passed Senate: CR S6; text of measure as introduced: CR S20)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S20</url>
+            <name>S20</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S6</url>
+            <name>S6</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2015-01-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <title>A resolution notifying the President of the United States of the election of a President pro tempore.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <updateDate>2015-01-06T05:00:00Z</updateDate>
+          <actionDate>2015-01-06</actionDate>
+          <lastSummaryUpdateDate>2015-01-20T21:09:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Notifies the President of the United States of the election of the Honorable Orrin G. Hatch as President of the Senate pro tempore. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <updateDate>2015-01-06T16:51:41Z</updateDate>
+          <actionDate>2015-01-06</actionDate>
+          <lastSummaryUpdateDate>2015-02-06T21:53:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Notifies the President of the United States of the election of the Honorable Orrin G. Hatch as President of the Senate pro tempore.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2015-01-06</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text as  passed Senate: CR S6; text of measure as introduced: CR S20)</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <introducedDate>2015-01-06</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

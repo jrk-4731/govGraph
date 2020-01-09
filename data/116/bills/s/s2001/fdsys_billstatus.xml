@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <identifiers>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <bioguideId>S001184</bioguideId>
+        <firstName>Tim</firstName>
+        <middleName />
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Scott</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to award a Congressional Gold Medal to Willie O'Ree, in recognition of his extraordinary contributions and commitment to hockey, inclusion, and recreational opportunity.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Willie O'Ree Congressional Gold Medal Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Willie O'Ree Congressional Gold Medal Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Willie O’Ree Congressional Gold Medal Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <billNumber>2001</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <amendments />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Willie O'Ree Congressional Gold Medal Act</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Financial Services.</text>
+          <actionDate>2019-05-02</actionDate>
+        </latestAction>
+        <number>2504</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2019-06-27T14:44:12Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <updateDate>2019-07-17T04:42:31Z</updateDate>
+    <title>Willie O'Ree Congressional Gold Medal Act</title>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2019-06-27</actionDate>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <committeeReports />
+    <laws />
+    <calendarNumbers />
+    <createDate>2019-06-28T04:42:14Z</createDate>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billType>S</billType>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s2001is/xml/BILLS-116s2001is.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-27T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <state>MI</state>
+        <bioguideId>S000770</bioguideId>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <middleName>ANN</middleName>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <lastName>STABENOW</lastName>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2019-06-27</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+      </item>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

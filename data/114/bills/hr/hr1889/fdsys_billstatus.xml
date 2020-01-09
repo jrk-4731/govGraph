@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Private Legislation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-05-15</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2015-04-16</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-04-16</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-04-16</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2015-04-16T13:06:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Citizenship Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-05-15T17:35:01Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1889</billNumber>
+    <updateDate>2019-02-14T23:34:22Z</updateDate>
+    <policyArea />
+    <cosponsors />
+    <latestAction>
+      <actionDate>2015-05-15</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 55 (Thursday, April 16, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HUNTER:H.R. 1889.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 4, which provides Congress thepower to establish a uniform Rule of Naturalization.[Page H2310]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <introducedDate>2015-04-16</introducedDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>For the relief of Roberto Luis Dunoyer Mejia, Consuelo Cardona Molina, Camilo Dunoyer Cardona, and Pablo Dunoyer Cardona.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>For the relief of Roberto Luis Dunoyer Mejia, Consuelo Cardona Molina, Camilo Dunoyer Cardona, and Pablo Dunoyer Cardona.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <title>For the relief of Roberto Luis Dunoyer Mejia, Consuelo Cardona Molina, Camilo Dunoyer Cardona, and Pablo Dunoyer Cardona.</title>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-04-16T04:00:00Z</updateDate>
+          <text><![CDATA[Provides for the relief of Roberto Luis Dunoyer Mejia, Consuelo Cardona Molina, Camilo Dunoyer Cardona, and Pablo Dunoyer Cardona.]]></text>
+          <lastSummaryUpdateDate>2015-04-17T08:03:59Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-04-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2015-04-17T09:01:59Z</createDate>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <lastName>Hunter</lastName>
+        <state>CA</state>
+        <bioguideId>H001048</bioguideId>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <firstName>Duncan</firstName>
+        <identifiers>
+          <bioguideId>H001048</bioguideId>
+          <lisID>1909</lisID>
+          <gpoId>7857</gpoId>
+        </identifiers>
+        <byRequestType />
+        <district>50</district>
+        <middleName>D.</middleName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills />
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

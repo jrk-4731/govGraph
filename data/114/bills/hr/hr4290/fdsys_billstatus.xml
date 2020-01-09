@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:05:48Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>12</district>
+        <firstName>NANCY</firstName>
+        <fullName>Rep. Pelosi, Nancy [D-CA-12]</fullName>
+        <lastName>PELOSI</lastName>
+        <identifiers>
+          <lisID>905</lisID>
+          <bioguideId>P000197</bioguideId>
+          <gpoId>7813</gpoId>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>P000197</bioguideId>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+              <systemCode>hsju05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-01-15T16:00:48Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-12-18T14:00:12Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-12-18</introducedDate>
+    <createDate>2015-12-19T10:20:20Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-01-15</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2015-12-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR  H10695)</text>
+        <committee />
+        <actionDate>2015-12-18</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H10695</url>
+            <name>H10695</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-12-18</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-12-18</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Puerto Rico Emergency Financial Stability Act of 2015</latestTitle>
+        <number>2436</number>
+        <latestAction>
+          <actionDate>2015-12-18</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+      <item>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>PROMESA</latestTitle>
+        <number>4900</number>
+        <latestAction>
+          <actionDate>2016-04-28</actionDate>
+          <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <billNumber>4290</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-12-18T05:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Puerto Rico Emergency Financial Stability Act of 2015</strong></p> <p>This bill grants a temporary stay (until April 1, 2016, with specified exceptions) of any litigation, liens, or other collection actions to recover debts owed by the government of the Commonwealth of Puerto Rico and allows relief from such stay only in limited circumstances.</p>]]></text>
+          <lastSummaryUpdateDate>2016-02-17T22:37:59Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-12-18</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <links />
+      <actionDate>2016-01-15</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 185 (Friday, December 18, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. PELOSI:H.R. 4290.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H10711]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Puerto Rico Emergency Financial Stability Act of 2015</title>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <firstName>LOUISE</firstName>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>25</district>
+        <bioguideId>S000480</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+        </identifiers>
+        <lastName>SLAUGHTER</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <middleName>B.</middleName>
+        <district>13</district>
+        <bioguideId>R000053</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <lastName>RANGEL</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <firstName>NYDIA</firstName>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <middleName>M.</middleName>
+        <district>7</district>
+        <bioguideId>V000081</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <lastName>VELAZQUEZ</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <firstName>LUIS</firstName>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <middleName>V.</middleName>
+        <district>4</district>
+        <bioguideId>G000535</bioguideId>
+        <state>IL</state>
+        <identifiers>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+        </identifiers>
+        <lastName>GUTIERREZ</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <firstName>JOSE</firstName>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <middleName>E.</middleName>
+        <district>15</district>
+        <bioguideId>S000248</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <lastName>SERRANO</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Pierluisi, Pedro R. [D-PR-At Large]</fullName>
+        <firstName>Pedro</firstName>
+        <sponsorshipDate>2016-01-07</sponsorshipDate>
+        <middleName>R.</middleName>
+        <district>0</district>
+        <bioguideId>P000596</bioguideId>
+        <state>PR</state>
+        <identifiers>
+          <lisID>1953</lisID>
+          <gpoId>8138</gpoId>
+          <bioguideId>P000596</bioguideId>
+        </identifiers>
+        <lastName>Pierluisi</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Debt collection</name>
+          </item>
+          <item>
+            <name>Financial crises and stabilization</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Puerto Rico Emergency Financial Stability Act of 2015</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for certain assistance and reforms relating to the territories, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Puerto Rico Emergency Financial Stability Act of 2015</title>
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

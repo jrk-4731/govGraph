@@ -1,0 +1,126 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3249-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "E000298", 
+      "district": "4", 
+      "name": "Estes, Ron", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-13", 
+      "state": "KS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000800", 
+      "district": "0", 
+      "name": "Welch, Peter", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-06-26", 
+      "state": "VT", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-13", 
+  "number": "3249", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to extend the publicly traded partnership ownership structure to energy power generation projects and transportation fuels, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1841-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Financing Our Energy Future Act", 
+  "sponsor": {
+    "bioguide_id": "T000460", 
+    "district": "5", 
+    "name": "Thompson, Mike", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-13", 
+  "subjects": [
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-13T04:00:00Z", 
+    "text": "Financing Our Energy Future Act\n\n This bill amends the Internal Revenue Code, with respect to the tax treatment of publicly traded partnerships as corporations, to expand the definition of \"qualifying income\" for such partnerships (known as master limited partnerships) to include income and gains from renewable and alternative energy generation projects (in addition to fossil fuel-based energy generation projects) and related infrastructure for transportation or storage, including energy derived from thermal resources, waste, renewable fuels and chemicals, energy efficient buildings, gasification, and carbon capture in secure geological storage."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to extend the publicly traded partnership ownership structure to energy power generation projects and transportation fuels, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Financing Our Energy Future Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Financing Our Energy Future Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Financing Our Energy Future Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-19T07:39:42Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3249.xml"
+}

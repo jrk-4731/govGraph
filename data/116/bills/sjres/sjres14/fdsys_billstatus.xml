@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-26T04:27:06Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2019-03-25</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billNumber>14</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-25T20:26:46Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000461</bioguideId>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <lisID>1594</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Toomey</lastName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <firstName>Pat</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001096</bioguideId>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Cramer</lastName>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001243</bioguideId>
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <lastName>Blackburn</lastName>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <firstName>Marsha</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000064</bioguideId>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <lastName>Young</lastName>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+        <firstName>Todd</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001079</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2366</lisID>
+          <bioguideId>H001079</bioguideId>
+        </identifiers>
+        <lastName>Hyde-Smith</lastName>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MS</state>
+        <firstName>Cindy</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001061</bioguideId>
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <lastName>Hoeven</lastName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ND</state>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000577</bioguideId>
+        <identifiers>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+        </identifiers>
+        <lastName>Lee</lastName>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>UT</state>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001197</bioguideId>
+        <identifiers>
+          <lisID>2289</lisID>
+          <bioguideId>S001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Sasse</lastName>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NE</state>
+        <firstName>Ben</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000615</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2466</lisID>
+          <bioguideId>R000615</bioguideId>
+        </identifiers>
+        <lastName>Romney</lastName>
+        <fullName>Sen. Romney, Mitt  [R-UT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>UT</state>
+        <firstName>Mitt</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000880</bioguideId>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <lastName>CRAPO</lastName>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ID</state>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName>MOORE</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001047</bioguideId>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WV</state>
+        <firstName>SHELLEY</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000618</bioguideId>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+          <lisID>2138</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Daines</lastName>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MT</state>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001197</bioguideId>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>McSally</lastName>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <firstName>Martha</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-03-25T04:00:00Z</updateDate>
+          <actionDate>2019-03-25</actionDate>
+          <text><![CDATA[<p><b>Constitutional Amendment</b></p> <p>This joint resolution proposes a constitutional amendment requiring the U.S. Supreme Court to be composed of not more than nine Justices.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-04-08T19:36:54Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>SJRES</billType>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+          <actionDate>2019-04-08</actionDate>
+        </latestAction>
+        <type>HJRES</type>
+        <number>52</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Proposing an amendment to the Constitution of the United States to require that the Supreme Court be composed of not more than nine justices.</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+          <actionDate>2019-04-08</actionDate>
+        </latestAction>
+        <type>HJRES</type>
+        <number>53</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-11T04:57:33Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Judges</name>
+          </item>
+          <item>
+            <name>Supreme Court</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A joint resolution proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of not more than 9 justices.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A joint resolution proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of not more than 9 justices.</title>
+      </item>
+    </titles>
+    <congress>116</congress>
+    <introducedDate>2019-03-25</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-03-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sjres14is/xml/BILLS-116sjres14is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <lastName>Rubio</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>A joint resolution proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of not more than 9 justices.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

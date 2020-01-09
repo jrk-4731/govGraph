@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2016-03-23T04:49:04Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-03-25</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2016-03-22</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2016-03-22</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2016-03-22</actionDate>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2016-03-22</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2016-03-22</actionDate>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2016-03-22</actionDate>
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2016-03-22T14:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <date>2016-03-25T14:22:51Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Energy</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <activities>
+            <item>
+              <date>2016-03-22T14:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <subcommittees />
+        </item>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2016-03-22T14:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>Brad</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Ashford</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000373</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2257</lisID>
+          <bioguideId>A000373</bioguideId>
+        </identifiers>
+        <fullName>Rep. Ashford, Brad [D-NE-2]</fullName>
+        <state>NE</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Adam</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>16</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Kinzinger</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000378</bioguideId>
+        <identifiers>
+          <bioguideId>K000378</bioguideId>
+          <lisID>2014</lisID>
+          <gpoId>7931</gpoId>
+        </identifiers>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <state>IL</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Pompeo</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000602</bioguideId>
+        <identifiers>
+          <bioguideId>P000602</bioguideId>
+          <lisID>2022</lisID>
+          <gpoId>7952</gpoId>
+        </identifiers>
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <state>KS</state>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>16</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Costa</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001059</bioguideId>
+        <identifiers>
+          <gpoId>7825</gpoId>
+          <lisID>1774</lisID>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <state>CA</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Billy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Long</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000576</bioguideId>
+        <identifiers>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+          <gpoId>8015</gpoId>
+        </identifiers>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <state>MO</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Gregg</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Harper</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001045</bioguideId>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <lisID>1933</lisID>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <state>MS</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>T.</middleName>
+        <firstName>PETER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>KING</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000210</bioguideId>
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+        </identifiers>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <state>NY</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <firstName>JOE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>BARTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000213</bioguideId>
+        <identifiers>
+          <bioguideId>B000213</bioguideId>
+          <lisID>62</lisID>
+          <gpoId>8162</gpoId>
+        </identifiers>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <state>TX</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>McKinley</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001180</bioguideId>
+        <identifiers>
+          <gpoId>8222</gpoId>
+          <lisID>2074</lisID>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <state>WV</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Brett</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Guthrie</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000558</bioguideId>
+        <identifiers>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+        </identifiers>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <state>KY</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>L.</middleName>
+        <firstName>Renee</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Ellmers</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000291</bioguideId>
+        <identifiers>
+          <gpoId>8025</gpoId>
+          <lisID>2036</lisID>
+          <bioguideId>E000291</bioguideId>
+        </identifiers>
+        <fullName>Rep. Ellmers, Renee L. [R-NC-2]</fullName>
+        <state>NC</state>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Stephen</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>25</district>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <lastName>Knight</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000387</bioguideId>
+        <identifiers>
+          <lisID>2228</lisID>
+          <bioguideId>K000387</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <state>CA</state>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 45 (Tuesday, March 22, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. OLSON:H.R. 4826.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution[Page H1553]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2016-03-25</actionDate>
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2016-03-22T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2016-03-22</actionDate>
+          <text><![CDATA[<p><strong>Energy and American Security Act</strong></p> <p>This bill expresses the sense of Congress that: (1) the United States should take appropriate actions to prohibit energy production by the Islamic State and its ability to profit from energy production revenues, and (2) U.S. national energy policy should include consideration of national security. </p> <p>The Department of Energy may provide technical assistance to the Armed Forces regarding Armed Forces activities to address Islamic State energy resources. </p> <p>Such assistance may include identifying: (1) energy resources and related revenue streams; and (2) methods to hinder, destroy, or discourage the development, transportation, and sale of such energy resources. </p> <p>"Islamic State" means the Islamic State, any affiliate, or any immediate successor organization.</p>]]></text>
+          <lastSummaryUpdateDate>2016-03-31T15:48:32Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>4826</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <relatedBills />
+    <updateDate>2019-04-11T15:41:48Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Energy revenues and royalties</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize the Secretary of Energy to provide technical assistance to the Armed Forces of the United States with respect to ongoing activities of the Armed Forces to address energy resources that are being utilized by the Islamic State or would be beneficial to the Islamic State, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Energy and American Security Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Energy and American Security Act</title>
+      </item>
+    </titles>
+    <congress>114</congress>
+    <introducedDate>2016-03-22</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Olson</lastName>
+        <state>TX</state>
+        <district>22</district>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Pete</firstName>
+        <bioguideId>O000168</bioguideId>
+        <middleName />
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <identifiers>
+          <gpoId>8178</gpoId>
+          <lisID>1955</lisID>
+          <bioguideId>O000168</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Energy and American Security Act</title>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr4826ih/xml/BILLS-114hr4826ih.xml</url>
+          </item>
+        </formats>
+        <date>2016-03-22T04:00:00Z</date>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

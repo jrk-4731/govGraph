@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Find Your Favorite Rep</title>
+</head>
+<body>
+
+<h2>Find Your Representative</h2>
+
+{% from "_formhelpers.html" import render_field %}
+<form method="post">
+    <dl>
+        {{render_field(form.get_info)}}
+    </dl>
+    <p><input type="submit" value="Search">
+</form>
+
+</body>
+</html>

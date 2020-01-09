@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2016-09-29</actionDate>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-09-29</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2016-09-29</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <updateDate>2018-06-02T07:48:45Z</updateDate>
+    <congress>114</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Rand</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+          <lisID>2082</lisID>
+        </identifiers>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <bioguideId>P000603</bioguideId>
+        <lastName>Paul</lastName>
+        <state>KY</state>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <billNumber>3466</billNumber>
+    <amendments />
+    <title>Accelerating New Pharmaceutical Competition Act</title>
+    <introducedDate>2016-09-29</introducedDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-09-29T16:51:39Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-05-18T18:21:28Z</lastSummaryUpdateDate>
+          <updateDate>2016-09-29T04:00:00Z</updateDate>
+          <actionDate>2016-09-29</actionDate>
+          <text><![CDATA[<p><b>Accelerating New Pharmaceutical Competition Act</b></p> <p>This bill amends the Federal Food, Drug, and Cosmetic Act to permit brand name drug applications to rely upon investigations conducted in certain foreign countries if the drug has been approved in the foreign country where the investigations were conducted. The Food and Drug Administration (FDA) has 90 days to act on these applications.</p> <p>The bill revises a provision regarding the effective date of the approval of a generic drug that is subject to a patent infringement action.</p> The FDA must prioritize the review of, and act within 150 days on, generic drug applications or supplements to generic drug applications for drugs: (1) for which there is a shortage, or (2) that have not been recently introduced to the market by more than one manufacturer and for which tentative approval has not been granted to more than two applications.]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors />
+    <calendarNumbers />
+    <billType>S</billType>
+    <createDate>2016-09-30T05:12:41Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Accelerating New Pharmaceutical Competition Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to allow sponsors of certain new drug applications to rely upon investigations conducted in certain foreign countries, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Accelerating New Pharmaceutical Competition Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

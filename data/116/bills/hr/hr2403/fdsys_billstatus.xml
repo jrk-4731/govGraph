@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-01</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-30</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-30</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2019-04-30</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <lastName>Meng</lastName>
+        <state>NY</state>
+        <district>6</district>
+        <party>D</party>
+        <bioguideId>M001188</bioguideId>
+        <middleName />
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <byRequestType />
+        <firstName>Grace</firstName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To require agencies to ensure that menstrual hygiene products are stocked in, and available free of charge in, restrooms in public buildings, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Menstrual Hygiene Products in Federal Buildings Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Menstrual Hygiene Products in Federal Buildings Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Menstrual Hygiene Products in Federal Buildings Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <date>2019-04-30T14:05:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <activities>
+                <item>
+                  <date>2019-05-01T13:46:13Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-04-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2403ih/xml/BILLS-116hr2403ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-04-30T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Menstrual Hygiene Products in Federal Buildings Act</b></p> <p>This bill requires federal agencies to ensure that menstrual hygiene products are stocked in, and made available free of charge in, restrooms (except for those for use by men) in public buildings that are open to the public, including the Smithsonian Institution, the National Gallery of Art, and the U.S. Capitol and its associated buildings. </p>]]></text>
+          <lastSummaryUpdateDate>2019-06-14T15:38:05Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2019-04-30</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <title>Menstrual Hygiene Products in Federal Buildings Act</title>
+    <laws />
+    <congress>116</congress>
+    <latestAction>
+      <actionDate>2019-05-01</actionDate>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <relatedBills>
+      <item>
+        <number>1882</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <latestTitle>Menstrual Equity For All Act of 2019</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+          <actionDate>2019-05-03</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <billType>HR</billType>
+    <createDate>2019-05-01T07:12:10Z</createDate>
+    <updateDate>2019-06-14T15:45:08Z</updateDate>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 2403.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the Constitution[Page H3340]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2403</billNumber>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2019-04-30</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

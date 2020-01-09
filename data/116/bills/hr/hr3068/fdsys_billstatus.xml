@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <prayer>1</prayer>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-11</actionDate>
+        <committee>
+          <systemCode>hsii06</systemCode>
+          <name>Energy and Mineral Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-04</actionDate>
+        <committee>
+          <systemCode>hsii06</systemCode>
+          <name>Energy and Mineral Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionDate>2019-06-03</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2019-06-03</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-06-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-06-03</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii06</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-06-11T17:12:19Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-06-04T14:25:36Z</date>
+                </item>
+              </activities>
+              <name>Energy and Mineral Resources Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-03T18:00:42Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+        </item>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-03T18:00:47Z</date>
+            </item>
+          </activities>
+          <name>Education and Labor</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <updateDate>2019-06-14T07:15:56Z</updateDate>
+    <recordedVotes />
+    <title>Offshore Wind Jobs and Opportunity Act</title>
+    <billType>HR</billType>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>William</firstName>
+        <bioguideId>K000375</bioguideId>
+        <state>MA</state>
+        <party>D</party>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <lastName>Keating</lastName>
+        <identifiers>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>9</district>
+      </item>
+    </sponsors>
+    <introducedDate>2019-06-03</introducedDate>
+    <cboCostEstimates />
+    <committeeReports />
+    <relatedBills />
+    <laws />
+    <createDate>2019-06-04T07:12:08Z</createDate>
+    <latestAction>
+      <text>Subcommittee Hearings Held.</text>
+      <actionDate>2019-06-11</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To establish an offshore wind career training grant program, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Offshore Wind Jobs and Opportunity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Offshore Wind Jobs and Opportunity Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Offshore Wind Jobs and Opportunity Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <amendments />
+    <billNumber>3068</billNumber>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>Kennedy</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000379</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <middleName>P.</middleName>
+        <state>MA</state>
+        <district>4</district>
+        <firstName>Joseph</firstName>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Lowenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000579</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <middleName>S.</middleName>
+        <state>CA</state>
+        <district>47</district>
+        <firstName>Alan</firstName>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Norcross</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000188</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000188</bioguideId>
+          <lisID>2202</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <middleName />
+        <state>NJ</state>
+        <district>1</district>
+        <firstName>Donald</firstName>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>McEachin</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001200</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001200</bioguideId>
+          <lisID>2352</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <middleName>Donald</middleName>
+        <state>VA</state>
+        <district>4</district>
+        <firstName>A.</firstName>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Huffman</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001068</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <middleName />
+        <state>CA</state>
+        <district>2</district>
+        <firstName>Jared</firstName>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Van Drew</lastName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000133</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2419</lisID>
+          <bioguideId>V000133</bioguideId>
+        </identifiers>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <middleName />
+        <state>NJ</state>
+        <district>2</district>
+        <firstName>Jefferson</firstName>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+          <item>
+            <name>Youth employment and child labor</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3068ih/xml/BILLS-116hr3068ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-06-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KEATING:H.R. 3068.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H4217]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-05</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2019-03-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to increase the age requirement with respect to eligibility for qualified ABLE programs.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>ABLE Age Adjustment Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>ABLE Age Adjustment Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>ABLE Age Adjustment Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Bob</firstName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <updateDate>2019-07-18T09:31:54Z</updateDate>
+    <billNumber>651</billNumber>
+    <createDate>2019-03-06T05:42:07Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2019-03-05T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-03-25T16:18:38Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>ABLE Age Adjustment Act</strong></p> <p>This bill increases from 26 to 46 the age&nbsp;threshold for tax-favored ABLE (Achieving a Better Life Experience) accounts. (ABLE accounts are designed to enable individuals with disabilities to save for and pay for disability-related expenses. To establish an account, an individual must have a qualifying impairment that began before the individual attained the age threshold.)</p>]]></text>
+          <actionDate>2019-03-05</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-05T19:31:12Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2019-03-05</actionDate>
+    </latestAction>
+    <laws />
+    <relatedBills>
+      <item>
+        <number>1814</number>
+        <latestAction>
+          <actionDate>2019-03-18</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <latestTitle>ABLE Age Adjustment Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>116</congress>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <firstName>Jerry</firstName>
+        <lastName>Moran</lastName>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <bioguideId>M000934</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>KS</state>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>MD</state>
+      </item>
+      <item>
+        <firstName>PAT</firstName>
+        <lastName>ROBERTS</lastName>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <bioguideId>R000307</bioguideId>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>KS</state>
+      </item>
+      <item>
+        <firstName>Pat</firstName>
+        <lastName>Toomey</lastName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <bioguideId>T000461</bioguideId>
+        <sponsorshipDate>2019-03-26</sponsorshipDate>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+          <lisID>1594</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>PA</state>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <lastName>Duckworth</lastName>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>IL</state>
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+          <lisID>1247</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>OR</state>
+      </item>
+      <item>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>AK</state>
+      </item>
+      <item>
+        <firstName>Sherrod</firstName>
+        <lastName>Brown</lastName>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipDate>2019-04-11</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>OH</state>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>CT</state>
+      </item>
+      <item>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>RI</state>
+      </item>
+      <item>
+        <firstName>Margaret</firstName>
+        <lastName>Hassan</lastName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>Wood</middleName>
+        <state>NH</state>
+      </item>
+      <item>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>MN</state>
+      </item>
+      <item>
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <state>WI</state>
+      </item>
+      <item>
+        <firstName>PATRICK</firstName>
+        <lastName>LEAHY</lastName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>JOSEPH</middleName>
+        <state>VT</state>
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <lastName>REED</lastName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <bioguideId>R000122</bioguideId>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <state>RI</state>
+      </item>
+    </cosponsors>
+    <title>ABLE Age Adjustment Act</title>
+    <notes />
+    <textVersions>
+      <item>
+        <date>2019-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s651is/xml/BILLS-116s651is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <introducedDate>2019-03-05</introducedDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

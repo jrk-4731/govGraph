@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>55</billNumber>
+    <congress>114</congress>
+    <createDate>2015-01-30T05:00:20Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-01-29T20:43:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2015-01-29T20:43:37Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+          <type>Select</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-01-29</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S659</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S659</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S659)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-01-29</actionDate>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr. Without written report.</text>
+        <actionCode>14000</actionCode>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <links />
+        <actionDate>2015-01-29</actionDate>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2015-01-29</actionDate>
+      </item>
+    </actions>
+    <updateDate>2019-06-14T05:36:52Z</updateDate>
+    <introducedDate>2015-01-29</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <lastName>BURR</lastName>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <state>NC</state>
+        <middleName />
+        <bioguideId>B001135</bioguideId>
+      </item>
+    </sponsors>
+    <latestAction>
+      <actionDate>2015-01-29</actionDate>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S659)</text>
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Select Committee on Intelligence</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <date>2015-01-29T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sres55is/xml/BILLS-114sres55is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>SRES</billType>
+    <cosponsors />
+    <title>An original resolution authorizing expenditures by the Select Committee on Intelligence.</title>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2015-01-29T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Authorizes expenditures by the Select Committee on Intelligence for the 114th Congress. </p>]]></text>
+          <lastSummaryUpdateDate>2015-02-03T17:11:29Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2015-01-29</actionDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <updateDate>2015-01-29T18:40:43Z</updateDate>
+          <versionCode>80</versionCode>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Select Committee on Intelligence for the 114th Congress. </p>]]></text>
+          <lastSummaryUpdateDate>2015-02-03T17:10:34Z</lastSummaryUpdateDate>
+          <name>Reported to Senate without amendment</name>
+          <actionDate>2015-01-29</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

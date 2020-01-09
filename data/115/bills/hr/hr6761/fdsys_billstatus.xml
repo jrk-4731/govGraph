@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-09-10T19:30:12Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>6761</billNumber>
+    <latestAction>
+      <actionDate>2018-09-10</actionDate>
+      <links />
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2018-09-10</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-09-10</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2018-09-10</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+    </actions>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <district>1</district>
+        <state>RI</state>
+        <firstName>David</firstName>
+        <middleName>N.</middleName>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <identifiers>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Cicilline</lastName>
+      </item>
+    </sponsors>
+    <updateDate>2019-05-01T14:27:27Z</updateDate>
+    <cosponsors />
+    <createDate>2018-09-11T07:10:39Z</createDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-09-13</actionDate>
+          <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>6755</number>
+        <congress>115</congress>
+        <type>HR</type>
+        <latestTitle>Judiciary ROOM Act of 2018</latestTitle>
+      </item>
+    </relatedBills>
+    <introducedDate>2018-09-10</introducedDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 150 (Monday, September 10, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CICILLINE:H.R. 6761.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution[Page H8107]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <date>2018-09-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6761ih/xml/BILLS-115hr6761ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2018-09-10</actionDate>
+          <text><![CDATA[<p><b>Open Access to Courts Act of 2018</b></p> <p>This bill establishes a pilot program to provide public online access to exhibits in federal cases. </p>]]></text>
+          <updateDate>2018-09-10T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2019-04-30T16:43:31Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To direct the Judicial Conference to provide electronic public access to exhibits in Federal cases, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Open Access to Courts Act of 2018</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Open Access to Courts Act of 2018</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Open Access to Courts Act of 2018</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <title>Open Access to Courts Act of 2018</title>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

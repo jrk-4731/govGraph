@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2018-11-21T21:23:01Z</updateDate>
+    <committeeReports />
+    <billNumber>1400</billNumber>
+    <title>Medicaid Tax Fairness Act of 2015</title>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-03-20</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-03-17</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2015-03-17</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2015-03-17</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2070</lisID>
+          <bioguideId>G000568</bioguideId>
+          <gpoId>8200</gpoId>
+        </identifiers>
+        <middleName>Morgan</middleName>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <bioguideId>G000568</bioguideId>
+        <party>R</party>
+        <district>9</district>
+        <lastName>Griffith</lastName>
+        <byRequestType />
+        <firstName>H.</firstName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-03-20T19:37:35Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-03-17T14:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <introducedDate>2015-03-17</introducedDate>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <state>KY</state>
+        <fullName>Rep. Guthrie, Brett [R-KY-2]</fullName>
+        <firstName>Brett</firstName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2015-03-17</sponsorshipDate>
+        <lastName>Guthrie</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1922</lisID>
+          <bioguideId>G000558</bioguideId>
+          <gpoId>7954</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000558</bioguideId>
+      </item>
+      <item>
+        <district>8</district>
+        <state>IN</state>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <firstName>Larry</firstName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2015-03-17</sponsorshipDate>
+        <lastName>Bucshon</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2018</lisID>
+          <bioguideId>B001275</bioguideId>
+          <gpoId>7947</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001275</bioguideId>
+      </item>
+      <item>
+        <district>7</district>
+        <state>TN</state>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <firstName>Marsha</firstName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <lastName>Blackburn</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001243</bioguideId>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-03-20</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicaid Tax Fairness Act of 2015</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XIX of the Social Security Act to transition the Medicaid thresholds applied for determining acceptable provider taxes, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Medicaid Tax Fairness Act of 2015</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-04-29T19:12:42Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2015-03-17T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Medicaid Tax Fairness Act of 2015</b></p> <p>This bill amends title XIX (Medicaid) of the Social Security Act, with respect to payments to states for medical assistance programs, to reduce from 6% to 5.5% on a graduated basis for 2016-2020 and each subsequent year the indirect guarantee thresholds applied for determining permissible broad-based state or local health care-related provider taxes where a requirement is in effect to hold taxpayers harmless for any portion of the costs of the tax.</p> <p>(Currently the state [or other unit of government] imposing a broad-based health care-related tax or tax on each health care class provides for a direct or indirect non-Medicaid payment to those providers or others paying the tax, which may include an offset or waiver that directly or indirectly guarantees to hold taxpayers harmless for all or any portion of the tax amount. Such taxes are permissible if they are applied at a rate that produces revenues less than or equal to 6% of the revenues received by the taxpayer.)</p>]]></text>
+          <actionDate>2015-03-17</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <createDate>2015-03-18T04:46:16Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 45 (Tuesday, March 17, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRIFFITH:H.R. 1400.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8 of the United StatesConstitution.[Page H1722]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>114</congress>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>State and local taxation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

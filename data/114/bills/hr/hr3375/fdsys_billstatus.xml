@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2015-09-28</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionDate>2015-07-29</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2015-07-29</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2015-07-29</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-07-29T14:09:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-09-28T15:07:54Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3375</billNumber>
+    <updateDate>2019-02-14T23:14:43Z</updateDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8075</gpoId>
+          <bioguideId>M000087</bioguideId>
+          <lisID>729</lisID>
+        </identifiers>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <firstName>CAROLYN</firstName>
+        <state>NY</state>
+        <lastName>MALONEY</lastName>
+        <bioguideId>M000087</bioguideId>
+        <district>12</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName>B.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <firstName>David</firstName>
+        <state>RI</state>
+        <lastName>Cicilline</lastName>
+        <bioguideId>C001084</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName>N.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2227</lisID>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <firstName>Mark</firstName>
+        <state>CA</state>
+        <lastName>DeSaulnier</lastName>
+        <bioguideId>D000623</bioguideId>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2119</lisID>
+          <bioguideId>F000462</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Frankel, Lois [D-FL-22]</fullName>
+        <firstName>Lois</firstName>
+        <state>FL</state>
+        <lastName>Frankel</lastName>
+        <bioguideId>F000462</bioguideId>
+        <district>22</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+        <lastName>LEE</lastName>
+        <bioguideId>L000551</bioguideId>
+        <district>13</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8078</gpoId>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+        </identifiers>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <firstName>ELIOT</firstName>
+        <state>NY</state>
+        <lastName>ENGEL</lastName>
+        <bioguideId>E000179</bioguideId>
+        <district>16</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7820</gpoId>
+          <bioguideId>H001034</bioguideId>
+          <lisID>1634</lisID>
+        </identifiers>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <firstName>MICHAEL</firstName>
+        <state>CA</state>
+        <lastName>HONDA</lastName>
+        <bioguideId>H001034</bioguideId>
+        <district>17</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+          <lisID>2272</lisID>
+        </identifiers>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <firstName>Donald</firstName>
+        <state>VA</state>
+        <lastName>Beyer</lastName>
+        <bioguideId>B001292</bioguideId>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName>S.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <firstName>Henry</firstName>
+        <state>GA</state>
+        <lastName>Johnson</lastName>
+        <bioguideId>J000288</bioguideId>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName>C. "Hank"</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <firstName>JOSE</firstName>
+        <state>NY</state>
+        <lastName>SERRANO</lastName>
+        <bioguideId>S000248</bioguideId>
+        <district>15</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000030</bioguideId>
+          <gpoId>7822</gpoId>
+          <lisID>368</lisID>
+        </identifiers>
+        <fullName>Rep. Farr, Sam [D-CA-20]</fullName>
+        <firstName>SAM</firstName>
+        <state>CA</state>
+        <lastName>FARR</lastName>
+        <bioguideId>F000030</bioguideId>
+        <district>20</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-09-11</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+        </identifiers>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <firstName>RICK</firstName>
+        <state>WA</state>
+        <lastName>LARSEN</lastName>
+        <bioguideId>L000560</bioguideId>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-11-17</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000473</bioguideId>
+          <lisID>2240</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Takai, Mark [D-HI-1]</fullName>
+        <firstName>Mark</firstName>
+        <state>HI</state>
+        <lastName>Takai</lastName>
+        <bioguideId>T000473</bioguideId>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <firstName>Juan</firstName>
+        <state>CA</state>
+        <lastName>Vargas</lastName>
+        <bioguideId>V000130</bioguideId>
+        <district>51</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-11</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2015-09-28</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 121 (Wednesday, July 29, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. LOWEY:H.R. 3375.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3The Congress shall have Power . . . To regulate Commercewith foreign Nations, and among the several States, and withthe Indian Tribes.[Page H5773]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <introducedDate>2015-07-29</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend chapter 44 of title 18, United States Code, to extend the period during which a firearms licensee is required to wait for a response from the national instant criminal background check system before being allowed to transfer a firearm to a prospective transferee.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend chapter 44 of title 18, United States Code, to extend the period during which a firearms licensee is required to wait for a response from the national instant criminal background check system before being allowed to transfer a firearm to a prospective transferee.</title>
+      </item>
+    </titles>
+    <title>To amend chapter 44 of title 18, United States Code, to extend the period during which a firearms licensee is required to wait for a response from the national instant criminal background check system before being allowed to transfer a firearm to a prospective transferee.</title>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-07-29T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill amends the federal criminal code to lengthen from 3 to 14 business days the submitted background check completion period that must elapse before a licensed gun dealer is permitted to transfer a firearm to an unlicensed person whose background check remains incomplete. </p>]]></text>
+          <lastSummaryUpdateDate>2016-06-22T13:27:35Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-07-29</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2015-07-30T08:30:34Z</createDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>LOWEY</lastName>
+        <state>NY</state>
+        <bioguideId>L000480</bioguideId>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <firstName>NITA</firstName>
+        <identifiers>
+          <bioguideId>L000480</bioguideId>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+        </identifiers>
+        <byRequestType />
+        <district>17</district>
+        <middleName>M.</middleName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills />
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

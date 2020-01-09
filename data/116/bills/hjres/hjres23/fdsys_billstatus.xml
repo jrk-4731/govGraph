@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-01-10T08:10:15Z</createDate>
+    <billType>HJRES</billType>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Age discrimination</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Political advertising</name>
+          </item>
+          <item>
+            <name>Voting rights</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-09</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2019-01-09</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2019-01-09</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2019-01-09</actionDate>
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <firstName>JANICE</firstName>
+        <sponsorshipDate>2019-01-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <district>9</district>
+        <middleName>D.</middleName>
+        <bioguideId>S001145</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Pressley, Ayanna [D-MA-7]</fullName>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>P000617</bioguideId>
+          <gpoId />
+          <lisID>2405</lisID>
+        </identifiers>
+        <firstName>Ayanna</firstName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Pressley</lastName>
+        <party>D</party>
+        <district>7</district>
+        <middleName />
+        <bioguideId>P000617</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+        </identifiers>
+        <firstName>EARL</firstName>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <district>3</district>
+        <middleName />
+        <bioguideId>B000574</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2410</lisID>
+          <bioguideId>T000481</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Rashida</firstName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Tlaib</lastName>
+        <party>D</party>
+        <district>13</district>
+        <middleName />
+        <bioguideId>T000481</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>O000173</bioguideId>
+          <lisID>2414</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ilhan</firstName>
+        <sponsorshipDate>2019-03-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Omar</lastName>
+        <party>D</party>
+        <district>5</district>
+        <middleName />
+        <bioguideId>O000173</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2427</lisID>
+          <bioguideId>O000172</bioguideId>
+        </identifiers>
+        <firstName>Alexandria</firstName>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Ocasio-Cortez</lastName>
+        <party>D</party>
+        <district>14</district>
+        <middleName />
+        <bioguideId>O000172</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <firstName>ALCEE</firstName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <district>20</district>
+        <middleName>L.</middleName>
+        <bioguideId>H000324</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <state>MA</state>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <firstName>JAMES</firstName>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+      </item>
+      <item>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <state>MA</state>
+        <identifiers>
+          <lisID>2246</lisID>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Seth</firstName>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Moulton</lastName>
+        <party>D</party>
+        <district>6</district>
+        <middleName />
+        <bioguideId>M001196</bioguideId>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-01-09</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestTitle>Proposing an amendment to the Constitution of the United States to limit the number of terms a Representative or Senator may serve.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HJRES</type>
+        <number>25</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+          <actionDate>2019-01-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hjres23ih/xml/BILLS-116hjres23ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-01-09</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>NY</state>
+        <district>6</district>
+        <bioguideId>M001188</bioguideId>
+        <lastName>Meng</lastName>
+        <identifiers>
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <byRequestType />
+        <firstName>Grace</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.J. Res. 23.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution.[Page H360]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-09T21:36:52Z</date>
+                </item>
+              </activities>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-09T15:06:15Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Proposing an amendment to the Constitution of the United States extending the right to vote to citizens sixteen years of age or older.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <title>Proposing an amendment to the Constitution of the United States extending the right to vote to citizens sixteen years of age or older.</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <billNumber>23</billNumber>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><STRONG>Constitutional Amendment</STRONG></p> <p>This joint resolution proposes a constitutional amendment to lower the minimum age for the right to vote from 18 to 16.</p>]]></text>
+          <updateDate>2019-01-09T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2019-01-28T17:33:47Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-09</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-06-27T07:13:04Z</updateDate>
+    <title>Proposing an amendment to the Constitution of the United States extending the right to vote to citizens sixteen years of age or older.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

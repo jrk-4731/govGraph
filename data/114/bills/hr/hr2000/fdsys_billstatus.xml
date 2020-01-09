@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>2000</billNumber>
+    <originChamber>House</originChamber>
+    <updateDate>2018-08-16T22:57:50Z</updateDate>
+    <committeeReports />
+    <amendments />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-08-18</actionDate>
+        <committee>
+          <name>Research and Technology Subcommittee</name>
+          <systemCode>hssy15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Research and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2015-04-23</actionDate>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-04-23</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-04-23</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <title>Bridge to Manufacturing Jobs Act</title>
+    <relatedBills />
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2015-04-23T04:00:00Z</updateDate>
+          <actionDate>2015-04-23</actionDate>
+          <lastSummaryUpdateDate>2015-05-08T16:53:35Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Bridge to Manufacturing Jobs Act </b></p> <p> Amends the National Institute of Standards and Technology Act to: (1) provide that themes for the competitive grant program to add capabilities to the Manufacturing Extension Partnership Program may be related to projects designed to facilitate the development and implementation of apprenticeship programs, internship programs, or student work-based learning programs to help serve the workforce needs of consortia of manufacturing companies; and (2) include among the selection criteria for grants under such program that a proposal will recruit a diverse manufacturing workforce, including through outreach to women and minorities.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <bioguideId>V000131</bioguideId>
+        <district>33</district>
+        <middleName>A.</middleName>
+        <lastName>Veasey</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <byRequestType />
+        <firstName>Marc</firstName>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+          <lisID>2166</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <notes />
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hssy00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-23T13:04:05Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hssy15</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-08-18T20:53:25Z</date>
+                </item>
+              </activities>
+              <name>Research and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Science, Space, and Technology Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>Bridge to Manufacturing Jobs Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To provide for a competitive grant program for apprenticeship and internship programs through the Manufacturing Extension Partnership Program.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Bridge to Manufacturing Jobs Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Minority employment</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <firstName>Robin</firstName>
+        <bioguideId>K000385</bioguideId>
+        <state>IL</state>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+          <lisID>2190</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-04-23</sponsorshipDate>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <lastName>Kelly</lastName>
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <bioguideId>T000469</bioguideId>
+        <state>NY</state>
+        <district>20</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-04-23</sponsorshipDate>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <lastName>Tonko</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Frederica</firstName>
+        <bioguideId>W000808</bioguideId>
+        <state>FL</state>
+        <district>24</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-04-23</sponsorshipDate>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <lastName>Wilson</lastName>
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <firstName>Andre</firstName>
+        <bioguideId>C001072</bioguideId>
+        <state>IN</state>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-04-23</sponsorshipDate>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <lastName>Carson</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>SAM</firstName>
+        <bioguideId>G000546</bioguideId>
+        <state>MO</state>
+        <district>6</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <lisID>1656</lisID>
+          <gpoId>8014</gpoId>
+          <bioguideId>G000546</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-04-23</sponsorshipDate>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <lastName>GRAVES</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <bioguideId>L000559</bioguideId>
+        <state>RI</state>
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-04-23</sponsorshipDate>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <firstName>Joyce</firstName>
+        <bioguideId>B001281</bioguideId>
+        <state>OH</state>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-07-14</sponsorshipDate>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <lastName>Beatty</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <bioguideId>C001084</bioguideId>
+        <state>RI</state>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-11-04</sponsorshipDate>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <lastName>Cicilline</lastName>
+        <middleName>N.</middleName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2015-08-18</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </latestAction>
+    <introducedDate>2015-04-23</introducedDate>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <createDate>2015-04-24T09:19:21Z</createDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 60 (Thursday, April 23, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VEASEY:H.R. 2000.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8: The Congress shall have power to layand collect taxes, duties, imposts and excises, to pay thedebts and provide for the common defense and general welfareof the United States;[Page H2466]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

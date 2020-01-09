@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2016-09-29T05:34:47Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-09-28</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2016-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <actionDate>2016-09-28</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <lastName>GRAHAM</lastName>
+        <identifiers>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+        <middleName>O.</middleName>
+        <state>SC</state>
+        <party>R</party>
+        <firstName>LINDSEY</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Taylor Force Act</strong></p> <p>This bill prohibits certain assistance under the Foreign Assistance Act of 1961 from being made available for the West Bank and Gaza unless the Department of State certifies that the Palestinian Authority: </p> <ul> <li>is taking steps to end acts of violence against U.S. and Israeli citizens perpetrated by individuals under its jurisdictional control, such as the March 2016 attack that killed former Army officer Taylor Force; </li> <li>is publicly condemning such acts of violence and is investigating, or cooperating in investigations of, such acts; and </li> <li>has terminated payments for acts of terrorism against U.S. and Israeli citizens to any individual who has been convicted and imprisoned for such acts, to any individual who died committing such acts, and to family members of such an individual.</li> </ul>]]></text>
+          <actionDate>2016-09-28</actionDate>
+          <lastSummaryUpdateDate>2016-12-15T20:03:50Z</lastSummaryUpdateDate>
+          <updateDate>2016-09-28T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <bioguideId>C000542</bioguideId>
+        <identifiers>
+          <gpoId>8299</gpoId>
+          <lisID>209</lisID>
+          <bioguideId>C000542</bioguideId>
+        </identifiers>
+        <lastName>COATS</lastName>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <middleName>RAY</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <party>R</party>
+        <firstName>DANIEL</firstName>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <lastName>Blunt</lastName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <party>R</party>
+        <firstName>Roy</firstName>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <party>R</party>
+        <firstName>Marco</firstName>
+      </item>
+      <item>
+        <bioguideId>K000360</bioguideId>
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+        </identifiers>
+        <lastName>KIRK</lastName>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <middleName>STEVEN</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <party>R</party>
+        <firstName>MARK</firstName>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <lastName>Cotton</lastName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <party>R</party>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <identifiers>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <party>R</party>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Cruz</lastName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <party>R</party>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <bioguideId>S001184</bioguideId>
+        <identifiers>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+        </identifiers>
+        <lastName>Scott</lastName>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <party>R</party>
+        <firstName>Tim</firstName>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <lastName>THUNE</lastName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-29</sponsorshipDate>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-11-17</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <party>R</party>
+        <firstName>RICHARD</firstName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2016-09-28T17:55:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <introducedDate>2016-09-28</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arab-Israeli relations</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Gaza Strip</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Palestinians</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>West Bank</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <title>Taylor Force Act</title>
+    <relatedBills>
+      <item>
+        <latestTitle>Taylor Force Act</latestTitle>
+        <latestAction>
+          <actionDate>2016-11-18</actionDate>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+        </latestAction>
+        <congress>114</congress>
+        <number>6389</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <billNumber>3414</billNumber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Taylor Force Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to condition assistance to the West Bank and Gaza on steps by the Palestinian Authority to end violence and terrorism against Israeli citizens.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Taylor Force Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-06-02T07:48:32Z</updateDate>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

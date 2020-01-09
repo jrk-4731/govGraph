@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-16</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-03-01</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-03-01</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-03-01</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-09T23:15:20Z</updateDate>
+    <latestAction>
+      <actionDate>2017-03-16</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2017-03-01T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hjres85ih/xml/BILLS-115hjres85ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>85</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>Johnson</lastName>
+        <state>LA</state>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000299</bioguideId>
+          <lisID>2330</lisID>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <middleName />
+        <bioguideId>J000299</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Taylor</lastName>
+        <state>VA</state>
+        <fullName>Rep. Taylor, Scott [R-VA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000477</bioguideId>
+          <lisID>2351</lisID>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <middleName />
+        <bioguideId>T000477</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Bacon</lastName>
+        <state>NE</state>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <sponsorshipWithdrawnDate>2017-04-06</sponsorshipWithdrawnDate>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2337</lisID>
+          <bioguideId>B001298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Don</firstName>
+        <middleName />
+        <bioguideId>B001298</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Mast</lastName>
+        <state>FL</state>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001199</bioguideId>
+          <lisID>2322</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Brian</firstName>
+        <middleName>J.</middleName>
+        <bioguideId>M001199</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Tenney</lastName>
+        <state>NY</state>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>22</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-04-17</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>T000478</bioguideId>
+          <lisID>2344</lisID>
+        </identifiers>
+        <firstName>Claudia</firstName>
+        <middleName />
+        <bioguideId>T000478</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Hollingsworth</lastName>
+        <state>IN</state>
+        <fullName>Rep. Hollingsworth, Trey [R-IN-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <identifiers>
+          <lisID>2327</lisID>
+          <bioguideId>H001074</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Trey</firstName>
+        <middleName />
+        <bioguideId>H001074</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <state>PA</state>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Brian</firstName>
+        <middleName>K.</middleName>
+        <bioguideId>F000466</bioguideId>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Gallagher</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>Mike</firstName>
+        <district>8</district>
+        <byRequestType />
+        <state>WI</state>
+        <bioguideId>G000579</bioguideId>
+        <identifiers>
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-16T15:27:23Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T15:02:50Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Proposing an amendment to the Constitution of the United States limiting the number of terms Senators and Representatives may serve.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Proposing an amendment to the Constitution of the United States limiting the number of terms Senators and Representatives may serve.</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Constitutional Amendment</b></p> <p>This joint resolution proposes a constitutional amendment limiting Members of the House of Representatives to six terms and Members of the Senate to two terms.</p> <p>This article shall not apply to any person who served as a Representative or as a Senator before the 115th Congress.</p>]]></text>
+          <lastSummaryUpdateDate>2017-05-01T22:06:17Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-01T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-03-01</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2017-03-02T05:13:44Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Proposing an amendment to the Constitution of the United States limiting the number of terms Senators and Representatives may serve.</title>
+    <committeeReports />
+    <introducedDate>2017-03-01</introducedDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.</latestTitle>
+        <type>HJRES</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>134</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-05-22</actionDate>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <billType>HJRES</billType>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 36 (Wednesday, March 1, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GALLAGHER:H.J. Res. 85.Congress has the power to enact this legislation pursuantto the following:Article V: ``The Congress, whenever two thirds of bothhouses shall deem it necessary, shall propose amendments tothis Constitution, or, on the application of the legislaturesof two thirds of several states, shall call a convention forproposing amendments, which, in either case, shall be validto all intents and purposes, as part of this Constitution,when ratified by the legislatures of three fourths of theseveral states, or by conventions in three fourths thereof,as the one or the other mode of ratification may be proposedby the Congress; provided that no amendment which may be madeprior to the year one thousand eight hundred and eight shallin any manner affect the first and fourth clauses in theninth section of the first article; and that no state,without its consent, shall be deprived of its equal suffragein the Senate.''____________________[Page H1465]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

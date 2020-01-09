@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-07-15</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-07-15</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-07-15</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XXVII of the Public Health Service Act to improve health care coverage under vision and dental plans, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>To amend title XXVII of the Public Health Service Act to improve health care coverage under vision and dental plans, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2019-07-16T07:12:12Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-15T16:00:48Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <lastName>Loebsack</lastName>
+        <party>D</party>
+        <district>2</district>
+        <state>IA</state>
+        <bioguideId>L000565</bioguideId>
+        <firstName>David</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-07-15</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>To amend title XXVII of the Public Health Service Act to improve health care coverage under vision and dental plans, and for other purposes.</title>
+    <cosponsors>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <state>GA</state>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001103</bioguideId>
+          <lisID>2236</lisID>
+        </identifiers>
+        <middleName>L. "Buddy"</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Carter</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <firstName>Earl</firstName>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <state>AZ</state>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Gosar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <bioguideId>V000133</bioguideId>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <state>NJ</state>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Van Drew</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <firstName>Jefferson</firstName>
+      </item>
+      <item>
+        <bioguideId>S001148</bioguideId>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <state>ID</state>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <identifiers>
+          <lisID>1590</lisID>
+          <gpoId>7920</gpoId>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>SIMPSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <state>NY</state>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Clarke</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <firstName>Yvette</firstName>
+      </item>
+      <item>
+        <bioguideId>F000465</bioguideId>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <state>GA</state>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <identifiers>
+          <lisID>2324</lisID>
+          <bioguideId>F000465</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>Drew</middleName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Ferguson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <firstName>A.</firstName>
+      </item>
+      <item>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <state>WI</state>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+          <lisID>2171</lisID>
+        </identifiers>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Pocan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <firstName>Mark</firstName>
+      </item>
+    </cosponsors>
+    <textVersions />
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea />
+    <updateDate>2019-07-19T07:39:03Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-15</actionDate>
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>3762</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 118 (Monday, July 15, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. LOEBSACK:H.R. 3762.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1 of the United StatesConstitution[Page H5825]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

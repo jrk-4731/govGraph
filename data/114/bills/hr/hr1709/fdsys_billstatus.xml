@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2015-03-27</actionDate>
+        <committee>
+          <name>Environment and Climate Change Subcommittee</name>
+          <systemCode>hsif18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and the Economy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2015-03-26</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2015-03-26</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2015-03-26</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-03-27T20:39:11Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif18</systemCode>
+              <name>Environment and Climate Change Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2015-03-26T13:05:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1709</billNumber>
+    <updateDate>2019-02-14T23:30:52Z</updateDate>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>O.</middleName>
+        <state>CA</state>
+        <bioguideId>M001163</bioguideId>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+          <lisID>1814</lisID>
+        </identifiers>
+        <lastName>Matsui</lastName>
+        <district>6</district>
+        <firstName>Doris</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Capps, Lois [D-CA-24]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>C001036</bioguideId>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <identifiers>
+          <gpoId>7828</gpoId>
+          <bioguideId>C001036</bioguideId>
+          <lisID>1471</lisID>
+        </identifiers>
+        <lastName>CAPPS</lastName>
+        <district>24</district>
+        <firstName>LOIS</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>NY</state>
+        <bioguideId>T000469</bioguideId>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <identifiers>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <lastName>Tonko</lastName>
+        <district>20</district>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <state>CA</state>
+        <bioguideId>H001034</bioguideId>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <identifiers>
+          <lisID>1634</lisID>
+          <gpoId>7820</gpoId>
+          <bioguideId>H001034</bioguideId>
+        </identifiers>
+        <lastName>HONDA</lastName>
+        <district>17</district>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+        <sponsorshipDate>2015-04-14</sponsorshipDate>
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <lastName>Huffman</lastName>
+        <district>2</district>
+        <firstName>Jared</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipDate>2015-10-28</sponsorshipDate>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <lastName>LOFGREN</lastName>
+        <district>19</district>
+        <firstName>ZOE</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2015-03-27</actionDate>
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 51 (Thursday, March 26, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McNERNEY:H.R. 1709.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the United States Constitution.[Page H2114]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <introducedDate>2015-03-26</introducedDate>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Safe Drinking Water Act to provide for the assessment and management of the risks of drought to drinking water, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To amend the Safe Drinking Water Act to provide for the assessment and management of the risks of drought to drinking water, and for other purposes.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <title>To amend the Safe Drinking Water Act to provide for the assessment and management of the risks of drought to drinking water, and for other purposes.</title>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2015-03-26T04:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill amends the Safe Drinking Water Act to direct the Environmental Protection Agency to develop and submit to Congress a strategic plan for assessing and managing risks associated with drought to drinking water provided by public water systems. </p> <p>The plan must include steps and time lines to:</p> <ul> <li>evaluate the risks posed by drought to drinking water provided by public water systems;</li> <li> establish a comprehensive list of the effects of drought on drinking water that may have an adverse effect on human health;</li> <li> summarize the known adverse human health effects, factors that cause drought, and factors that exacerbate the effects of drought on drinking water provided by public water systems; </li> <li>determine whether to establish guidance for quantifying the effects of drought on drinking water and for determining the frequency of monitoring necessary to detect the effects; </li> <li>recommend feasible treatment options to mitigate such effects, including procedures, equipment, and source water protection practices; and </li> <li>enter into cooperative agreements with, and provide technical assistance to, affected states and public water systems to manage risks associated with the effects of drought on drinking water. </ul>]]></text>
+          <lastSummaryUpdateDate>2016-04-27T20:16:31Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-26</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2015-03-27T08:45:58Z</createDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>McNerney</lastName>
+        <state>CA</state>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <firstName>Jerry</firstName>
+        <identifiers>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>9</district>
+        <middleName />
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>212</number>
+        <latestTitle>To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of algal toxins in drinking water, and for other purposes.</latestTitle>
+        <type>HR</type>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-08-07</actionDate>
+          <text>Became Public Law No: 114-45.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>460</number>
+        <latestTitle>Drinking Water Protection Act</latestTitle>
+        <type>S</type>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-02-11</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>4653</number>
+        <latestTitle>Assistance, Quality, and Affordability Act of 2016</latestTitle>
+        <type>HR</type>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-03-04</actionDate>
+          <text>Referred to the Subcommittee on Environment and the Economy.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <number>6116</number>
+        <latestTitle>Safe Drinking Water Act Amendments of 2016</latestTitle>
+        <type>HR</type>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-09-22</actionDate>
+          <text>Referred to the House Committee on Energy and Commerce.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

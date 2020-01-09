@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-06-15</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <actionDate>2016-06-13</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2016-06-13</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2016-06-13</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-06-13T16:01:25Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-06-15T15:30:30Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>777</billNumber>
+    <updateDate>2019-02-14T23:34:29Z</updateDate>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>C001091</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001091</bioguideId>
+          <lisID>2163</lisID>
+        </identifiers>
+        <lastName>Castro</lastName>
+        <district>20</district>
+        <firstName>Joaquin</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>V000132</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2167</lisID>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <lastName>Vela</lastName>
+        <district>34</district>
+        <firstName>Filemon</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>H000636</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>8171</gpoId>
+          <lisID>1490</lisID>
+          <bioguideId>H000636</bioguideId>
+        </identifiers>
+        <lastName>HINOJOSA</lastName>
+        <district>15</district>
+        <firstName>RUBEN</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <lastName>JACKSON LEE</lastName>
+        <district>18</district>
+        <firstName>SHEILA</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>NJ</state>
+        <bioguideId>W000822</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2259</lisID>
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <lastName>Watson Coleman</lastName>
+        <district>12</district>
+        <firstName>Bonnie</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>FL</state>
+        <bioguideId>W000797</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7892</gpoId>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+        </identifiers>
+        <lastName>Wasserman Schultz</lastName>
+        <district>23</district>
+        <firstName>Debbie</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>G000410</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000410</bioguideId>
+          <gpoId>8185</gpoId>
+          <lisID>462</lisID>
+        </identifiers>
+        <lastName>GREEN</lastName>
+        <district>29</district>
+        <firstName>GENE</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <lastName>Chu</lastName>
+        <district>27</district>
+        <firstName>Judy</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <state>VI</state>
+        <bioguideId>P000610</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2274</lisID>
+          <bioguideId>P000610</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Plaskett</lastName>
+        <district>0</district>
+        <firstName>Stacey</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+        </identifiers>
+        <lastName>HASTINGS</lastName>
+        <district>20</district>
+        <firstName>ALCEE</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>NY</state>
+        <bioguideId>N000002</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <lastName>NADLER</lastName>
+        <district>10</district>
+        <firstName>JERROLD</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>AZ</state>
+        <bioguideId>K000368</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <gpoId>7220</gpoId>
+          <lisID>1907</lisID>
+          <bioguideId>K000368</bioguideId>
+        </identifiers>
+        <lastName>Kirkpatrick</lastName>
+        <district>1</district>
+        <firstName>Ann</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>BERNICE</middleName>
+        <state>TX</state>
+        <bioguideId>J000126</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+        </identifiers>
+        <lastName>JOHNSON</lastName>
+        <district>30</district>
+        <firstName>EDDIE</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>D000399</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <lisID>303</lisID>
+          <bioguideId>D000399</bioguideId>
+          <gpoId>8181</gpoId>
+        </identifiers>
+        <lastName>DOGGETT</lastName>
+        <district>35</district>
+        <firstName>LLOYD</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <state>CA</state>
+        <bioguideId>H001034</bioguideId>
+        <sponsorshipDate>2016-06-13</sponsorshipDate>
+        <identifiers>
+          <lisID>1634</lisID>
+          <gpoId>7820</gpoId>
+          <bioguideId>H001034</bioguideId>
+        </identifiers>
+        <lastName>HONDA</lastName>
+        <district>17</district>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <lastName>LEE</lastName>
+        <district>13</district>
+        <firstName>BARBARA</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>C001063</bioguideId>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>8184</gpoId>
+          <lisID>1807</lisID>
+          <bioguideId>C001063</bioguideId>
+        </identifiers>
+        <lastName>Cuellar</lastName>
+        <district>28</district>
+        <firstName>Henry</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>H001068</bioguideId>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <lastName>Huffman</lastName>
+        <district>2</district>
+        <firstName>Jared</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>G000553</bioguideId>
+        <sponsorshipDate>2016-06-16</sponsorshipDate>
+        <identifiers>
+          <lisID>1803</lisID>
+          <bioguideId>G000553</bioguideId>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <lastName>Green</lastName>
+        <district>9</district>
+        <firstName>Al</firstName>
+      </item>
+      <item>
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>O000170</bioguideId>
+        <sponsorshipDate>2016-07-06</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2162</lisID>
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+        <lastName>O'Rourke</lastName>
+        <district>16</district>
+        <firstName>Beto</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2016-06-15</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <constitutionalAuthorityStatementText />
+    <originChamber>House</originChamber>
+    <introducedDate>2016-06-13</introducedDate>
+    <titles>
+      <item>
+        <title>Recognizing Mayte Lara Ibarra, and Larissa Martinez for their bravery and leadership in addressing anti-immigrant sentiments voiced by United States politicians.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Recognizing Mayte Lara Ibarra, and Larissa Martinez for their bravery and leadership in addressing anti-immigrant sentiments voiced by United States politicians.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <title>Recognizing Mayte Lara Ibarra, and Larissa Martinez for their bravery and leadership in addressing anti-immigrant sentiments voiced by United States politicians.</title>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2016-06-13T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-06-20T19:38:02Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2016-06-13</actionDate>
+          <text><![CDATA[<p>Recognizes Mayte Lara Ibarra, and Larissa Martinez for their bravery and leadership in addressing anti-immigrant sentiments voiced by U.S. politicians.</p> <p> Recognizes that beneficiaries of the Deferred Action for Childhood Arrivals program have provided inspiration in their pursuit of the American dream.</p> <p> Commends their efforts to promote comprehensive immigration reform. </p> <p>Recognizes the many undocumented valedictorians and graduating seniors of the class of 2016 for their academic achievements. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <createDate>2016-06-14T05:28:49Z</createDate>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>Veasey</lastName>
+        <state>TX</state>
+        <bioguideId>V000131</bioguideId>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <firstName>Marc</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <district>33</district>
+        <middleName>A.</middleName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <relatedBills />
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

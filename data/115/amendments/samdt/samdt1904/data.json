@@ -1,0 +1,159 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-01-20", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "H.R. 195", 
+          "url": "https://www.congress.gov/bill/115th-congress/house-bill/195"
+        }, 
+        {
+          "name": "S.Amdt.1904", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1904"
+        }, 
+        {
+          "name": "SA 1903", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1903"
+        }, 
+        {
+          "name": "SA 1904", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1904"
+        }
+      ], 
+      "references": [], 
+      "text": "SA 1904 fell when the motion to concur in the House amendment to the Senate amendment to H.R. 195 with an amendment (SA 1903) tabled.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-19", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.1904", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1904"
+        }, 
+        {
+          "name": "S316", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S316"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S316", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by Senate (Message from the House considered).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-18", 
+      "action_code": "", 
+      "links": [
+        {
+          "name": "S.Amdt.1904", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1904"
+        }, 
+        {
+          "name": "S305", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S305"
+        }, 
+        {
+          "name": "SA 1903", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1903"
+        }, 
+        {
+          "name": "SA 1904", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1904"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment SA 1904 proposed by Senator McConnell to Amendment SA 1903. (consideration: CR S305; text: CR S305) Of a perfecting nature.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-18", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-18", 
+      "action_code": "93000", 
+      "links": [
+        {
+          "name": "S.Amdt.1904", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1904"
+        }, 
+        {
+          "name": "S305", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/senate-section/page/S305"
+        }, 
+        {
+          "name": "SA 1903", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1903"
+        }, 
+        {
+          "name": "SA 1904", 
+          "url": "https://www.congress.gov/amendment/115th-congress/senate-amendment/1904"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S305", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S305", 
+          "type": "text"
+        }
+      ], 
+      "text": "Senate amendment proposed (on the floor): Amendment SA 1904 proposed by Senator McConnell to Amendment SA 1903.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-01-18", 
+      "action_code": "91000", 
+      "references": [], 
+      "text": "Senate amendment submitted", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "samdt1904-115", 
+  "amendment_type": "samdt", 
+  "amends_amendment": {
+    "amendment_id": "samdt1903-115", 
+    "amendment_type": "samdt", 
+    "congress": 115, 
+    "description": null, 
+    "number": 1903, 
+    "purpose": "To change the enactment date."
+  }, 
+  "amends_bill": {
+    "bill_id": "hr195-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 195
+  }, 
+  "amends_treaty": null, 
+  "chamber": "s", 
+  "congress": "115", 
+  "description": null, 
+  "introduced_at": "2018-01-18", 
+  "number": 1904, 
+  "proposed_at": "2018-01-18T05:00:00Z", 
+  "purpose": "Of a perfecting nature.", 
+  "sponsor": {
+    "bioguide_id": "M000355", 
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "offered", 
+  "status_at": "2018-01-18", 
+  "updated_at": "2019-06-13T18:43:55Z"
+}

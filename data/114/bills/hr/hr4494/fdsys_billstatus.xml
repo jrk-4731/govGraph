@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <links />
+      <actionDate>2016-02-08</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2016-02-08T19:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2016-02-08</introducedDate>
+    <calendarNumbers />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 22 (Monday, February 8, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRAYSON:H.R. 4494.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, of the United States Constitution.[Page H595]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <title>Renters Fairness and Equality Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To amend the Internal Revenue Code of 1986 to allow a deduction for rent paid or accrued on the personal residence of the taxpayer.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Renters Fairness and Equality Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <version>1.0.0</version>
+    <congress>114</congress>
+    <actions>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2016-02-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2016-02-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2016-02-08</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <createDate>2016-02-09T09:26:12Z</createDate>
+    <laws />
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <cosponsors />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-02-08</actionDate>
+          <lastSummaryUpdateDate>2016-03-08T14:53:09Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Renters Fairness and Equality Act</strong></p> <p>This bill amends the Internal Revenue Code to allow a tax deduction of all rent paid paid or accrued on the principal residence of a taxpayer, but denies such deduction if the assessed or appraised value of the residence exceeds $1 million. </p>]]></text>
+          <updateDate>2016-02-08T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HR</billType>
+    <billNumber>4494</billNumber>
+    <title>Renters Fairness and Equality Act</title>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <firstName>Alan</firstName>
+        <bioguideId>G000556</bioguideId>
+        <middleName />
+        <lastName>Grayson</lastName>
+        <identifiers>
+          <bioguideId>G000556</bioguideId>
+          <gpoId>7302</gpoId>
+          <lisID>1914</lisID>
+        </identifiers>
+        <fullName>Rep. Grayson, Alan [D-FL-9]</fullName>
+        <state>FL</state>
+        <byRequestType />
+        <district>9</district>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2018-11-09T00:09:19Z</updateDate>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

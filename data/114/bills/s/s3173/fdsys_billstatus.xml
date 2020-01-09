@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-07-13</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2016-07-13</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>3173</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-07-13T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-02-16T16:45:17Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2016-07-13</actionDate>
+          <text><![CDATA[<p><strong>EHR Regulatory Relief Act</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to: </p> <ul> <li>establish a 90-day reporting period with respect to determining whether an eligible professional or hospital is a meaningful electronic health record (EHR) user,</li> <li>allow the Centers for Medicare &amp; Medicaid Services (CMS) to determine that an eligible professional or hospital is a meaningful EHR user if the professional or hospital meets a specified percentage of the applicable measures established by CMS, and</li> <li>extend the applicability of the hardship exception with respect to meaningful EHR use.</li></ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>EHR Regulatory Relief Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend title XVIII of the Social Security Act to provide for a 90-day EHR reporting period for the determination of whether an eligible professional or eligible hospital is a meaningful EHR user and to remove the all-or-nothing approach to meaningful use, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>EHR Regulatory Relief Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-07-13T14:32:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2018-06-02T07:47:13Z</updateDate>
+    <title>EHR Regulatory Relief Act</title>
+    <congress>114</congress>
+    <originChamber>Senate</originChamber>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <actionDate>2016-07-13</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <notes />
+    <cosponsors>
+      <item>
+        <bioguideId>A000360</bioguideId>
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <lastName>Alexander</lastName>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+        <party>R</party>
+        <firstName>Lamar</firstName>
+      </item>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <party>R</party>
+        <firstName>RICHARD</firstName>
+      </item>
+      <item>
+        <bioguideId>E000285</bioguideId>
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+        </identifiers>
+        <lastName>ENZI</lastName>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <bioguideId>R000307</bioguideId>
+        <identifiers>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <lastName>ROBERTS</lastName>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <party>R</party>
+        <firstName>PAT</firstName>
+      </item>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <lastName>Cassidy</lastName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <party>R</party>
+        <firstName>Bill</firstName>
+      </item>
+    </cosponsors>
+    <createDate>2016-07-14T06:10:25Z</createDate>
+    <introducedDate>2016-07-13</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <party>R</party>
+        <lastName>THUNE</lastName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <identifiers>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

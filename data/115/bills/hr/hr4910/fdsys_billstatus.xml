@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>2</billReferrals>
+        <becamePublicLaw>2</becamePublicLaw>
+        <presentedToPresident>1</presentedToPresident>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <placedOnCalendarSection>1</placedOnCalendarSection>
+        <placeholderTextForE>3</placeholderTextForE>
+        <considerationByHouse>2</considerationByHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <generalDebate>1</generalDebate>
+        <passedSenate>1</passedSenate>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <sentToHouse>1</sentToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <committee />
+        <type>President</type>
+        <text>Became Public Law No: 115-184.</text>
+        <actionDate>2018-06-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>E40000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>BecameLaw</type>
+        <text>Became Public Law No: 115-184.</text>
+        <actionDate>2018-06-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>36000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>President</type>
+        <text>Signed by President.</text>
+        <actionDate>2018-06-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>E30000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>BecameLaw</type>
+        <text>Signed by President.</text>
+        <actionDate>2018-06-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>36000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <text>Presented to President.</text>
+        <actionDate>2018-06-05</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>E20000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>President</type>
+        <text>Presented to President.</text>
+        <actionDate>2018-06-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>28000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-05-25</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-05-24</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S2942</url>
+            <name>S2942</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S2942)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2942)</text>
+        <actionDate>2018-05-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S2942</url>
+            <name>S2942</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-05-08</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>Floor</type>
+        <actionTime>18:55:48</actionTime>
+        <actionDate>2018-05-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H3753</url>
+            <name>H3753</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll167.xml</url>
+            <name>Roll no. 167</name>
+          </link>
+        </links>
+        <committee />
+        <type>Floor</type>
+        <actionTime>18:55:47</actionTime>
+        <actionDate>2018-05-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 167). (text: CR H3753)</text>
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H3753</url>
+            <name>H3753</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2018/roll167.xml</url>
+            <name>Roll no. 167</name>
+          </link>
+        </links>
+        <committee />
+        <type>Floor</type>
+        <actionTime>18:55:47</actionTime>
+        <actionDate>2018-05-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 167).(text: CR H3753)</text>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H3761-3762</url>
+            <name>H3761-3762</name>
+          </link>
+        </links>
+        <committee />
+        <type>Floor</type>
+        <actionTime>18:30:45</actionTime>
+        <actionDate>2018-05-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered as unfinished business. (consideration: CR H3761-3762)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>Floor</type>
+        <actionTime>16:42:16</actionTime>
+        <actionDate>2018-05-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionCode>H37220</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/4910</url>
+            <name>H.R. 4910</name>
+          </link>
+        </links>
+        <committee />
+        <type>Floor</type>
+        <actionTime>16:31:08</actionTime>
+        <actionDate>2018-05-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4910.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H3753-3755</url>
+            <name>H3753-3755</name>
+          </link>
+        </links>
+        <committee />
+        <type>Floor</type>
+        <actionTime>16:31:06</actionTime>
+        <actionDate>2018-05-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H3753-3755)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>Floor</type>
+        <actionTime>16:31:04</actionTime>
+        <actionDate>2018-05-07</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended.</text>
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-03-20</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-02-01</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-01-30</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-01-30</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2018-01-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend title 38, United States Code, to provide outer burial receptacles for remains buried in National Parks, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Veterans Cemetery Benefit Correction Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <title>Veterans Cemetery Benefit Correction Act</title>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <title>Veterans Cemetery Benefit Correction Act</title>
+        <chamberCode>S</chamberCode>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+      </item>
+      <item>
+        <titleType>Short Titles as Enacted</titleType>
+        <chamberName />
+        <title>Veterans Cemetery Benefit Correction Act</title>
+        <chamberCode />
+        <parentTitleType>Short Title</parentTitleType>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Veterans Cemetery Benefit Correction Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <title>Veterans Cemetery Benefit Correction Act</title>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Veterans Cemetery Benefit Correction Act</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2018-01-31T03:11:04Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-03-20T21:32:42Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2018-01-30T15:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2018-02-01T20:58:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-01-30T15:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <district>8</district>
+        <state>GA</state>
+        <bioguideId>S001189</bioguideId>
+        <firstName>Austin</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Became Public Law No: 115-182.</text>
+          <actionDate>2018-06-06</actionDate>
+        </latestAction>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>VA MISSION Act of 2018</latestTitle>
+        <congress>115</congress>
+        <number>2372</number>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports />
+    <introducedDate>2018-01-30</introducedDate>
+    <calendarNumbers>
+      <item>
+        <number>0399</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2018/roll167.xml</url>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <chamber>House</chamber>
+        <sessionNumber>2</sessionNumber>
+        <date>2018-05-07T22:55:47Z</date>
+        <congress>115</congress>
+        <rollNumber>167</rollNumber>
+      </recordedVote>
+    </recordedVotes>
+    <title>Veterans Cemetery Benefit Correction Act</title>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-01-30</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>SANFORD</firstName>
+        <district>2</district>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <bioguideId>B000490</bioguideId>
+        <lastName>BISHOP</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <state>GA</state>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>WALTER</firstName>
+        <district>3</district>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <bioguideId>J000255</bioguideId>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <state>NC</state>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Michael</firstName>
+        <district>10</district>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <bioguideId>T000463</bioguideId>
+        <lastName>Turner</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8093</gpoId>
+          <bioguideId>T000463</bioguideId>
+          <lisID>1741</lisID>
+        </identifiers>
+        <state>OH</state>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <district>8</district>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <bioguideId>C001094</bioguideId>
+        <lastName>Cook</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Neal</firstName>
+        <district>2</district>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <bioguideId>D000628</bioguideId>
+        <lastName>Dunn</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+          <lisID>2315</lisID>
+        </identifiers>
+        <state>FL</state>
+        <middleName>P.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Scott</firstName>
+        <district>4</district>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <bioguideId>D000616</bioguideId>
+        <lastName>DesJarlais</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+          <gpoId>8151</gpoId>
+        </identifiers>
+        <state>TN</state>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Karen</firstName>
+        <district>6</district>
+        <fullName>Rep. Handel, Karen C. [R-GA-6]</fullName>
+        <bioguideId>H001078</bioguideId>
+        <lastName>Handel</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001078</bioguideId>
+          <gpoId />
+          <lisID>2360</lisID>
+        </identifiers>
+        <state>GA</state>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>WILLIAM</firstName>
+        <district>13</district>
+        <fullName>Rep. Thornberry, Mac [R-TX-13]</fullName>
+        <bioguideId>T000238</bioguideId>
+        <lastName>THORNBERRY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000238</bioguideId>
+          <lisID>1155</lisID>
+          <gpoId>8755</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Marsha</firstName>
+        <district>7</district>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <bioguideId>B001243</bioguideId>
+        <lastName>Blackburn</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+          <lisID>1748</lisID>
+        </identifiers>
+        <state>TN</state>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2018-02-26</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>A.</firstName>
+        <district>3</district>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <bioguideId>F000465</bioguideId>
+        <lastName>Ferguson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2324</lisID>
+          <bioguideId>F000465</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>GA</state>
+        <middleName>Drew</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-03-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <district>1</district>
+        <fullName>Rep. Scalise, Steve [R-LA-1]</fullName>
+        <bioguideId>S001176</bioguideId>
+        <lastName>Scalise</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001176</bioguideId>
+          <gpoId>7959</gpoId>
+          <lisID>1892</lisID>
+        </identifiers>
+        <state>LA</state>
+        <middleName />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4910enr/xml/BILLS-115hr4910enr.xml</url>
+          </item>
+        </formats>
+        <type>Enrolled Bill</type>
+      </item>
+      <item>
+        <date>2018-05-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4910pcs/xml/BILLS-115hr4910pcs.xml</url>
+          </item>
+        </formats>
+        <type>Placed on Calendar Senate</type>
+      </item>
+      <item>
+        <date>2018-05-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4910eh/xml/BILLS-115hr4910eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+      </item>
+      <item>
+        <date>2018-01-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4910ih/xml/BILLS-115hr4910ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws>
+      <item>
+        <number>115-184</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2019-07-15T21:58:15Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2018-06-15</actionDate>
+      <text>Became Public Law No: 115-184.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-01-30T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2018-01-30</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2018-09-27T20:12:35Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Veterans Cemetery Benefit Correction Act</b> </p> <p>This bill requires the Department of the Interior to provide outer burial receptacles for veterans' remains buried in open cemeteries under National Park Service control. </p> <p>The use of outer burial receptacles in such cemeteries shall be in accordance with regulations or procedures approved by Interior.</p>]]></text>
+        </item>
+        <item>
+          <updateDate>2018-05-07T13:21:22Z</updateDate>
+          <versionCode>36</versionCode>
+          <actionDate>2018-05-07</actionDate>
+          <name>Passed House amended</name>
+          <actionDesc>Passed House amended</actionDesc>
+          <lastSummaryUpdateDate>2018-09-27T14:29:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Veterans Cemetery Benefit Correction Act</b> </p> <p> (Sec. 2) This bill requires the Department of the Interior to provide outer burial receptacles for veterans' remains buried in a national cemetery administered by the National Park Service. (An outer burial receptacle is a container, such as a grave liner or a burial vault, that protects a casket in the ground and prevents the grave from sinking.)</p>  <p> Interior may provide reimbursement for outer burial receptacles other than grave liners but may require survivors to pay: (1) the costs by which such burial receptacle exceeds the costs of a grave liner, and (2) related administrative costs.</p>]]></text>
+        </item>
+        <item>
+          <updateDate>2018-05-24T10:53:20Z</updateDate>
+          <versionCode>82</versionCode>
+          <actionDate>2018-05-24</actionDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2018-09-27T16:07:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Veterans Cemetery Benefit Correction Act</b> </p> <p> (Sec. 2) This bill requires the Department of the Interior to provide outer burial receptacles for veterans' remains buried in a national cemetery administered by the National Park Service. (An outer burial receptacle is a container, such as a grave liner or a burial vault, that protects a casket in the ground and prevents the grave from sinking.) </p> <p>Interior may provide reimbursement for outer burial receptacles other than grave liners but may require survivors to pay: (1) the costs by which such burial receptacle exceeds the costs of a grave liner, and (2) related administrative costs. </p>]]></text>
+        </item>
+        <item>
+          <updateDate>2018-06-16T03:59:58Z</updateDate>
+          <versionCode>49</versionCode>
+          <actionDate>2018-06-15</actionDate>
+          <name>Public Law</name>
+          <actionDesc>Public Law</actionDesc>
+          <lastSummaryUpdateDate>2018-09-27T18:33:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Veterans Cemetery Benefit Correction Act</b> </p> <p>(Sec. 2) This bill requires the Department of the Interior to provide outer burial receptacles for veterans' remains buried in a national cemetery administered by the National Park Service. (An outer burial receptacle is a container, such as a grave liner or a burial vault, that protects a casket in the ground and prevents the grave from sinking.) </p> <p>Interior may provide reimbursement for outer burial receptacles other than grave liners but may require survivors to pay: (1) the costs by which such burial receptacle exceeds the costs of a grave liner, and (2) related administrative costs. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Cemeteries and funerals</name>
+          </item>
+          <item>
+            <name>Veterans' organizations and recognition</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>4910</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 20 (Tuesday, January 30, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AUSTIN SCOTT of Georgia:H.R. 4910.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H732]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

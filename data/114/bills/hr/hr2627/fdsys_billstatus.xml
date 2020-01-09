@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-06-04T09:35:05Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-11-16</actionDate>
+        <committee>
+          <systemCode>hsed14</systemCode>
+          <name>Early Childhood, Elementary, and Secondary Education Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2015-06-03</actionDate>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-06-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-06-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <links />
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+          <subcommittees>
+            <item>
+              <name>Early Childhood, Elementary, and Secondary Education Subcommittee</name>
+              <systemCode>hsed14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-11-16T20:07:00Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-03T14:01:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <bioguideId>W000808</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <lastName>Wilson</lastName>
+        <firstName>Frederica</firstName>
+        <party>D</party>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+      </item>
+      <item>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <bioguideId>D000216</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>DELAURO</lastName>
+        <firstName>ROSA</firstName>
+        <party>D</party>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+      </item>
+      <item>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7822</gpoId>
+          <lisID>368</lisID>
+          <bioguideId>F000030</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2015-06-03</sponsorshipDate>
+        <bioguideId>F000030</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <lastName>FARR</lastName>
+        <firstName>SAM</firstName>
+        <party>D</party>
+        <fullName>Rep. Farr, Sam [D-CA-20]</fullName>
+      </item>
+      <item>
+        <district>29</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <lisID>2107</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <bioguideId>C001097</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Cardenas</lastName>
+        <firstName>Tony</firstName>
+        <party>D</party>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <party>D</party>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+      </item>
+      <item>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1490</lisID>
+          <bioguideId>H000636</bioguideId>
+          <gpoId>8171</gpoId>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <bioguideId>H000636</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>HINOJOSA</lastName>
+        <firstName>RUBEN</firstName>
+        <party>D</party>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+      </item>
+      <item>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <bioguideId>H000324</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <lastName>HASTINGS</lastName>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+      </item>
+      <item>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2227</lisID>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2015-06-25</sponsorshipDate>
+        <bioguideId>D000623</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>DeSaulnier</lastName>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+      </item>
+      <item>
+        <district>27</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001092</bioguideId>
+          <lisID>2151</lisID>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2015-07-07</sponsorshipDate>
+        <bioguideId>C001092</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Collins</lastName>
+        <firstName>Chris</firstName>
+        <party>R</party>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+      </item>
+      <item>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8101</gpoId>
+          <bioguideId>F000455</bioguideId>
+          <lisID>1895</lisID>
+        </identifiers>
+        <state>OH</state>
+        <sponsorshipDate>2015-07-07</sponsorshipDate>
+        <bioguideId>F000455</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <lastName>Fudge</lastName>
+        <firstName>Marcia</firstName>
+        <party>D</party>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+      </item>
+      <item>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000053</bioguideId>
+          <lisID>944</lisID>
+          <gpoId>8076</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2015-07-22</sponsorshipDate>
+        <bioguideId>R000053</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <lastName>RANGEL</lastName>
+        <firstName>CHARLES</firstName>
+        <party>D</party>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+      </item>
+      <item>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <state>ME</state>
+        <sponsorshipDate>2015-11-03</sponsorshipDate>
+        <bioguideId>P000597</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Pingree</lastName>
+        <firstName>Chellie</firstName>
+        <party>D</party>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+      </item>
+      <item>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000510</bioguideId>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <state>WA</state>
+        <sponsorshipDate>2015-12-18</sponsorshipDate>
+        <bioguideId>S000510</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>SMITH</lastName>
+        <firstName>ADAM</firstName>
+        <party>D</party>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+      </item>
+      <item>
+        <district>31</district>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2229</lisID>
+          <bioguideId>A000371</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <bioguideId>A000371</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <lastName>Aguilar</lastName>
+        <firstName>Pete</firstName>
+        <party>D</party>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 88 (Wednesday, June 3, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RYAN of Ohio:H.R. 2627.Congress has the power to enact this legislation pursuantto the following:The above mentioned legislation is based upon the followingSection 8 statement:To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[Page H3878]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2015-11-16</actionDate>
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2015-06-03T04:00:00Z</updateDate>
+          <actionDate>2015-06-03</actionDate>
+          <lastSummaryUpdateDate>2015-07-22T21:26:15Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Salad Bars in Schools Expansion Act</b></p> <p>This bill amends the Richard B. Russell National School Lunch Act to require the Department of Agriculture (USDA) to establish and implement a plan, including through a five-year program of competitive grants, to promote the use of salad bars in schools participating in the school lunch program.</p> <p>Priority in the award of grants may be given to entities that: (1) serve schools in which at least 50% of the students are eligible for free or reduced-price lunches or that are located in food deserts, or (2) provide nutrition education. (A food desert is an area without ready access to fresh, healthful, and affordable food.)</p> <p>USDA shall revise the March 27, 2013, policy memorandum SP 31-2013, &quot;Salad Bars in the National School Lunch Program,&quot; in light of recommendations submitted to Congress under this Act. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2627</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <relatedBills />
+    <updateDate>2019-04-11T15:42:41Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Fruit and vegetables</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Richard B. Russell National School Lunch Act to expand the use of salad bars in schools.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Salad Bars in Schools Expansion Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Salad Bars in Schools Expansion Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>114</congress>
+    <introducedDate>2015-06-03</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>RYAN</lastName>
+        <state>OH</state>
+        <district>13</district>
+        <party>D</party>
+        <byRequestType />
+        <firstName>TIM</firstName>
+        <bioguideId>R000577</bioguideId>
+        <middleName />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Salad Bars in Schools Expansion Act</title>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr2627ih/xml/BILLS-114hr2627ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2015-06-03T04:00:00Z</date>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

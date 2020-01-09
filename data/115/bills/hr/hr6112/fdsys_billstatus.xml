@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-06-15T07:10:47Z</createDate>
+    <introducedDate>2018-06-14</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-07-19</actionDate>
+        <committee>
+          <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+          <systemCode>hsag03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-06-14</actionDate>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2018-06-14</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2018-06-14</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Nutrition.</text>
+      <actionDate>2018-07-19</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>6112</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <bioguideId>C001080</bioguideId>
+        <middleName />
+        <party>D</party>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <firstName>Judy</firstName>
+        <state>CA</state>
+        <lastName>Chu</lastName>
+        <byRequestType />
+        <district>27</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:24:42Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <date>2018-06-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6112ih/xml/BILLS-115hr6112ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 99 (Thursday, June 14, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JUDY CHU of California:H.R. 6112.Congress has the power to enact this legislation pursuantto the following:Art. 1, Sec. 8 ``The Congress shall have Power To lay andcollect Taxes, Duties, Imposts and Excises, to pay the Debtsand provide for the common Defence and general Welfare of theUnited States.''[Page H5200]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-14T14:03:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+              <systemCode>hsag03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-07-19T18:43:02Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsag00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Roger</firstName>
+        <middleName>W.</middleName>
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+          <gpoId />
+          <lisID>2328</lisID>
+        </identifiers>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <lastName>Marshall</lastName>
+        <party>R</party>
+        <district>1</district>
+        <state>KS</state>
+        <sponsorshipDate>2018-06-14</sponsorshipDate>
+        <bioguideId>M001198</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>G. K.</firstName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001251</bioguideId>
+          <gpoId>8024</gpoId>
+          <lisID>1761</lisID>
+        </identifiers>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <lastName>Butterfield</lastName>
+        <party>D</party>
+        <district>1</district>
+        <state>NC</state>
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <bioguideId>B001251</bioguideId>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Dina</firstName>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+          <lisID>1940</lisID>
+          <gpoId>7493</gpoId>
+        </identifiers>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <district>1</district>
+        <state>NV</state>
+        <sponsorshipDate>2018-10-05</sponsorshipDate>
+        <bioguideId>T000468</bioguideId>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Food and Nutrition Act of 2008 to make institutions of higher education eligible for assistance for community food projects, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Campus Hunger Reduction Act of 2018</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Campus Hunger Reduction Act of 2018</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Campus Hunger Reduction Act of 2018</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>Campus Hunger Reduction Act of 2018</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

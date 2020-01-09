@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <updateDate>2019-04-18T16:21:28Z</updateDate>
+    <textVersions>
+      <item>
+        <date>2018-03-21T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5373ih/xml/BILLS-115hr5373ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <firstName>Scott</firstName>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <middleName>H.</middleName>
+        <party>D</party>
+        <byRequestType />
+        <district>52</district>
+        <state>CA</state>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <laws />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <title>Algae Agriculture Act of 2018</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-03-23</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-03-21</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2018-03-21</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2018-03-21</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2018-03-21</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Algae Agriculture Act of 2018 </b></p> <p>This bill modifies several Department of Agriculture research, commodity, and energy programs to authorize assistance for activities related to algae production. </p>]]></text>
+          <lastSummaryUpdateDate>2018-12-10T20:42:39Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2018-03-21</actionDate>
+          <updateDate>2018-03-21T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the Subcommittee on Energy.</text>
+      <actionDate>2018-03-23</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-03-23T18:52:07Z</date>
+                </item>
+              </activities>
+              <name>Energy</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-03-21T14:01:25Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-03-21T14:01:20Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural conservation and pollution</name>
+          </item>
+          <item>
+            <name>Agricultural insurance</name>
+          </item>
+          <item>
+            <name>Agricultural practices and innovations</name>
+          </item>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Agricultural research</name>
+          </item>
+          <item>
+            <name>Energy research</name>
+          </item>
+          <item>
+            <name>Food supply, safety, and labeling</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Horticulture and plants</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2018-03-21</introducedDate>
+    <calendarNumbers />
+    <billNumber>5373</billNumber>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide support for the production of algae, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Algae Agriculture Act of 2018</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Algae Agriculture Act of 2018</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Algae Agriculture Act of 2018</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2018-03-22T07:10:58Z</createDate>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-21</sponsorshipDate>
+        <lastName>LaHood</lastName>
+        <bioguideId>L000585</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Darin</firstName>
+        <district>18</district>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <state>IL</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2295</lisID>
+          <bioguideId>L000585</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-21</sponsorshipDate>
+        <lastName>Kilmer</lastName>
+        <bioguideId>K000381</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Derek</firstName>
+        <district>6</district>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <state>WA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-21</sponsorshipDate>
+        <lastName>Biggs</lastName>
+        <bioguideId>B001302</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Andy</firstName>
+        <district>5</district>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+          <lisID>2307</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-03-26</sponsorshipDate>
+        <lastName>Lujan Grisham</lastName>
+        <bioguideId>L000580</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Michelle</firstName>
+        <district>1</district>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>L000580</bioguideId>
+          <gpoId />
+          <lisID>2146</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-05-01</sponsorshipDate>
+        <lastName>Cartwright</lastName>
+        <bioguideId>C001090</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <firstName>Matt</firstName>
+        <district>17</district>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <lastName>Hurd</lastName>
+        <bioguideId>H001073</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Will</firstName>
+        <district>23</district>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2269</lisID>
+          <bioguideId>H001073</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 49 (Wednesday, March 21, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PETERS:H.R. 5373.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1755]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-03-28</actionDate>
+          <text>Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.</text>
+        </latestAction>
+        <number>5234</number>
+        <latestTitle>To amend the Farm Security and Rural Investment Act of 2002 to expand opportunities for algae-based research, and for other purposes.</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>114</congress>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-06-16</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-06-16</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2016-05-12</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2016-05-12</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2016-05-12</actionDate>
+      </item>
+    </actions>
+    <amendments />
+    <latestAction>
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+      <links />
+      <actionDate>2016-06-16</actionDate>
+    </latestAction>
+    <introducedDate>2016-05-12</introducedDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <bioguideId>P000592</bioguideId>
+        <state>TX</state>
+        <lastName>Poe</lastName>
+        <byRequestType />
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <lisID>1802</lisID>
+          <bioguideId>P000592</bioguideId>
+          <gpoId>8158</gpoId>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <state>CA</state>
+        <bioguideId>S000344</bioguideId>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <firstName>BRAD</firstName>
+        <middleName />
+        <district>30</district>
+        <lastName>SHERMAN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>VA</state>
+        <bioguideId>C001105</bioguideId>
+        <sponsorshipDate>2016-05-25</sponsorshipDate>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2273</lisID>
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <firstName>Barbara</firstName>
+        <middleName />
+        <district>10</district>
+        <lastName>Comstock</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>GA</state>
+        <bioguideId>W000810</bioguideId>
+        <sponsorshipDate>2016-06-07</sponsorshipDate>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000810</bioguideId>
+          <gpoId>7904</gpoId>
+          <lisID>2008</lisID>
+        </identifiers>
+        <firstName>Rob</firstName>
+        <middleName />
+        <district>7</district>
+        <lastName>Woodall</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>W000814</bioguideId>
+        <sponsorshipDate>2016-09-14</sponsorshipDate>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+        </identifiers>
+        <firstName>Randy</firstName>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <lastName>Weber</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>CA</state>
+        <bioguideId>C001094</bioguideId>
+        <sponsorshipDate>2016-09-14</sponsorshipDate>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Paul</firstName>
+        <middleName />
+        <district>8</district>
+        <lastName>Cook</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>NY</state>
+        <bioguideId>Z000017</bioguideId>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+          <lisID>2261</lisID>
+        </identifiers>
+        <firstName>Lee</firstName>
+        <middleName>M.</middleName>
+        <district>1</district>
+        <lastName>Zeldin</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <updateDate>2019-02-06T19:37:36Z</updateDate>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 5208, North Korea State Sponsor of Terrorism Designation Act of 2016</title>
+        <url>https://www.cbo.gov/publication/51740</url>
+        <pubDate>2016-06-29T21:10:59Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 75 (Thursday, May 12, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. POE of Texas:H.R. 5208.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H2342]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <title>North Korea State Sponsor of Terrorism Designation Act of 2016</title>
+    <calendarNumbers />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2016-05-12</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2016-07-15T21:06:16Z</lastSummaryUpdateDate>
+          <updateDate>2016-05-12T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>North Korea State Sponsor of Terrorism Designation Act of 2016</strong></p> <p>This bill expresses the sense of Congress that North Korea meets the criteria for, and should be designated as, a state sponsor of terrorism. </p> <p>The President shall submit to Congress a report that finds, with respect to each of 22 acts specified by this bill, whether: (1) North Korea or any of its agents or instrumentalities committed, conspired to commit, attempted, or abetted such act; and (2) such act constitutes support for international terrorism. </p> <p>If the President finds that North Korea or its agents or instrumentalities committed any of such acts, the Department of State shall submit to Congress: (1) a determination that North Korea is a state sponsor of terrorism, or (2) a detailed justification as to why the conduct does not meet the legal criteria for such a determination. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr5208ih/xml/BILLS-114hr5208ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2016-05-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billNumber>5208</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arms control and nonproliferation</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>North Korea</name>
+          </item>
+          <item>
+            <name>Nuclear power</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>South Korea</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+          <item>
+            <name>Television and film</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>North Korea State Sponsor of Terrorism Designation Act of 2016</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require a report on the designation of the Democratic People's Republic of Korea as a state sponsor of terrorism, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>North Korea State Sponsor of Terrorism Designation Act of 2016</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <createDate>2016-05-13T05:18:13Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-06-16T12:37:43Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2016-05-12T14:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

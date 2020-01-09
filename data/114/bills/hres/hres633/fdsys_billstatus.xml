@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-03-01</actionDate>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2016-03-01</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2016-03-01</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>Recognizing the important work of Meals on Wheels America and senior nutrition programs throughout the Nation in addressing hunger and isolation and improving the health and quality of life for millions of our Nation's seniors each year.</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres633ih/xml/BILLS-114hres633ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2016-03-01T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2016-03-01</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </latestAction>
+    <createDate>2016-03-02T04:48:58Z</createDate>
+    <billNumber>633</billNumber>
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <identifiers>
+          <lisID>1921</lisID>
+          <bioguideId>J000290</bioguideId>
+          <gpoId>7950</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>KS</state>
+        <middleName />
+        <bioguideId>J000290</bioguideId>
+        <lastName>Jenkins</lastName>
+        <firstName>Lynn</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MA</state>
+        <middleName>P.</middleName>
+        <bioguideId>M000312</bioguideId>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <identifiers>
+          <bioguideId>L000554</bioguideId>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NJ</state>
+        <middleName>A.</middleName>
+        <bioguideId>L000554</bioguideId>
+        <lastName>LOBIONDO</lastName>
+        <firstName>FRANK</firstName>
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Young, David [R-IA-3]</fullName>
+        <identifiers>
+          <lisID>2242</lisID>
+          <bioguideId>Y000066</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>IA</state>
+        <middleName />
+        <bioguideId>Y000066</bioguideId>
+        <lastName>Young</lastName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <identifiers>
+          <gpoId>7902</gpoId>
+          <lisID>688</lisID>
+          <bioguideId>L000287</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>GA</state>
+        <middleName />
+        <bioguideId>L000287</bioguideId>
+        <lastName>LEWIS</lastName>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <district>8</district>
+        <fullName>Rep. Van Hollen, Chris [D-MD-8]</fullName>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MD</state>
+        <middleName />
+        <bioguideId>V000128</bioguideId>
+        <lastName>Van Hollen</lastName>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <district>17</district>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2127</lisID>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IL</state>
+        <middleName />
+        <bioguideId>B001286</bioguideId>
+        <lastName>Bustos</lastName>
+        <firstName>Cheri</firstName>
+      </item>
+      <item>
+        <district>10</district>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NJ</state>
+        <middleName>M.</middleName>
+        <bioguideId>P000604</bioguideId>
+        <lastName>Payne</lastName>
+        <firstName>Donald</firstName>
+      </item>
+      <item>
+        <district>52</district>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+          <lisID>2113</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <middleName>H.</middleName>
+        <bioguideId>P000608</bioguideId>
+        <lastName>Peters</lastName>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <district>9</district>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+        <middleName>D.</middleName>
+        <bioguideId>C001067</bioguideId>
+        <lastName>Clarke</lastName>
+        <firstName>Yvette</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <identifiers>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+          <lisID>2114</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+        <middleName>H.</middleName>
+        <bioguideId>E000293</bioguideId>
+        <lastName>Esty</lastName>
+        <firstName>Elizabeth</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>ME</state>
+        <middleName />
+        <bioguideId>P000597</bioguideId>
+        <lastName>Pingree</lastName>
+        <firstName>Chellie</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Takai, Mark [D-HI-1]</fullName>
+        <identifiers>
+          <lisID>2240</lisID>
+          <gpoId />
+          <bioguideId>T000473</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>HI</state>
+        <middleName />
+        <bioguideId>T000473</bioguideId>
+        <lastName>Takai</lastName>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <district>25</district>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <bioguideId>S000480</bioguideId>
+        <lastName>SLAUGHTER</lastName>
+        <firstName>LOUISE</firstName>
+      </item>
+      <item>
+        <district>9</district>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <identifiers>
+          <lisID>683</lisID>
+          <bioguideId>L000263</bioguideId>
+          <gpoId>7997</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MI</state>
+        <middleName>M.</middleName>
+        <bioguideId>L000263</bioguideId>
+        <lastName>LEVIN</lastName>
+        <firstName>SANDER</firstName>
+      </item>
+      <item>
+        <district>7</district>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <gpoId>7927</gpoId>
+          <lisID>1477</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IL</state>
+        <middleName>K.</middleName>
+        <bioguideId>D000096</bioguideId>
+        <lastName>DAVIS</lastName>
+        <firstName>DANNY</firstName>
+      </item>
+      <item>
+        <district>13</district>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-13]</fullName>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>PA</state>
+        <middleName>F.</middleName>
+        <bioguideId>B001296</bioguideId>
+        <lastName>Boyle</lastName>
+        <firstName>Brendan</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>WA</state>
+        <middleName />
+        <bioguideId>L000560</bioguideId>
+        <lastName>LARSEN</lastName>
+        <firstName>RICK</firstName>
+      </item>
+      <item>
+        <district>12</district>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <identifiers>
+          <lisID>2243</lisID>
+          <bioguideId>B001295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>IL</state>
+        <middleName />
+        <bioguideId>B001295</bioguideId>
+        <lastName>Bost</lastName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <district>21</district>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-21]</fullName>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+          <gpoId>7891</gpoId>
+          <lisID>1976</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>FL</state>
+        <middleName>E.</middleName>
+        <bioguideId>D000610</bioguideId>
+        <lastName>Deutch</lastName>
+        <firstName>Theodore</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <identifiers>
+          <lisID>2146</lisID>
+          <bioguideId>L000580</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NM</state>
+        <middleName />
+        <bioguideId>L000580</bioguideId>
+        <lastName>Lujan Grisham</lastName>
+        <firstName>Michelle</firstName>
+      </item>
+      <item>
+        <district>13</district>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <identifiers>
+          <gpoId>8076</gpoId>
+          <lisID>944</lisID>
+          <bioguideId>R000053</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+        <middleName>B.</middleName>
+        <bioguideId>R000053</bioguideId>
+        <lastName>RANGEL</lastName>
+        <firstName>CHARLES</firstName>
+      </item>
+      <item>
+        <district>18</district>
+        <fullName>Rep. Murphy, Patrick [D-FL-18]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001191</bioguideId>
+          <lisID>2117</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>FL</state>
+        <middleName />
+        <bioguideId>M001191</bioguideId>
+        <lastName>Murphy</lastName>
+        <firstName>Patrick</firstName>
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>AZ</state>
+        <middleName>M.</middleName>
+        <bioguideId>G000551</bioguideId>
+        <lastName>Grijalva</lastName>
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <identifiers>
+          <gpoId>8013</gpoId>
+          <lisID>1790</lisID>
+          <bioguideId>C001061</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MO</state>
+        <middleName />
+        <bioguideId>C001061</bioguideId>
+        <lastName>Cleaver</lastName>
+        <firstName>Emanuel</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <middleName />
+        <bioguideId>T000460</bioguideId>
+        <lastName>THOMPSON</lastName>
+        <firstName>MIKE</firstName>
+      </item>
+      <item>
+        <district>11</district>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+          <lisID>2227</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <middleName />
+        <bioguideId>D000623</bioguideId>
+        <lastName>DeSaulnier</lastName>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <district>3</district>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+          <lisID>281</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+        <middleName />
+        <bioguideId>D000216</bioguideId>
+        <lastName>DELAURO</lastName>
+        <firstName>ROSA</firstName>
+      </item>
+      <item>
+        <district>22</district>
+        <fullName>Rep. Frankel, Lois [D-FL-22]</fullName>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+          <lisID>2119</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>FL</state>
+        <middleName />
+        <bioguideId>F000462</bioguideId>
+        <lastName>Frankel</lastName>
+        <firstName>Lois</firstName>
+      </item>
+      <item>
+        <district>0</district>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <identifiers>
+          <lisID>1723</lisID>
+          <bioguideId>B001245</bioguideId>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>GU</state>
+        <middleName>Z.</middleName>
+        <bioguideId>B001245</bioguideId>
+        <lastName>Bordallo</lastName>
+        <firstName>Madeleine</firstName>
+      </item>
+      <item>
+        <district>4</district>
+        <fullName>Rep. Edwards, Donna F. [D-MD-4]</fullName>
+        <identifiers>
+          <gpoId>7979</gpoId>
+          <bioguideId>E000290</bioguideId>
+          <lisID>1894</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MD</state>
+        <middleName>F.</middleName>
+        <bioguideId>E000290</bioguideId>
+        <lastName>Edwards</lastName>
+        <firstName>Donna</firstName>
+      </item>
+      <item>
+        <district>7</district>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <identifiers>
+          <lisID>1889</lisID>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IN</state>
+        <middleName />
+        <bioguideId>C001072</bioguideId>
+        <lastName>Carson</lastName>
+        <firstName>Andre</firstName>
+      </item>
+      <item>
+        <district>15</district>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-04-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CA</state>
+        <middleName />
+        <bioguideId>S001193</bioguideId>
+        <lastName>Swalwell</lastName>
+        <firstName>Eric</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>L000565</bioguideId>
+        <state>IA</state>
+        <identifiers>
+          <lisID>1846</lisID>
+          <gpoId>7915</gpoId>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>David</firstName>
+        <byRequestType />
+        <lastName>Loebsack</lastName>
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <district>2</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-03-01</actionDate>
+          <text><![CDATA[<p>Recognizes and honors: (1) the work of Meals on Wheels America and senior nutrition programs throughout the nation in addressing hunger, isolation, and the quality of life of seniors; (2) the volunteers for the programs; and (3) the role that March for Meals celebrations play in increasing awareness of the need for non-federal funds and volunteers for the programs. </p> <p>Encourages Members of Congress to support their local senior nutrition programs by participating in March for Meals events and by delivering meals to homebound seniors and serving them in a group setting throughout the year. </p>]]></text>
+          <updateDate>2016-03-01T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-03-21T22:12:45Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:10:15Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2016-03-01</introducedDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Recognizing the important work of Meals on Wheels America and senior nutrition programs throughout the Nation in addressing hunger and isolation and improving the health and quality of life for millions of our Nation's seniors each year.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Recognizing the important work of Meals on Wheels America and senior nutrition programs throughout the Nation in addressing hunger and isolation and improving the health and quality of life for millions of our Nation's seniors each year.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-03-01T15:01:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

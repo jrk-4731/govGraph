@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-03-08T14:00:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <amendments />
+    <originChamber>House</originChamber>
+    <createDate>2019-03-09T08:12:06Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congress</name>
+          </item>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Education and Labor</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <relatedBills />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <bioguideId>S000185</bioguideId>
+        <lastName>Scott</lastName>
+        <byRequestType />
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <district>3</district>
+        <state>VA</state>
+        <firstName>Robert</firstName>
+        <identifiers>
+          <lisID>1037</lisID>
+          <bioguideId>S000185</bioguideId>
+          <gpoId>8194</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName>C. "Bobby"</middleName>
+      </item>
+    </sponsors>
+    <title>Providing amounts for the expenses of the Committee on Education and Labor in the One Hundred Sixteenth Congress.</title>
+    <updateDate>2019-03-12T20:00:07Z</updateDate>
+    <billNumber>194</billNumber>
+    <laws />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Providing amounts for the expenses of the Committee on Education and Labor in the One Hundred Sixteenth Congress.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Providing amounts for the expenses of the Committee on Education and Labor in the One Hundred Sixteenth Congress.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <notes />
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-08</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-08</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2019-03-08</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <introducedDate>2019-03-08</introducedDate>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <policyArea />
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1791</lisID>
+          <bioguideId>F000450</bioguideId>
+          <gpoId>8028</gpoId>
+        </identifiers>
+        <bioguideId>F000450</bioguideId>
+        <district>5</district>
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <party>R</party>
+        <lastName>Foxx</lastName>
+        <firstName>Virginia</firstName>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres194ih/xml/BILLS-116hres194ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-08T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <billType>HRES</billType>
+    <recordedVotes />
+    <latestAction>
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2019-03-08</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

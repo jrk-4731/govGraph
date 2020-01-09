@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <createDate>2015-01-07T08:31:10Z</createDate>
+    <amendments />
+    <relatedBills />
+    <billType>SRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <committeeReports />
+    <cosponsors />
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <firstName>MITCH</firstName>
+        <state>KY</state>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <lastName>MCCONNELL</lastName>
+        <identifiers>
+          <gpoId>8254</gpoId>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+        </identifiers>
+        <bioguideId>M000355</bioguideId>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billNumber>7</billNumber>
+    <congress>114</congress>
+    <recordedVotes />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <updateDate>2018-06-02T06:15:11Z</updateDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A resolution fixing the hour of daily meeting of the Senate.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>A resolution fixing the hour of daily meeting of the Senate.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-01-06</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S20</url>
+            <name>S20</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S7</url>
+            <name>S7</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7; text as passed Senate: CR S7; text of measure as introduced: CR S20)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-01-06</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7; text as passed Senate: CR S7; text of measure as introduced: CR S20)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S20</url>
+            <name>S20</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S7</url>
+            <name>S7</name>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2015-01-06</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <title>A resolution fixing the hour of daily meeting of the Senate.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Sets the daily meeting of the Senate at 12 Noon unless otherwise ordered.</p>]]></text>
+          <updateDate>2015-01-06T05:00:00Z</updateDate>
+          <actionDate>2015-01-06</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-01-20T21:10:14Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Sets the daily meeting of the Senate at 12 Noon unless otherwise ordered.</p>]]></text>
+          <updateDate>2015-01-06T16:54:40Z</updateDate>
+          <actionDate>2015-01-06</actionDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2015-02-06T21:54:11Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2015-01-06</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7; text as passed Senate: CR S7; text of measure as introduced: CR S20)</text>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <introducedDate>2015-01-06</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2016-06-23T05:20:43Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <reportedToSenate>2</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-11-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 674.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2016-11-17</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 114-379</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/senate-report/379</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-379.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 114-379</name>
+            <url>https://www.congress.gov/congressional-report/114th-congress/senate-report/379</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 114-379.</text>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2016-11-17</actionDate>
+      </item>
+      <item>
+        <actionDate>2016-06-29</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-06-22</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionCode>10000</actionCode>
+        <actionDate>2016-06-22</actionDate>
+      </item>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <billNumber>3087</billNumber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2016-11-17T22:07:03Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2016-06-29T14:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2016-06-22T22:22:50Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2016-06-22</sponsorshipDate>
+        <party>D</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000127</bioguideId>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <lastName>CANTWELL</lastName>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WA</state>
+        <firstName>MARIA</firstName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-06-23</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001153</bioguideId>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <actionDate>2016-11-17</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 674.</text>
+      <links />
+    </latestAction>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 114-379</citation>
+      </committeeReport>
+    </committeeReports>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>American Fisheries Advisory Committee Act</b></p> <p>This bill amends the Saltonstall-Kennedy Act to direct the National Oceanic and Atmospheric Administration (NOAA)to establish the American Fisheries Advisory Committee.</p> <p>NOAA must establish five regions within the committee.The committee must consist of members chosen regionally and across all sectors of the fishing industry.Additionally, the committee must: (1)identify the needs of the fishing industry, (2)develop grant proposals to fund projects that address the industry needs, (3)review grant applications, and (4)provide NOAA with grant applicants for approval.</p> <p>NOAA must not approve an application unless the application is selected for funding by the committee.</p>]]></text>
+          <lastSummaryUpdateDate>2017-03-23T20:26:47Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2016-06-22</actionDate>
+          <updateDate>2016-06-22T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <name>Reported to Senate with amendment(s)</name>
+          <text><![CDATA[<p><b>American Fisheries Advisory Committee Act</b></p> <p>(Sec. 2)This bill amends the Saltonstall-Kennedy Act to direct the National Oceanic and Atmospheric Administration (NOAA)to establish the American Fisheries Advisory Committee.</p> <p>NOAA must establish six regions within the committee.The committee must consist of members chosen regionally and across all sectors of the fishing industry.Additionally, the committee must: (1)identify the needs of the fishing industry, (2)develop grant proposals to fund projects that address the industry needs, (3)review grant applications, and (4)provide NOAA with grant applicants for approval.</p> <p>NOAA may not approve a grant application unlessthe application selected for funding meets the proposal criteria developed by the committee.</p> <p>(Sec.3) An individual awarded a grant under this bill must publicize the title and abstract of the project. </p>]]></text>
+          <lastSummaryUpdateDate>2017-05-31T21:38:58Z</lastSummaryUpdateDate>
+          <versionCode>01</versionCode>
+          <actionDate>2016-11-17</actionDate>
+          <updateDate>2016-11-17T15:43:17Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <number>0674</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2016-10-27T20:02:19Z</pubDate>
+        <title>S. 3087, American Fisheries Advisory Committee Act</title>
+        <url>https://www.cbo.gov/publication/52140</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <billType>S</billType>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <number>5775</number>
+        <latestTitle>American Fisheries Advisory Committee Act</latestTitle>
+        <latestAction>
+          <actionDate>2016-07-26</actionDate>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        </latestAction>
+        <congress>114</congress>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-11T15:46:39Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Seafood</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to establish the American Fisheries Advisory Committee to assist in the awarding of fisheries research and development grants and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>American Fisheries Advisory Committee Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>114</congress>
+    <introducedDate>2016-06-22</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2016-11-17T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s3087rs/xml/BILLS-114s3087rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2016-06-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s3087is/xml/BILLS-114s3087is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <lastName>Sullivan</lastName>
+        <state>AK</state>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Dan</firstName>
+        <bioguideId>S001198</bioguideId>
+        <middleName />
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>American Fisheries Advisory Committee Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

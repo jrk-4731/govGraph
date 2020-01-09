@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cboCostEstimates />
+    <updateDate>2019-07-04T03:40:07Z</updateDate>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2019-06-18</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2019-06-18</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2019-06-18</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestTitle>Renew America's Schools Act of 2019</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>3322</number>
+        <latestAction>
+          <actionDate>2019-06-18</actionDate>
+          <text>Referred to the House Committee on Education and Labor.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <introducedDate>2019-06-18</introducedDate>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to provide for grants for energy efficiency improvements and renewable energy improvements at public school facilities.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Renew America's Schools Act of 2019</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Renew America's Schools Act of 2019</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>Renew America’s Schools Act of 2019</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <createDate>2019-06-19T04:57:14Z</createDate>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <laws />
+    <billType>S</billType>
+    <billNumber>1890</billNumber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>D</party>
+        <lastName>Cortez Masto</lastName>
+        <state>NV</state>
+        <middleName />
+        <bioguideId>C001113</bioguideId>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <firstName>Catherine</firstName>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+        </identifiers>
+        <bioguideId>F000062</bioguideId>
+        <middleName />
+        <firstName>DIANNE</firstName>
+        <lastName>FEINSTEIN</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <bioguideId>S000770</bioguideId>
+        <middleName>ANN</middleName>
+        <firstName>DEBORAH</firstName>
+        <lastName>STABENOW</lastName>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2301</lisID>
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <bioguideId>H001075</bioguideId>
+        <middleName>D.</middleName>
+        <firstName>Kamala</firstName>
+        <lastName>Harris</lastName>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-06-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s1890is/xml/BILLS-116s1890is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <originChamber>Senate</originChamber>
+    <title>Renew America's Schools Act of 2019</title>
+    <congress>116</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2019-06-18T22:12:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2018-09-07T13:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Arts, Culture, Religion</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2018-09-07</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2018-09-25T19:19:40Z</lastSummaryUpdateDate>
+          <actionDate>2018-09-07</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p>Recognizes the cultural and historical significance of the Hmong New Year.</p> <p>Expresses respect for Hmong Americans celebrating this occasion.</p> <p>Wishes Hmong Americans and all individuals who observe this holiday a happy new year.<br /></p>]]></text>
+          <updateDate>2018-09-07T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Recognizing the celebration of the Hmong New Year in 2018.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Recognizing the celebration of the Hmong New Year in 2018.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2018-09-07</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-09-07</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2018-09-07</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-07</sponsorshipDate>
+        <district>2</district>
+        <lastName>Pocan</lastName>
+        <bioguideId>P000607</bioguideId>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-07</sponsorshipDate>
+        <district>8</district>
+        <lastName>Gallagher</lastName>
+        <bioguideId>G000579</bioguideId>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2355</lisID>
+          <bioguideId>G000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Gwen</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-07</sponsorshipDate>
+        <district>4</district>
+        <lastName>Moore</lastName>
+        <bioguideId>M001160</bioguideId>
+        <state>WI</state>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>BETTY</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-07</sponsorshipDate>
+        <district>4</district>
+        <lastName>MCCOLLUM</lastName>
+        <bioguideId>M001143</bioguideId>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Sean</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-07</sponsorshipDate>
+        <district>7</district>
+        <lastName>Duffy</lastName>
+        <bioguideId>D000614</bioguideId>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2072</lisID>
+          <bioguideId>D000614</bioguideId>
+          <gpoId>8220</gpoId>
+        </identifiers>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Juan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-07</sponsorshipDate>
+        <district>51</district>
+        <lastName>Vargas</lastName>
+        <bioguideId>V000130</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Alan</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-13</sponsorshipDate>
+        <district>47</district>
+        <lastName>Lowenthal</lastName>
+        <bioguideId>L000579</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-13</sponsorshipDate>
+        <district>41</district>
+        <lastName>Takano</lastName>
+        <bioguideId>T000472</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-13</sponsorshipDate>
+        <district>3</district>
+        <lastName>KIND</lastName>
+        <bioguideId>K000188</bioguideId>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1498</lisID>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+        </identifiers>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-25</sponsorshipDate>
+        <district>16</district>
+        <lastName>Costa</lastName>
+        <bioguideId>C001059</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7825</gpoId>
+          <lisID>1774</lisID>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Judy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-25</sponsorshipDate>
+        <district>27</district>
+        <lastName>Chu</lastName>
+        <bioguideId>C001080</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Doris</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>O.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-10-09</sponsorshipDate>
+        <district>6</district>
+        <lastName>Matsui</lastName>
+        <bioguideId>M001163</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7810</gpoId>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+        </identifiers>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <billType>HRES</billType>
+    <sponsors>
+      <item>
+        <firstName>Glenn</firstName>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <middleName />
+        <bioguideId>G000576</bioguideId>
+        <lastName>Grothman</lastName>
+        <state>WI</state>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <notes />
+    <billNumber>1056</billNumber>
+    <updateDate>2019-04-18T15:55:54Z</updateDate>
+    <relatedBills />
+    <amendments />
+    <textVersions>
+      <item>
+        <date>2018-09-07T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres1056ih/xml/BILLS-115hres1056ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <createDate>2018-09-08T07:10:32Z</createDate>
+    <introducedDate>2018-09-07</introducedDate>
+    <committeeReports />
+    <title>Recognizing the celebration of the Hmong New Year in 2018.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

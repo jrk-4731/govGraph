@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-06-07T21:47:33-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.745", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/745"
+        }, 
+        {
+          "name": "Roll no. 251", 
+          "url": "http://clerk.house.gov/evs/2018/roll251.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 251, 
+      "text": "On agreeing to the Blackburn amendment (A032) Failed by recorded vote: 155 - 262 (Roll no. 251).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-06-07T20:02:21-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.745", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/745"
+        }, 
+        {
+          "name": "H4950-4952", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4950-4952"
+        }, 
+        {
+          "name": "H4951", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4951"
+        }, 
+        {
+          "name": "H4962-4963", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4962-4963"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4950-4952, H4962-4963", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4951", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A032) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-07", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-07T20:02:21-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.745", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/745"
+        }, 
+        {
+          "name": "H4950-4952", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4950-4952"
+        }, 
+        {
+          "name": "H4951", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4951"
+        }, 
+        {
+          "name": "H4962-4963", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4962-4963"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4950-4952, H4962-4963", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4951", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A032) offered by Mrs. Blackburn.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-07T21:47:33-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.745", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/745"
+        }, 
+        {
+          "name": "Roll no. 251", 
+          "url": "http://clerk.house.gov/evs/2018/roll251.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-07T21:47:33-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.745", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/745"
+        }, 
+        {
+          "name": "Roll no. 251", 
+          "url": "http://clerk.house.gov/evs/2018/roll251.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-07T21:47:33-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.745", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/745"
+        }, 
+        {
+          "name": "Roll no. 251", 
+          "url": "http://clerk.house.gov/evs/2018/roll251.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Blackburn amendment (A032) Failed by recorded vote: 155 - 262 (Roll no. 251).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-06-07", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt745-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5895-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 5895
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to provide for a one percent across the board cut to the discretionary spending levels in Division A of the bill.", 
+  "introduced_at": "2018-06-07", 
+  "number": 745, 
+  "purpose": "An amendment numbered 34 printed in Part B of House Report 115-711 to provide for a one percent across the board cut to the discretionary spending levels in Division A of the bill.", 
+  "sponsor": {
+    "bioguide_id": "B001243", 
+    "district": "7", 
+    "name": "Blackburn, Marsha", 
+    "state": "TN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2018-06-07T21:47:33-04:00", 
+  "updated_at": "2019-06-13T19:57:30Z"
+}

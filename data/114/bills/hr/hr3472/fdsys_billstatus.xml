@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-03-23</actionDate>
+        <committee>
+          <name>Workforce Protections Subcommittee</name>
+          <systemCode>hsed10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Workforce Protections.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionDate>2015-09-10</actionDate>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2015-09-10</actionDate>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2015-09-10</actionDate>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>Adjusting Davis-Bacon for Inflation Act</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Labor standards</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2015-09-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr3472ih/xml/BILLS-114hr3472ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2016-03-23</actionDate>
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </latestAction>
+    <createDate>2015-09-11T08:45:50Z</createDate>
+    <billNumber>3472</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <district>3</district>
+        <middleName />
+        <state>MI</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>A000367</bioguideId>
+        <identifiers>
+          <lisID>2029</lisID>
+          <bioguideId>A000367</bioguideId>
+          <gpoId>7988</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Amash</lastName>
+        <party>R</party>
+        <firstName>Justin</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <district>7</district>
+        <middleName />
+        <state>TN</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>B001243</bioguideId>
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <firstName>Marsha</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <district>5</district>
+        <middleName />
+        <state>CO</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>L000564</bioguideId>
+        <identifiers>
+          <bioguideId>L000564</bioguideId>
+          <gpoId>7863</gpoId>
+          <lisID>1834</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lamborn</lastName>
+        <party>R</party>
+        <firstName>Doug</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <district>5</district>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>M001182</bioguideId>
+        <identifiers>
+          <bioguideId>M001182</bioguideId>
+          <gpoId>8145</gpoId>
+          <lisID>2059</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Mulvaney</lastName>
+        <party>R</party>
+        <firstName>Mick</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <district>4</district>
+        <middleName />
+        <state>OK</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>C001053</bioguideId>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+        <party>R</party>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <district>4</district>
+        <middleName />
+        <state>IA</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>K000362</bioguideId>
+        <identifiers>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>King</lastName>
+        <party>R</party>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pompeo, Mike [R-KS-4]</fullName>
+        <district>4</district>
+        <middleName />
+        <state>KS</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>P000602</bioguideId>
+        <identifiers>
+          <bioguideId>P000602</bioguideId>
+          <gpoId>7952</gpoId>
+          <lisID>2022</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pompeo</lastName>
+        <party>R</party>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <district>4</district>
+        <middleName />
+        <state>CO</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>B001297</bioguideId>
+        <identifiers>
+          <bioguideId>B001297</bioguideId>
+          <gpoId />
+          <lisID>2233</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Buck</lastName>
+        <party>R</party>
+        <firstName>Ken</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <district>4</district>
+        <middleName>A.</middleName>
+        <state>AZ</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>G000565</bioguideId>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <district>8</district>
+        <middleName />
+        <state>AZ</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>F000448</bioguideId>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Franks</lastName>
+        <party>R</party>
+        <firstName>Trent</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <district>1</district>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>C000266</bioguideId>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CHABOT</lastName>
+        <party>R</party>
+        <firstName>STEVE</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+        <district>5</district>
+        <middleName />
+        <state>AZ</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>S000018</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>1009</lisID>
+          <bioguideId>S000018</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SALMON</lastName>
+        <party>R</party>
+        <firstName>MATT</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <district>6</district>
+        <middleName />
+        <state>WI</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>G000576</bioguideId>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+          <lisID>2276</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <firstName>Glenn</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <district>7</district>
+        <middleName />
+        <state>VA</state>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>B001290</bioguideId>
+        <identifiers>
+          <bioguideId>B001290</bioguideId>
+          <gpoId />
+          <lisID>2203</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Brat</lastName>
+        <party>R</party>
+        <firstName>Dave</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <district>2</district>
+        <middleName />
+        <state>UT</state>
+        <sponsorshipDate>2015-09-11</sponsorshipDate>
+        <bioguideId>S001192</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001192</bioguideId>
+          <lisID>2168</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Stewart</lastName>
+        <party>R</party>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <district>1</district>
+        <middleName />
+        <state>FL</state>
+        <sponsorshipDate>2015-09-18</sponsorshipDate>
+        <bioguideId>M001144</bioguideId>
+        <identifiers>
+          <gpoId>7873</gpoId>
+          <lisID>1685</lisID>
+          <bioguideId>M001144</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <district>5</district>
+        <middleName>Lee</middleName>
+        <state>LA</state>
+        <sponsorshipDate>2015-09-18</sponsorshipDate>
+        <bioguideId>A000374</bioguideId>
+        <identifiers>
+          <bioguideId>A000374</bioguideId>
+          <gpoId />
+          <lisID>2244</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Abraham</lastName>
+        <party>R</party>
+        <firstName>Ralph</firstName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+        <district>7</district>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <bioguideId>R000597</bioguideId>
+        <identifiers>
+          <lisID>2160</lisID>
+          <gpoId />
+          <bioguideId>R000597</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rice</lastName>
+        <party>R</party>
+        <firstName>Tom</firstName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2057</lisID>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <byRequestType />
+        <lastName>Duncan</lastName>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <district>3</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 130 (Thursday, September 10, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DUNCAN of South Carolina:H.R. 3472.Congress has the power to enact this legislation pursuantto the following:Because this legislation adjusts the formula the federalgovernment uses to spend money on federal contracts, it isauthorized by the Constitution under Article 1, Section 8,Clause 1, which grants Congress its spending power.[Page H5942]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-09-10</actionDate>
+          <text><![CDATA[<p><b>Adjusting Davis-Bacon for Inflation Act</b></p> <p> Increases from $2,000 to $50,000 the contract threshold requiring the locally prevailing wage rate to be paid to various classes of laborers and mechanics working under federally-financed or federally-assisted contracts for construction, alteration, and repair of public buildings or public works (Davis-Bacon Act).</p>]]></text>
+          <updateDate>2015-09-10T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-09-18T21:16:45Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:10:00Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2015-09-10</introducedDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Adjusting Davis-Bacon for Inflation Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the provisions of title 40, United States Code, commonly known as the Davis-Bacon Act, to raise the threshold dollar amount of contracts subject to the prevailing wage requirements of such provisions.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Adjusting Davis-Bacon for Inflation Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-09-10T14:01:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsed10</systemCode>
+              <activities>
+                <item>
+                  <date>2016-03-23T21:20:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Workforce Protections Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

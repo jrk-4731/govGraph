@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <becamePublicLaw>2</becamePublicLaw>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <passedSenate>1</passedSenate>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <placeholderTextForE>3</placeholderTextForE>
+        <considerationByHouse>1</considerationByHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <billReferrals>5</billReferrals>
+        <houseCommitteeDischarged>5</houseCommitteeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>6</committeeDischarged>
+        <sentToHouse>1</sentToHouse>
+        <presentedToPresident>1</presentedToPresident>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <committee />
+        <type>President</type>
+        <text>Became Public Law No: 115-277.</text>
+        <actionDate>2018-11-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/6870/text/pl</url>
+            <name>Public Law No: 115-277</name>
+          </link>
+        </links>
+        <actionCode>E40000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>BecameLaw</type>
+        <text>Became Public Law No: 115-277.</text>
+        <actionDate>2018-11-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/6870/text/pl</url>
+            <name>Public Law No: 115-277</name>
+          </link>
+        </links>
+        <actionCode>36000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>President</type>
+        <text>Signed by President.</text>
+        <actionDate>2018-11-03</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>E30000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>BecameLaw</type>
+        <text>Signed by President.</text>
+        <actionDate>2018-11-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>36000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <text>Presented to President.</text>
+        <actionDate>2018-10-24</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>E20000</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>President</type>
+        <text>Presented to President.</text>
+        <actionDate>2018-10-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>28000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-10-12</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-10-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <actionDate>2018-10-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-10-11</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S6879-6880</url>
+            <name>S6879-6880</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6879-6880)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6879-6880)</text>
+        <actionDate>2018-10-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S6879-6880</url>
+            <name>S6879-6880</name>
+          </link>
+        </links>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2018-10-01</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:25:51</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H9357</url>
+            <name>H9357</name>
+          </link>
+        </links>
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:25:42</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>On passage Passed without objection. (text: CR H9357)</text>
+        <actionCode>H37100</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H9357</url>
+            <name>H9357</name>
+          </link>
+        </links>
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:25:42</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On passage Passed without objection.(text: CR H9357)</text>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H9357</url>
+            <name>H9357</name>
+          </link>
+        </links>
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:25:19</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Considered by unanimous consent. (consideration: CR H9357)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>Floor</type>
+        <actionTime>12:24:59</actionTime>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Mr. Comer asked unanimous consent to discharge from committee and consider.</text>
+        <actionCode>H30200</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>Discharge</type>
+        <text>Committee on the Judiciary discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>Committee on the Judiciary discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>Discharge</type>
+        <text>Committee on House Administration discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>Committee on House Administration discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>Discharge</type>
+        <text>Committee on Agriculture discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>Committee on Agriculture discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>Discharge</type>
+        <text>Committee on Financial Services discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>Committee on Financial Services discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <type>Discharge</type>
+        <text>Committee on Oversight and Government discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H12300</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <type>Committee</type>
+        <text>Committee on Oversight and Government discharged.</text>
+        <actionDate>2018-09-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>5500</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Financial Services, Agriculture, House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-09-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Financial Services, Agriculture, House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-09-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Financial Services, Agriculture, House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-09-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Financial Services, Agriculture, House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-09-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Financial Services, Agriculture, House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-09-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2018-09-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2018-09-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>22</houseOfRepresentatives>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To rename the Stop Trading on Congressional Knowledge Act of 2012 in honor of Representative Louise McIntosh Slaughter.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To rename the Stop Trading on Congressional Knowledge Act of 2012 in honor of Representative Louise McIntosh Slaughter.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Paul</firstName>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <bioguideId>T000469</bioguideId>
+        <state>NY</state>
+        <district>20</district>
+        <lastName>Tonko</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <updateDate>2019-07-15T21:58:23Z</updateDate>
+    <billNumber>6870</billNumber>
+    <createDate>2018-09-26T07:10:57Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 158 (Tuesday, September 25, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TONKO:H.R. 6870.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 18 ``To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.''[Page H8885]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-09-25T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2018-10-12T18:21:37Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill changes the title of the Stop Trading on Congressional Knowledge Act of 2012 to the &quot;Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act.&quot;</p>]]></text>
+          <actionDate>2018-09-25</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+        <item>
+          <updateDate>2018-09-28T13:07:19Z</updateDate>
+          <name>Passed House without amendment</name>
+          <lastSummaryUpdateDate>2018-10-12T18:20:50Z</lastSummaryUpdateDate>
+          <versionCode>81</versionCode>
+          <text><![CDATA[<p>(Sec. 1) This bill changes the title of the Stop Trading on Congressional Knowledge Act of 2012 to the &quot;Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act.&quot;</p>]]></text>
+          <actionDate>2018-09-28</actionDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+        </item>
+        <item>
+          <updateDate>2018-10-11T13:29:44Z</updateDate>
+          <name>Passed Senate without amendment</name>
+          <lastSummaryUpdateDate>2018-10-26T17:58:30Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <text><![CDATA[<p>(Sec. 1) This bill changes the title of the Stop Trading on Congressional Knowledge Act of 2012 to the &quot;Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act.&quot;</p>]]></text>
+          <actionDate>2018-10-11</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+        </item>
+        <item>
+          <updateDate>2018-11-04T03:59:58Z</updateDate>
+          <name>Public Law</name>
+          <lastSummaryUpdateDate>2018-11-09T18:18:34Z</lastSummaryUpdateDate>
+          <versionCode>49</versionCode>
+          <text><![CDATA[<p>(Sec. 1) This bill changes the title of the Stop Trading on Congressional Knowledge Act of 2012 to the &quot;Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act.&quot;</p>]]></text>
+          <actionDate>2018-11-03</actionDate>
+          <actionDesc>Public Law</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2018-10-12T01:52:24Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2018-10-01T21:08:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2018-09-28T16:20:21Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2018-09-25T16:02:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2018-09-28T16:20:18Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2018-09-25T16:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsag00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <date>2018-09-28T16:20:16Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2018-09-25T16:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Financial Services Committee</name>
+          <activities>
+            <item>
+              <date>2018-09-28T16:20:14Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2018-09-25T16:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <date>2018-09-28T16:20:13Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2018-09-25T16:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <links>
+        <link>
+          <url>https://www.congress.gov/bill/115th-congress/house-bill/6870/text/pl</url>
+          <name>Public Law No: 115-277</name>
+        </link>
+      </links>
+      <text>Became Public Law No: 115-277.</text>
+      <actionDate>2018-11-03</actionDate>
+    </latestAction>
+    <laws>
+      <item>
+        <number>115-277</number>
+        <type>Public Law</type>
+      </item>
+    </laws>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6870enr/xml/BILLS-115hr6870enr.xml</url>
+          </item>
+        </formats>
+        <type>Enrolled Bill</type>
+        <date />
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6870rfs/xml/BILLS-115hr6870rfs.xml</url>
+          </item>
+        </formats>
+        <type>Referred in Senate</type>
+        <date>2018-10-01T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6870eh/xml/BILLS-115hr6870eh.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in House</type>
+        <date>2018-09-28T04:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6870ih/xml/BILLS-115hr6870ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2018-09-25T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2018-09-25</introducedDate>
+    <cboCostEstimates />
+    <title>To rename the Stop Trading on Congressional Knowledge Act of 2012 in honor of Representative Louise McIntosh Slaughter.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

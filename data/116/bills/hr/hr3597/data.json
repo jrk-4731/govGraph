@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-28", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-28", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Science, Space, and Technology.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-03", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Energy.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-10", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-10", 
+      "action_code": "", 
+      "committees": [
+        "HSSY"
+      ], 
+      "references": [], 
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 7 - 5 .", 
+      "type": "action"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3597-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Science, Space, and Technology", 
+      "committee_id": "HSSY", 
+      "subcommittee": "Subcommittee on Energy", 
+      "subcommittee_id": "20"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "F000449", 
+      "district": "1", 
+      "name": "Fortenberry, Jeff", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-28", 
+      "state": "NE", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-28", 
+  "number": "3597", 
+  "official_title": "To guide and authorize basic research programs in the United States for research, development, and demonstration of solar energy technologies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Solar Energy Research and Development Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "M001209", 
+    "district": "4", 
+    "name": "McAdams, Ben", 
+    "state": "UT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-28", 
+  "subjects": [
+    "Energy"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To guide and authorize basic research programs in the United States for research, development, and demonstration of solar energy technologies, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Solar Energy Research and Development Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Solar Energy Research and Development Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Solar Energy Research and Development Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-19T03:51:54Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3597.xml"
+}

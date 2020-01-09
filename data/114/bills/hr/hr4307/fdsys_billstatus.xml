@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-13T17:31:20Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>6</district>
+        <firstName>Grace</firstName>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <lastName>Meng</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+        </identifiers>
+        <party>D</party>
+        <bioguideId>M001188</bioguideId>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2016-01-04T22:50:51Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-12-18T14:00:47Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-12-21T21:40:46Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Transportation and Infrastructure Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-12-18T14:00:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hspw00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-12-18T14:00:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-12-18</introducedDate>
+    <createDate>2015-12-19T10:20:21Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>3</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-01-04</actionDate>
+        <committee>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-12-21</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Transportation and Infrastructure, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-12-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Transportation and Infrastructure, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-12-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Transportation and Infrastructure, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-12-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Transportation and Infrastructure, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-12-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2015-12-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2015-12-18</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <relatedBills />
+    <billNumber>4307</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2015-12-18</actionDate>
+          <updateDate>2015-12-18T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-01-05T17:53:35Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>National Museum of Asian Pacific American History and Culture Act</b></p> <p>This bill establishes a National Museum of Asian Pacific American History and Culture within the Smithsonian Institution to provide for the collection, study, and establishment of programs related to Asian Pacific American life, art, history, and culture. </p> <p>The bill also establishes a National Museum of Asian Pacific American History and Culture Council to: (1) make recommendations to the Board of Regents of the Smithsonian Institution concerning construction of the Museum, and (2) advise and assist the Board on all matters related to the Museum's administration and preservation. </p> <p>The Institute of Museum and Library Services shall establish: (1) a grant program for improving operations, care of collections, and development of professional management at Asian Pacific American museums; (2) a grant program that provides internship and fellowship opportunities at such museums; and (3) a scholarship program for assisting individuals who are pursuing careers or carrying out studies in the arts, humanities, and sciences in the study of Asian Pacific American life, art, history, and culture. </p> <p>The Board shall designate a site for the Museum within 12 months of this Act's enactment.</p>]]></text>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <links />
+      <actionDate>2016-01-04</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 185 (Friday, December 18, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 4307.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution.[Page H10711]</pre>]]></constitutionalAuthorityStatementText>
+    <title>National Museum of Asian Pacific American History and Culture Act</title>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>B001245</bioguideId>
+        <sponsorshipDate>2015-12-18</sponsorshipDate>
+        <district>0</district>
+        <lastName>Bordallo</lastName>
+        <state>GU</state>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Madeleine</firstName>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>Z.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>G000553</bioguideId>
+        <sponsorshipDate>2015-12-18</sponsorshipDate>
+        <district>9</district>
+        <lastName>Green</lastName>
+        <state>TX</state>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Al</firstName>
+        <identifiers>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>H001034</bioguideId>
+        <sponsorshipDate>2015-12-18</sponsorshipDate>
+        <district>17</district>
+        <lastName>HONDA</lastName>
+        <state>CA</state>
+        <fullName>Rep. Honda, Michael M. [D-CA-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <bioguideId>H001034</bioguideId>
+          <gpoId>7820</gpoId>
+          <lisID>1634</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>C001080</bioguideId>
+        <sponsorshipDate>2015-12-18</sponsorshipDate>
+        <district>27</district>
+        <lastName>Chu</lastName>
+        <state>CA</state>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Judy</firstName>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>L000582</bioguideId>
+        <sponsorshipDate>2015-12-18</sponsorshipDate>
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <state>CA</state>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2230</lisID>
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000622</bioguideId>
+        <sponsorshipDate>2016-05-19</sponsorshipDate>
+        <district>8</district>
+        <lastName>Duckworth</lastName>
+        <state>IL</state>
+        <fullName>Rep. Duckworth, Tammy [D-IL-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tammy</firstName>
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Art, artists, authorship</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Smithsonian Institution</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Arts, Culture, Religion</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>National Museum of Asian Pacific American History and Culture Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To establish within the Smithsonian Institution the National Museum of Asian Pacific American History and Culture, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>National Museum of Asian Pacific American History and Culture Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

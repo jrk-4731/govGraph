@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-04-26T17:28:38-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.557", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/557"
+        }, 
+        {
+          "name": "Roll no. 157", 
+          "url": "http://clerk.house.gov/evs/2018/roll157.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 157, 
+      "text": "On agreeing to the King (IA) amendment (A012) Failed by recorded vote: 172 - 243 (Roll no. 157).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-04-26T15:07:12-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.557", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/557"
+        }, 
+        {
+          "name": "H3664", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H3664"
+        }, 
+        {
+          "name": "H3664-3666", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H3664-3666"
+        }, 
+        {
+          "name": "H3685-3686", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H3685-3686"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3664-3666, H3685-3686", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3664", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A012) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-26", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-26T15:07:12-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.557", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/557"
+        }, 
+        {
+          "name": "H3664", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H3664"
+        }, 
+        {
+          "name": "H3664-3666", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H3664-3666"
+        }, 
+        {
+          "name": "H3685-3686", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H3685-3686"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3664-3666, H3685-3686", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3664", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A012) offered by Mr. King (IA).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-26T17:28:38-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.557", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/557"
+        }, 
+        {
+          "name": "Roll no. 157", 
+          "url": "http://clerk.house.gov/evs/2018/roll157.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-26T17:28:38-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.557", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/557"
+        }, 
+        {
+          "name": "Roll no. 157", 
+          "url": "http://clerk.house.gov/evs/2018/roll157.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-26T17:28:38-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.557", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/557"
+        }, 
+        {
+          "name": "Roll no. 157", 
+          "url": "http://clerk.house.gov/evs/2018/roll157.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the King (IA) amendment (A012) Failed by recorded vote: 172 - 243 (Roll no. 157).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-04-26", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt557-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr4-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 4
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "At the end of title V of the bill, add the following:    SEC. __. PREVAILING RATE OF WAGE REQUIREMENTS.    None of the funds made available by this Act, including the amendments made by this Act, may be used to implement, administer, or enforce the prevailing rate of wage requirements in subchapter IV of chapter 31 of title 40, United States Code (commonly referred to as the Davis-Bacon Act).", 
+  "introduced_at": "2018-04-26", 
+  "number": 557, 
+  "purpose": "An amendment numbered 63 printed in Part A of House Report 115-650 to ensure that none of the funds authorized by the Act are used to implement, administer, or enforce the prevailing wage requirements of the Davis-Bacon Act.", 
+  "sponsor": {
+    "bioguide_id": "K000362", 
+    "district": "4", 
+    "name": "King, Steve", 
+    "state": "IA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2018-04-26T17:28:38-04:00", 
+  "updated_at": "2019-06-13T20:34:07Z"
+}

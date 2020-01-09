@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>1087</billNumber>
+    <congress>116</congress>
+    <createDate>2019-02-08T08:10:22Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-03-25</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2019-02-07</actionDate>
+      </item>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-07T15:09:50Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-25T13:42:25Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju05</systemCode>
+              <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-06-14T20:30:08Z</updateDate>
+    <introducedDate>2019-02-07</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LUETKEMEYER:H.R. 1087.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H1463]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-03-25</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To require each agency, in providing notice of a rulemaking, to include a link to a 100-word plain language summary of the proposed rule.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing Accountability Through Transparency Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing Accountability Through Transparency Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Providing Accountability Through Transparency Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1087ih/xml/BILLS-116hr1087ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <latestAction>
+          <text>Referred to the House Committee on the Judiciary.</text>
+          <actionDate>2019-06-12</actionDate>
+        </latestAction>
+        <latestTitle>Providing Accountability Through Transparency Act of 2019</latestTitle>
+        <number>395</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2121</lisID>
+          <bioguideId>C001093</bioguideId>
+        </identifiers>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <state>GA</state>
+        <party>R</party>
+        <bioguideId>C001093</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>Doug</firstName>
+        <lastName>Collins</lastName>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2143</lisID>
+          <bioguideId>H001065</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Holding, George [R-NC-2]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <bioguideId>H001065</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>George</firstName>
+        <lastName>Holding</lastName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7987</gpoId>
+          <bioguideId>H001058</bioguideId>
+          <lisID>2028</lisID>
+        </identifiers>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <state>MI</state>
+        <party>R</party>
+        <bioguideId>H001058</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <lastName>Huizenga</lastName>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2454</lisID>
+          <bioguideId>R000611</bioguideId>
+        </identifiers>
+        <fullName>Rep. Riggleman, Denver [R-VA-5]</fullName>
+        <state>VA</state>
+        <party>R</party>
+        <bioguideId>R000611</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>Denver</firstName>
+        <lastName>Riggleman</lastName>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+          <lisID>2350</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <bioguideId>A000375</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>Jodey</firstName>
+        <lastName>Arrington</lastName>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2256</lisID>
+          <bioguideId>R000603</bioguideId>
+        </identifiers>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <state>NC</state>
+        <party>R</party>
+        <bioguideId>R000603</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>David</firstName>
+        <lastName>Rouzer</lastName>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <state>OH</state>
+        <party>R</party>
+        <bioguideId>C000266</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>STEVE</firstName>
+        <lastName>CHABOT</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001052</bioguideId>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+        </identifiers>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <state>MD</state>
+        <party>R</party>
+        <bioguideId>H001052</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>Andy</firstName>
+        <lastName>Harris</lastName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <bioguideId>R000601</bioguideId>
+        <sponsorshipDate>2019-02-07</sponsorshipDate>
+        <firstName>John</firstName>
+        <lastName>Ratcliffe</lastName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8173</gpoId>
+          <lisID>2065</lisID>
+          <bioguideId>F000461</bioguideId>
+        </identifiers>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <state>TX</state>
+        <party>R</party>
+        <bioguideId>F000461</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <lastName>Flores</lastName>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+        </identifiers>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <state>MO</state>
+        <party>R</party>
+        <bioguideId>H001053</bioguideId>
+        <sponsorshipDate>2019-02-22</sponsorshipDate>
+        <firstName>Vicky</firstName>
+        <lastName>Hartzler</lastName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>Blaine</firstName>
+        <lastName>Luetkemeyer</lastName>
+        <district>3</district>
+        <party>R</party>
+        <byRequestType />
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <identifiers>
+          <gpoId>8017</gpoId>
+          <bioguideId>L000569</bioguideId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <state>MO</state>
+        <middleName />
+        <bioguideId>L000569</bioguideId>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <title>Providing Accountability Through Transparency Act of 2019</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><STRONG>Providing Accountability Through Transparency Act of 2019</STRONG></p> <p>This bill requires the notice of a proposed rule by a federal agency to include the Internet address of a summary of the rule. The summary must be 100 words or fewer, written in plain language, and posted on regulations.gov.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2019-02-07</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-06-14T20:21:31Z</lastSummaryUpdateDate>
+          <updateDate>2019-02-07T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

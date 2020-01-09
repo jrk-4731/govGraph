@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <district>1</district>
+        <middleName>D.</middleName>
+        <fullName>Rep. Ryan, Paul D. [R-WI-1]</fullName>
+        <bioguideId>R000570</bioguideId>
+        <party>R</party>
+        <lastName>Ryan</lastName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8214</gpoId>
+          <lisID>1560</lisID>
+          <bioguideId>R000570</bioguideId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <state>WI</state>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2015-02-03</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+    </latestAction>
+    <laws />
+    <updateDate>2018-06-02T01:16:30Z</updateDate>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <introducedDate>2015-02-03</introducedDate>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+        <actionDate>2015-02-03</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2015-02-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2015-02-03</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <createDate>2015-02-04T04:46:19Z</createDate>
+    <billType>HRES</billType>
+    <relatedBills />
+    <cboCostEstimates />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on Ways and Means</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7997</gpoId>
+          <lisID>683</lisID>
+          <bioguideId>L000263</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-02-03</sponsorshipDate>
+        <firstName>SANDER</firstName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <lastName>LEVIN</lastName>
+        <bioguideId>L000263</bioguideId>
+        <middleName>M.</middleName>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Fourteenth Congress.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Fourteenth Congress.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-02-03T15:03:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>84</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-02-03</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2015-02-03T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-02-04T21:27:13Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Provides amounts for the expenses of the House Committee on Ways and Means for the 114th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <title>Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Fourteenth Congress.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

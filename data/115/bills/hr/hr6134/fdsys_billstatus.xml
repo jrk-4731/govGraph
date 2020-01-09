@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-06-20T07:10:48Z</createDate>
+    <introducedDate>2018-06-19</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-07-30</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Citizenship Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-06-19</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-06-19</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2018-06-19</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2018-06-19</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <actionDate>2018-07-30</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Equal Protection of Unaccompanied Minors Act</b></p> <p>This bill establishes rules for the care of unaccompanied alien children (under age 18) in detention. It also revises rules for the detention of aliens who commit violent crimes and expands the grounds of inadmissibility and deportability for alien gang members.</p> <p>The bill revises asylum provisions and imposes criminal penalties for asylum fraud.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-04-15T20:29:02Z</lastSummaryUpdateDate>
+          <actionDate>2018-06-19</actionDate>
+          <updateDate>2018-06-19T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>6134</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>M001187</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <firstName>Mark</firstName>
+        <state>NC</state>
+        <lastName>Meadows</lastName>
+        <byRequestType />
+        <district>11</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:24:46Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <date>2018-06-19T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6134ih/xml/BILLS-115hr6134ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Chemical and biological weapons</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Crimes against property</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Juvenile crime and gang violence</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 102 (Tuesday, June 19, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. MEADOWS:H.R. 6134.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 4[Page H5285]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestTitle>Protection of Children Act of 2017</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>495</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 12.</text>
+          <actionDate>2017-06-21</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Community Safety and Security Act of 2018</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>6691</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2018-09-12</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Families First Act of 2018</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>6204</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+          <actionDate>2018-08-02</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>End Catch and Release Act</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>7068</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+          <actionDate>2018-11-15</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <activities>
+                <item>
+                  <date>2018-07-30T16:40:54Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Citizenship Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-06-19T16:01:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-06-19T16:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2307</lisID>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001302</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Andy</firstName>
+        <lastName>Biggs</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8766</gpoId>
+          <lisID>1806</lisID>
+          <bioguideId>M001158</bioguideId>
+        </identifiers>
+        <bioguideId>M001158</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kenny</firstName>
+        <lastName>Marchant</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+          <gpoId />
+          <lisID>2336</lisID>
+        </identifiers>
+        <bioguideId>B001305</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ted</firstName>
+        <lastName>Budd</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2361</lisID>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>N000190</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <state>SC</state>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ralph</firstName>
+        <lastName>Norman</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <bioguideId>D000615</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <state>SC</state>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <lastName>Duncan</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <bioguideId>J000255</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>WALTER</firstName>
+        <lastName>JONES</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <bioguideId>S000250</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <district>32</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PETE</firstName>
+        <lastName>SESSIONS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001071</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <sponsorshipDate>2018-06-20</sponsorshipDate>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jody</firstName>
+        <lastName>Hice</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1012</lisID>
+          <bioguideId>S000051</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S000051</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <sponsorshipDate>2018-06-22</sponsorshipDate>
+        <state>SC</state>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <lastName>Sanford</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001290</bioguideId>
+          <lisID>2203</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001290</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <sponsorshipDate>2018-06-25</sponsorshipDate>
+        <state>VA</state>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Dave</firstName>
+        <lastName>Brat</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000806</bioguideId>
+          <gpoId>7880</gpoId>
+          <lisID>2002</lisID>
+        </identifiers>
+        <bioguideId>W000806</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <sponsorshipDate>2018-06-26</sponsorshipDate>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Daniel</firstName>
+        <lastName>Webster</lastName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To clarify standards of family detention and the treatment of unaccompanied alien children, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Equal Protection of Unaccompanied Minors Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Equal Protection of Unaccompanied Minors Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Equal Protection of Unaccompanied Minors Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>Equal Protection of Unaccompanied Minors Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

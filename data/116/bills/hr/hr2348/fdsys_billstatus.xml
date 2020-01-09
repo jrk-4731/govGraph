@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>2348</billNumber>
+    <congress>116</congress>
+    <createDate>2019-04-23T07:12:06Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-20</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2019-04-22</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-04-22</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2019-04-22</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2019-04-22T13:30:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2019-05-20T19:00:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2019-06-14T07:15:49Z</updateDate>
+    <introducedDate>2019-04-22</introducedDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BLUNT ROCHESTER:H.R. 2348.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clauses 1, 3, and 18.[Page H3280]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2019-05-20</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To require automatic sealing of certain criminal records, and for other purposes.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Clean Slate Act of 2019</title>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Clean Slate Act of 2019</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Clean Slate Act of 2019</title>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2348ih/xml/BILLS-116hr2348ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-04-22T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000610</bioguideId>
+          <lisID>2436</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000610</bioguideId>
+        <sponsorshipDate>2019-04-22</sponsorshipDate>
+        <firstName>Guy</firstName>
+        <district>14</district>
+        <lastName>Reschenthaler</lastName>
+        <fullName>Rep. Reschenthaler, Guy [R-PA-14]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2298</lisID>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000296</bioguideId>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <firstName>Dwight</firstName>
+        <district>3</district>
+        <lastName>Evans</lastName>
+        <fullName>Rep. Evans, Dwight [D-PA-3]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <firstName>Rodney</firstName>
+        <district>13</district>
+        <lastName>Davis</lastName>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000627</bioguideId>
+          <lisID>2320</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName>Butler</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000627</bioguideId>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <firstName>Val</firstName>
+        <district>10</district>
+        <lastName>Demings</lastName>
+        <fullName>Rep. Demings, Val Butler [D-FL-10]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000377</bioguideId>
+          <lisID>2417</lisID>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ND</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000377</bioguideId>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <firstName>Kelly</firstName>
+        <district>0</district>
+        <lastName>Armstrong</lastName>
+        <fullName>Rep. Armstrong, Kelly [R-ND-At Large]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+          <lisID>2389</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName>Gregory</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001214</bioguideId>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <firstName>W.</firstName>
+        <district>17</district>
+        <lastName>Steube</lastName>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2190</lisID>
+          <bioguideId>K000385</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <middleName>L.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000385</bioguideId>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <firstName>Robin</firstName>
+        <district>2</district>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001270</bioguideId>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <firstName>Karen</firstName>
+        <district>37</district>
+        <lastName>Bass</lastName>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>F000465</bioguideId>
+          <lisID>2324</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <middleName>Drew</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000465</bioguideId>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <firstName>A.</firstName>
+        <district>3</district>
+        <lastName>Ferguson</lastName>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <firstName>SHEILA</firstName>
+        <district>18</district>
+        <lastName>JACKSON LEE</lastName>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>Lisa</firstName>
+        <lastName>Blunt Rochester</lastName>
+        <district>0</district>
+        <party>D</party>
+        <byRequestType />
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2313</lisID>
+          <bioguideId>B001303</bioguideId>
+        </identifiers>
+        <state>DE</state>
+        <middleName />
+        <bioguideId>B001303</bioguideId>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <title>Clean Slate Act of 2019</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2019-07-12</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-07-12</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-07-12</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Expressing full support to the Ukrainian people in their aspiration to continue consolidating their democracy and rule of law.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Expressing full support to the Ukrainian people in their aspiration to continue consolidating their democracy and rule of law.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <createDate>2019-07-13T07:12:08Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-12T13:02:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2025</lisID>
+          <gpoId>7975</gpoId>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <lastName>Keating</lastName>
+        <party>D</party>
+        <district>9</district>
+        <state>MA</state>
+        <bioguideId>K000375</bioguideId>
+        <firstName>William</firstName>
+        <middleName>R.</middleName>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-07-12</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Expressing full support to the Ukrainian people in their aspiration to continue consolidating their democracy and rule of law.</title>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Kinzinger, Adam [R-IL-16]</fullName>
+        <district>16</district>
+        <identifiers>
+          <bioguideId>K000378</bioguideId>
+          <gpoId>7931</gpoId>
+          <lisID>2014</lisID>
+        </identifiers>
+        <lastName>Kinzinger</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000378</bioguideId>
+        <middleName />
+        <state>IL</state>
+        <sponsorshipDate>2019-07-12</sponsorshipDate>
+        <party>R</party>
+        <firstName>Adam</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <district>1</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000466</bioguideId>
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>R</party>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <district>2</district>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+          <lisID>1688</lisID>
+        </identifiers>
+        <lastName>Wilson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000795</bioguideId>
+        <middleName />
+        <state>SC</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>R</party>
+        <firstName>Joe</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <lastName>KAPTUR</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000009</bioguideId>
+        <middleName />
+        <state>OH</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>D</party>
+        <firstName>MARCY</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <gpoId>8067</gpoId>
+          <lisID>1506</lisID>
+        </identifiers>
+        <lastName>MEEKS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001137</bioguideId>
+        <middleName>W.</middleName>
+        <state>NY</state>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <party>D</party>
+        <firstName>GREGORY</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <district>16</district>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+          <lisID>1774</lisID>
+          <gpoId>7825</gpoId>
+        </identifiers>
+        <lastName>Costa</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001059</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <party>D</party>
+        <firstName>Jim</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <lastName>Quigley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Q000023</bioguideId>
+        <middleName />
+        <state>IL</state>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <party>D</party>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <lastName>Cicilline</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001084</bioguideId>
+        <middleName>N.</middleName>
+        <state>RI</state>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <party>D</party>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <district>8</district>
+        <identifiers>
+          <lisID>1818</lisID>
+          <bioguideId>S001165</bioguideId>
+          <gpoId>8055</gpoId>
+        </identifiers>
+        <lastName>Sires</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001165</bioguideId>
+        <middleName />
+        <state>NJ</state>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <party>D</party>
+        <firstName>Albio</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <district>6</district>
+        <identifiers>
+          <lisID>2406</lisID>
+          <bioguideId>T000483</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Trone</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000483</bioguideId>
+        <middleName>J.</middleName>
+        <state>MD</state>
+        <sponsorshipDate>2019-07-18</sponsorshipDate>
+        <party>D</party>
+        <firstName>David</firstName>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres487ih/xml/BILLS-116hres487ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-07-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HRES</billType>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <updateDate>2019-07-19T07:38:28Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-12</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business ethics</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>Ukraine</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>487</billNumber>
+    <constitutionalAuthorityStatementText />
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

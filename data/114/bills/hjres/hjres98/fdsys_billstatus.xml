@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>114</congress>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2016-09-20</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2016-09-20</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2016-09-20</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+      <actionDate>2016-09-20</actionDate>
+    </latestAction>
+    <introducedDate>2016-09-20</introducedDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <bioguideId>L000582</bioguideId>
+        <state>CA</state>
+        <lastName>Lieu</lastName>
+        <byRequestType />
+        <middleName />
+        <district>33</district>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <billType>HJRES</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>M001182</bioguideId>
+        <district>5</district>
+        <state>SC</state>
+        <identifiers>
+          <gpoId>8145</gpoId>
+          <lisID>2059</lisID>
+          <bioguideId>M001182</bioguideId>
+        </identifiers>
+        <fullName>Rep. Mulvaney, Mick [R-SC-5]</fullName>
+        <lastName>Mulvaney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mick</firstName>
+      </item>
+      <item>
+        <bioguideId>G000571</bioguideId>
+        <district>2</district>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+          <lisID>2122</lisID>
+        </identifiers>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <lastName>Gabbard</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tulsi</firstName>
+      </item>
+      <item>
+        <bioguideId>A000367</bioguideId>
+        <district>3</district>
+        <state>MI</state>
+        <identifiers>
+          <gpoId>7988</gpoId>
+          <bioguideId>A000367</bioguideId>
+          <lisID>2029</lisID>
+        </identifiers>
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <lastName>Amash</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Justin</firstName>
+      </item>
+      <item>
+        <bioguideId>J000255</bioguideId>
+        <district>3</district>
+        <state>NC</state>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+        </identifiers>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>WALTER</firstName>
+      </item>
+      <item>
+        <bioguideId>E000290</bioguideId>
+        <district>4</district>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>E000290</bioguideId>
+          <gpoId>7979</gpoId>
+          <lisID>1894</lisID>
+        </identifiers>
+        <fullName>Rep. Edwards, Donna F. [D-MD-4]</fullName>
+        <lastName>Edwards</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2016-09-21</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Donna</firstName>
+      </item>
+      <item>
+        <bioguideId>D000399</bioguideId>
+        <district>35</district>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8181</gpoId>
+          <bioguideId>D000399</bioguideId>
+          <lisID>303</lisID>
+        </identifiers>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <lastName>DOGGETT</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2016-09-22</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>LLOYD</firstName>
+      </item>
+      <item>
+        <bioguideId>N000179</bioguideId>
+        <district>32</district>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <gpoId>7843</gpoId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <lastName>NAPOLITANO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2016-09-26</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>GRACE</firstName>
+      </item>
+      <item>
+        <bioguideId>C000714</bioguideId>
+        <district>13</district>
+        <state>MI</state>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <lastName>CONYERS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2016-09-26</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <updateDate>2019-02-06T19:37:38Z</updateDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 142 (Tuesday, September 20, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TED LIEU of California:H.J. Res. 98.Congress has the power to enact this legislation pursuantto the following:U.S. Constitution, Article I, Section I, which includes animplied power for the Congress to regulate the conduct of theUnited States with respect to foreign affairs; and U.S.Constitution, Article I, Section 8, which authorizes theCongress to: (1) ``provide for the common Defense and generalwelfare of the United States,'' and (2) ``make all Laws whichshall be necessary and proper for carrying into execution theforegoing powers.''____________________[Page H5712]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Motion to table the motion to discharge Committee on Foreign Relations agreed to in Senate by Yea-Nay Vote. 71 - 27. Record Vote Number: 145. (consideration: CR S5934-5935)</text>
+          <actionDate>2016-09-21</actionDate>
+        </latestAction>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A joint resolution relating to the disapproval of the proposed foreign military sale to the Government of the Kingdom of Saudi Arabia of M1A1/A2 Abrams Tank structures and other major defense equipment.</latestTitle>
+        <type>SJRES</type>
+        <number>39</number>
+      </item>
+    </relatedBills>
+    <title>Relating to the disapproval of the proposed foreign military sale to the Government of the Kingdom of Saudi Arabia of M1A1/A2 Abrams Tank structures and other major defense equipment.</title>
+    <calendarNumbers />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-09-20T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2016-10-28T21:54:46Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This joint resolution prohibits the issuance of a letter of offer with respect to proposed sales to the government of Saudi Arabia of 153 M1A1/A2 Abrams Tank structures and specified other defense equipment and ammunition.</p>]]></text>
+          <actionDate>2016-09-20</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <date>2016-09-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hjres98ih/xml/BILLS-114hjres98ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billNumber>98</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Saudi Arabia</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Relating to the disapproval of the proposed foreign military sale to the Government of the Kingdom of Saudi Arabia of M1A1/A2 Abrams Tank structures and other major defense equipment.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Relating to the disapproval of the proposed foreign military sale to the Government of the Kingdom of Saudi Arabia of M1A1/A2 Abrams Tank structures and other major defense equipment.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <createDate>2016-09-21T05:27:48Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-09-20T16:00:52Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

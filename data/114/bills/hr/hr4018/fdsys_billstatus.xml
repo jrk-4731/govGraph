@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2015-11-16</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <createDate>2015-11-17T10:19:52Z</createDate>
+    <notes />
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2015-11-16</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-11-16</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-11-16</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <congress>114</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Consumer Financial Protection Bureau</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Credit and credit markets</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>4018</billNumber>
+    <title>Consumer Protection and Choice Act</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 168 (Monday, November 16, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROSS:H.R. 4018.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3: ``The Congress shall havepower . . . . To regulate commerce with foreign nations, andamong the several states, and with the Indian tribes.''[Page H8241]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-11-16T19:03:45Z</date>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Murphy, Patrick [D-FL-18]</fullName>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+        <lastName>Murphy</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <bioguideId>M001191</bioguideId>
+        <identifiers>
+          <lisID>2117</lisID>
+          <bioguideId>M001191</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Patrick</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>18</district>
+      </item>
+      <item>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+        <lastName>Curbelo</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <bioguideId>C001107</bioguideId>
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+          <lisID>2235</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Carlos</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>26</district>
+      </item>
+      <item>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+        <lastName>HASTINGS</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <bioguideId>H000324</bioguideId>
+        <identifiers>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ALCEE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <district>20</district>
+      </item>
+      <item>
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+        <lastName>BROWN</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <bioguideId>B000911</bioguideId>
+        <identifiers>
+          <lisID>132</lisID>
+          <bioguideId>B000911</bioguideId>
+          <gpoId>7875</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>CORRINE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>5</district>
+      </item>
+      <item>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+        <lastName>Posey</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <bioguideId>P000599</bioguideId>
+        <identifiers>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <lastName>Diaz-Balart</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <bioguideId>D000600</bioguideId>
+        <identifiers>
+          <bioguideId>D000600</bioguideId>
+          <gpoId>7893</gpoId>
+          <lisID>1717</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mario</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>25</district>
+      </item>
+      <item>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <lastName>Blackburn</lastName>
+        <state>TN</state>
+        <party>R</party>
+        <bioguideId>B001243</bioguideId>
+        <identifiers>
+          <lisID>1748</lisID>
+          <gpoId>8154</gpoId>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Marsha</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>7</district>
+      </item>
+      <item>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipDate>2015-12-02</sponsorshipDate>
+        <lastName>Tipton</lastName>
+        <state>CO</state>
+        <party>R</party>
+        <bioguideId>T000470</bioguideId>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Scott</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Jolly, David W. [R-FL-13]</fullName>
+        <sponsorshipDate>2015-12-02</sponsorshipDate>
+        <lastName>Jolly</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <bioguideId>J000296</bioguideId>
+        <identifiers>
+          <bioguideId>J000296</bioguideId>
+          <lisID>2199</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <sponsorshipDate>2015-12-02</sponsorshipDate>
+        <lastName>Wasserman Schultz</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <bioguideId>W000797</bioguideId>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Debbie</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>23</district>
+      </item>
+      <item>
+        <fullName>Rep. Heck, Joseph J. [R-NV-3]</fullName>
+        <sponsorshipDate>2015-12-09</sponsorshipDate>
+        <lastName>Heck</lastName>
+        <state>NV</state>
+        <party>R</party>
+        <bioguideId>H001055</bioguideId>
+        <identifiers>
+          <lisID>2040</lisID>
+          <bioguideId>H001055</bioguideId>
+          <gpoId>8061</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Joseph</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <district>3</district>
+      </item>
+      <item>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <sponsorshipDate>2015-12-10</sponsorshipDate>
+        <lastName>Scott</lastName>
+        <state>GA</state>
+        <party>R</party>
+        <bioguideId>S001189</bioguideId>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Austin</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipDate>2015-12-10</sponsorshipDate>
+        <lastName>CHABOT</lastName>
+        <state>OH</state>
+        <party>R</party>
+        <bioguideId>C000266</bioguideId>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>STEVE</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <sponsorshipDate>2015-12-10</sponsorshipDate>
+        <lastName>Wenstrup</lastName>
+        <state>OH</state>
+        <party>R</party>
+        <bioguideId>W000815</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2152</lisID>
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Brad</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <district>2</district>
+      </item>
+      <item>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <sponsorshipDate>2015-12-10</sponsorshipDate>
+        <lastName>Kelly</lastName>
+        <state>MS</state>
+        <party>R</party>
+        <bioguideId>K000388</bioguideId>
+        <identifiers>
+          <bioguideId>K000388</bioguideId>
+          <lisID>2294</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Trent</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <lastName>Miller</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <bioguideId>M001144</bioguideId>
+        <identifiers>
+          <bioguideId>M001144</bioguideId>
+          <gpoId>7873</gpoId>
+          <lisID>1685</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <lastName>Rooney</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <bioguideId>R000583</bioguideId>
+        <identifiers>
+          <lisID>1916</lisID>
+          <bioguideId>R000583</bioguideId>
+          <gpoId>7888</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Thomas</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <district>17</district>
+      </item>
+      <item>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <sponsorshipDate>2015-12-15</sponsorshipDate>
+        <lastName>Pittenger</lastName>
+        <state>NC</state>
+        <party>R</party>
+        <bioguideId>P000606</bioguideId>
+        <identifiers>
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <sponsorshipDate>2015-12-17</sponsorshipDate>
+        <lastName>Scott</lastName>
+        <state>GA</state>
+        <party>D</party>
+        <bioguideId>S001157</bioguideId>
+        <identifiers>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>13</district>
+      </item>
+      <item>
+        <fullName>Rep. Frankel, Lois [D-FL-22]</fullName>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <lastName>Frankel</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <bioguideId>F000462</bioguideId>
+        <identifiers>
+          <lisID>2119</lisID>
+          <bioguideId>F000462</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Lois</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>22</district>
+      </item>
+      <item>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <lastName>Sinema</lastName>
+        <state>AZ</state>
+        <party>D</party>
+        <bioguideId>S001191</bioguideId>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kyrsten</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>9</district>
+      </item>
+      <item>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <sponsorshipDate>2016-01-12</sponsorshipDate>
+        <lastName>Love</lastName>
+        <state>UT</state>
+        <party>R</party>
+        <bioguideId>L000584</bioguideId>
+        <identifiers>
+          <lisID>2271</lisID>
+          <gpoId />
+          <bioguideId>L000584</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mia</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <district>4</district>
+      </item>
+      <item>
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <sponsorshipDate>2016-02-23</sponsorshipDate>
+        <lastName>Cuellar</lastName>
+        <state>TX</state>
+        <party>D</party>
+        <bioguideId>C001063</bioguideId>
+        <identifiers>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+          <gpoId>8184</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Henry</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>28</district>
+      </item>
+      <item>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <sponsorshipDate>2016-02-23</sponsorshipDate>
+        <lastName>Castor</lastName>
+        <state>FL</state>
+        <party>D</party>
+        <bioguideId>C001066</bioguideId>
+        <identifiers>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+          <bioguideId>C001066</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Kathy</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>14</district>
+      </item>
+    </cosponsors>
+    <updateDate>2018-08-28T23:10:27Z</updateDate>
+    <laws />
+    <originChamber>House</originChamber>
+    <introducedDate>2015-11-16</introducedDate>
+    <sponsors>
+      <item>
+        <middleName>A.</middleName>
+        <bioguideId>R000593</bioguideId>
+        <identifiers>
+          <lisID>2003</lisID>
+          <gpoId>7884</gpoId>
+          <bioguideId>R000593</bioguideId>
+        </identifiers>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <firstName>Dennis</firstName>
+        <state>FL</state>
+        <lastName>Ross</lastName>
+        <district>15</district>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Consumer Protection and Choice Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Truth in Lending Act to establish deferred presentment transaction requirements, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Consumer Protection and Choice Act</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-11-16T05:00:00Z</updateDate>
+          <actionDate>2015-11-16</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Consumer Protection and Choice Act</strong></p> <p>This bill amends the Truth in Lending Act to prohibit a deferred presentment transaction except as provided under this Act. </p> <p>A "deferred presentment transaction" is one in which currency or other payment is provided to a consumer in exchange for a consumer's check or other payment instrument and an agreement that such check or payment instrument shall be held for a deferment period prior to presentment, deposit, or redemption.</p> <p>If the Consumer Financial Protection Bureau (CFPB) determines that a state has in effect a law that provides for the licensing of deferred presentment providers and the regulation of deferred presentment transactions, and that meets the requirements specified by this Act, any CFPB regulations concerning such transactions and providers shall not apply in such state. </p> <p>Such a state law must: </p> <ul> <li>require a provider to be licensed by the state;</li> <li>establish a transaction database; </li> <li>require a provider to verify through such database that a consumer entering into such a transaction does not have an outstanding transaction; </li> <li>require a provider to report immediately to such database information about each transaction entered into and each transaction paid or settled;</li> <li>require that a transaction agreement be in writing and allow the consumer to rescind the agreement within the first 24 hours; </li> <li>require a transaction agreement to limit the interest and fees to no more that 10% of the transaction amount, the processing fee to $5, the transaction amount to $500, and the duration of the transaction to no less than 7 days and no more than 31 days; and </li> <li>allow a 60-day grace period after the contractual repayment date for a consumer to repay the amount due, subject to early termination if a consumer fails to complete a course with a consumer credit counseling agency.</li> </ul> <p>The bill makes these changes effective 24 months after enactment and prohibits the CFPB from establishing or enforcing any regulation governing deferred presentment transactions or payday loans during such period.</p>]]></text>
+          <lastSummaryUpdateDate>2016-03-30T18:27:25Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

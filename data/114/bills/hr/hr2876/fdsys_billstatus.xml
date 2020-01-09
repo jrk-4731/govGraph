@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:30:53Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>6</district>
+        <firstName>Garret</firstName>
+        <fullName>Rep. Graves, Garret [R-LA-6]</fullName>
+        <lastName>Graves</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000577</bioguideId>
+          <lisID>2245</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>G000577</bioguideId>
+        <state>LA</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Armed Services Committee</name>
+          <systemCode>hsas00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-24T14:01:35Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Seapower and Projection Forces Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-08-13T21:10:03Z</date>
+                </item>
+              </activities>
+              <systemCode>hsas28</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-06-24T14:01:40Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Environment and Climate Change Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-06-26T15:12:06Z</date>
+                </item>
+              </activities>
+              <systemCode>hsif18</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-06-24</introducedDate>
+    <createDate>2015-06-25T09:28:00Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2015-08-13</actionDate>
+        <committee>
+          <systemCode>hsas28</systemCode>
+          <name>Seapower and Projection Forces Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Seapower and Projection Forces.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-06-26</actionDate>
+        <committee>
+          <systemCode>hsif18</systemCode>
+          <name>Environment and Climate Change Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and the Economy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-06-24</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-06-24</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2015-06-24</actionDate>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2015-06-24</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2015-06-24</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>STORIS Act</latestTitle>
+        <congress>114</congress>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>1511</number>
+        <latestAction>
+          <actionDate>2015-06-04</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>2876</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-06-24T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Ships to be Recycled in the States Act or the STORIS Act</b></p> <p>This bill requires the Department of Transportation (DOT), in coordination with the Department of the Navy, to report to Congress on the program for disposal of government-owned merchant vessels as well as on any other disposal of obsolete government-owned vessels.</p> <p>The Government Accountability Office shall audit all excess federal government vessel sales contracts, including resulting receivables and expenditures, entered into by the Maritime Administration during a specified period.</p> <p>The bill repeals authority to scrap any vessel sold from the National Defense Reserve Fleet in an approved foreign market without obtaining additional separate DOT approval to transfer the vessel to a person not a U.S. citizen.</p> <p>The Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 is amended to revise requirements for the selection of qualified scrapping facilities.</p> <p>The Toxic Substances Control Act is amended to declare that nothing in the mandate for the Environmental Protection Agency (EPA) to regulate polychlorinated biphenyls (PCBs) shall be construed to prohibit the dismantling of a vessel or marine structure in order to recycle recovered materials. If PCBs are found or suspected, the person dismantling the vessel or marine structure must comply with specified requirements for informing the EPA and disposing of the PCBs.</p> <p>The bill repeals authorization for any foreign country to apply for an obsolete vessel to be used for an artificial reef.</p> <p>The Maritime Administration shall make public on its website the full text of each memorandum of agreement and similar agreement between the Maritime Administration and any other agency, department, or person.</p>]]></text>
+          <lastSummaryUpdateDate>2016-03-18T21:37:39Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2015-06-24</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Seapower and Projection Forces.</text>
+      <links />
+      <actionDate>2015-08-13</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 102 (Wednesday, June 24, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRAVES of Louisiana:H.R. 2876.Congress has the power to enact this legislation pursuantto the following:Article I, Section 9, Clause 7 of the United StatesConstitution.[Page H4651]</pre>]]></constitutionalAuthorityStatementText>
+    <title>STORIS Act</title>
+    <cosponsors>
+      <item>
+        <lastName>Hunter</lastName>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <district>50</district>
+        <middleName>D.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001048</bioguideId>
+          <lisID>1909</lisID>
+          <gpoId>7857</gpoId>
+        </identifiers>
+        <firstName>Duncan</firstName>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001048</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Vela</lastName>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <sponsorshipDate>2015-06-24</sponsorshipDate>
+        <district>34</district>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <lisID>2167</lisID>
+          <gpoId />
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <firstName>Filemon</firstName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000132</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>YOUNG</lastName>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <district>0</district>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+        </identifiers>
+        <firstName>DON</firstName>
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000033</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Boustany</lastName>
+        <fullName>Rep. Boustany, Charles W., Jr. [R-LA-3]</fullName>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+        <district>3</district>
+        <middleName>W.</middleName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7965</gpoId>
+          <lisID>1787</lisID>
+          <bioguideId>B001255</bioguideId>
+        </identifiers>
+        <firstName>Charles</firstName>
+        <state>LA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001255</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>GREEN</lastName>
+        <fullName>Rep. Green, Gene [D-TX-29]</fullName>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+        <district>29</district>
+        <middleName />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000410</bioguideId>
+          <gpoId>8185</gpoId>
+          <lisID>462</lisID>
+        </identifiers>
+        <firstName>GENE</firstName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000410</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>BRADY</lastName>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId>8164</gpoId>
+          <bioguideId>B000755</bioguideId>
+          <lisID>1468</lisID>
+        </identifiers>
+        <firstName>KEVIN</firstName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000755</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>Rouzer</lastName>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+        <district>7</district>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>2256</lisID>
+          <bioguideId>R000603</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>David</firstName>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000603</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <lastName>JONES</lastName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2016-03-14</sponsorshipDate>
+        <district>3</district>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <firstName>WALTER</firstName>
+        <state>NC</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000255</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Marine pollution</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>STORIS Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Ships to be Recycled in the States Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To promote the recycling of vessels in the United States and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>STORIS Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

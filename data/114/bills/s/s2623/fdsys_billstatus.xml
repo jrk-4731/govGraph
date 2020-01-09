@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2016-03-03</actionDate>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-03-03</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2016-03-03</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <updateDate>2018-06-02T07:15:28Z</updateDate>
+    <congress>114</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Al</firstName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+        </identifiers>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <bioguideId>F000457</bioguideId>
+        <lastName>Franken</lastName>
+        <state>MN</state>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <billNumber>2623</billNumber>
+    <amendments />
+    <title>Protecting Americans from Drug Marketing Act</title>
+    <introducedDate>2016-03-03</introducedDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <date>2016-03-03T16:05:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <updateDate>2016-03-03T05:00:00Z</updateDate>
+          <actionDate>2016-03-03</actionDate>
+          <lastSummaryUpdateDate>2016-04-04T21:28:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Protecting Americans from Drug Marketing Act</strong></p> <p>This bill amends the Internal Revenue Code to deny a tax deduction for the cost of direct-to-consumer advertising of prescription drugs. The bill defines &quot;direct-to-consumer advertising&quot; as any dissemination by or on behalf of a sponsor of a prescription drug product of a prescription drug advertisement that is primarily targeted to the general public through: (1) publication in journals, magazines, other periodicals, and newspapers; (2) broadcasting through media such as radio, television, and telephone communication systems; and (3) dissemination on the Internet (including social media). </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipDate>2016-03-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <bioguideId>W000802</bioguideId>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Whitehouse</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>SHERROD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipDate>2016-03-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <party>D</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>BROWN</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>TOM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipDate>2016-03-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <bioguideId>U000039</bioguideId>
+        <party>D</party>
+        <state>NM</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>UDALL</lastName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <billType>S</billType>
+    <createDate>2016-03-04T05:09:01Z</createDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Business expenses</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Protecting Americans from Drug Marketing Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to deny the deduction for advertising and promotional expenses for prescription drugs.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Protecting Americans from Drug Marketing Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

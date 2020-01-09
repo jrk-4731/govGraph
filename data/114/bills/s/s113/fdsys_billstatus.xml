@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-01-07</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-01-07</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <updateDate>2018-08-16T22:53:49Z</updateDate>
+    <recordedVotes />
+    <congress>114</congress>
+    <version>1.0.0</version>
+    <title>Public Land Job Creation Act of 2015</title>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <state>UT</state>
+        <lastName>HATCH</lastName>
+        <party>R</party>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <middleName>GRANT</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-02-09</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000338</bioguideId>
+        <firstName>ORRIN</firstName>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Public Land Job Creation Act of 2015</b></p> <p>This bill gives the Bureau of Land Management (BLM) 45 days to review a state BLM notice for submission to the Federal Register. If the review has not been completed: (1) the notice shall consider to be approved, and (2) the state BLM office shall immediately forward the notice to the Federal Register for publication. </p>]]></text>
+          <actionDate>2015-01-07</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-03-25T21:08:59Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2015-01-07T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills />
+    <latestAction>
+      <actionDate>2015-01-07</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+    </latestAction>
+    <amendments />
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>Public Land Job Creation Act of 2015</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to ensure that Federal Register notices submitted to the Bureau of Land Management are reviewed in a timely manner.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Public Land Job Creation Act of 2015</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <committeeReports />
+    <introducedDate>2015-01-07</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>Dean</firstName>
+        <identifiers>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <bioguideId>H001041</bioguideId>
+        <state>NV</state>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <byRequestType />
+        <middleName />
+        <lastName>Heller</lastName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billNumber>113</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2015-01-08T02:24:27Z</createDate>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-07T22:48:03Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

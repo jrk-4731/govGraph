@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>114</congress>
+    <recordedVotes />
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2016-02-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2016-02-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2016-02-26</actionDate>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+      <actionDate>2016-02-26</actionDate>
+    </latestAction>
+    <introducedDate>2016-02-26</introducedDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <bioguideId>M001188</bioguideId>
+        <state>NY</state>
+        <lastName>Meng</lastName>
+        <byRequestType />
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+        </identifiers>
+        <firstName>Grace</firstName>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2016-02-26</sponsorshipDate>
+        <middleName>M.</middleName>
+        <party>R</party>
+        <bioguideId>Z000017</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <firstName>Lee</firstName>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+          <lisID>2261</lisID>
+        </identifiers>
+        <district>1</district>
+        <lastName>Zeldin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-02-26</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <bioguideId>R000487</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <firstName>ED</firstName>
+        <identifiers>
+          <bioguideId>R000487</bioguideId>
+          <gpoId>7845</gpoId>
+          <lisID>998</lisID>
+        </identifiers>
+        <district>39</district>
+        <lastName>ROYCE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-02-26</sponsorshipDate>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <bioguideId>E000179</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <firstName>ELIOT</firstName>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <gpoId>8078</gpoId>
+          <lisID>344</lisID>
+        </identifiers>
+        <district>16</district>
+        <lastName>ENGEL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-02-26</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <bioguideId>R000435</bioguideId>
+        <state>FL</state>
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <firstName>ILEANA</firstName>
+        <identifiers>
+          <bioguideId>R000435</bioguideId>
+          <gpoId>7890</gpoId>
+          <lisID>985</lisID>
+        </identifiers>
+        <district>27</district>
+        <lastName>ROS-LEHTINEN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-02-26</sponsorshipDate>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <bioguideId>D000610</bioguideId>
+        <state>FL</state>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-21]</fullName>
+        <firstName>Theodore</firstName>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+        </identifiers>
+        <district>21</district>
+        <lastName>Deutch</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <bioguideId>L000564</bioguideId>
+        <state>CO</state>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <firstName>Doug</firstName>
+        <identifiers>
+          <lisID>1834</lisID>
+          <bioguideId>L000564</bioguideId>
+          <gpoId>7863</gpoId>
+        </identifiers>
+        <district>5</district>
+        <lastName>Lamborn</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <middleName>K.</middleName>
+        <party>R</party>
+        <bioguideId>W000814</bioguideId>
+        <state>TX</state>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+        </identifiers>
+        <district>14</district>
+        <lastName>Weber</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-03</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <bioguideId>J000292</bioguideId>
+        <state>OH</state>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <district>6</district>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-14</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <bioguideId>S000344</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <firstName>BRAD</firstName>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <district>30</district>
+        <lastName>SHERMAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-14</sponsorshipDate>
+        <middleName>S.</middleName>
+        <party>D</party>
+        <bioguideId>L000579</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <firstName>Alan</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+        </identifiers>
+        <district>47</district>
+        <lastName>Lowenthal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-14</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <bioguideId>F000462</bioguideId>
+        <state>FL</state>
+        <fullName>Rep. Frankel, Lois [D-FL-22]</fullName>
+        <firstName>Lois</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2119</lisID>
+          <bioguideId>F000462</bioguideId>
+        </identifiers>
+        <district>22</district>
+        <lastName>Frankel</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-14</sponsorshipDate>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <bioguideId>R000588</bioguideId>
+        <state>LA</state>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <firstName>Cedric</firstName>
+        <identifiers>
+          <bioguideId>R000588</bioguideId>
+          <gpoId>7960</gpoId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <district>2</district>
+        <lastName>Richmond</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <middleName>T.</middleName>
+        <party>R</party>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+          <lisID>635</lisID>
+        </identifiers>
+        <district>2</district>
+        <lastName>KING</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-22</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <bioguideId>W000797</bioguideId>
+        <state>FL</state>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <district>23</district>
+        <lastName>Wasserman Schultz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-03-23</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <bioguideId>M001177</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <district>4</district>
+        <lastName>McClintock</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <sponsorshipDate>2016-04-19</sponsorshipDate>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <bioguideId>R000602</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <firstName>Kathleen</firstName>
+        <identifiers>
+          <lisID>2262</lisID>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <lastName>Rice</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <updateDate>2019-02-06T19:37:34Z</updateDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 31 (Friday, February 26, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 4633.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the U.S. Constitution.[Page H1000]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2016-03-17</actionDate>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Iran Terrorism and Human Rights Sanctions Act of 2016</latestTitle>
+        <number>2726</number>
+        <type>S</type>
+        <congress>114</congress>
+      </item>
+    </relatedBills>
+    <title>Sanctioned Iranian Entities Oversight Act of 2016</title>
+    <calendarNumbers />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2016-02-26</actionDate>
+          <text><![CDATA[<p><strong>Sanctioned Iranian Entities Oversight Act of 2016</strong></p> <p>This bill amends the National Defense Authorization Act for Fiscal Year 2013 to extend through 2019 the annual report the President must submit to Congress regarding the use of certain Iranian seaports by foreign vessels and the use of foreign airports by sanctioned Iranian air carriers.</p> <p>Such report shall also include a description of Department of State efforts to encourage other countries to prohibit the use of air space and airports by sanctioned Iranian air carriers.</p>]]></text>
+          <lastSummaryUpdateDate>2016-03-07T21:17:26Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2016-02-26T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr4633ih/xml/BILLS-114hr4633ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2016-02-26T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billNumber>4633</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Navigation, waterways, harbors</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Sanctioned Iranian Entities Oversight Act of 2016</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To modify and extend reporting requirements on the use of certain Iranian seaports by foreign vessels and use of foreign airports by sanctioned Iranian air carriers.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Sanctioned Iranian Entities Oversight Act of 2016</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <createDate>2016-02-27T04:47:40Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-02-26T14:01:25Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>114</congress>
+    <recordedVotes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2015-01-21</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-01-21</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-01-21</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <amendments />
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+      <actionDate>2015-01-21</actionDate>
+    </latestAction>
+    <introducedDate>2015-01-21</introducedDate>
+    <sponsors>
+      <item>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <bioguideId>W000814</bioguideId>
+        <state>TX</state>
+        <lastName>Weber</lastName>
+        <byRequestType />
+        <middleName>K.</middleName>
+        <district>14</district>
+        <identifiers>
+          <lisID>2161</lisID>
+          <bioguideId>W000814</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Randy</firstName>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>E000291</bioguideId>
+        <middleName>L.</middleName>
+        <state>NC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>E000291</bioguideId>
+          <gpoId>8025</gpoId>
+          <lisID>2036</lisID>
+        </identifiers>
+        <firstName>Renee</firstName>
+        <district>2</district>
+        <fullName>Rep. Ellmers, Renee L. [R-NC-2]</fullName>
+        <sponsorshipDate>2015-01-21</sponsorshipDate>
+        <lastName>Ellmers</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <middleName />
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <gpoId>7790</gpoId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <firstName>Mo</firstName>
+        <district>5</district>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <sponsorshipDate>2015-01-21</sponsorshipDate>
+        <lastName>Brooks</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <middleName />
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <district>1</district>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <sponsorshipDate>2015-01-21</sponsorshipDate>
+        <lastName>CHABOT</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001184</bioguideId>
+        <middleName />
+        <state>KY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8371</gpoId>
+          <bioguideId>M001184</bioguideId>
+          <lisID>2094</lisID>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <district>4</district>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <sponsorshipDate>2015-01-21</sponsorshipDate>
+        <lastName>Massie</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000616</bioguideId>
+        <middleName />
+        <state>TN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <firstName>Scott</firstName>
+        <district>4</district>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <sponsorshipDate>2015-01-21</sponsorshipDate>
+        <lastName>DesJarlais</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+          <gpoId />
+          <lisID>2270</lisID>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <district>36</district>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <sponsorshipDate>2015-01-21</sponsorshipDate>
+        <lastName>Babin</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000597</bioguideId>
+        <middleName />
+        <state>SC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000597</bioguideId>
+          <gpoId />
+          <lisID>2160</lisID>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <district>7</district>
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+        <sponsorshipDate>2015-01-21</sponsorshipDate>
+        <lastName>Rice</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001102</bioguideId>
+        <middleName />
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <lisID>2200</lisID>
+          <bioguideId>C001102</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Curt</firstName>
+        <district>19</district>
+        <fullName>Rep. Clawson, Curt [R-FL-19]</fullName>
+        <sponsorshipDate>2015-01-21</sponsorshipDate>
+        <lastName>Clawson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <middleName>C.</middleName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <district>26</district>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <sponsorshipDate>2015-01-30</sponsorshipDate>
+        <lastName>Burgess</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001189</bioguideId>
+        <middleName />
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2130</lisID>
+          <bioguideId>M001189</bioguideId>
+        </identifiers>
+        <firstName>Luke</firstName>
+        <district>6</district>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <sponsorshipDate>2015-01-30</sponsorshipDate>
+        <lastName>Messer</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>Y000065</bioguideId>
+        <middleName>S.</middleName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2115</lisID>
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <district>3</district>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <sponsorshipDate>2015-01-30</sponsorshipDate>
+        <lastName>Yoho</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>O000168</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>O000168</bioguideId>
+          <gpoId>8178</gpoId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <firstName>Pete</firstName>
+        <district>22</district>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <sponsorshipDate>2015-02-12</sponsorshipDate>
+        <lastName>Olson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <updateDate>2019-02-06T19:37:12Z</updateDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 10 (Wednesday, January 21, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WEBER of Texas:H.R. 439.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article 1, Section 1 and Article 1, Section 9.``All legislative Powers herein granted shall be vested ina Congress of the United States, which shall consist of aSenate and House of Representatives.''``No money shall be drawn from the Treasury, but inConsequence of Appropriations made by Law; and a regularStatement and Account of the Receipts and Expenditures of allpublic Money shall be published from time to time.''[Page H481]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <number>5398</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+          <actionDate>2016-08-19</actionDate>
+        </latestAction>
+        <latestTitle>Immigration for a Competitive America Act of 2016</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Illegal Entry Accountability Act of 2015</title>
+    <calendarNumbers />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-01-21</actionDate>
+          <text><![CDATA[<p><strong>Illegal Entry Accountability Act of 2015</strong></p> <p> Directs the Secretary of State to suspend all U.S. foreign assistance to Mexico, Honduras, Guatemala, and El Salvador, except for assistance under the international narcotic control law enforcement program.</p> <p>Allows reinstatement of assistance only if Congress determines that Mexico, Honduras, Guatemala, and El Salvador have taken sufficient action to mitigate unlawful U.S.-Mexico border crossings by their respective citizens.</p>]]></text>
+          <updateDate>2015-01-21T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-01-26T20:25:21Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <date>2015-01-21T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr439ih/xml/BILLS-114hr439ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <billNumber>439</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>El Salvador</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Guatemala</name>
+          </item>
+          <item>
+            <name>Honduras</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Illegal Entry Accountability Act of 2015</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To suspend foreign assistance to certain countries related to unlawful migration.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Illegal Entry Accountability Act of 2015</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <originChamber>House</originChamber>
+    <createDate>2015-01-22T04:46:23Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-21T15:05:25Z</date>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

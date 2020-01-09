@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <district>10</district>
+        <bioguideId>P000604</bioguideId>
+        <firstName>Donald</firstName>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <lastName>Payne</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-27</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>R000575</bioguideId>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <bioguideId>R000575</bioguideId>
+          <gpoId>7788</gpoId>
+          <lisID>1704</lisID>
+        </identifiers>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <lastName>Rogers</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <district>2</district>
+        <bioguideId>K000210</bioguideId>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <lastName>KING</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-06-27</actionDate>
+        <committee>
+          <systemCode>hspw13</systemCode>
+          <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-26</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-26</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-06-26</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+      <actionDate>2019-06-27</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>BENNIE</firstName>
+        <party>D</party>
+        <lastName>THOMPSON</lastName>
+        <state>MS</state>
+        <identifiers>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+          <gpoId>8020</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>T000193</bioguideId>
+        <district>2</district>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <updateDate>2019-07-16T03:51:03Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-06-26T14:05:05Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+              <systemCode>hspw13</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-06-27T14:57:19Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 108 (Wednesday, June 26, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. THOMPSON of Mississippi:H.R. 3500.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8[Page H5202]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestTitle>Federal Advance Contracts Enhancement Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2019-06-19</actionDate>
+          <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.</text>
+        </latestAction>
+        <congress>116</congress>
+        <type>S</type>
+        <number>979</number>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3500ih/xml/BILLS-116hr3500ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-06-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Federal Advance Contracts Enhancement Act</title>
+    <introducedDate>2019-06-26</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Post-Katrina Emergency Management Reform Act of 2006 to incorporate the recommendations made by the Government Accountability Office relating to advance contracts, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>FACE Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Federal Advance Contracts Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Federal Advance Contracts Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Federal Advance Contracts Enhancement Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>FACE Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <billNumber>3500</billNumber>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2019-06-27T07:12:08Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

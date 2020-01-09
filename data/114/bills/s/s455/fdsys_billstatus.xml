@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <bioguideId>R000307</bioguideId>
+        <party>R</party>
+        <lastName>ROBERTS</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+        </identifiers>
+        <firstName>PAT</firstName>
+        <state>KS</state>
+      </item>
+    </sponsors>
+    <latestAction>
+      <links />
+      <actionDate>2015-02-11</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <laws />
+    <updateDate>2018-06-02T06:33:20Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <introducedDate>2015-02-11</introducedDate>
+    <amendments />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-02-11</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2015-02-11</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <createDate>2015-02-12T05:30:26Z</createDate>
+    <billType>S</billType>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2015-07-14</actionDate>
+        </latestAction>
+        <number>3058</number>
+        <latestTitle>Innovators Job Creation Act of 2015</latestTitle>
+      </item>
+      <item>
+        <type>HR</type>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Became Public Law No: 114-113.</text>
+          <actionDate>2015-12-18</actionDate>
+        </latestAction>
+        <number>2029</number>
+        <latestTitle>Consolidated Appropriations Act, 2016</latestTitle>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <recordedVotes />
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <middleName>A.</middleName>
+        <firstName>Christopher</firstName>
+        <state>DE</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001088</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>CHARLES</firstName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <lastName>SCHUMER</lastName>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000148</bioguideId>
+        <party>D</party>
+        <sponsorshipDate>2015-02-11</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Innovators Job Creation Act of 2015</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide for special treatment of the research credit for certain startup companies, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>Innovators Job Creation Act of 2015</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2015-02-11T20:12:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>455</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>Innovators Job Creation Act of 2015</strong></p> <p>Amends the Internal Revenue Code to allow a qualified small business to elect to use a portion of its tax credit for increasing research expenditures as an offset against its payroll tax liability under the Federal Insurance Contributions Act. </p> <p>Defines "qualified small business" as a corporation, a partnership, or a person other than a tax-exempt organization that had gross receipts of less than $5 million for the taxable year </s />and that did not have gross receipts for any period preceding the five-taxable-year period ending with such taxable year. </p> <p>Limits: (1) the number of years a taxpayer may elect to offset payroll taxes under this Act to five, and (2) the annual amount of such offset to $250,000.</p> <p>Allows an offset of research tax credit amounts against&nbsp;alternative minimum tax liability.&nbsp;</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-03-12T15:36:46Z</lastSummaryUpdateDate>
+          <actionDate>2015-02-11</actionDate>
+          <updateDate>2015-02-11T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>114</congress>
+    <notes />
+    <title>Innovators Job Creation Act of 2015</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

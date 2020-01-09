@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-13T17:31:09Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>4</district>
+        <firstName>Cresent</firstName>
+        <fullName>Rep. Hardy, Cresent [R-NV-4]</fullName>
+        <lastName>Hardy</lastName>
+        <identifiers>
+          <lisID>2260</lisID>
+          <gpoId />
+          <bioguideId>H001070</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>H001070</bioguideId>
+        <state>NV</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-04-08T19:00:08Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsag15</systemCode>
+              <name>Conservation and Forestry Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-03-18T14:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsag00</systemCode>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2015-04-07T21:03:41Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-03-18T14:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-03-18</introducedDate>
+    <createDate>2015-03-19T05:50:08Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-04-08</actionDate>
+        <committee>
+          <systemCode>hsag15</systemCode>
+          <name>Conservation and Forestry Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-07</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionDate>2015-03-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionDate>2015-03-18</actionDate>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionDate>2015-03-18</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H1727-1728)</text>
+        <committee />
+        <actionDate>2015-03-18</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H1727-1728</url>
+            <name>H1727-1728</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-03-18</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2015-03-18</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills />
+    <billNumber>1445</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Land Acquisition to cut National Debt Act or LAND Act</b></p> <p> Bars the Department of the Interior from using federal funding to purchase land resulting in a net increase of land acreage being under the jurisdiction of the National Park Service, the U.S. Fish and Wildlife Service, or the Bureau of Land Management unless the federal budget is balanced for the year in which such land would be purchased. </p> <p>Makes such prohibition inapplicable to: (1) lands purchased with funding made available through the sale of Federal Migratory Bird Hunting and Conservation Stamps, and (2) easements acquired by Interior to facilitate the management of federal lands. </p> <p>Bars the Department of Agriculture (USDA) from using federal funding to purchase land resulting in a net increase of land acreage included in the National Forest System unless the federal budget is balanced for the year in which that land would be purchased. Makes such prohibition inapplicable to easements acquired by the USDA to facilitate the management of federal lands.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2015-03-18T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2015-03-18</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-04-02T16:56:59Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <links />
+      <actionDate>2015-04-08</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 46 (Wednesday, March 18, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HARDY:H.R. 1445.Congress has the power to enact this legislation pursuantto the following:``clause 18 of section 8 of article I of theConstitution''.[Page H1771]</pre>]]></constitutionalAuthorityStatementText>
+    <title>LAND Act</title>
+    <cosponsors>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <party>R</party>
+        <bioguideId>S001187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2015-03-18</sponsorshipDate>
+        <identifiers>
+          <lisID>2047</lisID>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <lastName>Stivers</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+        <fullName>Rep. Webster, Daniel [R-FL-10]</fullName>
+        <party>R</party>
+        <bioguideId>W000806</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <sponsorshipDate>2015-04-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2002</lisID>
+          <gpoId>7880</gpoId>
+          <bioguideId>W000806</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <lastName>Webster</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>General public lands matters</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>LAND Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Land Acquisition to cut National Debt Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>To provide that there shall be no net increase in the acres of certain Federal land under the jurisdiction of the Bureau of Land Management, the National Park Service, the United States Fish and Wildlife Service, or the Forest Service unless the Federal budget is balanced for the year in which the land would be purchased.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>LAND Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

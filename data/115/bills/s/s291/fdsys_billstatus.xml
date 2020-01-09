@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <systemCode>slin00</systemCode>
+          <name>Intelligence Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Select Committee on Intelligence.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-02-02</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Intelligence Committee</name>
+          <type>Select</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>slin00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-02T19:40:10Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <updateDate>2019-06-14T05:36:52Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2017-02-02</introducedDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Mark</firstName>
+        <bioguideId>W000805</bioguideId>
+        <state>VA</state>
+        <party>D</party>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <lastName>Warner</lastName>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <middleName>R.</middleName>
+      </item>
+    </sponsors>
+    <title>Strengthening Oversight of National Security Act of 2017</title>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <laws />
+    <createDate>2017-02-03T05:17:31Z</createDate>
+    <latestAction>
+      <text>Read twice and referred to the Select Committee on Intelligence.</text>
+      <actionDate>2017-02-02</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the National Security Act of 1947 to modify the requirements for membership in the National Security Council and cabinet-level policy forum, and for other purposes</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Strengthening Oversight of National Security Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Strengthening Oversight of National Security Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Strengthening Oversight of National Security Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <amendments />
+    <billNumber>291</billNumber>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>PATRICK</firstName>
+        <lastName>LEAHY</lastName>
+        <middleName>JOSEPH</middleName>
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Martin</firstName>
+        <lastName>Heinrich</lastName>
+        <middleName />
+        <bioguideId>H001046</bioguideId>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>DIANNE</firstName>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <bioguideId>F000062</bioguideId>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001075</bioguideId>
+          <lisID>2301</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kamala</firstName>
+        <lastName>Harris</lastName>
+        <middleName>D.</middleName>
+        <bioguideId>H001075</bioguideId>
+        <sponsorshipDate>2017-02-02</sponsorshipDate>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <middleName>A.</middleName>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>DEBORAH</firstName>
+        <lastName>STABENOW</lastName>
+        <middleName>ANN</middleName>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Congressional-executive branch relations</name>
+          </item>
+          <item>
+            <name>Executive Office of the President</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Military command and structure</name>
+          </item>
+          <item>
+            <name>Policy sciences</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s291is/xml/BILLS-115s291is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2017-02-02T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-02T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-02</actionDate>
+          <text><![CDATA[<p><b>Strengthening Oversight of National Security Act of 2017</b></p> <p>This bill amends the National Security Act of 1947 to add the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff as statutorily required members of the National Security Council (NSC). (The current NSC members required by statute are the President, the Vice President, the Secretary of State, the Secretary of Defense, and the Secretary of Energy.)</p> <p>The bill prohibits the President from designating as additional members or attendees of the NSC any individuals in positions that are not subject to Senate confirmation (excluding the National Security Advisor and deputies, the Homeland Security Advisor and deputies, the Assistant to the President and Chief of Staff, the Counsel to the President, the Assistant to the President for Economic Policy, and the Assistant to the Vice President for National Security) unless Congress approves of the designation through enactment of a joint resolution or a bill. </p> <p>The cabinet-level interagency forum for policy consideration and decision-making that supports the NSC must reflect the membership of the NSC and any Senate-confirmed member of the executive branch designated by the President. Exceptions to this forum composition are permitted for a one-time decision-making action, but the President must notify Congress within 24 hours after execution of such an exception. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-03-03T20:05:49Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

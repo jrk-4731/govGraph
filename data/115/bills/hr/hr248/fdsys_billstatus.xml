@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <name>Transportation and Maritime Security Subcommittee</name>
+          <systemCode>hshm07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation and Protective Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-04</actionDate>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-04</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-01-04</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To limit the authority of personnel of the Department of Homeland Security to prohibit a citizen or permanent resident of the United States from boarding as a passenger on an aircraft or cruise ship based on inclusion of the individual in a watchlist, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>No Fly for Terrorists Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>No Fly for Terrorists Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>No Fly for Terrorists Act</title>
+      </item>
+    </titles>
+    <title>No Fly for Terrorists Act</title>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Transportation and Protective Security.</text>
+      <actionDate>2017-02-02</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-04</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-01-30T22:48:28Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>No Fly for Terrorists Act</strong></p> <p>This bill amends federal transportation provisions and the Intelligence Reform and Terrorism Prevention Act of 2004 to prohibit Department of Homeland Security personnel from prohibiting a citizen or permanent resident of the United States from boarding a flight or a cruise ship as a passenger based on his or her inclusion on any no fly list, no transport list, automatic selectee list, consolidated and integrated terrorist watchlist, or other similar list maintained by the government unless the individual has been convicted of a federal crime of terrorism.</p>]]></text>
+          <updateDate>2017-01-04T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>MI</state>
+        <identifiers>
+          <gpoId>7988</gpoId>
+          <bioguideId>A000367</bioguideId>
+          <lisID>2029</lisID>
+        </identifiers>
+        <bioguideId>A000367</bioguideId>
+        <middleName />
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <firstName>Justin</firstName>
+        <party>R</party>
+        <lastName>Amash</lastName>
+        <district>3</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T15:58:31Z</updateDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-04T15:04:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hshm07</systemCode>
+              <activities>
+                <item>
+                  <date>2017-02-02T14:25:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Transportation and Maritime Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-01-05T04:47:32Z</createDate>
+    <introducedDate>2017-01-04</introducedDate>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>248</billNumber>
+    <cosponsors />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. AMASH:H.R. 248.Congress has the power to enact this legislation pursuantto the following:The Due Process Clause (``[N]or shall any person . . . bedeprived of life, liberty, or property, without due processof law . . . .'')Article I, Section 8, Clause 18 (``The Congress shall havePower . . . To make all Laws which shall be necessary andproper for carrying into Execution . . . all other Powersvested by this Constitution in the Government of the UnitedStates or in any Department or Officer thereof.'')[Page H96]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <date>2017-01-04T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr248ih/xml/BILLS-115hr248ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

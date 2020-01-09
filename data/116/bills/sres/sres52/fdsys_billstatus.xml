@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Indian Affairs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Rules and Administration Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-02-06T20:31:43Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+        </item>
+        <item>
+          <name>Indian Affairs Committee</name>
+          <type>Other</type>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2019-02-06T20:31:24Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>slia00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <billNumber>52</billNumber>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2019-02-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres52is/xml/BILLS-116sres52is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution authorizing expenditures by the Committee on Indian Affairs.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution authorizing expenditures by the Committee on Indian Affairs.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <notes />
+    <cosponsors />
+    <title>A resolution authorizing expenditures by the Committee on Indian Affairs.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2019-02-06T05:00:00Z</updateDate>
+          <actionDate>2019-02-06</actionDate>
+          <lastSummaryUpdateDate>2019-03-12T17:00:18Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Indian Affairs for the 116th Congress.</p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>25</versionCode>
+          <updateDate>2019-02-06T14:49:52Z</updateDate>
+          <actionDate>2019-02-06</actionDate>
+          <lastSummaryUpdateDate>2019-03-12T17:00:11Z</lastSummaryUpdateDate>
+          <actionDesc>Reported to Senate</actionDesc>
+          <text><![CDATA[<p>This resolution authorizes expenditures by the Senate Committee on Indian Affairs for the 116th Congress.</p>]]></text>
+          <name>Reported to Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-06-21T11:07:18Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <committeeReports />
+    <amendments />
+    <sponsors>
+      <item>
+        <lastName>Hoeven</lastName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <state>ND</state>
+        <middleName />
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <byRequestType />
+        <firstName>John</firstName>
+        <party>R</party>
+        <bioguideId>H001061</bioguideId>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S924-925)</text>
+      <actionDate>2019-02-06</actionDate>
+      <links />
+    </latestAction>
+    <introducedDate>2019-02-06</introducedDate>
+    <createDate>2019-02-07T06:10:14Z</createDate>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <congress>116</congress>
+    <billType>SRES</billType>
+    <relatedBills />
+    <cboCostEstimates />
+    <actions>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S924-925</url>
+            <name>S924-925</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S924-925)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-02-06</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Original measure reported to Senate by Senator Hoeven. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <text>Committee on Indian Affairs. Original measure reported to Senate by Senator Hoeven. Without written report.</text>
+        <actionDate>2019-02-06</actionDate>
+        <actionCode>14000</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionDate>2019-02-06</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+    </actions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

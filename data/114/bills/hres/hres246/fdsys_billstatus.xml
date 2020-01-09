@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-05-02T08:57:28Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Small Business.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2015-05-01</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2015-05-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2015-05-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-05-01T13:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hssm00</systemCode>
+          <type>Standing</type>
+          <name>Small Business Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <district>4</district>
+        <bioguideId>G000565</bioguideId>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <party>R</party>
+        <lastName>Gosar</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>R000515</bioguideId>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <lastName>RUSH</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>BOBBY</firstName>
+      </item>
+      <item>
+        <district>0</district>
+        <bioguideId>B001245</bioguideId>
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>GU</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <middleName>Z.</middleName>
+        <party>D</party>
+        <lastName>Bordallo</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Madeleine</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <bioguideId>B000911</bioguideId>
+        <fullName>Rep. Brown, Corrine [D-FL-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>132</lisID>
+          <bioguideId>B000911</bioguideId>
+          <gpoId>7875</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>BROWN</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>CORRINE</firstName>
+      </item>
+      <item>
+        <district>17</district>
+        <bioguideId>B001286</bioguideId>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2127</lisID>
+          <bioguideId>B001286</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Bustos</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Cheri</firstName>
+      </item>
+      <item>
+        <district>7</district>
+        <bioguideId>C001072</bioguideId>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+          <lisID>1889</lisID>
+          <gpoId>7946</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Carson</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Andre</firstName>
+      </item>
+      <item>
+        <district>18</district>
+        <bioguideId>E000215</bioguideId>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7819</gpoId>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <party>D</party>
+        <lastName>ESHOO</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>ANNA</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <bioguideId>E000293</bioguideId>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000293</bioguideId>
+          <lisID>2114</lisID>
+        </identifiers>
+        <middleName>H.</middleName>
+        <party>D</party>
+        <lastName>Esty</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Elizabeth</firstName>
+      </item>
+      <item>
+        <district>15</district>
+        <bioguideId>H000636</bioguideId>
+        <fullName>Rep. Hinojosa, Ruben [D-TX-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1490</lisID>
+          <bioguideId>H000636</bioguideId>
+          <gpoId>8171</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>HINOJOSA</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>RUBEN</firstName>
+      </item>
+      <item>
+        <district>18</district>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>SHEILA</firstName>
+      </item>
+      <item>
+        <district>6</district>
+        <bioguideId>M001163</bioguideId>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+          <bioguideId>M001163</bioguideId>
+        </identifiers>
+        <middleName>O.</middleName>
+        <party>D</party>
+        <lastName>Matsui</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Doris</firstName>
+      </item>
+      <item>
+        <district>9</district>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Sinema</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Kyrsten</firstName>
+      </item>
+      <item>
+        <district>15</district>
+        <bioguideId>S001193</bioguideId>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2104</lisID>
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Swalwell</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <district>41</district>
+        <bioguideId>T000472</bioguideId>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Takano</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7493</gpoId>
+          <lisID>1940</lisID>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Titus</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Dina</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <bioguideId>L000560</bioguideId>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8206</gpoId>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>LARSEN</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>RICK</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <bioguideId>M001137</bioguideId>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <party>D</party>
+        <lastName>MEEKS</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>GREGORY</firstName>
+      </item>
+      <item>
+        <district>9</district>
+        <bioguideId>C001067</bioguideId>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <party>D</party>
+        <lastName>Clarke</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Yvette</firstName>
+      </item>
+      <item>
+        <district>16</district>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7825</gpoId>
+          <bioguideId>C001059</bioguideId>
+          <lisID>1774</lisID>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Costa</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Jim</firstName>
+      </item>
+      <item>
+        <district>3</district>
+        <bioguideId>K000376</bioguideId>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>L000578</bioguideId>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2100</lisID>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>LaMalfa</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Doug</firstName>
+      </item>
+      <item>
+        <district>3</district>
+        <bioguideId>T000470</bioguideId>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+          <bioguideId>T000470</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <lastName>Tipton</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <district>35</district>
+        <bioguideId>T000474</bioguideId>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2231</lisID>
+          <gpoId />
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <party>D</party>
+        <lastName>Torres</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Norma</firstName>
+      </item>
+      <item>
+        <district>11</district>
+        <bioguideId>F000454</bioguideId>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7355</gpoId>
+          <lisID>1888</lisID>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Foster</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <district>4</district>
+        <bioguideId>M001143</bioguideId>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>BETTY</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <bioguideId>P000607</bioguideId>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Pocan</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <bioguideId>S000018</bioguideId>
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1009</lisID>
+          <bioguideId>S000018</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>SALMON</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>MATT</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <bioguideId>S001148</bioguideId>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>ID</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7920</gpoId>
+          <lisID>1590</lisID>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <party>R</party>
+        <lastName>SIMPSON</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>MICHAEL</firstName>
+      </item>
+      <item>
+        <district>18</district>
+        <bioguideId>M001191</bioguideId>
+        <fullName>Rep. Murphy, Patrick [D-FL-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2117</lisID>
+          <bioguideId>M001191</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Murphy</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Patrick</firstName>
+      </item>
+      <item>
+        <district>0</district>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>DC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>ELEANOR</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+          <gpoId>8139</gpoId>
+        </identifiers>
+        <middleName>N.</middleName>
+        <party>D</party>
+        <lastName>Cicilline</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <district>9</district>
+        <bioguideId>G000553</bioguideId>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Green</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Al</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>B001294</bioguideId>
+        <fullName>Rep. Blum, Rod [R-IA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2241</lisID>
+          <bioguideId>B001294</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Blum</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Rod</firstName>
+      </item>
+      <item>
+        <district>36</district>
+        <bioguideId>R000599</bioguideId>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Ruiz</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Raul</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>L000580</bioguideId>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2146</lisID>
+          <bioguideId>L000580</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Lujan Grisham</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Michelle</firstName>
+      </item>
+      <item>
+        <district>51</district>
+        <bioguideId>V000130</bioguideId>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2112</lisID>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Vargas</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Juan</firstName>
+      </item>
+      <item>
+        <district>27</district>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Chu</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Judy</firstName>
+      </item>
+      <item>
+        <district>33</district>
+        <bioguideId>V000131</bioguideId>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000131</bioguideId>
+          <lisID>2166</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <lastName>Veasey</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Marc</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <bioguideId>C001101</bioguideId>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2196</lisID>
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <party>D</party>
+        <lastName>Clark</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Katherine</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>B001278</bioguideId>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8367</gpoId>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Bonamici</lastName>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <firstName>Suzanne</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipDate>2015-05-13</sponsorshipDate>
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <district>17</district>
+        <bioguideId>C001090</bioguideId>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Cartwright</lastName>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <firstName>Matt</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>P000597</bioguideId>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Pingree</lastName>
+        <sponsorshipDate>2015-06-08</sponsorshipDate>
+        <firstName>Chellie</firstName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText />
+    <latestAction>
+      <actionDate>2015-05-01</actionDate>
+      <text>Referred to the House Committee on Small Business.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-05-01T04:00:00Z</updateDate>
+          <actionDate>2015-05-01</actionDate>
+          <lastSummaryUpdateDate>2015-05-07T19:57:41Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Supports: (1) the designation of National Small Business Week, (2) efforts to encourage consumers to shop locally, and (3) efforts to increase awareness of the value of locally owned small businesses and the impact of locally owned small business on the U.S. economy. </p> <p>Honors the vital role of small business and entrepreneurs in the United States during such week. </p> <p>Recognizes: (1) the important role of the Small Business Administration as a valuable resource for the U.S. entrepreneur, (2) the importance of creating policies that promote a business friendly environment for small business owners free of unnecessary regulations, and (3) the National Small Business Person of the Year and the National Lender of the Year.</p> <p>Encourages young entrepreneurs to pursue their passions and create more start-up businesses.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>246</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HRES</billType>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>172</number>
+        <latestTitle>A resolution honoring the vital role of small businesses and the passion of entrepreneurs in the United States during "National Small Business Week", from May 4, through May 8, 2015.</latestTitle>
+        <latestAction>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2697; text as passed Senate: CR S2693)</text>
+          <actionDate>2015-05-06</actionDate>
+        </latestAction>
+        <type>SRES</type>
+        <congress>114</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>713</number>
+        <latestTitle>Honoring the vital role of small business and the passion of entrepreneurs in the United States during "National Small Business Week", beginning on May 1, through May 7, 2016.</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Small Business.</text>
+          <actionDate>2016-04-29</actionDate>
+        </latestAction>
+        <type>HRES</type>
+        <congress>114</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>702</number>
+        <latestTitle>Celebrating the contributions of small businesses and entrepreneurs in every community in the United States during "National Small Business Week", beginning on May 1 through May 7, 2016.</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Small Business.</text>
+          <actionDate>2016-04-26</actionDate>
+        </latestAction>
+        <type>HRES</type>
+        <congress>114</congress>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-11T15:40:29Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Economic performance and conditions</name>
+          </item>
+          <item>
+            <name>Small Business Administration</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <title>Honoring the vital role of small business and the passion of entrepreneurs in the United States during "National Small Business Week", beginning on May 4, through May 8, 2015.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Honoring the vital role of small business and the passion of entrepreneurs in the United States during "National Small Business Week", beginning on May 4, through May 8, 2015.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>114</congress>
+    <introducedDate>2015-05-01</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Cardenas</lastName>
+        <state>CA</state>
+        <district>29</district>
+        <party>D</party>
+        <byRequestType />
+        <firstName>Tony</firstName>
+        <bioguideId>C001097</bioguideId>
+        <middleName />
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+          <lisID>2107</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Honoring the vital role of small business and the passion of entrepreneurs in the United States during "National Small Business Week", beginning on May 4, through May 8, 2015.</title>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres246ih/xml/BILLS-114hres246ih.xml</url>
+          </item>
+        </formats>
+        <date>2015-05-01T04:00:00Z</date>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

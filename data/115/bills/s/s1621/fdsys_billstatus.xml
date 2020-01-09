@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-07-25T01:41:35Z</createDate>
+    <introducedDate>2017-07-24</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2018-03-09</actionDate>
+        <committee>
+          <name>Communications and Technology Subcommittee</name>
+          <systemCode>hsif16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Communications and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2018-03-05</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionTime>14:09:06</actionTime>
+        <actionCode>H14000</actionCode>
+        <links />
+        <actionDate>2018-03-05</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2018-03-05</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-03-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1320</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1320</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S1320; text: CR S1320)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <name>S1320</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S1320</url>
+          </link>
+        </links>
+        <actionDate>2018-03-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1320; text: CR S1320)</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-206</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/206</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-206.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <links>
+          <link>
+            <name>report No. 115-206</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/206</url>
+          </link>
+        </links>
+        <actionDate>2018-02-07</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-206.</text>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-24</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-07-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <passedSenate>1</passedSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <sentToHouse>1</sentToHouse>
+        <orderedReported>1</orderedReported>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+      <actionDate>2018-03-09</actionDate>
+    </latestAction>
+    <title>Rural Wireless Access Act of 2017</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-10-10T20:28:44Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-07-24T04:00:00Z</updateDate>
+          <actionDate>2017-07-24</actionDate>
+          <text><![CDATA[<p><b>Rural Wireless Access Act of 2017</b></p> <p>This bill requires the Federal Communications Commission to establish a consistent methodology for its collection of coverage data about the available speed tiers and performance characteristics of commercial mobile and data service for the Universal Service program or any similar programs. </p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-04-30T19:03:50Z</lastSummaryUpdateDate>
+          <versionCode>80</versionCode>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <updateDate>2018-02-07T14:22:36Z</updateDate>
+          <actionDate>2018-02-07</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Rural Wireless Access Act of 2017</b></p> <p>(Sec. 2) This bill requires the Federal Communications Commission to establish a consistent methodology for its collection of coverage data about the available speed tiers and performance characteristics of commercial mobile and data service for the Universal Service program or any similar programs. </p> <p>The methodology must: (1) include standard definitions for different speed tiers, (2) ensure that coverage data is collected in a consistent and robust way, (3) improve the validity and reliability of coverage data, and (4) increase the efficiency of coverage data collection.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2018-05-04T11:39:27Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <name>Passed Senate without amendment</name>
+          <updateDate>2018-03-01T13:24:27Z</updateDate>
+          <actionDate>2018-03-01</actionDate>
+          <text><![CDATA[<p><b>Rural Wireless Access Act of 2017</b></p> <p>(Sec. 2) This bill requires the Federal Communications Commission to establish a consistent methodology for its collection of coverage data about the available speed tiers and performance characteristics of commercial mobile and data service for the Universal Service program or any similar programs. </p> <p>The methodology must: (1) include standard definitions for different speed tiers, (2) ensure that coverage data is collected in a consistent and robust way, (3) improve the validity and reliability of coverage data, and (4) increase the efficiency of coverage data collection.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>1621</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <bioguideId>W000437</bioguideId>
+        <middleName>F.</middleName>
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>ROGER</firstName>
+        <state>MS</state>
+        <lastName>WICKER</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <calendarNumbers>
+      <item>
+        <number>0305</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-206</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1621rfh/xml/BILLS-115s1621rfh.xml</url>
+          </item>
+        </formats>
+        <date>2018-03-05T05:00:00Z</date>
+        <type>Referred in House</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1621es/xml/BILLS-115s1621es.xml</url>
+          </item>
+        </formats>
+        <date>2018-03-01T05:00:00Z</date>
+        <type>Engrossed in Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1621rs/xml/BILLS-115s1621rs.xml</url>
+          </item>
+        </formats>
+        <date>2018-02-07T05:00:00Z</date>
+        <type>Reported to Senate</type>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s1621is/xml/BILLS-115s1621is.xml</url>
+          </item>
+        </formats>
+        <date>2017-07-24T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-03-07</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>4986</number>
+        <type>HR</type>
+        <latestTitle>RAY BAUM'S Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2017-03-17</actionDate>
+          <text>Referred to the Subcommittee on Communications and Technology.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>1546</number>
+        <type>HR</type>
+        <latestTitle>Rural Wireless Access Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2017-05-11</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>1104</number>
+        <type>S</type>
+        <latestTitle>Rural Wireless Access Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/53283</url>
+        <pubDate>2017-11-02T13:15:46Z</pubDate>
+        <title>S. 1621, Rural Wireless Access Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2018-03-05T21:50:55Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsif16</systemCode>
+              <activities>
+                <item>
+                  <date>2018-03-09T21:10:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Communications and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2018-02-07T17:28:44Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-08-02T14:00:02Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-07-24T22:54:58Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Manchin</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <identifiers>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Sullivan</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>R</party>
+        <firstName>Dan</firstName>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+          <lisID>2290</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>S001198</bioguideId>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Barrasso</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>R</party>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <middleName />
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Fischer</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>R</party>
+        <firstName>Deb</firstName>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+          <lisID>2179</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Moran</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>R</party>
+        <firstName>Jerry</firstName>
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Schatz</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>WYDEN</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <party>D</party>
+        <firstName>RON</firstName>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Heller</lastName>
+        <sponsorshipDate>2017-11-07</sponsorshipDate>
+        <party>R</party>
+        <firstName>Dean</firstName>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>H001041</bioguideId>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Federal Communications Commission to establish a methodology for the collection by the Commission of information about commercial mobile service and commercial mobile data service, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Rural Wireless Access Act of 2017</title>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Rural Wireless Access Act of 2017</title>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>Rural Wireless Access Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Rural Wireless Access Act of 2017</title>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>Rural Wireless Access Act of 2017</title>
+      </item>
+      <item>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>Rural Wireless Access Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Rural Wireless Access Act of 2017</title>
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:38:14Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

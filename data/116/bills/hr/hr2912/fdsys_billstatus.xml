@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>To amend the Internal Revenue Code of 1986 to make employers of spouses of military personnel eligible for the work opportunity credit.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Military Spouse Hiring Act</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Military Spouse Hiring Act</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>Military Spouse Hiring Act</title>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2428</lisID>
+          <gpoId />
+          <bioguideId>D000630</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Antonio</firstName>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <bioguideId>D000630</bioguideId>
+        <state>NY</state>
+        <district>19</district>
+        <lastName>Delgado</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <updateDate>2019-07-18T07:18:14Z</updateDate>
+    <billNumber>2912</billNumber>
+    <createDate>2019-05-23T07:12:08Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DELGADO:H.R. 2912.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8, Clause 1 of the Constitution of theUnited States.[Page H4120]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-05-22T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Military Spouse Hiring Act </b></p> <p>This bill expands the Work Opportunity Tax Credit (WOTC) to include the hiring of a qualified military spouse. (The WOTC permits employers who hire individuals who are members of a targeted group such as qualified veterans, ex-felons, or long-term unemployment recipients to claim a tax credit equal to a portion of the wages paid to those individuals.) </p> <p>A "qualified military spouse" is any individual who is certified by the designated local agency as being (as of the hiring date) a spouse of a member of the Armed Forces. </p>]]></text>
+          <lastSummaryUpdateDate>2019-06-17T18:31:20Z</lastSummaryUpdateDate>
+          <actionDate>2019-05-22</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <activities>
+            <item>
+              <date>2019-05-22T14:04:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2019-05-22</actionDate>
+    </latestAction>
+    <laws />
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Military Spouses Employment Act</latestTitle>
+        <number>2667</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2019-05-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <firstName>Jimmy</firstName>
+        <state>CA</state>
+        <middleName />
+        <district>20</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000613</bioguideId>
+          <lisID>2309</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Panetta</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000613</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+      </item>
+      <item>
+        <firstName>Donald</firstName>
+        <state>VA</state>
+        <middleName>S.</middleName>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+          <lisID>2272</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Beyer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001292</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <state>PA</state>
+        <middleName />
+        <district>16</district>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+        </identifiers>
+        <party>R</party>
+        <lastName>Kelly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000376</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+      </item>
+      <item>
+        <firstName>Cathy</firstName>
+        <state>WA</state>
+        <middleName>McMorris</middleName>
+        <district>5</district>
+        <identifiers>
+          <bioguideId>M001159</bioguideId>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Rodgers</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001159</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+      </item>
+      <item>
+        <firstName>Don</firstName>
+        <state>NE</state>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+          <gpoId />
+          <lisID>2337</lisID>
+        </identifiers>
+        <party>R</party>
+        <lastName>Bacon</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001298</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <state>CA</state>
+        <middleName />
+        <district>41</district>
+        <identifiers>
+          <lisID>2110</lisID>
+          <gpoId />
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Takano</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+      </item>
+      <item>
+        <firstName>FRANK</firstName>
+        <state>NJ</state>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>PALLONE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000034</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+      </item>
+      <item>
+        <firstName>Tulsi</firstName>
+        <state>HI</state>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Gabbard</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000571</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+      </item>
+      <item>
+        <firstName>Jackie</firstName>
+        <state>CA</state>
+        <middleName />
+        <district>14</district>
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Speier</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001175</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+      </item>
+      <item>
+        <firstName>Andy</firstName>
+        <state>NJ</state>
+        <middleName />
+        <district>3</district>
+        <identifiers>
+          <lisID>2420</lisID>
+          <bioguideId>K000394</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Kim</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000394</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-30</sponsorshipDate>
+        <fullName>Rep. Kim, Andy [D-NJ-3]</fullName>
+      </item>
+      <item>
+        <firstName>Ro</firstName>
+        <state>CA</state>
+        <middleName />
+        <district>17</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Khanna</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-30</sponsorshipDate>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <middleName />
+        <district>9</district>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-05-30</sponsorshipDate>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <state>NH</state>
+        <middleName />
+        <district>1</district>
+        <identifiers>
+          <lisID>2418</lisID>
+          <bioguideId>P000614</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Pappas</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000614</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+      </item>
+      <item>
+        <firstName>Grace</firstName>
+        <state>NY</state>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <lisID>2148</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Meng</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+      </item>
+      <item>
+        <firstName>Elaine</firstName>
+        <state>VA</state>
+        <middleName>G.</middleName>
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000591</bioguideId>
+          <lisID>2453</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Luria</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000591</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <state>KS</state>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>W000824</bioguideId>
+          <gpoId />
+          <lisID>2402</lisID>
+        </identifiers>
+        <party>R</party>
+        <lastName>Watkins</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000824</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <fullName>Rep. Watkins, Steve [R-KS-2]</fullName>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <state>PA</state>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+      </item>
+      <item>
+        <firstName>Adriano</firstName>
+        <state>NY</state>
+        <middleName />
+        <district>13</district>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <lisID>2342</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Espaillat</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000297</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+      </item>
+      <item>
+        <firstName>Angie</firstName>
+        <state>MN</state>
+        <middleName />
+        <district>2</district>
+        <identifiers>
+          <bioguideId>C001119</bioguideId>
+          <lisID>2412</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <lastName>Craig</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001119</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+      </item>
+      <item>
+        <firstName>Ben</firstName>
+        <state>VA</state>
+        <middleName />
+        <district>6</district>
+        <identifiers>
+          <bioguideId>C001118</bioguideId>
+          <lisID>2455</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <lastName>Cline</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001118</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+      </item>
+      <item>
+        <firstName>Kathy</firstName>
+        <state>FL</state>
+        <middleName />
+        <district>14</district>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <lisID>1839</lisID>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Castor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001066</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+      </item>
+      <item>
+        <firstName>TJ</firstName>
+        <state>CA</state>
+        <middleName />
+        <district>21</district>
+        <identifiers>
+          <lisID>2378</lisID>
+          <gpoId />
+          <bioguideId>C001124</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Cox</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001124</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <fullName>Rep. Cox, TJ [D-CA-21]</fullName>
+      </item>
+      <item>
+        <firstName>Jim</firstName>
+        <state>CA</state>
+        <middleName />
+        <district>16</district>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+          <gpoId>7825</gpoId>
+          <lisID>1774</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Costa</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001059</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2912ih/xml/BILLS-116hr2912ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-05-22T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2019-05-22</introducedDate>
+    <cboCostEstimates />
+    <title>Military Spouse Hiring Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

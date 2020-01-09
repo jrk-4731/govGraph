@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-05-16T08:46:38Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-06-10</actionDate>
+        <committee>
+          <systemCode>hsii06</systemCode>
+          <name>Energy and Mineral Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-05-22</actionDate>
+        <committee>
+          <systemCode>hsif03</systemCode>
+          <name>Energy</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Power.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-15</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-15</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2015-05-15T13:05:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii06</systemCode>
+              <activities>
+                <item>
+                  <date>2015-06-10T21:21:26Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Energy and Mineral Resources Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2015-05-15T13:05:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif03</systemCode>
+              <activities>
+                <item>
+                  <date>2015-05-22T19:46:38Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Energy</name>
+            </item>
+          </subcommittees>
+        </item>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <activities>
+            <item>
+              <date>2015-05-15T13:05:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>Cuellar</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <district>28</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001063</bioguideId>
+        <identifiers>
+          <gpoId>8184</gpoId>
+          <bioguideId>C001063</bioguideId>
+          <lisID>1807</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2015-05-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Cuellar, Henry [D-TX-28]</fullName>
+        <firstName>Henry</firstName>
+      </item>
+      <item>
+        <lastName>Cramer</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001096</bioguideId>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <firstName>Kevin</firstName>
+      </item>
+      <item>
+        <lastName>Posey</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000599</bioguideId>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <lastName>Fleming</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000456</bioguideId>
+        <identifiers>
+          <bioguideId>F000456</bioguideId>
+          <lisID>1924</lisID>
+          <gpoId>7962</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Fleming, John [R-LA-4]</fullName>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <lastName>Walberg</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000798</bioguideId>
+        <identifiers>
+          <lisID>1855</lisID>
+          <bioguideId>W000798</bioguideId>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <firstName>Tim</firstName>
+      </item>
+      <item>
+        <lastName>Pittenger</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000606</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <lastName>Franks</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000448</bioguideId>
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <firstName>Trent</firstName>
+      </item>
+      <item>
+        <lastName>Bishop</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001293</bioguideId>
+        <identifiers>
+          <bioguideId>B001293</bioguideId>
+          <lisID>2249</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>Rogers</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000575</bioguideId>
+        <identifiers>
+          <lisID>1704</lisID>
+          <gpoId>7788</gpoId>
+          <bioguideId>R000575</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>Yoho</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Y000065</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2115</lisID>
+          <bioguideId>Y000065</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName>S.</middleName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <lastName>Bost</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001295</bioguideId>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <lisID>2243</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>Walorski</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000813</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+          <lisID>2128</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <lastName>Abraham</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000374</bioguideId>
+        <identifiers>
+          <bioguideId>A000374</bioguideId>
+          <lisID>2244</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName>Lee</middleName>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <firstName>Ralph</firstName>
+      </item>
+      <item>
+        <lastName>Moolenaar</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001194</bioguideId>
+        <identifiers>
+          <bioguideId>M001194</bioguideId>
+          <lisID>2248</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName>R.</middleName>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <lastName>Emmer</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000294</bioguideId>
+        <identifiers>
+          <lisID>2253</lisID>
+          <gpoId />
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <lastName>Allen</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <district>12</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000372</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2239</lisID>
+          <bioguideId>A000372</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-21</sponsorshipDate>
+        <middleName>W.</middleName>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <firstName>Rick</firstName>
+      </item>
+      <item>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001189</bioguideId>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-21</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <firstName>Austin</firstName>
+      </item>
+      <item>
+        <lastName>Thompson</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000467</bioguideId>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-21</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <firstName>Glenn</firstName>
+      </item>
+      <item>
+        <lastName>Gosar</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000565</bioguideId>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-27</sponsorshipDate>
+        <middleName>A.</middleName>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <lastName>Hartzler</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001053</bioguideId>
+        <identifiers>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-28</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <firstName>Vicky</firstName>
+      </item>
+      <item>
+        <lastName>Jenkins</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <district>2</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000290</bioguideId>
+        <identifiers>
+          <bioguideId>J000290</bioguideId>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <middleName />
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <firstName>Lynn</firstName>
+      </item>
+      <item>
+        <lastName>GOODLATTE</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <district>6</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000289</bioguideId>
+        <identifiers>
+          <lisID>446</lisID>
+          <bioguideId>G000289</bioguideId>
+          <gpoId>8197</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2015-09-08</sponsorshipDate>
+        <middleName>W.</middleName>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <firstName>ROBERT</firstName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 75 (Friday, May 15, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CONAWAY:H.R. 2369.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8, Clause 3 of the UnitedStates Constitution which give Congress the authority ``toregulate Commerce with foreign Nations and among the severalstates . . .'', and pursuant to the power granted to Congressunder Article I, Section 8, Clause 18.[Page H3253]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2015-06-10</actionDate>
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2015-05-15T04:00:00Z</updateDate>
+          <actionDate>2015-05-15</actionDate>
+          <lastSummaryUpdateDate>2015-09-28T19:16:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Energy Supply and Distribution Act of 2015</b></p> <p>This bill declares that the production and distribution of energy in the United States requires access to infrastructure and markets.</p> <p>The Department of Energy (DOE) must collaborate with federal agencies to improve the conceptual development of energy security, considering at a minimum: (1) development of flexible, transparent, and competitive energy markets, including natural gas and oil; and (2) diversification of energy fuels, sources, and routes, and the encouragement of indigenous sources of energy supply. </p> <p>DOE must also coordinate interagency: (1) data collection for energy distribution on shared energy infrastructure, and (2) training to evaluate and implement cross-border energy projects. </p> <p> It is the sense of Congress that growth in crude oil and dry natural gas production varies significantly across oil and natural gas supply regions, thereby: (1) forcing shifts in crude oil and natural gas flows between regions of the United States, and (2) requiring investment or realignment of midstream infrastructure including pipelines.</p> <p>The Energy Information Administration must collaborate with officials in Canada and Mexico to reconcile data on energy trade flows, extend energy mapping capabilities, and develop common energy data terminology. </p> <p>Congress declares that processed condensate is a petroleum product. </p> <p>The DOE Office of Fossil Energy Assessment may assess the suitability of condensate separately from crude oil for use in strategic reserves, while certain agencies within the Department of the Interior must assess condensate separately from crude oil. </p> <p>The bill authorizes: (1) the Bureau of Ocean Energy Management to estimate condensate separately from crude oil as part of the resource assessments regarding domestic geological formations, (2) the Office of Natural Resources Revenue to collect condensate data separately from crude oil, and (3) the United States Geological Survey to include estimates of condensate separately from crude oil as part of the resource assessments regarding domestic geological formations. </p> <p>Domestic crude oil or condensate (except crude oil stored in the Strategic Petroleum Reserve) may be exported without a federal license to countries not subject to U.S. sanctions.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2369</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <latestTitle>Energy Distribution Act of 2015</latestTitle>
+        <type>S</type>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2015-05-14</actionDate>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        </latestAction>
+        <number>1220</number>
+      </item>
+      <item>
+        <latestTitle>Condensate Act of 2015</latestTitle>
+        <type>S</type>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2015-05-19</actionDate>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        </latestAction>
+        <number>1224</number>
+      </item>
+      <item>
+        <latestTitle>Energy Supply and Distribution Act of 2015</latestTitle>
+        <type>S</type>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2015-06-09</actionDate>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        </latestAction>
+        <number>1312</number>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-11T15:41:45Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Canada</name>
+          </item>
+          <item>
+            <name>Earth sciences</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+          <item>
+            <name>Strategic materials and reserves</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To lift the oil export ban and modernize Federal policies regarding the supply and distribution of energy in the United States, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Energy Supply and Distribution Act of 2015</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Energy Supply and Distribution Act of 2015</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>114</congress>
+    <introducedDate>2015-05-15</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Conaway</lastName>
+        <state>TX</state>
+        <district>11</district>
+        <party>R</party>
+        <byRequestType />
+        <firstName>K.</firstName>
+        <bioguideId>C001062</bioguideId>
+        <middleName>Michael</middleName>
+        <fullName>Rep. Conaway, K. Michael [R-TX-11]</fullName>
+        <identifiers>
+          <lisID>1805</lisID>
+          <gpoId>8167</gpoId>
+          <bioguideId>C001062</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Energy Supply and Distribution Act of 2015</title>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr2369ih/xml/BILLS-114hr2369ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2015-05-15T04:00:00Z</date>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

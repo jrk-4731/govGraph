@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-04-29</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Oceans, and Wildlife Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-04-10</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-04-10</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-04-10</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <textVersions>
+      <item>
+        <date>2019-04-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2236ih/xml/BILLS-116hr2236ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Atlantic Ocean</name>
+          </item>
+          <item>
+            <name>Ecology</name>
+          </item>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Hunting and fishing</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <middleName>J.</middleName>
+        <firstName>Brian</firstName>
+        <district>18</district>
+        <bioguideId>M001199</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001199</bioguideId>
+          <lisID>2322</lisID>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Mast</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <middleName />
+        <firstName>Matt</firstName>
+        <district>8</district>
+        <bioguideId>C001090</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+        </identifiers>
+        <state>PA</state>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Cartwright</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <middleName />
+        <firstName>Billy</firstName>
+        <district>7</district>
+        <bioguideId>L000576</bioguideId>
+        <identifiers>
+          <lisID>2033</lisID>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Long</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <middleName />
+        <firstName>FRED</firstName>
+        <district>6</district>
+        <bioguideId>U000031</bioguideId>
+        <identifiers>
+          <lisID>1177</lisID>
+          <bioguideId>U000031</bioguideId>
+          <gpoId>7991</gpoId>
+        </identifiers>
+        <state>MI</state>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>UPTON</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <middleName />
+        <firstName>Jared</firstName>
+        <district>2</district>
+        <bioguideId>H001068</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Huffman</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <middleName>S.</middleName>
+        <firstName>Alan</firstName>
+        <district>47</district>
+        <bioguideId>L000579</bioguideId>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Lowenthal</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <middleName>K.</middleName>
+        <firstName>Brian</firstName>
+        <district>1</district>
+        <bioguideId>F000466</bioguideId>
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>PA</state>
+        <sponsorshipDate>2019-04-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <middleName />
+        <firstName>BENNIE</firstName>
+        <district>2</district>
+        <bioguideId>T000193</bioguideId>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <state>MS</state>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>THOMPSON</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <middleName>D.</middleName>
+        <firstName>JANICE</firstName>
+        <district>9</district>
+        <bioguideId>S001145</bioguideId>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>SCHAKOWSKY</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <middleName />
+        <firstName>Ed</firstName>
+        <district>1</district>
+        <bioguideId>C001055</bioguideId>
+        <identifiers>
+          <bioguideId>C001055</bioguideId>
+          <gpoId />
+          <lisID>1693</lisID>
+        </identifiers>
+        <state>HI</state>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Case</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <middleName />
+        <firstName>EARL</firstName>
+        <district>3</district>
+        <bioguideId>B000574</bioguideId>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <state>OR</state>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <middleName />
+        <firstName>Francis</firstName>
+        <district>19</district>
+        <bioguideId>R000607</bioguideId>
+        <identifiers>
+          <bioguideId>R000607</bioguideId>
+          <gpoId />
+          <lisID>2323</lisID>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Rooney</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <middleName>Gregory</middleName>
+        <firstName>W.</firstName>
+        <district>17</district>
+        <bioguideId>S001214</bioguideId>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+          <lisID>2389</lisID>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Steube</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <middleName>A.</middleName>
+        <firstName>Marc</firstName>
+        <district>33</district>
+        <bioguideId>V000131</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Veasey</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <middleName>M.</middleName>
+        <firstName>Steven</firstName>
+        <district>4</district>
+        <bioguideId>P000601</bioguideId>
+        <identifiers>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <state>MS</state>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Palazzo</lastName>
+      </item>
+    </cosponsors>
+    <updateDate>2019-06-26T07:39:22Z</updateDate>
+    <createDate>2019-04-11T07:12:10Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+      <links />
+      <actionDate>2019-04-29</actionDate>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <activities>
+                <item>
+                  <date>2019-04-29T20:34:42Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <date>2019-04-10T13:10:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2019-04-10</introducedDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <amendments />
+    <congress>116</congress>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <bioguideId>D000624</bioguideId>
+        <party>D</party>
+        <lastName>Dingell</lastName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <byRequestType />
+        <district>12</district>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>2236</billNumber>
+    <title>Forage Fish Conservation Act</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve the management of forage fish.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Forage Fish Conservation Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Forage Fish Conservation Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Forage Fish Conservation Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-04-10</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Forage Fish Conservation Act</b></p> <p>This bill addresses the management and conservation of forage fish. (A forage fish is any fish at a low trophic level that contributes significantly to the diets of other fish, marine mammals, or birds and serves as a conduit for energy transfer to species at a higher trophic level.)</p> <p>The Department of Commerce must establish guidelines to assist regional fishery management councils in (1) developing a list of unmanaged forage fish areas and prohibiting the development of any new forage fish fisheries until the potential impacts of such fisheries have been assessed; and (2)setting annual catch limits for forage fish fisheries that assess, specify, and reduce such limits by the diet needs of other fish species and marine wildlife.</p> <p>The bill adds shad (American shad and hickory shad)and river herring (blueback herring and alewife)to the list of managed stocks for the New England and Mid-Atlantic Fishery Management Council.</p>]]></text>
+          <lastSummaryUpdateDate>2019-04-26T15:07:56Z</lastSummaryUpdateDate>
+          <updateDate>2019-04-10T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. DINGELL:H.R. 2236.Congress has the power to enact this legislation pursuantto the following:The Constitutional authority of Congress to enact thislegislation is provided by Article I, Section 8 of the UnitedStates Constitution.[Page H3257]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

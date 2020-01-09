@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <sentToHouse>1</sentToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+      </actionTypeCounts>
+      <item>
+        <text>Held at the desk.</text>
+        <actionCode>H15000</actionCode>
+        <committee />
+        <actionDate>2018-12-22</actionDate>
+        <type>Floor</type>
+        <actionTime>18:47:19</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <committee />
+        <actionDate>2018-12-22</actionDate>
+        <type>Floor</type>
+        <actionTime>18:02:11</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2018-12-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-12-22</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <actionCode>17000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2018-12-22</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionDate>2018-12-22</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S8037-8039</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S8037-8039</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S8037-8039)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-12-22</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <actionCode>14500</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2018-12-22</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-03-08</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-08</actionDate>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>8</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2018-12-22T20:25:08Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-03-08T19:05:56Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <updateDate>2019-06-13T20:53:52Z</updateDate>
+    <recordedVotes />
+    <introducedDate>2017-03-08</introducedDate>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <firstName>Gary</firstName>
+        <bioguideId>P000595</bioguideId>
+        <state>MI</state>
+        <party>D</party>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+      </item>
+    </sponsors>
+    <title>National Criminal Justice Commission Act of 2017</title>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Sentencing Reform and Corrections Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>1917</number>
+        <latestAction>
+          <actionDate>2018-02-15</actionDate>
+          <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>National Criminal Justice Commission Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>1886</number>
+        <latestAction>
+          <actionDate>2017-04-26</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>CORRECTIONS Act</latestTitle>
+        <congress>115</congress>
+        <number>1994</number>
+        <latestAction>
+          <actionDate>2017-10-19</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S6646-6655)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>National Criminal Justice Commission Act of 2017</latestTitle>
+        <congress>115</congress>
+        <number>1607</number>
+        <latestAction>
+          <actionDate>2017-03-31</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>Mens Rea Reform Act of 2018</latestTitle>
+        <congress>115</congress>
+        <number>3118</number>
+        <latestAction>
+          <actionDate>2018-06-21</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <createDate>2017-03-09T05:25:17Z</createDate>
+    <latestAction>
+      <actionTime>18:47:19</actionTime>
+      <text>Held at the desk.</text>
+      <actionDate>2018-12-22</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to establish the National Criminal Justice Commission.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>National Criminal Justice Commission Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>National Criminal Justice Commission Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <title>National Criminal Justice Commission Act of 2018</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>National Criminal Justice Commission Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <amendments>
+      <amendment>
+        <number>4180</number>
+        <type>SAMDT</type>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <purpose>In the nature of a substitute.</purpose>
+        <type>SAMDT</type>
+        <submittedDate>2018-12-22T05:00:00Z</submittedDate>
+        <createDate>2018-12-23T05:16:12Z</createDate>
+        <links />
+        <congress>115</congress>
+        <description />
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <amendedAmendment />
+        <titles />
+        <sponsors>
+          <item>
+            <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+            <middleName>C.</middleName>
+            <state>MI</state>
+            <bioguideId>P000595</bioguideId>
+            <lastName>Peters</lastName>
+            <firstName>Gary</firstName>
+            <party>D</party>
+            <identifiers>
+              <gpoId>7994</gpoId>
+              <lisID>1929</lisID>
+              <bioguideId>P000595</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <chamber>Senate</chamber>
+        <actions>
+          <count>6</count>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2018-12-22</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.4180</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4180</url>
+                </link>
+                <link>
+                  <name>SA 4180</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4180</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 4180 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2018-12-22</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.4180</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4180</url>
+                </link>
+                <link>
+                  <name>S8037-8039</name>
+                  <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S8037-8039</url>
+                </link>
+                <link>
+                  <name>SA 4180</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4180</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 4180 proposed by Senator McConnell for Senator Peters. (consideration: CR S8037-8039; text: CR S8037-8039) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2018-12-22</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4180 proposed by Senator McConnell for Senator Peters.(consideration: CR S8037-8039; text: CR S8037-8039)</text>
+              <actionCode>93000</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <actionDate>2018-12-22</actionDate>
+              <links>
+                <link>
+                  <name>S.Amdt.4180</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4180</url>
+                </link>
+                <link>
+                  <name>S8037-8039</name>
+                  <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S8037-8039</url>
+                </link>
+                <link>
+                  <name>SA 4180</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4180</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <text>Senate amendment agreed to: Amendment SA 4180 agreed to in Senate by Unanimous Consent.</text>
+              <actionCode>94000</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <actionDate>2018-12-22</actionDate>
+              <links>
+                <link>
+                  <name>S.Amdt.4180</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4180</url>
+                </link>
+                <link>
+                  <name>SA 4180</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4180</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <text>Senate amendment submitted</text>
+              <actionCode>91000</actionCode>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+              <actionDate>2018-12-22</actionDate>
+              <links />
+            </item>
+          </actions>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <updateDate>2019-06-13T20:53:52Z</updateDate>
+        <amendedBill>
+          <type>S</type>
+          <title>National Criminal Justice Commission Act of 2017</title>
+          <originChamberCode>S</originChamberCode>
+          <congress>115</congress>
+          <originChamber>Senate</originChamber>
+          <number>573</number>
+        </amendedBill>
+        <notes />
+        <version>1.0.0</version>
+        <number>4180</number>
+        <proposedDate>2018-12-22T05:00:00Z</proposedDate>
+        <congress>115</congress>
+        <latestAction>
+          <text>Amendment SA 4180 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2018-12-22</actionDate>
+        </latestAction>
+      </amendment>
+    </amendments>
+    <billNumber>573</billNumber>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <bioguideId>G000359</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>LINDSEY</firstName>
+        <lastName>GRAHAM</lastName>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <party>R</party>
+        <middleName>O.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SC</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <bioguideId>C001056</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>John</firstName>
+        <lastName>Cornyn</lastName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <bioguideId>S000770</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>DEBORAH</firstName>
+        <lastName>STABENOW</lastName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000567</bioguideId>
+          <lisID>213</lisID>
+          <gpoId>8292</gpoId>
+        </identifiers>
+        <bioguideId>C000567</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Thad</firstName>
+        <lastName>Cochran</lastName>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MS</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <bioguideId>C001070</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <bioguideId>B001230</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8252</gpoId>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <bioguideId>M001170</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Claire</firstName>
+        <lastName>McCaskill</lastName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>SHELLEY</firstName>
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <party>R</party>
+        <middleName>MOORE</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WV</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <bioguideId>W000805</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Heidi</firstName>
+        <lastName>Heitkamp</lastName>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ND</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OR</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <bioguideId>H000338</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>ORRIN</firstName>
+        <lastName>HATCH</lastName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <party>R</party>
+        <middleName>GRANT</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>UT</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>SUSAN</firstName>
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <party>R</party>
+        <middleName>MARGARET</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>ME</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001075</bioguideId>
+          <lisID>2301</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001075</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Kamala</firstName>
+        <lastName>Harris</lastName>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <party>D</party>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>CLARENCE</firstName>
+        <lastName>NELSON</lastName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Timothy</firstName>
+        <lastName>Kaine</lastName>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>VA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <bioguideId>C001075</bioguideId>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <lastName>Cassidy</lastName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>LA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <bioguideId>Y000064</bioguideId>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <firstName>Todd</firstName>
+        <lastName>Young</lastName>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <party>R</party>
+        <middleName>C.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+          <lisID>2302</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001076</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <firstName>Margaret</firstName>
+        <lastName>Hassan</lastName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <party>D</party>
+        <middleName>Wood</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <bioguideId>H001046</bioguideId>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <firstName>Martin</firstName>
+        <lastName>Heinrich</lastName>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NM</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001113</bioguideId>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <firstName>Catherine</firstName>
+        <lastName>Cortez Masto</lastName>
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NV</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>R000605</bioguideId>
+        <sponsorshipDate>2017-05-08</sponsorshipDate>
+        <firstName>Mike</firstName>
+        <lastName>Rounds</lastName>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SD</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2303</lisID>
+          <gpoId />
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <bioguideId>K000393</bioguideId>
+        <sponsorshipDate>2017-05-10</sponsorshipDate>
+        <firstName>John</firstName>
+        <lastName>Kennedy</lastName>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <party>R</party>
+        <middleName>Neely</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>LA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <bioguideId>M000639</bioguideId>
+        <sponsorshipDate>2018-04-09</sponsorshipDate>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipDate>2018-05-16</sponsorshipDate>
+        <firstName>EDWARD</firstName>
+        <lastName>MARKEY</lastName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billType>S</billType>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s573es/xml/BILLS-115s573es.xml</url>
+          </item>
+        </formats>
+        <type>Engrossed in Senate</type>
+        <date>2018-12-22T05:00:00Z</date>
+      </item>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s573is/xml/BILLS-115s573is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2017-03-08T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong></strong><b>National Criminal Justice Commission Act of 2017</b></p> <p>This bill establishes the National Criminal Justice Commission to conduct a comprehensive review of the criminal justice system; make recommendations for criminal justice reform; and disseminate findings and guidance to the federal government and to state, local, and tribal governments.</p>]]></text>
+          <lastSummaryUpdateDate>2017-05-03T15:16:05Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-08T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-08</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

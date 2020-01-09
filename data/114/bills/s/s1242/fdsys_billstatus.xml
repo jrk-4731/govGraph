@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-05-08T09:07:28Z</createDate>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2015-05-14T21:20:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2015-05-07T15:27:12Z</date>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <introducedDate>2015-05-07</introducedDate>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-05-14</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-05-07</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-05-07</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+      </item>
+    </actions>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <relatedBills />
+    <billNumber>1242</billNumber>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <updateDate>2015-05-07T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-06-18T14:12:45Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2015-05-07</actionDate>
+          <text><![CDATA[<p><b>Regional Gas Consumer Protection Act</b></p> <p>This bill amends the Natural Gas Act to direct the Federal Energy Regulatory Commission, before approving or disapproving an application for the siting, construction, expansion, or operation of a liquefied natural gas (LNG) terminal, to consider: (1) regional constraints in the U.S. natural gas supply, and (2) whether the application includes provisions of benefit to the regional consumers that would be affected by the exportation of natural gas.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-08-16T22:53:56Z</updateDate>
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2015-05-14</actionDate>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <bioguideId>K000383</bioguideId>
+        <party>I</party>
+        <state>ME</state>
+        <firstName>Angus</firstName>
+        <middleName />
+        <lastName>King</lastName>
+        <byRequestType />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+      </item>
+    </sponsors>
+    <title>Regional Gas Consumer Protection Act</title>
+    <amendments />
+    <titles>
+      <item>
+        <title>Regional Gas Consumer Protection Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to amend the Natural Gas Act to require the Federal Energy Regulatory Commission to consider regional constraints in natural gas supply and whether a proposed LNG terminal would benefit regional consumers of natural gas before approving or disapproving an application for the LNG terminal, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Regional Gas Consumer Protection Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

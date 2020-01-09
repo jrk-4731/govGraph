@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>73</billNumber>
+    <billType>SRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-02-14</actionDate>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-02-14T22:21:01Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <relatedBills />
+    <committeeReports />
+    <notes />
+    <congress>116</congress>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <sponsors>
+      <item>
+        <middleName />
+        <lastName>Rubio</lastName>
+        <bioguideId>R000595</bioguideId>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <firstName>Marco</firstName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <party>R</party>
+        <state>FL</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <middleName>L.</middleName>
+        <lastName>CARDIN</lastName>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <firstName>BENJAMIN</firstName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Moran</lastName>
+        <bioguideId>M000934</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+          <lisID>1507</lisID>
+        </identifiers>
+        <firstName>Jerry</firstName>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <lastName>DURBIN</lastName>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Sasse</lastName>
+        <bioguideId>S001197</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ben</firstName>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Kaine</lastName>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+          <lisID>2176</lisID>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>MARGARET</middleName>
+        <lastName>COLLINS</lastName>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <firstName>SUSAN</firstName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Coons</lastName>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>DE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <lastName>Booker</lastName>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Merkley</lastName>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Murphy</lastName>
+        <bioguideId>M001169</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Shaheen</lastName>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <firstName>Jeanne</firstName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <lastName>MARKEY</lastName>
+        <bioguideId>M000133</bioguideId>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Van Hollen</lastName>
+        <bioguideId>V000128</bioguideId>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres73is/xml/BILLS-116sres73is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+        <date>2019-02-14T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution calling on the Kingdom of Saudi Arabia to immediately release Saudi Women's Rights activists and respect the fundamental rights of all Saudi citizens.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution calling on the Kingdom of Saudi Arabia to immediately release Saudi Women's Rights activists and respect the fundamental rights of all Saudi citizens.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Saudi Arabia</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+          <item>
+            <name>Women's rights</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-03-27T13:26:07Z</updateDate>
+    <createDate>2019-02-15T12:40:18Z</createDate>
+    <title>A resolution calling on the Kingdom of Saudi Arabia to immediately release Saudi Women's Rights activists and respect the fundamental rights of all Saudi citizens.</title>
+    <introducedDate>2019-02-14</introducedDate>
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2019-02-14</actionDate>
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

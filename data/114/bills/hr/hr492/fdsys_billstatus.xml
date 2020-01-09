@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2018-11-21T21:22:57Z</updateDate>
+    <committeeReports />
+    <billNumber>492</billNumber>
+    <title>Ultrasound Informed Consent Act</title>
+    <recordedVotes />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-01-23</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2015-01-22</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2015-01-22</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2015-01-22</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2057</lisID>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <bioguideId>D000615</bioguideId>
+        <party>R</party>
+        <district>3</district>
+        <lastName>Duncan</lastName>
+        <byRequestType />
+        <firstName>Jeff</firstName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-22T14:00:26Z</date>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-01-23T18:19:15Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <introducedDate>2015-01-22</introducedDate>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <state>NM</state>
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000588</bioguideId>
+          <gpoId>8057</gpoId>
+          <lisID>1738</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <bioguideId>P000588</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Pearce</lastName>
+        <firstName>Stevan</firstName>
+      </item>
+      <item>
+        <state>NC</state>
+        <district>3</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <bioguideId>J000255</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>JONES</lastName>
+        <firstName>WALTER</firstName>
+      </item>
+      <item>
+        <state>TN</state>
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1954</lisID>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <bioguideId>R000582</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Roe</lastName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <district>5</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000566</bioguideId>
+          <gpoId>8095</gpoId>
+          <lisID>1885</lisID>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <bioguideId>L000566</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Latta</lastName>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <state>MS</state>
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8019</gpoId>
+          <lisID>2034</lisID>
+          <bioguideId>N000186</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Nunnelee, Alan [R-MS-1]</fullName>
+        <bioguideId>N000186</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Nunnelee</lastName>
+        <firstName>Alan</firstName>
+      </item>
+      <item>
+        <state>IN</state>
+        <district>6</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001189</bioguideId>
+          <lisID>2130</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <bioguideId>M001189</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Messer</lastName>
+        <firstName>Luke</firstName>
+      </item>
+      <item>
+        <state>AZ</state>
+        <district>8</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7799</gpoId>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <bioguideId>F000448</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Franks</lastName>
+        <firstName>Trent</firstName>
+      </item>
+      <item>
+        <state>OH</state>
+        <district>7</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000563</bioguideId>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <bioguideId>G000563</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Gibbs</lastName>
+        <firstName>Bob</firstName>
+      </item>
+      <item>
+        <state>FL</state>
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7873</gpoId>
+          <lisID>1685</lisID>
+          <bioguideId>M001144</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Miller, Jeff [R-FL-1]</fullName>
+        <bioguideId>M001144</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Miller</lastName>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <state>MI</state>
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2028</lisID>
+          <bioguideId>H001058</bioguideId>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <bioguideId>H001058</bioguideId>
+        <sponsorshipDate>2015-01-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Huizenga</lastName>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <state>OK</state>
+        <district>5</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000604</bioguideId>
+          <lisID>2265</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Russell, Steve [R-OK-5]</fullName>
+        <bioguideId>R000604</bioguideId>
+        <sponsorshipDate>2015-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Russell</lastName>
+        <firstName>Steve</firstName>
+      </item>
+    </cosponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2015-01-23</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ultrasound Informed Consent Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To ensure that women seeking an abortion receive an ultrasound and the opportunity to review the ultrasound before giving informed consent to receive an abortion.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Ultrasound Informed Consent Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2015-01-22</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2015-01-22T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-04-10T23:13:39Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Ultrasound Informed Consent Act</b></p> <p>Amends the Public Health Service Act to require abortion providers, before a woman gives informed consent to any part of an abortion, to perform an obstetric ultrasound on the pregnant woman, provide a simultaneous explanation of what the ultrasound is depicting, display the ultrasound images so the woman may view them, and provide a complete medical description of the images, including the dimensions of the embryo or fetus, cardiac activity if present and visible, and the presence of external members and internal organs if present and viewable. </p> <p>Prohibits construing this Act to require a woman to view the images or penalizing the provider or the woman if she declines to look at the images.</p> <p>Exempts an abortion provider if the abortion is necessary to save the life of a woman whose life is endangered by a physical condition. Requires the provider to include in the woman's medical file a certification of the specific medical circumstances that support this determination.</p> <p>Authorizes the Attorney General to commence a civil action in federal court against any abortion provider who knowingly violates this Act. Prescribes penalties. Directs the Attorney General to notify the appropriate state medical licensing authority of penalties assessed. Authorizes a woman upon whom an abortion has been performed in violation of this Act to commence a civil action against the provider for actual and punitive damages.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <laws />
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <createDate>2015-01-23T04:46:27Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 11 (Thursday, January 22, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DUNCAN of South Carolina:H.R. 492.Congress has the power to enact this legislation pursuantto the following:Amendment V, Section 1--the ``Due Process'' clause protectsany life from being taken without due process of law; thislegislation provides unborn citizens a modicum of dueprocess.[Page H533]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>114</congress>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Abortion</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Medical ethics</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Sex and reproductive health</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

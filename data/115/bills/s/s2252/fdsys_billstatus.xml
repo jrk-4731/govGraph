@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <bioguideId>C001088</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <state>DE</state>
+        <firstName>Christopher</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-06-04</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <bioguideId>C001070</bioguideId>
+        <middleName />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <lastName>Casey</lastName>
+        <state>PA</state>
+        <firstName>Bob</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-08-20</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <bioguideId>B001230</bioguideId>
+        <middleName />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <lastName>Baldwin</lastName>
+        <state>WI</state>
+        <firstName>Tammy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2018-09-18</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <createDate>2017-12-20T07:11:06Z</createDate>
+    <sponsors>
+      <item>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <party>D</party>
+        <state>MT</state>
+        <lastName>Tester</lastName>
+        <firstName>Jon</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>T000464</bioguideId>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-12-19</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-12-19</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <billNumber>2252</billNumber>
+    <updateDate>2019-04-18T16:40:52Z</updateDate>
+    <committeeReports />
+    <laws />
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-12-19T22:22:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssaf00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>4454</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-12-21</actionDate>
+          <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Chronic Wasting Disease Management Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <introducedDate>2017-12-19</introducedDate>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal and plant health</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Livestock</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <textVersions>
+      <item>
+        <date>2017-12-19T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2252is/xml/BILLS-115s2252is.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <title>Chronic Wasting Disease Support for States Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Animal Health Protection Act to support State and Tribal efforts to develop and implement management strategies to address chronic wasting disease among deer, elk, and moose populations, to support research regarding the causes of chronic wasting disease and methods to control the further spread of the disease, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Chronic Wasting Disease Support for States Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Chronic Wasting Disease Support for States Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Chronic Wasting Disease Support for States Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-03-18T18:40:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Chronic Wasting Disease Support for States Act</b></p> <p>This bill amends the Animal Health Protection Act to require the Department of Agriculture (USDA) to support state and tribal efforts in developing and implementing management strategies to address chronic wasting disease. The transmissible disease afflicts deer, elk, and moose populations.</p> <p>In addition, USDA must make grants to research centers to support efforts to expand and accelerate applied research on the disease.</p> <p>Land management agencies of the USDA and the Department of the Interior must work cooperatively with states in researching the disease and implementing state management strategies to reduce the spread and prevalence of the disease.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-12-19T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-12-19</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <actionDate>2017-12-19</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

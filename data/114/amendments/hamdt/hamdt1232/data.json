@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-07-06T22:56:35-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.1232", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1232"
+        }, 
+        {
+          "name": "Roll no. 363", 
+          "url": "http://clerk.house.gov/evs/2016/roll363.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 363, 
+      "text": "On agreeing to the DeFazio amendment (A007) Failed by recorded vote: 128 - 294 (Roll no. 363).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-07-06T20:20:18-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.1232", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1232"
+        }, 
+        {
+          "name": "H4426", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H4426"
+        }, 
+        {
+          "name": "H4426-4427", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H4426-4427"
+        }, 
+        {
+          "name": "H4443", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H4443"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4426-4427, H4443", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4426", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A007) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06T22:56:35-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.1232", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1232"
+        }, 
+        {
+          "name": "Roll no. 363", 
+          "url": "http://clerk.house.gov/evs/2016/roll363.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06T22:56:35-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.1232", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1232"
+        }, 
+        {
+          "name": "Roll no. 363", 
+          "url": "http://clerk.house.gov/evs/2016/roll363.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06T22:56:35-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.1232", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1232"
+        }, 
+        {
+          "name": "Roll no. 363", 
+          "url": "http://clerk.house.gov/evs/2016/roll363.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the DeFazio amendment (A007) Failed by recorded vote: 128 - 294 (Roll no. 363).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06T20:20:18-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.1232", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1232"
+        }, 
+        {
+          "name": "H4426", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H4426"
+        }, 
+        {
+          "name": "H4426-4427", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H4426-4427"
+        }, 
+        {
+          "name": "H4443", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H4443"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4426-4427, H4443", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4426", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A007) offered by Mr. DeFazio.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-07-06", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1232-114", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5485-114", 
+    "bill_type": "hr", 
+    "congress": 114, 
+    "number": 5485
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "114", 
+  "description": "Amendment sought to decrease funding for the Selective Service System by $22,703,000 and apply the savings to spending reduction account.", 
+  "introduced_at": "2016-07-06", 
+  "number": 1232, 
+  "purpose": null, 
+  "sponsor": {
+    "bioguide_id": "D000191", 
+    "district": "4", 
+    "name": "DeFazio, Peter A.", 
+    "state": "OR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2016-07-06T22:56:35-04:00", 
+  "updated_at": "2019-02-17T14:41:22Z"
+}

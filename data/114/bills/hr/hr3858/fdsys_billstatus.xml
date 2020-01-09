@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2015-11-23</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2015-10-29</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2015-10-29</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2015-10-29</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <updateDate>2019-05-09T23:15:19Z</updateDate>
+    <latestAction>
+      <actionDate>2015-11-23</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2015-10-29T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr3858ih/xml/BILLS-114hr3858ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>3858</billNumber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2015-10-29</sponsorshipDate>
+        <middleName>W.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>GOODLATTE</lastName>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <bioguideId>G000289</bioguideId>
+        <district>6</district>
+        <firstName>ROBERT</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>G000289</bioguideId>
+          <lisID>446</lisID>
+          <gpoId>8197</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2015-10-29</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SMITH</lastName>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <bioguideId>S000583</bioguideId>
+        <district>21</district>
+        <firstName>LAMAR</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2015-11-30</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Barr</lastName>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <bioguideId>B001282</bioguideId>
+        <district>6</district>
+        <firstName>Andy</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <identifiers>
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2015-12-11</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <bioguideId>J000292</bioguideId>
+        <district>6</district>
+        <firstName>Bill</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Bucshon</lastName>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <bioguideId>B001275</bioguideId>
+        <district>8</district>
+        <firstName>Larry</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+        <identifiers>
+          <lisID>2018</lisID>
+          <bioguideId>B001275</bioguideId>
+          <gpoId>7947</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2015-12-16</sponsorshipDate>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JONES</lastName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <bioguideId>J000255</bioguideId>
+        <district>3</district>
+        <firstName>WALTER</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <identifiers>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>CHABOT</lastName>
+        <party>R</party>
+        <middleName />
+        <firstName>STEVE</firstName>
+        <district>1</district>
+        <byRequestType />
+        <state>OH</state>
+        <bioguideId>C000266</bioguideId>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+        </identifiers>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-11-23T21:38:03Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-10-29T13:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To reauthorize the September 11th Victim Compensation Fund and to create a fund to compensate U.S. victims of state sponsored terrorism who hold final judgments from Article III courts and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>September 11th VCF Reauthorization and U.S. Victims of State Sponsored Terrorism Compensation Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>Justice for United States Victims of State Sponsored Terrorism Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>September 11th VCF Reauthorization and U.S. Victims of State Sponsored Terrorism Compensation Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>September 11th VCF Reauthorization and U.S. Victims of State Sponsored Terrorism Compensation Act</b></p> <p>This bill amends the September 11th Victim Compensation Fund of 2001 to exclude future medical expense loss from the economic losses that may be claimed under the fund.</p> <p>Eligibility for compensation under the fund is expanded to include individuals (or relatives of deceased individuals) who were injured or killed in the rescue and recovery efforts after the aircraft crashes of September 11, 2001.</p> <p>The filing period for claims is extended until October 4, 2021. The 9/11 Fund is established to pay claimants filing after October 3, 2016. A specified amount paid to the U.S. government as part of a plea agreement between the Department of Justice and BNP Paribas must be deposited into the 9/11 Fund.</p> <p><i>Justice for United States Victims of State Sponsored Terrorism Act</i></p> <p>The United States Victims of State Sponsored Terrorism Fund is established to compensate victims of state-sponsored terrorism and the Iran hostage crisis. Deposited into the fund are: (1) criminal and civil penalties for violations of the International Emergency Economic Powers Act or the Trading with the Enemy Act, or for a federal offense arising from doing business with or acting on behalf of a state sponsor of terrorism; (2) the amount remaining from the plea agreement between the Department of Justice and BNP Paribas after the deposit to the 9/11 Fund; and (3) proceeds from the sale of certain assets of Iran.</p> <p>The bill provides for compensation to a person who informs the Department of Justice of funds or property of a state sponsor of terrorism. </p>]]></text>
+          <lastSummaryUpdateDate>2016-09-29T11:29:39Z</lastSummaryUpdateDate>
+          <actionDate>2015-10-29</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2015-10-29T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2015-10-30T14:28:51Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>September 11th VCF Reauthorization and U.S. Victims of State Sponsored Terrorism Compensation Act</title>
+    <committeeReports />
+    <introducedDate>2015-10-29</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Foreign property</name>
+          </item>
+          <item>
+            <name>France</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>New York City</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>114</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 160 (Thursday, October 29, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CHABOT:H.R. 3858.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, clause 3, and Article I, section 8,clause 18.[Page H7347]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

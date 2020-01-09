@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:05:45Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>6</district>
+        <firstName>SAM</firstName>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <lastName>GRAVES</lastName>
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+          <gpoId>8014</gpoId>
+          <lisID>1656</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>G000546</bioguideId>
+        <state>MO</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-03-23T16:03:00Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-04-21T20:45:49Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju05</systemCode>
+              <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2015-03-23</introducedDate>
+    <createDate>2015-03-24T08:45:36Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2015-04-21</actionDate>
+        <committee>
+          <systemCode>hsju05</systemCode>
+          <name>Antitrust, Commercial, and Administrative Law Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-03-23</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2015-03-23</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <item>
+        <actionDate>2015-03-23</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <type>S</type>
+        <number>1164</number>
+        <latestTitle>End Discriminatory State Taxes for Automobile Renters Act of 2015</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2015-04-30</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>1528</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-03-23T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-06-26T20:06:44Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>End Discriminatory State Taxes for Automobile Renters Act of 2015</strong></p> <p>This bill prohibits a state or locality from levying or collecting a discriminatory tax on the rental of motor vehicles, the business of renting motor vehicles, or motor vehicle rental property, except where such tax is imposed as of the enactment date of this Act, the tax does not lapse, the tax rate does not increase, and the tax base for such tax does not change. </p> <p>A tax is considered discriminatory if it is applicable to the rental of motor vehicles or to motor vehicle businesses or property, but not to the majority of other rentals of tangible personal property or businesses within a state or locality.</p> <p>The bill allows a person who is aggrieved by a discriminatory tax to bring a civil action in a U.S. district court for damages, injunctive relief, other legal or equitable relief, or declaratory relief. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2015-03-23</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+      <links />
+      <actionDate>2015-04-21</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 48 (Monday, March 23, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRAVES of Missouri:H.R. 1528.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 of the U.S. Constitution,which grants Congress the power to regulate Commerce withforeign Nations, and among the several States, and with theIndian Tribes.[Page H1849]</pre>]]></constitutionalAuthorityStatementText>
+    <title>End Discriminatory State Taxes for Automobile Renters Act of 2015</title>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001068</bioguideId>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <district>9</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000619</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <firstName>Rodney</firstName>
+        <state>IL</state>
+        <district>13</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <party>R</party>
+        <lastName>Davis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000533</bioguideId>
+        <identifiers>
+          <bioguideId>D000533</bioguideId>
+          <gpoId>8149</gpoId>
+          <lisID>322</lisID>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <state>TN</state>
+        <district>2</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <party>R</party>
+        <lastName>DUNCAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001195</bioguideId>
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+          <lisID>2191</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jason</firstName>
+        <state>MO</state>
+        <district>8</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <party>R</party>
+        <lastName>Smith</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001188</bioguideId>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+          <lisID>2148</lisID>
+        </identifiers>
+        <firstName>Grace</firstName>
+        <state>NY</state>
+        <district>6</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <party>D</party>
+        <lastName>Meng</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>I000057</bioguideId>
+        <identifiers>
+          <gpoId>8063</gpoId>
+          <lisID>1663</lisID>
+          <bioguideId>I000057</bioguideId>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <state>NY</state>
+        <district>3</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <party>D</party>
+        <lastName>ISRAEL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>I000056</bioguideId>
+        <identifiers>
+          <gpoId>7854</gpoId>
+          <bioguideId>I000056</bioguideId>
+          <lisID>1640</lisID>
+        </identifiers>
+        <firstName>DARRELL</firstName>
+        <state>CA</state>
+        <district>49</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Issa, Darrell E. [R-CA-49]</fullName>
+        <party>R</party>
+        <lastName>ISSA</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>H.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000293</bioguideId>
+        <identifiers>
+          <lisID>2114</lisID>
+          <gpoId />
+          <bioguideId>E000293</bioguideId>
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <state>CT</state>
+        <district>5</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <party>D</party>
+        <lastName>Esty</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001160</bioguideId>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <firstName>Gwen</firstName>
+        <state>WI</state>
+        <district>4</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000294</bioguideId>
+        <identifiers>
+          <bioguideId>J000294</bioguideId>
+          <lisID>2149</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Hakeem</firstName>
+        <state>NY</state>
+        <district>8</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <party>D</party>
+        <lastName>Jeffries</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000292</bioguideId>
+        <identifiers>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <state>OH</state>
+        <district>6</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000588</bioguideId>
+        <identifiers>
+          <gpoId>7960</gpoId>
+          <bioguideId>R000588</bioguideId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <firstName>Cedric</firstName>
+        <state>LA</state>
+        <district>2</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <party>D</party>
+        <lastName>Richmond</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000266</bioguideId>
+        <identifiers>
+          <lisID>186</lisID>
+          <gpoId>8091</gpoId>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <state>OH</state>
+        <district>1</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <party>R</party>
+        <lastName>CHABOT</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000795</bioguideId>
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <firstName>Joe</firstName>
+        <state>SC</state>
+        <district>2</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <party>R</party>
+        <lastName>Wilson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001293</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2249</lisID>
+          <bioguideId>B001293</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <state>MI</state>
+        <district>8</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <party>R</party>
+        <lastName>Bishop</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000576</bioguideId>
+        <identifiers>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+          <lisID>2033</lisID>
+        </identifiers>
+        <firstName>Billy</firstName>
+        <state>MO</state>
+        <district>7</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <party>R</party>
+        <lastName>Long</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>LACY</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001049</bioguideId>
+        <identifiers>
+          <lisID>1654</lisID>
+          <bioguideId>C001049</bioguideId>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <firstName>WM.</firstName>
+        <state>MO</state>
+        <district>1</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <party>D</party>
+        <lastName>CLAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000030</bioguideId>
+        <identifiers>
+          <bioguideId>F000030</bioguideId>
+          <gpoId>7822</gpoId>
+          <lisID>368</lisID>
+        </identifiers>
+        <firstName>SAM</firstName>
+        <state>CA</state>
+        <district>20</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Farr, Sam [D-CA-20]</fullName>
+        <party>D</party>
+        <lastName>FARR</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000557</bioguideId>
+        <identifiers>
+          <lisID>1583</lisID>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <state>CT</state>
+        <district>1</district>
+        <sponsorshipDate>2015-03-23</sponsorshipDate>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <party>D</party>
+        <lastName>LARSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000397</bioguideId>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <firstName>ZOE</firstName>
+        <state>CA</state>
+        <district>19</district>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <party>D</party>
+        <lastName>LOFGREN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001282</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2131</lisID>
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <firstName>Andy</firstName>
+        <state>KY</state>
+        <district>6</district>
+        <sponsorshipDate>2015-03-24</sponsorshipDate>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <party>R</party>
+        <lastName>Barr</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001257</bioguideId>
+        <identifiers>
+          <gpoId>7881</gpoId>
+          <bioguideId>B001257</bioguideId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <firstName>Gus</firstName>
+        <state>FL</state>
+        <district>12</district>
+        <sponsorshipDate>2015-03-25</sponsorshipDate>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <party>R</party>
+        <lastName>Bilirakis</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000448</bioguideId>
+        <identifiers>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <firstName>Trent</firstName>
+        <state>AZ</state>
+        <district>8</district>
+        <sponsorshipDate>2015-04-13</sponsorshipDate>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <party>R</party>
+        <lastName>Franks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001061</bioguideId>
+        <identifiers>
+          <gpoId>8013</gpoId>
+          <bioguideId>C001061</bioguideId>
+          <lisID>1790</lisID>
+        </identifiers>
+        <firstName>Emanuel</firstName>
+        <state>MO</state>
+        <district>5</district>
+        <sponsorshipDate>2015-04-22</sponsorshipDate>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <party>D</party>
+        <lastName>Cleaver</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000820</bioguideId>
+        <identifiers>
+          <bioguideId>W000820</bioguideId>
+          <lisID>2232</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mimi</firstName>
+        <state>CA</state>
+        <district>45</district>
+        <sponsorshipDate>2015-04-29</sponsorshipDate>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <party>R</party>
+        <lastName>Walters</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000179</bioguideId>
+        <identifiers>
+          <gpoId>7843</gpoId>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <state>CA</state>
+        <district>32</district>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <party>D</party>
+        <lastName>NAPOLITANO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000289</bioguideId>
+        <identifiers>
+          <lisID>1868</lisID>
+          <bioguideId>J000289</bioguideId>
+          <gpoId>8094</gpoId>
+        </identifiers>
+        <firstName>Jim</firstName>
+        <state>OH</state>
+        <district>4</district>
+        <sponsorshipDate>2015-05-14</sponsorshipDate>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <party>R</party>
+        <lastName>Jordan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001179</bioguideId>
+        <identifiers>
+          <lisID>2053</lisID>
+          <gpoId>8128</gpoId>
+          <bioguideId>M001179</bioguideId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <state>PA</state>
+        <district>10</district>
+        <sponsorshipDate>2015-06-01</sponsorshipDate>
+        <fullName>Rep. Marino, Tom [R-PA-10]</fullName>
+        <party>R</party>
+        <lastName>Marino</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001070</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001070</bioguideId>
+          <lisID>2260</lisID>
+        </identifiers>
+        <firstName>Cresent</firstName>
+        <state>NV</state>
+        <district>4</district>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+        <fullName>Rep. Hardy, Cresent [R-NV-4]</fullName>
+        <party>R</party>
+        <lastName>Hardy</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>W.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000296</bioguideId>
+        <identifiers>
+          <lisID>2199</lisID>
+          <gpoId />
+          <bioguideId>J000296</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+        <state>FL</state>
+        <district>13</district>
+        <sponsorshipDate>2015-06-11</sponsorshipDate>
+        <fullName>Rep. Jolly, David W. [R-FL-13]</fullName>
+        <party>R</party>
+        <lastName>Jolly</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000569</bioguideId>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <firstName>Blaine</firstName>
+        <state>MO</state>
+        <district>3</district>
+        <sponsorshipDate>2015-06-25</sponsorshipDate>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <party>R</party>
+        <lastName>Luetkemeyer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001295</bioguideId>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+          <gpoId />
+          <lisID>2243</lisID>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <state>IL</state>
+        <district>12</district>
+        <sponsorshipDate>2015-07-08</sponsorshipDate>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <party>R</party>
+        <lastName>Bost</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000460</bioguideId>
+        <identifiers>
+          <lisID>2067</lisID>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <firstName>Blake</firstName>
+        <state>TX</state>
+        <district>27</district>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <party>R</party>
+        <lastName>Farenthold</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000193</bioguideId>
+        <identifiers>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <firstName>BENNIE</firstName>
+        <state>MS</state>
+        <district>2</district>
+        <sponsorshipDate>2015-09-17</sponsorshipDate>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <party>D</party>
+        <lastName>THOMPSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Lease and rental services</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Property tax</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>State and local taxation</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>End Discriminatory State Taxes for Automobile Renters Act of 2015</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To protect consumers from discriminatory State taxes on motor vehicle rentals.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>End Discriminatory State Taxes for Automobile Renters Act of 2015</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

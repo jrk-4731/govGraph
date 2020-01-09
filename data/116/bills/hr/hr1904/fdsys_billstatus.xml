@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1904</billNumber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1904ih/xml/BILLS-116hr1904ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <committeeReports />
+    <title>Indian Water Rights Settlement Extension Act</title>
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-04</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-03-27</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-27</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-03-27</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <text>Committee Hearings Held.</text>
+      <actionDate>2019-04-04</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Ruben</firstName>
+        <lastName>Gallego</lastName>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <state>AZ</state>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>G000574</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Debra</firstName>
+        <lastName>Haaland</lastName>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <state>NM</state>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <identifiers>
+          <lisID>2423</lisID>
+          <bioguideId>H001080</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001080</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tulsi</firstName>
+        <lastName>Gabbard</lastName>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <state>HI</state>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <gpoId />
+          <lisID>2122</lisID>
+        </identifiers>
+        <bioguideId>G000571</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <state>AZ</state>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+          <lisID>2306</lisID>
+        </identifiers>
+        <bioguideId>O000171</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <lastName>Amodei</lastName>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <state>NV</state>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate>2019-04-04</sponsorshipWithdrawnDate>
+        <middleName>E.</middleName>
+        <identifiers>
+          <gpoId>8366</gpoId>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <bioguideId>A000369</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Scott</firstName>
+        <lastName>Tipton</lastName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <state>CO</state>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate>2019-04-04</sponsorshipWithdrawnDate>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <lisID>1997</lisID>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <bioguideId>T000470</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ken</firstName>
+        <lastName>Buck</lastName>
+        <fullName>Rep. Buck, Ken [R-CO-4]</fullName>
+        <state>CO</state>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate>2019-04-04</sponsorshipWithdrawnDate>
+        <middleName />
+        <identifiers>
+          <lisID>2233</lisID>
+          <bioguideId>B001297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001297</bioguideId>
+        <party>R</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Xochitl</firstName>
+        <lastName>Torres Small</lastName>
+        <fullName>Rep. Torres Small, Xochitl [D-NM-2]</fullName>
+        <state>NM</state>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate>2019-04-04</sponsorshipWithdrawnDate>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000484</bioguideId>
+          <lisID>2424</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000484</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Susie</firstName>
+        <lastName>Lee</lastName>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <state>NV</state>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate>2019-04-04</sponsorshipWithdrawnDate>
+        <middleName />
+        <identifiers>
+          <lisID>2425</lisID>
+          <bioguideId>L000590</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>L000590</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Angie</firstName>
+        <lastName>Craig</lastName>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <state>MN</state>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <bioguideId>C001119</bioguideId>
+          <gpoId />
+          <lisID>2412</lisID>
+        </identifiers>
+        <bioguideId>C001119</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <state>NY</state>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <bioguideId>V000081</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steven</firstName>
+        <lastName>Horsford</lastName>
+        <fullName>Rep. Horsford, Steven [D-NV-4]</fullName>
+        <state>NV</state>
+        <sponsorshipDate>2019-04-09</sponsorshipDate>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <identifiers>
+          <lisID>2147</lisID>
+          <bioguideId>H001066</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>H001066</bioguideId>
+        <party>D</party>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ben</firstName>
+        <lastName>Lujan</lastName>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <state>NM</state>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>Ray</middleName>
+        <identifiers>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <bioguideId>L000570</bioguideId>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <introducedDate>2019-03-27</introducedDate>
+    <createDate>2019-03-28T07:12:08Z</createDate>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>To amend the Omnibus Public Land Management Act of 2009 to make the Reclamation Water Settlements Fund permanent.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Indian Water Rights Settlement Extension Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Indian Water Rights Settlement Extension Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <title>Indian Water Rights Settlement Extension Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <laws />
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <byRequestType />
+        <bioguideId>G000551</bioguideId>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <party>D</party>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <district>3</district>
+      </item>
+    </sponsors>
+    <congress>116</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRIJALVA:H.R. 1904.Congress has the power to enact this legislation pursuantto the following:U.S. Const. art. I, sec. 8, cl. 3To regulate Commerce with foreign Nations, and among theseveral States, and with the Indian tribes;U.S. Cont. art. IV, sec. 3, cl. 2, sen. aThe Congress shall have Power to dispose of and make allneedful Rule and Regulations respecting the Territory ofother Property belonging to the United States;[Page H2886]</pre>]]></constitutionalAuthorityStatementText>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <updateDate>2019-06-29T03:32:12Z</updateDate>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>116</congress>
+        <number>886</number>
+        <latestTitle>Indian Water Rights Settlement Extension Act</latestTitle>
+        <latestAction>
+          <actionDate>2019-05-23</actionDate>
+          <text>Referred to the Committee on Indian Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2019-03-27</actionDate>
+          <lastSummaryUpdateDate>2019-06-21T19:28:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Indian Water Rights Settlement Extension Act</b></p> <p>This bill makes the Reclamation Water Settlements Fund permanent. Currently, it terminates at the end of FY2034. </p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2019-03-27T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-04-04T18:36:14Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2019-03-27T14:03:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Natural Resources Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

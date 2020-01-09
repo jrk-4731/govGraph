@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2015-02-25T04:46:15Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <actionDate>2015-02-24</actionDate>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR E234)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-02-24</actionDate>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <links>
+          <link>
+            <name>E234</name>
+            <url>https://www.congress.gov/congressional-record/volume-161/extensions-of-remarks-section/page/E234</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-02-24</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2015-02-24</actionDate>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+    </actions>
+    <updateDate>2019-02-06T19:37:14Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-02-24T17:01:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <middleName>C. "Hank"</middleName>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+          <lisID>1843</lisID>
+        </identifiers>
+        <firstName>Henry</firstName>
+        <district>4</district>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipDate>2015-02-24</sponsorshipDate>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000053</bioguideId>
+        <middleName>B.</middleName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>R000053</bioguideId>
+          <gpoId>8076</gpoId>
+          <lisID>944</lisID>
+        </identifiers>
+        <firstName>CHARLES</firstName>
+        <district>13</district>
+        <fullName>Rep. Rangel, Charles B. [D-NY-13]</fullName>
+        <sponsorshipDate>2015-02-24</sponsorshipDate>
+        <lastName>RANGEL</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <middleName>HOLMES</middleName>
+        <state>DC</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2015-02-24</sponsorshipDate>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C000984</bioguideId>
+        <middleName>E.</middleName>
+        <state>MD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <firstName>ELIJAH</firstName>
+        <district>7</district>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipDate>2015-02-24</sponsorshipDate>
+        <lastName>CUMMINGS</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000604</bioguideId>
+        <middleName>M.</middleName>
+        <state>NJ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+          <lisID>2097</lisID>
+        </identifiers>
+        <firstName>Donald</firstName>
+        <district>10</district>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <sponsorshipDate>2015-02-24</sponsorshipDate>
+        <lastName>Payne</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8174</gpoId>
+          <lisID>588</lisID>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <firstName>SHEILA</firstName>
+        <district>18</district>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipDate>2015-02-24</sponsorshipDate>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S000248</bioguideId>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+        </identifiers>
+        <firstName>JOSE</firstName>
+        <district>15</district>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <sponsorshipDate>2015-02-24</sponsorshipDate>
+        <lastName>SERRANO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <middleName />
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <district>9</district>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2015-02-27</sponsorshipDate>
+        <lastName>Cohen</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <firstName>BARBARA</firstName>
+        <district>13</district>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2015-12-09</sponsorshipDate>
+        <lastName>LEE</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>HASTINGS</lastName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <bioguideId>H000324</bioguideId>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <firstName>ALCEE</firstName>
+        <byRequestType />
+        <district>20</district>
+        <middleName>L.</middleName>
+        <state>FL</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills />
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 31 (Tuesday, February 24, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HASTINGS:H.R. 1039.Congress has the power to enact this legislation pursuantto the following:U.S. Const. Art. I, Sec. 8[Page H1115]</pre>]]></constitutionalAuthorityStatementText>
+    <title>African Descent Affairs Act of 2015</title>
+    <billNumber>1039</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2015-02-24</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr1039ih/xml/BILLS-114hr1039ih.xml</url>
+          </item>
+        </formats>
+        <date>2015-02-24T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>African Descent Affairs Act of 2015</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for the establishment of a global affairs strategy and assistance for people of African descent, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>African Descent Affairs Act of 2015</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2015-02-24</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2015-02-24T05:00:00Z</updateDate>
+          <actionDate>2015-02-24</actionDate>
+          <text><![CDATA[<p><strong>African Descent Affairs Act of 2015</strong></p> <p>Amends the State Department Basic Authorities Act of 1956 to direct the Secretary of State to establish within the Department of State an Office of Global African Descent Affairs, to be headed by the Director and Special Advisor to the Secretary on Global African Descent Affairs.</p> <p>Includes among Office functions: </p> <ul> <li>advising the Secretary and directing policies, programs, and funding relating to the human rights and the advancement of people of African descent internationally; </li> <li>developing and managing the President Obama Fund for African Descent Affairs to invest in solutions to combat racial discrimination and create economic and political opportunities for people of African descent internationally; </li> <li> directing U.S. government resources to respond to needs for protection, integration, resettlement, and empowerment of people of African descent in U.S. policies and international programs; and </li> <li>compiling an annual report on U.S. government activities relating to people of African descent. </li> </ul> <p>Amends the Foreign Assistance Act of 1961 to include in the annual human rights report for countries in the Americas, Europe, Asia, and the Middle East a description of the status and the people of African descent in each country. </p> <p>Directs the Administrator of the U.S. Agency for International Development to appoint a Senior Advisor to the Administrator on Global African Descent Affairs who shall: (1) advise the Administrator and direct policies, programs, and funding relating to the human rights and advancement of people of African descent internationally; and (2) develop a uniform set of indicators and standards for monitoring and evaluating foreign assistance for people of African descent. </p> <p>Requires the Director and Special Advisor to the Secretary on Global African Descent Affairs to develop or update annually (for 10 years after the initial report) a U.S. global strategy to empower, prevent, and respond to discrimination and violence against people of African descent.</p>]]></text>
+          <lastSummaryUpdateDate>2015-03-04T20:10:25Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HR</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

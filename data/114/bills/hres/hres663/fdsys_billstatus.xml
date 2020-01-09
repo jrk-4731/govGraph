@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Education and Labor</name>
+          <systemCode>hsed00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2016-03-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2016-03-23</actionDate>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2016-03-23</actionDate>
+        <links />
+      </item>
+    </actions>
+    <title>Supporting the goals and ideals of "National Middle Level Education Month".</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <type>HRES</type>
+        <number>153</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2015-03-17</actionDate>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+        </latestAction>
+        <latestTitle>Supporting the goals and ideals of National Middle Level Education Month.</latestTitle>
+      </item>
+      <item>
+        <congress>114</congress>
+        <type>SRES</type>
+        <number>111</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2015-03-25</actionDate>
+          <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1894)</text>
+        </latestAction>
+        <latestTitle>A resolution designating March 2015 as "National Middle Level Education Month".</latestTitle>
+      </item>
+      <item>
+        <congress>114</congress>
+        <type>SRES</type>
+        <number>404</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2016-04-25</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        </latestAction>
+        <latestTitle>A resolution designating March 2016 as "National Middle Level Education Month".</latestTitle>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres663ih/xml/BILLS-114hres663ih.xml</url>
+          </item>
+        </formats>
+        <date>2016-03-23T04:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2016-03-23</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </latestAction>
+    <createDate>2016-03-24T04:52:56Z</createDate>
+    <billNumber>663</billNumber>
+    <cosponsors>
+      <item>
+        <firstName>Yvette</firstName>
+        <lastName>Clarke</lastName>
+        <middleName>D.</middleName>
+        <party>D</party>
+        <district>9</district>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+          <lisID>1864</lisID>
+        </identifiers>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <bioguideId>C001067</bioguideId>
+        <sponsorshipDate>2016-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <middleName />
+        <party>D</party>
+        <district>18</district>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipDate>2016-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <lastName>Takano</lastName>
+        <middleName />
+        <party>D</party>
+        <district>41</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipDate>2016-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <byRequestType />
+        <lastName>Grijalva</lastName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <district>3</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText />
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-03-23</actionDate>
+          <text><![CDATA[<p>Expresses support for the goals and ideals of&nbsp;National Middle Level Education Month.</p> <p>Recognizes the importance of middle level education and the contributions of the individuals who educate middle level students.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2016-03-23T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-04-07T12:46:03Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:10:15Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2016-03-23</introducedDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Supporting the goals and ideals of "National Middle Level Education Month".</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>Supporting the goals and ideals of "National Middle Level Education Month".</title>
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HRES</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Education and Labor</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-03-23T13:07:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

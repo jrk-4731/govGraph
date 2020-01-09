@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <actionDate>2015-05-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2015-05-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <actionDate>2015-05-12</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>Law Enforcement Officers Equity Act</title>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Internal Revenue Service (IRS)</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>2946</number>
+        <congress>114</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Law Enforcement Officers Equity Act</latestTitle>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2016-05-18</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks on measure: CR S2977-2978)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr2254ih/xml/BILLS-114hr2254ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2015-05-12T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <latestAction>
+      <links />
+      <actionDate>2015-05-12</actionDate>
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </latestAction>
+    <createDate>2015-05-13T08:46:05Z</createDate>
+    <billNumber>2254</billNumber>
+    <cosponsors>
+      <item>
+        <state>MD</state>
+        <lastName>Sarbanes</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <fullName>Rep. Sarbanes, John P. [D-MD-3]</fullName>
+        <bioguideId>S001168</bioguideId>
+        <identifiers>
+          <gpoId>7978</gpoId>
+          <lisID>1854</lisID>
+          <bioguideId>S001168</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2015-06-02</sponsorshipDate>
+      </item>
+      <item>
+        <state>NY</state>
+        <lastName>ISRAEL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <bioguideId>I000057</bioguideId>
+        <identifiers>
+          <bioguideId>I000057</bioguideId>
+          <gpoId>8063</gpoId>
+          <lisID>1663</lisID>
+        </identifiers>
+        <firstName>STEVE</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2015-07-28</sponsorshipDate>
+      </item>
+      <item>
+        <state>NY</state>
+        <lastName>Donovan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <bioguideId>D000625</bioguideId>
+        <identifiers>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+          <lisID>2293</lisID>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+      </item>
+      <item>
+        <state>MA</state>
+        <lastName>CAPUANO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <bioguideId>C001037</bioguideId>
+        <identifiers>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+          <lisID>1564</lisID>
+        </identifiers>
+        <firstName>MICHAEL</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+      </item>
+      <item>
+        <state>NJ</state>
+        <lastName>PASCRELL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <bioguideId>P000096</bioguideId>
+        <identifiers>
+          <gpoId>8050</gpoId>
+          <lisID>1510</lisID>
+          <bioguideId>P000096</bioguideId>
+        </identifiers>
+        <firstName>WILLIAM</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <sponsorshipDate>2015-09-24</sponsorshipDate>
+      </item>
+      <item>
+        <state>NY</state>
+        <lastName>Katko</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <bioguideId>K000386</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <firstName>John</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <sponsorshipDate>2015-09-29</sponsorshipDate>
+      </item>
+      <item>
+        <state>WA</state>
+        <lastName>Kilmer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <bioguideId>K000381</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <firstName>Derek</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <sponsorshipDate>2015-09-30</sponsorshipDate>
+      </item>
+      <item>
+        <state>VA</state>
+        <lastName>Connolly</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <bioguideId>C001078</bioguideId>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <firstName>Gerald</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <sponsorshipDate>2015-09-30</sponsorshipDate>
+      </item>
+      <item>
+        <state>TX</state>
+        <lastName>Veasey</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <bioguideId>V000131</bioguideId>
+        <identifiers>
+          <bioguideId>V000131</bioguideId>
+          <gpoId />
+          <lisID>2166</lisID>
+        </identifiers>
+        <firstName>Marc</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>33</district>
+        <sponsorshipDate>2015-10-20</sponsorshipDate>
+      </item>
+      <item>
+        <state>CA</state>
+        <lastName>Huffman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <bioguideId>H001068</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <firstName>Jared</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <sponsorshipDate>2015-10-22</sponsorshipDate>
+      </item>
+      <item>
+        <state>NJ</state>
+        <lastName>LOBIONDO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <bioguideId>L000554</bioguideId>
+        <identifiers>
+          <gpoId>8044</gpoId>
+          <bioguideId>L000554</bioguideId>
+          <lisID>699</lisID>
+        </identifiers>
+        <firstName>FRANK</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+      </item>
+      <item>
+        <state>MA</state>
+        <lastName>Kennedy</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <bioguideId>K000379</bioguideId>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <gpoId />
+          <lisID>2172</lisID>
+        </identifiers>
+        <firstName>Joseph</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <sponsorshipDate>2015-11-05</sponsorshipDate>
+      </item>
+      <item>
+        <state>NJ</state>
+        <lastName>PALLONE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <bioguideId>P000034</bioguideId>
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <firstName>FRANK</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <sponsorshipDate>2015-11-16</sponsorshipDate>
+      </item>
+      <item>
+        <state>MD</state>
+        <lastName>Ruppersberger</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Dutch</middleName>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <bioguideId>R000576</bioguideId>
+        <identifiers>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+        </identifiers>
+        <firstName>C. A.</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <sponsorshipDate>2016-01-12</sponsorshipDate>
+      </item>
+      <item>
+        <state>PA</state>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <fullName>Rep. Fitzpatrick, Michael G. [R-PA-8]</fullName>
+        <bioguideId>F000451</bioguideId>
+        <identifiers>
+          <bioguideId>F000451</bioguideId>
+          <gpoId>8126</gpoId>
+          <lisID>1797</lisID>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <sponsorshipDate>2016-02-25</sponsorshipDate>
+      </item>
+      <item>
+        <state>AZ</state>
+        <lastName>Gallego</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <bioguideId>G000574</bioguideId>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+          <lisID>2226</lisID>
+        </identifiers>
+        <firstName>Ruben</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+      </item>
+      <item>
+        <state>CA</state>
+        <lastName>Lowenthal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <bioguideId>L000579</bioguideId>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Alan</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>47</district>
+        <sponsorshipDate>2016-03-23</sponsorshipDate>
+      </item>
+      <item>
+        <state>IL</state>
+        <lastName>RUSH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L.</middleName>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <bioguideId>R000515</bioguideId>
+        <identifiers>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+        </identifiers>
+        <firstName>BOBBY</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+      </item>
+      <item>
+        <state>CA</state>
+        <lastName>Chu</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <bioguideId>C001080</bioguideId>
+        <identifiers>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <firstName>Judy</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+      </item>
+      <item>
+        <state>IA</state>
+        <lastName>Loebsack</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Loebsack, David [D-IA-2]</fullName>
+        <bioguideId>L000565</bioguideId>
+        <identifiers>
+          <gpoId>7915</gpoId>
+          <lisID>1846</lisID>
+          <bioguideId>L000565</bioguideId>
+        </identifiers>
+        <firstName>David</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+      </item>
+      <item>
+        <state>NJ</state>
+        <lastName>Norcross</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <bioguideId>N000188</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000188</bioguideId>
+          <lisID>2202</lisID>
+        </identifiers>
+        <firstName>Donald</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <sponsorshipDate>2016-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <state>OH</state>
+        <lastName>Beatty</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <bioguideId>B001281</bioguideId>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Joyce</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2016-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <state>CA</state>
+        <lastName>Lieu</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <bioguideId>L000582</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>33</district>
+        <sponsorshipDate>2016-06-10</sponsorshipDate>
+      </item>
+      <item>
+        <state>CA</state>
+        <lastName>NAPOLITANO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <bioguideId>N000179</bioguideId>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <firstName>GRACE</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>32</district>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+      </item>
+      <item>
+        <state>NY</state>
+        <lastName>Higgins</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <bioguideId>H001038</bioguideId>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>26</district>
+        <sponsorshipDate>2016-06-21</sponsorshipDate>
+      </item>
+      <item>
+        <state>ME</state>
+        <lastName>Pingree</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <bioguideId>P000597</bioguideId>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <firstName>Chellie</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <sponsorshipDate>2016-07-05</sponsorshipDate>
+      </item>
+      <item>
+        <state>PR</state>
+        <lastName>Pierluisi</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <fullName>Rep. Pierluisi, Pedro R. [D-PR-At Large]</fullName>
+        <bioguideId>P000596</bioguideId>
+        <identifiers>
+          <bioguideId>P000596</bioguideId>
+          <gpoId>8138</gpoId>
+          <lisID>1953</lisID>
+        </identifiers>
+        <firstName>Pedro</firstName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <sponsorshipDate>2016-07-18</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <bioguideId>K000210</bioguideId>
+        <state>NY</state>
+        <identifiers>
+          <lisID>635</lisID>
+          <gpoId>8064</gpoId>
+          <bioguideId>K000210</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <firstName>PETER</firstName>
+        <byRequestType />
+        <lastName>KING</lastName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <district>2</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 72 (Tuesday, May 12, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of New York:H.R. 2254.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 6The Congress shall have Power . . . To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H2878]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2015-05-12T04:00:00Z</updateDate>
+          <actionDate>2015-05-12</actionDate>
+          <text><![CDATA[<p><strong>Law Enforcement Officers Equity Act</strong> </p> <p> Amends the definition of the term "law enforcement officer" under provisions of the Federal Employees Retirement System (FERS) and the Civil Service Retirement System (CSRS) to include: (1) federal employees not otherwise covered by such term whose duties include the investigation or apprehension of suspected or convicted individuals and who are authorized to carry a firearm, (2) such employees of the Internal Revenue Service (IRS) whose duties are primarily the collection of delinquent taxes and the securing of delinquent returns, (3) an employee of the U.S. Postal Inspection Service, and (4) an employee of the Department of Veterans Affairs who is a department police officer. </p> <p>Requires such service that is performed by an incumbent law enforcement officer: (1) on or after enactment of this Act to be treated for all purposes other than retirement as service performed as a law enforcement officer; and (2) before enactment of this Act to be treated for federal retirement purposes as service performed as such an officer only if a written election is submitted to the Office of Personnel Management within five years after enactment of this Act or before separation from government service, whichever is earlier. Allows an incumbent who makes an election to be treated as a law enforcement officer to pay a deposit into the Civil Service Retirement and Disability Fund to cover prior service. </p> <p>Provides that nothing under current law respecting mandatory separation from government service under CSRS or FERS shall cause the mandatory separation of an officer during the three-year period beginning on the enactment of this Act.</p>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-06-30T18:53:28Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2019-01-09T21:26:06Z</updateDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <introducedDate>2015-05-12</introducedDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Law Enforcement Officers Equity Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend title 5, United States Code, to include certain Federal positions within the definition of law enforcement officer for retirement purposes, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Law Enforcement Officers Equity Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <calendarNumbers />
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-05-12T16:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

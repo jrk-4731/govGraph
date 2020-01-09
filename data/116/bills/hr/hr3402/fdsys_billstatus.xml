@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-21</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-06-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-06-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <title>To amend chapter 2 of title 1, United States Code, to establish the style for amending laws.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Readable Legislation Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Readable Legislation Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Readable Legislation Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2019-06-22T16:12:20Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-06-21T13:00:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>7988</gpoId>
+          <bioguideId>A000367</bioguideId>
+          <lisID>2029</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Amash, Justin [R-MI-3]</fullName>
+        <lastName>Amash</lastName>
+        <party>R</party>
+        <district>3</district>
+        <state>MI</state>
+        <bioguideId>A000367</bioguideId>
+        <firstName>Justin</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-06-21</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Readable Legislation Act of 2019</title>
+    <cosponsors>
+      <item>
+        <state>WV</state>
+        <lastName>Mooney</lastName>
+        <firstName>Alexander</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <bioguideId>M001195</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001195</bioguideId>
+          <lisID>2277</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName>X.</middleName>
+        <party>R</party>
+        <district>2</district>
+      </item>
+      <item>
+        <state>NC</state>
+        <lastName>Meadows</lastName>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <bioguideId>M001187</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001187</bioguideId>
+          <lisID>2142</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <district>11</district>
+      </item>
+      <item>
+        <state>KY</state>
+        <lastName>Massie</lastName>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <bioguideId>M001184</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+          <gpoId>8371</gpoId>
+          <lisID>2094</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <district>4</district>
+      </item>
+      <item>
+        <state>GA</state>
+        <lastName>Loudermilk</lastName>
+        <firstName>Barry</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <bioguideId>L000583</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000583</bioguideId>
+          <lisID>2238</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <district>11</district>
+      </item>
+      <item>
+        <state>MA</state>
+        <lastName>Moulton</lastName>
+        <firstName>Seth</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <bioguideId>M001196</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+          <lisID>2246</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <district>6</district>
+      </item>
+      <item>
+        <state>CA</state>
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <district>17</district>
+      </item>
+      <item>
+        <state>OH</state>
+        <lastName>Davidson</lastName>
+        <firstName>Warren</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <bioguideId>D000626</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000626</bioguideId>
+          <lisID>2296</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <district>8</district>
+      </item>
+      <item>
+        <state>CA</state>
+        <lastName>McClintock</lastName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <bioguideId>M001177</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <district>4</district>
+      </item>
+      <item>
+        <state>WV</state>
+        <lastName>McKinley</lastName>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <bioguideId>M001180</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <district>1</district>
+      </item>
+      <item>
+        <state>SC</state>
+        <lastName>Norman</lastName>
+        <firstName>Ralph</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <bioguideId>N000190</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <gpoId />
+          <lisID>2361</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <district>5</district>
+      </item>
+      <item>
+        <state>TX</state>
+        <lastName>Cloud</lastName>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cloud, Michael [R-TX-27]</fullName>
+        <bioguideId>C001115</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001115</bioguideId>
+          <lisID>2369</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>R</party>
+        <district>27</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <lastName>Tonko</lastName>
+        <firstName>Paul</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <bioguideId>T000469</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1942</lisID>
+          <gpoId>8082</gpoId>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <district>20</district>
+      </item>
+      <item>
+        <state>DC</state>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+        <district>0</district>
+      </item>
+      <item>
+        <state>CA</state>
+        <lastName>Huffman</lastName>
+        <firstName>Jared</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <bioguideId>H001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2101</lisID>
+          <gpoId />
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-06-21</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <district>2</district>
+      </item>
+      <item>
+        <state>MN</state>
+        <lastName>Phillips</lastName>
+        <firstName>Dean</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <bioguideId>P000616</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2413</lisID>
+          <gpoId />
+          <bioguideId>P000616</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <district>3</district>
+      </item>
+      <item>
+        <state>CO</state>
+        <lastName>Neguse</lastName>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Neguse, Joe [D-CO-2]</fullName>
+        <bioguideId>N000191</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000191</bioguideId>
+          <lisID>2384</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <middleName />
+        <party>D</party>
+        <district>2</district>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <date>2019-06-21T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr3402ih/xml/BILLS-116hr3402ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <updateDate>2019-07-18T07:18:32Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-06-21</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>3402</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 105 (Friday, June 21, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. AMASH:H.R. 3402.Congress has the power to enact this legislation pursuantto the following:Article I, Section 1, of the Constitution states: ``Alllegislative Powers herein granted shall be vested in aCongress of the United States . . .'' It is both ``necessaryand proper [for Congress to make laws] for carrying intoExecution'' this Power (Article I, Section 8, Clause 18),including setting standards for the format and content oflegislation proposed to be considered by Congress.[Page H5037]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

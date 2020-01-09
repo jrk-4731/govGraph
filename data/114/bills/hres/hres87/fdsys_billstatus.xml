@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2015-02-04</introducedDate>
+    <version>1.0.0</version>
+    <title>Providing amounts for the expenses of the Committee on the Budget in the One Hundred Fourteenth Congress.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Provides amounts for the expenses of the House Committee on the Budget for the 114th Congress. </p>]]></text>
+          <updateDate>2015-02-04T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2015-02-06T14:47:03Z</lastSummaryUpdateDate>
+          <actionDate>2015-02-04</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <updateDate>2018-06-02T01:16:31Z</updateDate>
+    <latestAction>
+      <actionDate>2015-02-04</actionDate>
+      <text>Referred to the House Committee on House Administration.</text>
+      <links />
+    </latestAction>
+    <notes />
+    <calendarNumbers />
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <date>2015-02-04T15:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on the Budget</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <createDate>2015-02-05T04:56:22Z</createDate>
+    <laws />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <identifiers>
+          <lisID>1778</lisID>
+          <bioguideId>P000591</bioguideId>
+          <gpoId>7903</gpoId>
+        </identifiers>
+        <bioguideId>P000591</bioguideId>
+        <fullName>Rep. Price, Tom [R-GA-6]</fullName>
+        <lastName>Price</lastName>
+        <district>6</district>
+        <middleName />
+        <state>GA</state>
+        <byRequestType />
+        <firstName>Tom</firstName>
+      </item>
+    </sponsors>
+    <billType>HRES</billType>
+    <congress>114</congress>
+    <billNumber>87</billNumber>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-02-04</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <actionDate>2015-02-04</actionDate>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <actionDate>2015-02-04</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on the Budget in the One Hundred Fourteenth Congress.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on the Budget in the One Hundred Fourteenth Congress.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors />
+    <constitutionalAuthorityStatementText />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-07-29</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2015-07-09</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2015-07-09</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2015-07-09</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+    </actions>
+    <updateDate>2019-05-09T23:15:19Z</updateDate>
+    <latestAction>
+      <actionDate>2015-07-29</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2015-07-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr3013ih/xml/BILLS-114hr3013ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>3013</billNumber>
+    <cosponsors>
+      <item>
+        <lastName>WATERS</lastName>
+        <firstName>MAXINE</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7840</gpoId>
+          <bioguideId>W000187</bioguideId>
+          <lisID>1205</lisID>
+        </identifiers>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <district>43</district>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <bioguideId>W000187</bioguideId>
+      </item>
+      <item>
+        <lastName>Reed</lastName>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>NY</state>
+        <district>23</district>
+        <sponsorshipDate>2015-07-09</sponsorshipDate>
+        <bioguideId>R000585</bioguideId>
+      </item>
+      <item>
+        <lastName>Hensarling</lastName>
+        <firstName>Jeb</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001036</bioguideId>
+          <lisID>1749</lisID>
+          <gpoId>8161</gpoId>
+        </identifiers>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <district>5</district>
+        <sponsorshipDate>2015-07-21</sponsorshipDate>
+        <bioguideId>H001036</bioguideId>
+      </item>
+      <item>
+        <lastName>Blackburn</lastName>
+        <firstName>Marsha</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1748</lisID>
+          <bioguideId>B001243</bioguideId>
+          <gpoId>8154</gpoId>
+        </identifiers>
+        <fullName>Rep. Blackburn, Marsha [R-TN-7]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TN</state>
+        <district>7</district>
+        <sponsorshipDate>2015-09-08</sponsorshipDate>
+        <bioguideId>B001243</bioguideId>
+      </item>
+      <item>
+        <lastName>Black</lastName>
+        <firstName>Diane</firstName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TN</state>
+        <district>6</district>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <bioguideId>B001273</bioguideId>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>SENSENBRENNER</lastName>
+        <party>R</party>
+        <middleName>JAMES</middleName>
+        <firstName>F.</firstName>
+        <district>5</district>
+        <byRequestType />
+        <state>WI</state>
+        <bioguideId>S000244</bioguideId>
+        <identifiers>
+          <gpoId>8218</gpoId>
+          <bioguideId>S000244</bioguideId>
+          <lisID>1041</lisID>
+        </identifiers>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-07-09T14:02:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <date>2015-07-29T18:52:03Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To protect private property rights.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Private Property Rights Protection Act of 2015</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Private Property Rights Protection Act of 2015</title>
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-08-18T19:48:06Z</lastSummaryUpdateDate>
+          <updateDate>2015-07-09T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2015-07-09</actionDate>
+          <text><![CDATA[<p><b>Private Property Rights Protection Act of 2015</b></p> <p>Prohibits a state or political subdivision from exercising its power of eminent domain, or allowing the exercise of such power by delegation, over property to be used for economic development or over property that is used for economic development within seven years after that exercise, if the state or political subdivision receives federal economic development funds during any fiscal year in which the property is so used or intended to be used.</p> <p>Prohibits the federal government from exercising its power of eminent domain for economic development.</p> <p>Establishes a private cause of action for any private property owner or tenant who suffers injury as a result of a violation of this Act. Prohibits state immunity in federal or state court. Sets the statute of limitations at seven years.</p> <p>Requires the Department of Justice (DOJ) to bring an action to enforce this Act in certain circumstances, but prohibits an action brought later than seven years following the conclusion of any condemnation proceedings.</p> <p>Requires DOJ to disseminate to states and the public information on: (1) the rights of property owners and tenants under this Act, and (2) the federal laws under which federal economic development funds are distributed.</p> <p>Prohibits the federal government, or a state or political subdivision receiving federal economic development funds during any fiscal year, from exercising the power of eminent domain over property of a religious or other nonprofit organization because of the organization's nonprofit or tax-exempt status or any related quality. </p> <p>Directs DOJ, if a court determines that a violation of this Act has a disproportionately high impact on the poor or minorities, to make efforts to locate former owners and tenants to inform them of the violation and any possible remedies.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2015-07-10T09:26:19Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Private Property Rights Protection Act of 2015</title>
+    <committeeReports />
+    <introducedDate>2015-07-09</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Property rights</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Tax-exempt organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>114</congress>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 106 (Thursday, July 9, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SENSENBRENNER:H.R. 3013.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause I[Page H5031]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

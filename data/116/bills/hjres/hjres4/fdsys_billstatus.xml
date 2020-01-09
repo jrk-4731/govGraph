@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HJRES</billType>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <congress>116</congress>
+        <number>12</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.</latestTitle>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>16</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Proposing an amendment to the Constitution of the United States to limit the number of years an individual may serve as a Member of Congress.</latestTitle>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>1</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A joint resolution proposing an amendment to the Constitution of the United States relative to limiting the number of terms that a Member of Congress may serve.</latestTitle>
+        <type>SJRES</type>
+        <latestAction>
+          <actionDate>2019-01-03</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>116</congress>
+        <number>25</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Proposing an amendment to the Constitution of the United States to limit the number of terms a Representative or Senator may serve.</latestTitle>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2019-01-10</actionDate>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <billNumber>4</billNumber>
+    <amendments />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-01-03T16:29:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2019-01-03T17:23:59Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <lastName>Arrington</lastName>
+        <party>R</party>
+        <firstName>Jodey</firstName>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+          <gpoId />
+          <lisID>2350</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>TX</state>
+        <district>19</district>
+        <bioguideId>A000375</bioguideId>
+        <middleName>C.</middleName>
+      </item>
+    </sponsors>
+    <committeeReports />
+    <createDate>2019-01-04T13:32:48Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <notes />
+    <calendarNumbers />
+    <updateDate>2019-05-21T07:15:14Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ARRINGTON:H.J. Res. 4.Congress has the power to enact this legislation pursuantto the following:Article I, Section 2[Page H218]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <lastName>Khanna</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <party>D</party>
+        <bioguideId>K000389</bioguideId>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+        </identifiers>
+        <middleName />
+        <district>17</district>
+        <firstName>Ro</firstName>
+      </item>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <party>R</party>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2345</lisID>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>8</district>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <lastName>Gianforte</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MT</state>
+        <fullName>Rep. Gianforte, Greg [R-MT-At Large]</fullName>
+        <party>R</party>
+        <bioguideId>G000584</bioguideId>
+        <sponsorshipDate>2019-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000584</bioguideId>
+          <gpoId />
+          <lisID>2359</lisID>
+        </identifiers>
+        <middleName />
+        <district>0</district>
+        <firstName>Greg</firstName>
+      </item>
+      <item>
+        <lastName>Wright</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <party>R</party>
+        <bioguideId>W000827</bioguideId>
+        <sponsorshipDate>2019-01-10</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2446</lisID>
+          <bioguideId>W000827</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>6</district>
+        <firstName>Ron</firstName>
+      </item>
+      <item>
+        <lastName>Comer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KY</state>
+        <fullName>Rep. Comer, James [R-KY-1]</fullName>
+        <party>R</party>
+        <bioguideId>C001108</bioguideId>
+        <sponsorshipDate>2019-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001108</bioguideId>
+          <lisID>2297</lisID>
+        </identifiers>
+        <middleName />
+        <district>1</district>
+        <firstName>James</firstName>
+      </item>
+      <item>
+        <lastName>Hollingsworth</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <fullName>Rep. Hollingsworth, Trey [R-IN-9]</fullName>
+        <party>R</party>
+        <bioguideId>H001074</bioguideId>
+        <sponsorshipDate>2019-01-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2327</lisID>
+          <bioguideId>H001074</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <district>9</district>
+        <firstName>Trey</firstName>
+      </item>
+      <item>
+        <lastName>Brooks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <party>R</party>
+        <bioguideId>B001274</bioguideId>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+        </identifiers>
+        <middleName />
+        <district>5</district>
+        <firstName>Mo</firstName>
+      </item>
+      <item>
+        <lastName>Rice</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SC</state>
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+        <party>R</party>
+        <bioguideId>R000597</bioguideId>
+        <sponsorshipDate>2019-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2160</lisID>
+          <bioguideId>R000597</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>7</district>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <lastName>Waltz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+        <party>R</party>
+        <bioguideId>W000823</bioguideId>
+        <sponsorshipDate>2019-05-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2387</lisID>
+          <gpoId />
+          <bioguideId>W000823</bioguideId>
+        </identifiers>
+        <middleName />
+        <district>6</district>
+        <firstName>Michael</firstName>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2019-01-09T22:47:19Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Constitutional Amendment</b></p> <p>This joint resolution proposes a constitutional amendment limiting Members of the House of Representatives to six terms and Members of the Senate to two terms.</p> <p>This article shall not apply to any person who served as a Representative or as a Senator before the 115th Congress.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-03</actionDate>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <latestAction>
+      <links />
+      <actionDate>2019-01-03</actionDate>
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+    </latestAction>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hjres4ih/xml/BILLS-116hjres4ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-01-03</introducedDate>
+    <title>Proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

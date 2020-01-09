@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <district>5</district>
+        <bioguideId>T000467</bioguideId>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <state>PA</state>
+        <party>R</party>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <lastName>Thompson</lastName>
+      </item>
+    </sponsors>
+    <congress>114</congress>
+    <laws />
+    <createDate>2015-05-01T14:01:10Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <links />
+        <actionDate>2015-04-30</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-04-30</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2015-04-30</actionDate>
+        <text>Introduced in House</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <district>1</district>
+        <state>CT</state>
+        <party>D</party>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <lastName>LARSON</lastName>
+        <bioguideId>L000557</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2015-04-30</sponsorshipDate>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <district>32</district>
+        <state>TX</state>
+        <party>R</party>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <lastName>SESSIONS</lastName>
+        <bioguideId>S000250</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-05-12</sponsorshipDate>
+        <firstName>PETE</firstName>
+      </item>
+      <item>
+        <district>38</district>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <middleName>T.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <lastName>SANCHEZ</lastName>
+        <bioguideId>S001156</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-05-18</sponsorshipDate>
+        <firstName>LINDA</firstName>
+      </item>
+      <item>
+        <district>3</district>
+        <state>OR</state>
+        <party>D</party>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <lastName>BLUMENAUER</lastName>
+        <bioguideId>B000574</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-06-10</sponsorshipDate>
+        <firstName>EARL</firstName>
+      </item>
+      <item>
+        <district>15</district>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Swalwell</lastName>
+        <bioguideId>S001193</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-06-16</sponsorshipDate>
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <district>4</district>
+        <state>OK</state>
+        <party>R</party>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <lastName>Cole</lastName>
+        <bioguideId>C001053</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-15</sponsorshipDate>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <district>10</district>
+        <state>OH</state>
+        <party>R</party>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+          <lisID>1741</lisID>
+          <gpoId>8093</gpoId>
+        </identifiers>
+        <lastName>Turner</lastName>
+        <bioguideId>T000463</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <district>36</district>
+        <state>TX</state>
+        <party>R</party>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2270</lisID>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <lastName>Babin</lastName>
+        <bioguideId>B001291</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <district>23</district>
+        <state>NY</state>
+        <party>R</party>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <lastName>Reed</lastName>
+        <bioguideId>R000585</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-09-10</sponsorshipDate>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <district>5</district>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1593</lisID>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <lastName>THOMPSON</lastName>
+        <bioguideId>T000460</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-09-25</sponsorshipDate>
+        <firstName>MIKE</firstName>
+      </item>
+      <item>
+        <district>18</district>
+        <state>PA</state>
+        <party>R</party>
+        <fullName>Rep. Murphy, Tim [R-PA-18]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1744</lisID>
+          <bioguideId>M001151</bioguideId>
+          <gpoId>8723</gpoId>
+        </identifiers>
+        <lastName>Murphy</lastName>
+        <bioguideId>M001151</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-09-25</sponsorshipDate>
+        <firstName>Tim</firstName>
+      </item>
+      <item>
+        <district>24</district>
+        <state>NY</state>
+        <party>R</party>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+          <lisID>2264</lisID>
+        </identifiers>
+        <lastName>Katko</lastName>
+        <bioguideId>K000386</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-10-20</sponsorshipDate>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <district>21</district>
+        <state>NY</state>
+        <party>R</party>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2263</lisID>
+          <bioguideId>S001196</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Stefanik</lastName>
+        <bioguideId>S001196</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-10-22</sponsorshipDate>
+        <firstName>Elise</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <state>NE</state>
+        <party>D</party>
+        <fullName>Rep. Ashford, Brad [D-NE-2]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>A000373</bioguideId>
+          <lisID>2257</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Ashford</lastName>
+        <bioguideId>A000373</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-11-04</sponsorshipDate>
+        <firstName>Brad</firstName>
+      </item>
+      <item>
+        <district>52</district>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <middleName>H.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Peters</lastName>
+        <bioguideId>P000608</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-12-09</sponsorshipDate>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <district>9</district>
+        <state>PA</state>
+        <party>R</party>
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001154</bioguideId>
+          <lisID>1681</lisID>
+          <gpoId>8127</gpoId>
+        </identifiers>
+        <lastName>Shuster</lastName>
+        <bioguideId>S001154</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-12-09</sponsorshipDate>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <state>OR</state>
+        <party>D</party>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <lisID>2092</lisID>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <lastName>Bonamici</lastName>
+        <bioguideId>B001278</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2015-12-11</sponsorshipDate>
+        <firstName>Suzanne</firstName>
+      </item>
+      <item>
+        <district>7</district>
+        <state>CO</state>
+        <party>D</party>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7865</gpoId>
+          <lisID>1835</lisID>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <lastName>Perlmutter</lastName>
+        <bioguideId>P000593</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-01-05</sponsorshipDate>
+        <firstName>Ed</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <state>NY</state>
+        <party>R</party>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <lisID>2261</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Zeldin</lastName>
+        <bioguideId>Z000017</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-10</sponsorshipDate>
+        <firstName>Lee</firstName>
+      </item>
+      <item>
+        <district>30</district>
+        <state>TX</state>
+        <party>D</party>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <middleName>BERNICE</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+        </identifiers>
+        <lastName>JOHNSON</lastName>
+        <bioguideId>J000126</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-12</sponsorshipDate>
+        <firstName>EDDIE</firstName>
+      </item>
+      <item>
+        <district>2</district>
+        <state>TX</state>
+        <party>R</party>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000592</bioguideId>
+          <gpoId>8158</gpoId>
+          <lisID>1802</lisID>
+        </identifiers>
+        <lastName>Poe</lastName>
+        <bioguideId>P000592</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-05-23</sponsorshipDate>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <district>14</district>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1890</lisID>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+        </identifiers>
+        <lastName>Speier</lastName>
+        <bioguideId>S001175</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-21</sponsorshipDate>
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <state>MI</state>
+        <party>R</party>
+        <fullName>Rep. Benishek, Dan [R-MI-1]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7986</gpoId>
+          <lisID>2027</lisID>
+          <bioguideId>B001271</bioguideId>
+        </identifiers>
+        <lastName>Benishek</lastName>
+        <bioguideId>B001271</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-07</sponsorshipDate>
+        <firstName>Dan</firstName>
+      </item>
+      <item>
+        <district>19</district>
+        <state>NY</state>
+        <party>R</party>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2043</lisID>
+          <bioguideId>G000564</bioguideId>
+          <gpoId>8081</gpoId>
+        </identifiers>
+        <lastName>Gibson</lastName>
+        <bioguideId>G000564</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-09</sponsorshipDate>
+        <firstName>Christopher</firstName>
+      </item>
+      <item>
+        <district>6</district>
+        <state>CA</state>
+        <party>D</party>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <middleName>O.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1814</lisID>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <lastName>Matsui</lastName>
+        <bioguideId>M001163</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-09-14</sponsorshipDate>
+        <firstName>Doris</firstName>
+      </item>
+    </cosponsors>
+    <title>Capitalizing on American Methane Act of 2015</title>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Capitalizing on American Methane Act of 2015</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to allow a credit against income tax for facilities using a qualified methane conversion technology to provide transportation fuels and chemicals.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Capitalizing on American Methane Act of 2015</title>
+      </item>
+    </titles>
+    <recordedVotes />
+    <calendarNumbers />
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 64 (Thursday, April 30, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of Pennsylvania:H.R. 2142.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I, Section 8 of the United StatesConstitution which gives Congress the power ``to regulateCommerce with foreign Nations, and among the several states,and within the Indian Tribes.''[[Page H2771]][Page H2770]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2015-04-30</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <links />
+    </latestAction>
+    <updateDate>2018-11-09T00:09:00Z</updateDate>
+    <billType>HR</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-06-04T20:13:39Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Capitalizing on American Methane Act of 2015</strong></p> <p> Amends the Internal Revenue Code to: (1) include in the tax credit for investment in a qualifying gasification project any qualified methane conversion technology, and (2) allow an alternative fuel excise tax credit for liquid fuel produced through qualified methane conversion technology at a facility the construction of which begins before October 1, 2025. Defines &quot;qualified methane conversion technology&quot; as a process for the molecular conversion of a fuel consisting principally of methane into hydrocarbons and the use of such hydrocarbons to replace or reduce the quantity of petroleum present in motor vehicle fuel and for the production of chemicals.</p>]]></text>
+          <updateDate>2015-04-30T04:00:00Z</updateDate>
+          <actionDate>2015-04-30</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2015-04-30</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2015-04-30T14:07:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <amendments />
+    <version>1.0.0</version>
+    <billNumber>2142</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

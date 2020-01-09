@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-07-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Immigration and Nationality Act to limit the grounds of deportability for certain relatives of members of the Armed Forces and veterans, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To amend the Immigration and Nationality Act to limit the grounds of deportability for certain relatives of members of the Armed Forces and veterans, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2019-07-18T07:12:10Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-07-17T14:00:31Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+          <lisID>2226</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <district>7</district>
+        <state>AZ</state>
+        <bioguideId>G000574</bioguideId>
+        <firstName>Ruben</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-07-17</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>To amend the Immigration and Nationality Act to limit the grounds of deportability for certain relatives of members of the Armed Forces and veterans, and for other purposes.</title>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <party>D</party>
+        <bioguideId>S001200</bioguideId>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <middleName>M.</middleName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>G000551</bioguideId>
+        <firstName>Raul</firstName>
+        <lastName>Grijalva</lastName>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+          <lisID>2349</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <party>D</party>
+        <bioguideId>G000581</bioguideId>
+        <firstName>Vicente</firstName>
+        <lastName>Gonzalez</lastName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000299</bioguideId>
+          <gpoId />
+          <lisID>2448</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Escobar, Veronica [D-TX-16]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>16</district>
+        <party>D</party>
+        <bioguideId>E000299</bioguideId>
+        <firstName>Veronica</firstName>
+        <lastName>Escobar</lastName>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <textVersions />
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea />
+    <updateDate>2019-07-19T07:39:09Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-17</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>3806</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 120 (Wednesday, July 17, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. GALLEGO:H.R. 3806.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H6000]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

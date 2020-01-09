@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2016-06-16T09:37:30Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-06-15</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2016-06-15</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2016-06-15</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>N000032</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <middleName>WILLIAM</middleName>
+        <state>FL</state>
+        <party>D</party>
+        <firstName>CLARENCE</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill requires the Department of Justice (DOJ) to include in the national instant criminal background check system (i.e., the NICS database) information about an individual who is or has been under a federal terrorism investigation.</p> <p>A federal department or agency must submit to DOJ information about such individual. </p> <p>Additionally, if a licensed gun dealer requests a background check on a prospective gun buyer who is or has been under a federal terrorism investigation, then the NICS database must notify the appropriate division of the Federal Bureau of Investigation of the request and the pending firearm transfer. </p>]]></text>
+          <actionDate>2016-06-15</actionDate>
+          <lastSummaryUpdateDate>2016-11-02T11:28:29Z</lastSummaryUpdateDate>
+          <updateDate>2016-06-15T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <bioguideId>K000360</bioguideId>
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+        </identifiers>
+        <lastName>KIRK</lastName>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-15</sponsorshipDate>
+        <middleName>STEVEN</middleName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <party>R</party>
+        <firstName>MARK</firstName>
+      </item>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <lastName>UDALL</lastName>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-20</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <party>D</party>
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-06-20</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <party>D</party>
+        <firstName>Richard</firstName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-06-15T14:02:55Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <introducedDate>2016-06-15</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <title>A bill to require that certain information relating to terrorism investigations be included in the NICS database, and for other purposes.</title>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To require that certain information relating to terrorism investigations be included in the NICS database, and for other purposes.</latestTitle>
+        <number>5504</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2016-06-23</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>114</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To require that certain information relating to terrorism investigations be included in the NICS database, and for other purposes.</latestTitle>
+        <number>5495</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2016-06-21</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billType>S</billType>
+    <cboCostEstimates />
+    <billNumber>3058</billNumber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to require that certain information relating to terrorism investigations be included in the NICS database, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to require that certain information relating to terrorism investigations be included in the NICS database, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-06-02T07:46:26Z</updateDate>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

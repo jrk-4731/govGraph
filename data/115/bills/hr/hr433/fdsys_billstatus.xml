@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-25</actionDate>
+        <committee>
+          <name>Environment and Climate Change Subcommittee</name>
+          <systemCode>hsif18</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <actionDate>2017-01-11</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>To prohibit the Secretary of Energy from planning, developing, or constructing a defense waste repository until the Nuclear Regulatory Commission has made a final decision with respect to the construction authorization application for the Yucca Mountain Nuclear Waste Repository.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Sensible Nuclear Waste Disposition Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Sensible Nuclear Waste Disposition Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Sensible Nuclear Waste Disposition Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>Sensible Nuclear Waste Disposition Act</title>
+    <committeeReports />
+    <latestAction>
+      <text>Referred to the Subcommittee on Environment.</text>
+      <actionDate>2017-01-25</actionDate>
+      <links />
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-11</actionDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-08-08T20:53:46Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-11T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Sensible Nuclear Waste Disposition Act</b></p> <p>This bill prohibits the Department of Energy (DOE)from planning, developing, or constructing a defense waste repository until the Nuclear Regulatory Commission approves or disapproves the license to construct the Yucca Mountain Nuclear Waste Repository in Nevada. (A defense waste repository is a site used for storing high-level radioactive waste and spent nuclear fuel derived from the atomic energy defense activities of DOE.)</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <state>SC</state>
+        <identifiers>
+          <gpoId>8142</gpoId>
+          <lisID>1688</lisID>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <bioguideId>W000795</bioguideId>
+        <middleName />
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <firstName>Joe</firstName>
+        <party>R</party>
+        <lastName>Wilson</lastName>
+        <district>2</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <updateDate>2019-04-18T15:59:21Z</updateDate>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>3053</number>
+        <congress>115</congress>
+        <latestTitle>Nuclear Waste Policy Amendments Act of 2018</latestTitle>
+        <latestAction>
+          <actionDate>2018-05-14</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsif18</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-25T14:32:36Z</date>
+                </item>
+              </activities>
+              <name>Environment and Climate Change Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-11T15:01:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-01-12T04:45:49Z</createDate>
+    <introducedDate>2017-01-11</introducedDate>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <recordedVotes />
+    <billNumber>433</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <middleName />
+        <state>SC</state>
+        <firstName>Jeff</firstName>
+        <party>R</party>
+        <bioguideId>D000615</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Duncan</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <middleName />
+        <state>ND</state>
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <bioguideId>C001096</bioguideId>
+        <district>0</district>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cramer</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lewis, Jason [R-MN-2]</fullName>
+        <middleName />
+        <state>MN</state>
+        <firstName>Jason</firstName>
+        <party>R</party>
+        <bioguideId>L000587</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2335</lisID>
+          <bioguideId>L000587</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lewis</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <middleName>W.</middleName>
+        <state>GA</state>
+        <firstName>Rick</firstName>
+        <party>R</party>
+        <bioguideId>A000372</bioguideId>
+        <district>12</district>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+          <gpoId />
+          <lisID>2239</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Allen</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>Nuclear Regulatory Commission (NRC)</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>Radioactive wastes and releases</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 7 (Wednesday, January 11, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WILSONof South Carolina:H.R. 433.Congress has the power to enact this legislation pursuantto thefollowing:Article 1, Section 8 of the United States Constitution.[Page H391]</pre>]]></constitutionalAuthorityStatementText>
+    <textVersions>
+      <item>
+        <date>2017-01-11T05:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr433ih/xml/BILLS-115hr433ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <laws />
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

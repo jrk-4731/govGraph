@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2015-07-30T08:30:23Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-08-20</actionDate>
+        <committee>
+          <name>Asia and the Pacific Subcommittee</name>
+          <systemCode>hsfa05</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-08-20</actionDate>
+        <committee>
+          <name>Africa, Global Health, Global Human Rights and International Organizations Subcommittee</name>
+          <systemCode>hsfa16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2015-07-29</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H5609</url>
+            <name>H5609</name>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR H5609)</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-07-29</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-07-29</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-07-29</actionDate>
+      </item>
+    </actions>
+    <updateDate>2019-02-06T19:37:22Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsfa05</systemCode>
+              <activities>
+                <item>
+                  <date>2015-08-20T13:45:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Asia and the Pacific Subcommittee</name>
+            </item>
+            <item>
+              <systemCode>hsfa16</systemCode>
+              <activities>
+                <item>
+                  <date>2015-08-20T13:43:09Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Africa, Global Health, Global Human Rights and International Organizations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2015-07-29T14:17:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>S000018</bioguideId>
+        <middleName />
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S000018</bioguideId>
+          <gpoId />
+          <lisID>1009</lisID>
+        </identifiers>
+        <firstName>MATT</firstName>
+        <district>5</district>
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <lastName>SALMON</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7832</gpoId>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+        </identifiers>
+        <firstName>BRAD</firstName>
+        <district>30</district>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <lastName>SHERMAN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>F000043</bioguideId>
+        <middleName />
+        <state>PA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>F000043</bioguideId>
+          <gpoId>8120</gpoId>
+          <lisID>371</lisID>
+        </identifiers>
+        <firstName>CHAKA</firstName>
+        <district>2</district>
+        <fullName>Rep. Fattah, Chaka [D-PA-2]</fullName>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <lastName>FATTAH</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000613</bioguideId>
+        <middleName>J.</middleName>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7930</gpoId>
+          <bioguideId>D000613</bioguideId>
+          <lisID>2013</lisID>
+        </identifiers>
+        <firstName>Robert</firstName>
+        <district>10</district>
+        <fullName>Rep. Dold, Robert J. [R-IL-10]</fullName>
+        <sponsorshipDate>2015-07-29</sponsorshipDate>
+        <lastName>Dold</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>T000475</bioguideId>
+        <middleName>A.</middleName>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>T000475</bioguideId>
+          <gpoId />
+          <lisID>2250</lisID>
+        </identifiers>
+        <firstName>David</firstName>
+        <district>11</district>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <sponsorshipDate>2015-10-06</sponsorshipDate>
+        <lastName>Trott</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <middleName />
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <firstName>RON</firstName>
+        <district>3</district>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <sponsorshipDate>2015-10-07</sponsorshipDate>
+        <lastName>KIND</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <state>OR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <district>4</district>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipDate>2015-10-27</sponsorshipDate>
+        <lastName>DEFAZIO</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <firstName>ALCEE</firstName>
+        <district>20</district>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2016-07-08</sponsorshipDate>
+        <lastName>HASTINGS</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <lastName>Gabbard</lastName>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <bioguideId>G000571</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <firstName>Tulsi</firstName>
+        <byRequestType />
+        <district>2</district>
+        <middleName />
+        <state>HI</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills />
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <title>Calling on the Government of Bangladesh to protect the human rights of all its citizens, particularly vulnerable minorities, strengthen democratic institutions and rule of law, and prevent the growth of extremist groups.</title>
+    <billNumber>396</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2015-07-29</introducedDate>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres396ih/xml/BILLS-114hres396ih.xml</url>
+          </item>
+        </formats>
+        <date>2015-07-29T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Calling on the Government of Bangladesh to protect the human rights of all its citizens, particularly vulnerable minorities, strengthen democratic institutions and rule of law, and prevent the growth of extremist groups.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Calling on the Government of Bangladesh to protect the human rights of all its citizens, particularly vulnerable minorities, strengthen democratic institutions and rule of law, and prevent the growth of extremist groups.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2015-08-20</actionDate>
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Bangladesh</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Due process and equal protection</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Pakistan</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Rule of law and government transparency</name>
+          </item>
+          <item>
+            <name>Sovereignty, recognition, national governance and status</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-07-29</actionDate>
+          <text><![CDATA[<p>Acknowledges the victims of the 1971 Bangladesh war of independence.</p> <p> Calls on the government of Bangladesh to: (1) adhere to internationally recognized norms for elections, rule of law, and for due process in the conduct of the domestic International Crimes Tribunal investigating and prosecuting suspects of crimes committed in 1971 during the Bangladesh Liberation War; (2) stop radical organizations, such as Jamaat-e-Islami and Islami Chhatra Shibir, which pose an ongoing threat to the country's stability and secular democracy; and (3) protect the human rights and fundamental freedoms of all its citizens, particularly vulnerable minorities.</p>]]></text>
+          <updateDate>2015-07-29T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-09-04T18:29:19Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

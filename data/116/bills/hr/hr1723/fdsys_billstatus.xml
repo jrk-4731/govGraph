@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-03-14T07:12:09Z</createDate>
+    <billType>HR</billType>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committee>
+          <systemCode>hsag03</systemCode>
+          <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition, Oversight, and Department Operations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-13</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2019-03-13</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <middleName>W.</middleName>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+          <lisID>2328</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Marshall</lastName>
+        <party>R</party>
+        <bioguideId>M001198</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <sponsorshipDate>2019-03-13</sponsorshipDate>
+        <firstName>Roger</firstName>
+        <fullName>Rep. Marshall, Roger W. [R-KS-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M001203</bioguideId>
+          <gpoId />
+          <lisID>2421</lisID>
+        </identifiers>
+        <lastName>Malinowski</lastName>
+        <party>D</party>
+        <bioguideId>M001203</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2377</lisID>
+          <bioguideId>H001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Harder</lastName>
+        <party>D</party>
+        <bioguideId>H001090</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <firstName>Josh</firstName>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>WI</state>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <lastName>Moore</lastName>
+        <party>D</party>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <firstName>Gwen</firstName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>MD</state>
+        <identifiers>
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Raskin</lastName>
+        <party>D</party>
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <firstName>Jamie</firstName>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>CT</state>
+        <identifiers>
+          <lisID>281</lisID>
+          <bioguideId>D000216</bioguideId>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <lastName>DELAURO</lastName>
+        <party>D</party>
+        <bioguideId>D000216</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <firstName>ROSA</firstName>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>Ray</middleName>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+          <lisID>1939</lisID>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <lastName>Lujan</lastName>
+        <party>D</party>
+        <bioguideId>L000570</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <sponsorshipDate>2019-06-05</sponsorshipDate>
+        <firstName>Ben</firstName>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <identifiers>
+          <lisID>2227</lisID>
+          <gpoId />
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <lastName>DeSaulnier</lastName>
+        <party>D</party>
+        <bioguideId>D000623</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <sponsorshipDate>2019-06-12</sponsorshipDate>
+        <firstName>Mark</firstName>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>ME</state>
+        <identifiers>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <lastName>Pingree</lastName>
+        <party>D</party>
+        <bioguideId>P000597</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <firstName>Chellie</firstName>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>O.</middleName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2310</lisID>
+          <bioguideId>C001112</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Carbajal</lastName>
+        <party>D</party>
+        <bioguideId>C001112</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <firstName>Salud</firstName>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <identifiers>
+          <lisID>701</lisID>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <lastName>LOFGREN</lastName>
+        <party>D</party>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>19</district>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <firstName>ZOE</firstName>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>S.</middleName>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Lowenthal</lastName>
+        <party>D</party>
+        <bioguideId>L000579</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <district>47</district>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <firstName>Alan</firstName>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Nutrition, Oversight, and Department Operations.</text>
+    </latestAction>
+    <relatedBills />
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1723ih/xml/BILLS-116hr1723ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-03-13T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2019-03-13</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>CA</state>
+        <district>27</district>
+        <bioguideId>C001080</bioguideId>
+        <lastName>Chu</lastName>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <byRequestType />
+        <firstName>Judy</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. JUDY CHU of California:H.R. 1723.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8:``The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defence and general Welfare of the UnitedStates.''[Page H2718]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-13T14:07:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-10T13:51:48Z</date>
+                </item>
+              </activities>
+              <systemCode>hsag03</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend the Food and Nutrition Act of 2008 to make institutions of higher education eligible for assistance for community food projects, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Campus Hunger Reduction Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Campus Hunger Reduction Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>Campus Hunger Reduction Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <billNumber>1723</billNumber>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-06-26T07:38:44Z</updateDate>
+    <title>Campus Hunger Reduction Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

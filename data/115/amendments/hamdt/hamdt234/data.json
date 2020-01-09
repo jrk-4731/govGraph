@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-07-26T23:04:31-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.234", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/234"
+        }, 
+        {
+          "name": "Roll no. 420", 
+          "url": "http://clerk.house.gov/evs/2017/roll420.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 420, 
+      "text": "On agreeing to the Castor (FL) amendment (A022) Failed by recorded vote: 181 - 246 (Roll no. 420).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-07-26T20:15:28-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.234", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/234"
+        }, 
+        {
+          "name": "H6432", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6432"
+        }, 
+        {
+          "name": "H6432-6433", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6432-6433"
+        }, 
+        {
+          "name": "H6451", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6451"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6432-6433, H6451", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6432", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A022) offered by Ms. Castor (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26T23:04:31-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.234", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/234"
+        }, 
+        {
+          "name": "Roll no. 420", 
+          "url": "http://clerk.house.gov/evs/2017/roll420.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26T23:04:31-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.234", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/234"
+        }, 
+        {
+          "name": "Roll no. 420", 
+          "url": "http://clerk.house.gov/evs/2017/roll420.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26T23:04:31-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.234", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/234"
+        }, 
+        {
+          "name": "Roll no. 420", 
+          "url": "http://clerk.house.gov/evs/2017/roll420.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Castor (FL) amendment (A022) Failed by recorded vote: 181 - 246 (Roll no. 420).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26T20:15:28-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.234", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/234"
+        }, 
+        {
+          "name": "H6432", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6432"
+        }, 
+        {
+          "name": "H6432-6433", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6432-6433"
+        }, 
+        {
+          "name": "H6451", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H6451"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H6432-6433, H6451", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6432", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A022) offered by Ms. Castor (FL).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-07-26", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt234-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr3219-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 3219
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to increase funding for Energy Efficiency and Renewable Energy by $177,000,000 and reduce funding for Fossil Energy Research and Development by $355,000,000.", 
+  "introduced_at": "2017-07-26", 
+  "number": 234, 
+  "purpose": "An amendment numbered 38 printed in House Report 115-259 to increase funding for Energy Efficiency and Renewable Energy by $177,000,000 and reduce funding for Fossil Energy Research and Development by $355,000,000.", 
+  "sponsor": {
+    "bioguide_id": "C001066", 
+    "district": "14", 
+    "name": "Castor, Kathy", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2017-07-26T23:04:31-04:00", 
+  "updated_at": "2019-04-18T16:48:51Z"
+}

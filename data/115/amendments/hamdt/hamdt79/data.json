@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-03-10T11:03:29-05:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.79", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/79"
+        }, 
+        {
+          "name": "Roll no. 156", 
+          "url": "http://clerk.house.gov/evs/2017/roll156.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 156, 
+      "text": "On agreeing to the Jeffries amendment (A004) Failed by recorded vote: 189 - 229 (Roll no. 156).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-03-10T10:19:56-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.79", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/79"
+        }, 
+        {
+          "name": "H2035", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H2035"
+        }, 
+        {
+          "name": "H2035-2036", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H2035-2036"
+        }, 
+        {
+          "name": "H2038", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H2038"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H2035-2036, H2038", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2035", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A004) offered by Mr. Jeffries.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-10", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-10T11:03:29-05:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.79", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/79"
+        }, 
+        {
+          "name": "Roll no. 156", 
+          "url": "http://clerk.house.gov/evs/2017/roll156.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-10T11:03:29-05:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.79", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/79"
+        }, 
+        {
+          "name": "Roll no. 156", 
+          "url": "http://clerk.house.gov/evs/2017/roll156.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-10T11:03:29-05:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.79", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/79"
+        }, 
+        {
+          "name": "Roll no. 156", 
+          "url": "http://clerk.house.gov/evs/2017/roll156.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Jeffries amendment (A004) Failed by recorded vote: 189 - 229 (Roll no. 156).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-10T10:19:56-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.79", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/79"
+        }, 
+        {
+          "name": "H2035", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H2035"
+        }, 
+        {
+          "name": "H2035-2036", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H2035-2036"
+        }, 
+        {
+          "name": "H2038", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H2038"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H2035-2036, H2038", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H2035", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A004) offered by Mr. Jeffries.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-03-10", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt79-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr720-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 720
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to exempt actions pertaining to whistleblowers.", 
+  "introduced_at": "2017-03-10", 
+  "number": 79, 
+  "purpose": "An amendment numbered 4 printed in Part A of House Report 115-29 to exempt actions pertaining to whistleblowers.", 
+  "sponsor": {
+    "bioguide_id": "J000294", 
+    "district": "8", 
+    "name": "Jeffries, Hakeem S.", 
+    "state": "NY", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2017-03-10T11:03:29-05:00", 
+  "updated_at": "2019-04-18T16:47:10Z"
+}

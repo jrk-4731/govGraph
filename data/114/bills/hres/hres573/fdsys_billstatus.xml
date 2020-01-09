@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <actionDate>2015-12-18</actionDate>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2015-12-18</actionDate>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionDate>2015-12-18</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2015-12-18T14:03:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Expresses belief that the President has failed to develop and execute a strategy capable of defeating the Islamic State of Iraq and Syria (ISIS) and a significant course correction is necessary to ensure the protection of the people of the United States and U.S. allies.</p>]]></text>
+          <updateDate>2015-12-18T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-01-04T17:50:42Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2015-12-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Expressing the sense of the House of Representatives that the President has failed to adequately develop and execute a strategy capable of defeating the Islamic State of Iraq and Syria and a significant course correction is necessary at this time to ensure the protection of the people of the United States and United States allies.</title>
+    <recordedVotes />
+    <updateDate>2019-02-06T19:37:28Z</updateDate>
+    <latestAction>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+      <actionDate>2015-12-18</actionDate>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <amendments />
+    <version>1.0.0</version>
+    <billNumber>573</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>R000601</bioguideId>
+        <identifiers>
+          <bioguideId>R000601</bioguideId>
+          <gpoId />
+          <lisID>2268</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <middleName />
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <byRequestType />
+        <lastName>Ratcliffe</lastName>
+        <district>4</district>
+      </item>
+    </sponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres573ih/xml/BILLS-114hres573ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2015-12-18T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2015-12-19T10:20:14Z</createDate>
+    <relatedBills />
+    <committeeReports />
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText />
+    <cosponsors />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the House of Representatives that the President has failed to adequately develop and execute a strategy capable of defeating the Islamic State of Iraq and Syria and a significant course correction is necessary at this time to ensure the protection of the people of the United States and United States allies.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the House of Representatives that the President has failed to adequately develop and execute a strategy capable of defeating the Islamic State of Iraq and Syria and a significant course correction is necessary at this time to ensure the protection of the people of the United States and United States allies.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <congress>114</congress>
+    <calendarNumbers />
+    <billType>HRES</billType>
+    <introducedDate>2015-12-18</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

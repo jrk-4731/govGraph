@@ -1,0 +1,94 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3699-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-07-11", 
+  "number": "3699", 
+  "official_title": "To codify the Transportation Security Administration's responsibility relating to securing pipelines against cybersecurity threats, acts of terrorism, and other nefarious acts that jeopardize the physical security or cybersecurity of pipelines, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Pipeline Security Act", 
+  "sponsor": {
+    "bioguide_id": "C001061", 
+    "district": "5", 
+    "name": "Cleaver, Emanuel", 
+    "state": "MO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-07-11", 
+  "subjects": [
+    "Transportation and public works"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To codify the Transportation Security Administration's responsibility relating to securing pipelines against cybersecurity threats, acts of terrorism, and other nefarious acts that jeopardize the physical security or cybersecurity of pipelines, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pipeline Security Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pipeline Security Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Pipeline Security Act", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-19T07:38:54Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3699.xml"
+}

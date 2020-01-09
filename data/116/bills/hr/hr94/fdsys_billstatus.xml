@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To replace references to "wives" and "husbands" in Federal law with references to "spouses", and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Amend the Code for Marriage Equality Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Amend the Code for Marriage Equality Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Amend the Code for Marriage Equality Act of 2019</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2019-01-04T13:32:52Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-01-03T21:43:04Z</date>
+                </item>
+              </activities>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T16:15:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <lastName>Brownley</lastName>
+        <party>D</party>
+        <district>26</district>
+        <state>CA</state>
+        <bioguideId>B001285</bioguideId>
+        <firstName>Julia</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-01-03</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Amend the Code for Marriage Equality Act of 2019</title>
+    <cosponsors>
+      <item>
+        <firstName>RICK</firstName>
+        <bioguideId>L000560</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>2</district>
+        <lastName>LARSEN</lastName>
+        <party>D</party>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000560</bioguideId>
+          <gpoId>8206</gpoId>
+          <lisID>1675</lisID>
+        </identifiers>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Suzan</firstName>
+        <bioguideId>D000617</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <district>1</district>
+        <lastName>DelBene</lastName>
+        <party>D</party>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>BARBARA</firstName>
+        <bioguideId>L000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>13</district>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Alan</firstName>
+        <bioguideId>L000579</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+        <district>47</district>
+        <lastName>Lowenthal</lastName>
+        <party>D</party>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+          <lisID>2111</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Scott</firstName>
+        <bioguideId>P000608</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <district>52</district>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Debra</firstName>
+        <bioguideId>H001080</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <district>1</district>
+        <lastName>Haaland</lastName>
+        <party>D</party>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001080</bioguideId>
+          <gpoId />
+          <lisID>2423</lisID>
+        </identifiers>
+        <state>NM</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <state>DC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <district>3</district>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Theodore</firstName>
+        <bioguideId>D000610</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <district>22</district>
+        <lastName>Deutch</lastName>
+        <party>D</party>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+        </identifiers>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Ann</firstName>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <district>2</district>
+        <lastName>Kuster</lastName>
+        <party>D</party>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Derek</firstName>
+        <bioguideId>K000381</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>6</district>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <sponsorshipDate>2019-01-22</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+          <lisID>2169</lisID>
+        </identifiers>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Katie</firstName>
+        <bioguideId>H001087</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>25</district>
+        <lastName>Hill</lastName>
+        <party>D</party>
+        <fullName>Rep. Hill, Katie [D-CA-25]</fullName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001087</bioguideId>
+          <gpoId />
+          <lisID>2379</lisID>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>ZOE</firstName>
+        <bioguideId>L000397</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>19</district>
+        <lastName>LOFGREN</lastName>
+        <party>D</party>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <bioguideId>C001084</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>N.</middleName>
+        <district>1</district>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <bioguideId>C001084</bioguideId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <state>RI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Henry</firstName>
+        <bioguideId>J000288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipDate>2019-01-24</sponsorshipDate>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>JANICE</firstName>
+        <bioguideId>S001145</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <district>9</district>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipDate>2019-01-28</sponsorshipDate>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+        </identifiers>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <bioguideId>L000582</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>33</district>
+        <lastName>Lieu</lastName>
+        <party>D</party>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Denny</firstName>
+        <bioguideId>H001064</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>10</district>
+        <lastName>Heck</lastName>
+        <party>D</party>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001064</bioguideId>
+          <lisID>2170</lisID>
+        </identifiers>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>LUCILLE</firstName>
+        <bioguideId>R000486</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>40</district>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <party>D</party>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <sponsorshipDate>2019-01-30</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+          <lisID>997</lisID>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>MIKE</firstName>
+        <bioguideId>T000460</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>5</district>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <bioguideId>D000623</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>11</district>
+        <lastName>DeSaulnier</lastName>
+        <party>D</party>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <lisID>2227</lisID>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <bioguideId>Q000023</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>5</district>
+        <lastName>Quigley</lastName>
+        <party>D</party>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <gpoId>7925</gpoId>
+          <lisID>1967</lisID>
+        </identifiers>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Angie</firstName>
+        <bioguideId>C001119</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>2</district>
+        <lastName>Craig</lastName>
+        <party>D</party>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <sponsorshipDate>2019-02-08</sponsorshipDate>
+        <identifiers>
+          <lisID>2412</lisID>
+          <bioguideId>C001119</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Brendan</firstName>
+        <bioguideId>B001296</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <district>2</district>
+        <lastName>Boyle</lastName>
+        <party>D</party>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <sponsorshipDate>2019-02-11</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+          <lisID>2267</lisID>
+          <gpoId />
+        </identifiers>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Peter</firstName>
+        <bioguideId>W000800</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>0</district>
+        <lastName>Welch</lastName>
+        <party>D</party>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <state>VT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Ayanna</firstName>
+        <bioguideId>P000617</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>7</district>
+        <lastName>Pressley</lastName>
+        <party>D</party>
+        <fullName>Rep. Pressley, Ayanna [D-MA-7]</fullName>
+        <sponsorshipDate>2019-02-19</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000617</bioguideId>
+          <lisID>2405</lisID>
+          <gpoId />
+        </identifiers>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <bioguideId>H001047</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <district>4</district>
+        <lastName>Himes</lastName>
+        <party>D</party>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <sponsorshipDate>2019-02-19</sponsorshipDate>
+        <identifiers>
+          <lisID>1913</lisID>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Andy</firstName>
+        <bioguideId>L000592</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>9</district>
+        <lastName>Levin</lastName>
+        <party>D</party>
+        <fullName>Rep. Levin, Andy [D-MI-9]</fullName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000592</bioguideId>
+          <lisID>2408</lisID>
+        </identifiers>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <bioguideId>H001038</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>26</district>
+        <lastName>Higgins</lastName>
+        <party>D</party>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <identifiers>
+          <gpoId>8088</gpoId>
+          <bioguideId>H001038</bioguideId>
+          <lisID>1794</lisID>
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>DIANA</firstName>
+        <bioguideId>D000197</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>1</district>
+        <lastName>DEGETTE</lastName>
+        <party>D</party>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <sponsorshipDate>2019-03-05</sponsorshipDate>
+        <identifiers>
+          <gpoId>7859</gpoId>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+        </identifiers>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <bioguideId>M001203</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>7</district>
+        <lastName>Malinowski</lastName>
+        <party>D</party>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <identifiers>
+          <lisID>2421</lisID>
+          <gpoId />
+          <bioguideId>M001203</bioguideId>
+        </identifiers>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Susie</firstName>
+        <bioguideId>L000590</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>3</district>
+        <lastName>Lee</lastName>
+        <party>D</party>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <sponsorshipDate>2019-03-27</sponsorshipDate>
+        <identifiers>
+          <lisID>2425</lisID>
+          <bioguideId>L000590</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Mary</firstName>
+        <bioguideId>S001205</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>Gay</middleName>
+        <district>5</district>
+        <lastName>Scanlon</lastName>
+        <party>D</party>
+        <fullName>Rep. Scanlon, Mary Gay [D-PA-5]</fullName>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001205</bioguideId>
+          <lisID>2373</lisID>
+          <gpoId />
+        </identifiers>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <bioguideId>P000614</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>1</district>
+        <lastName>Pappas</lastName>
+        <party>D</party>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <sponsorshipDate>2019-04-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000614</bioguideId>
+          <gpoId />
+          <lisID>2418</lisID>
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Charlie</firstName>
+        <bioguideId>C001111</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>13</district>
+        <lastName>Crist</lastName>
+        <party>D</party>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <sponsorshipDate>2019-05-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001111</bioguideId>
+          <lisID>2321</lisID>
+          <gpoId />
+        </identifiers>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Darren</firstName>
+        <bioguideId>S001200</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>9</district>
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Ami</firstName>
+        <bioguideId>B001287</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>7</district>
+        <lastName>Bera</lastName>
+        <party>D</party>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <sponsorshipDate>2019-07-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001287</bioguideId>
+          <gpoId />
+          <lisID>2102</lisID>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr94ih/xml/BILLS-116hr94ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-01-03T05:00:00Z</date>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <updateDate>2019-07-16T07:16:43Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-01-03</actionDate>
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2019-01-03</actionDate>
+          <lastSummaryUpdateDate>2019-02-13T20:15:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Amend the Code for Marriage Equality Act of</b> <b>2019</b></p> <p>This bill amends the Internal Revenue Code (IRC), the Social Security Act (SSAct), and other federal laws to replace (1) references to "wife" or "husband" with references to "spouse"; and (2) references to "husband and wife" or "husband or wife" with references to "married couple" or " married person."</p> <p>For purposes of federal laws or regulations, "marriage" is defined as a legal union between two people as spouses. The bill eliminates a definition of "spouse" that refers only to a person of the opposite sex who is a husband or a wife.</p> <p>Requirements concerning compensation to a surviving wife after the disability or death of a person employed at a military, air, or naval base outside the United States are revised to make surviving spouses eligible for such compensation.</p> <p>Under the Family and Medical Leave Act of 1993, provisions concerning the amount of leave available to a husband and wife employed by the same employer are revised to apply to a married couple employed by the same employer.</p> <p>Requirements under the Federal Mine Safety and Health Act of 1977 that make disability and death benefits payable to the wife or widow of a miner are revised to make the benefits payable to the spouse or surviving spouse of a miner.</p> <p>IRC provisions that require a divorced wife's gross income to include the income of any trust she is entitled to receive that would otherwise be includible in the gross income of her husband, or vice versa, are revised to apply to the gross income of individuals who are divorced from their spouse. </p> <p>The bill revises title II (Old Age, Survivors and Disability Insurance) of the SSAct to consolidate separate provisions for a wife's insurance benefits and a husband's insurance benefits into a single standard for a spouse's insurance benefits.</p> <p>Criminal penalties that currently apply to persons who threaten to kill, kidnap, or inflict bodily harm upon a former President's wife or widow are revised to apply to threats made to a former President's spouse or surviving spouse.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Protection of officials</name>
+          </item>
+          <item>
+            <name>Separation, divorce, custody, support</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>94</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. BROWNLEY of California:H.R. 94.Congress has the power to enact this legislation pursuantto the following:Article I Section 8[Page H213]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

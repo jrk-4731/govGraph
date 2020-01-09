@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-18T05:04:59Z</createDate>
+    <introducedDate>2017-01-17</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-01-17</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <links />
+        <actionDate>2017-01-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2017-01-17</actionDate>
+    </latestAction>
+    <title>Obamacare Taxpayer Bailout Prevention Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><strong>Obamacare Taxpayer Bailout Prevention Act </strong></p> <p>This bill repeals the provision of the Patient Protection and Affordable Care Act that directs the Department of Health and Human Services to establish a program of risk corridors for 2014, 2015, and 2016 under which qualified health plans must participate in a payment adjustment system based on the ratio of a plan's allowable costs to its premiums. (Qualified health plans are sold on health insurance exchanges, are the only plans eligible for premium subsidies, and fulfill an individual's requirement to maintain minimum essential coverage.)</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-02-03T22:41:30Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-17</actionDate>
+          <updateDate>2017-01-17T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>147</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <state>FL</state>
+        <lastName>Rubio</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s147is/xml/BILLS-115s147is.xml</url>
+          </item>
+        </formats>
+        <date>2017-01-17T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-17T20:23:40Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>FLAKE</lastName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <party>R</party>
+        <firstName>JEFF</firstName>
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>F000444</bioguideId>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCCAIN</lastName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <middleName>SIDNEY</middleName>
+        <bioguideId>M000303</bioguideId>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lee</lastName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Cotton</lastName>
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Paul</lastName>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <party>R</party>
+        <firstName>Rand</firstName>
+        <identifiers>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <middleName />
+        <bioguideId>P000603</bioguideId>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prevent a taxpayer bailout of health insurance issuers.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Obamacare Taxpayer Bailout Prevention Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Obamacare Taxpayer Bailout Prevention Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Obamacare Taxpayer Bailout Prevention Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:32:06Z</updateDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

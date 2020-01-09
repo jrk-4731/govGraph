@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Lisa</firstName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <sponsorshipDate>2018-11-27</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Cory</firstName>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <bioguideId>G000562</bioguideId>
+        <state>CO</state>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <sponsorshipDate>2018-11-29</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-11-27</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-11-27</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2018-11-27</actionDate>
+      <links />
+    </latestAction>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employee hiring</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Federal Energy Regulatory Commission (FERC)</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <updateDate>2019-07-16T21:20:09Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-11-27T20:21:10Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Timely Review of Infrastructure Act</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Energy.</text>
+          <actionDate>2018-07-27</actionDate>
+        </latestAction>
+        <number>6552</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s8is/xml/BILLS-115s8is.xml</url>
+          </item>
+        </formats>
+        <date>2018-11-27T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <title>Timely Review of Infrastructure Act</title>
+    <introducedDate>2018-11-27</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>A bill to amend the Department of Energy Organization Act to address insufficient compensation of employees and other personnel of the Federal Energy Regulatory Commission, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Timely Review of Infrastructure Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Timely Review of Infrastructure Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Timely Review of Infrastructure Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <laws />
+    <notes />
+    <amendments />
+    <billType>S</billType>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <billNumber>8</billNumber>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2018-11-28T05:25:24Z</createDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2019-06-25T16:38:31Z</lastSummaryUpdateDate>
+          <updateDate>2018-11-27T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Timely Review of Infrastructure Act </b></p> <p>This bill amends the Department of Energy Organization Act to authorize the Federal Energy Regulatory Commission (FERC)to address insufficient compensation of its personnel.FERC must consult with the Office of Personnel Management when making a determination of the appropriate compensation for its personnel.</p>]]></text>
+          <actionDate>2018-11-27</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <lastName>Cassidy</lastName>
+        <state>LA</state>
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <middleName />
+        <bioguideId>C001075</bioguideId>
+        <firstName>Bill</firstName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

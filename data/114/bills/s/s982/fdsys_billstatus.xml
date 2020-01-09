@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Water and Power Subcommittee</name>
+              <systemCode>sseg07</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2015-06-18T18:30:00Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-16T17:49:35Z</date>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>WY</state>
+        <party>R</party>
+        <firstName>John</firstName>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <bioguideId>B001261</bioguideId>
+        <lastName>Barrasso</lastName>
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-04-16</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-06-23T15:45:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Water Rights Protection Act</b></p> <p> Prohibits the Department of the Interior and the Department of Agriculture from:</p> <ul> <li>conditioning or withholding the issuance, renewal, amendment, or extension of any permit, approval, license, lease, allotment, easement, right-of-way, or other land use or occupancy agreement (permit) on the limitation or encumbrance of any water right or the transfer of any water right to the United States or any other designee, or any other impairment of any water right under state law by federal or state action;</li> <li>requiring any water user (including a federally recognized Indian tribe) to apply for or acquire a water right in the name of the United States under state law as a condition of such a permit;</li> <li>asserting jurisdiction over groundwater withdrawals or impacts on groundwater resources, unless consistent with state groundwater resource laws, regulations, and policies; or</li> <li>infringing on the rights and obligations of a state in evaluating, allocating, and adjudicating state waters originating on or under, or flowing from, land owned or managed by the federal government.</li> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <updateDate>2015-04-16T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-06-18</actionDate>
+        <committee>
+          <name>Water and Power Subcommittee</name>
+          <systemCode>sseg07</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 114-399.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2015-04-16</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-04-16</actionDate>
+        <links />
+      </item>
+    </actions>
+    <title>Water Rights Protection Act</title>
+    <introducedDate>2015-04-16</introducedDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <bioguideId>R000584</bioguideId>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>JEFF</firstName>
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <bioguideId>F000444</bioguideId>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <state>AZ</state>
+        <middleName />
+        <lastName>FLAKE</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Cory</firstName>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <bioguideId>G000562</bioguideId>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <state>CO</state>
+        <middleName />
+        <lastName>Gardner</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dean</firstName>
+        <identifiers>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <bioguideId>H001041</bioguideId>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <state>NV</state>
+        <middleName />
+        <lastName>Heller</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <bioguideId>C000880</bioguideId>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <state>ID</state>
+        <middleName>D.</middleName>
+        <lastName>CRAPO</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+        </identifiers>
+        <bioguideId>E000285</bioguideId>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <state>WY</state>
+        <middleName>B.</middleName>
+        <lastName>ENZI</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>ORRIN</firstName>
+        <identifiers>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <bioguideId>H000338</bioguideId>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <state>UT</state>
+        <middleName>GRANT</middleName>
+        <lastName>HATCH</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Deb</firstName>
+        <identifiers>
+          <lisID>2179</lisID>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <bioguideId>F000463</bioguideId>
+        <sponsorshipDate>2015-04-16</sponsorshipDate>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <state>NE</state>
+        <middleName />
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <bioguideId>L000577</bioguideId>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <state>UT</state>
+        <middleName />
+        <lastName>Lee</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+        </identifiers>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipDate>2015-04-28</sponsorshipDate>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <state>AZ</state>
+        <middleName>SIDNEY</middleName>
+        <lastName>MCCAIN</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001098</bioguideId>
+        <sponsorshipDate>2015-06-04</sponsorshipDate>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <state>TX</state>
+        <middleName />
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Water Rights Protection Act</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and to require the Secretaries of the Interior and Agriculture to develop water planning instruments consistent with State law.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Water Rights Protection Act</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2015-06-18</actionDate>
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 114-399.</text>
+    </latestAction>
+    <billType>S</billType>
+    <createDate>2015-04-17T09:02:01Z</createDate>
+    <committeeReports />
+    <updateDate>2018-08-16T22:53:51Z</updateDate>
+    <amendments />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1830</number>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-05-07</actionDate>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        </latestAction>
+        <latestTitle>Water Rights Protection Act</latestTitle>
+        <type>HR</type>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2898</number>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-10-08</actionDate>
+          <text>Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 114-381.</text>
+        </latestAction>
+        <latestTitle>Western Water and American Food Security Act of 2015</latestTitle>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <calendarNumbers />
+    <billNumber>982</billNumber>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

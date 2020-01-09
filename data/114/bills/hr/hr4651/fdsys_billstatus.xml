@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-14T23:14:51Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName>T.</middleName>
+        <byRequestType />
+        <district>10</district>
+        <firstName>Michael</firstName>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <lastName>McCaul</lastName>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>M001157</bioguideId>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2016-02-29T17:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2016-04-01T13:38:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2016-02-29T17:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2016-02-29T17:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2016-02-29</introducedDate>
+    <createDate>2016-03-01T05:15:59Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>3</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-04-01</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+        <actionDate>2016-02-29</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <actionDate>2016-02-29</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2016-02-29</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <actionDate>2016-02-29</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2016-02-29</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <actionDate>2016-02-29</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <number>2604</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2016-02-29</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <latestTitle>Digital Security Commission Act of 2016</latestTitle>
+      </item>
+    </relatedBills>
+    <billNumber>4651</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2016-02-29T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Digital Security Commission Act of 2016</b></p> <p>This bill establishes in the legislative branch the National Commission on Security and Technology Challenges to assess, and make recommendations for policy and practice concerning, the issue of multiple security interests in the digital world, including public safety, privacy, national security, and communications and data protection, both now and throughout the next 10 years.</p> <p>Members of the Commission shall be appointed by the Speaker of the House and Senate majority leader (eight members), the minority leaders in the House and the Senate (eight members), and the President (one member) from among U.S. citizens with significant knowledge and primary experience in:</p> <ul> <li> cryptography,</li> <li>global commerce and economics,</li> <li>federal law enforcement,</li> <li>state and local law enforcement,</li> <li>the consumer-facing technology sector,</li> <li>the enterprise technology sector,</li> <li>the intelligence community, and </li> <li>the privacy and civil liberties community.</li> </ul>]]></text>
+          <lastSummaryUpdateDate>2016-06-13T18:10:46Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2016-02-29</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+      <actionDate>2016-04-01</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 32 (Monday, February 29, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McCAUL:H.R. 4651.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18, ``To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States or in anyDepartment or Officer thereof.''[Page H1045]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Digital Security Commission Act of 2016</title>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <state>RI</state>
+        <bioguideId>L000559</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <lastName>LANGEVIN</lastName>
+        <district>2</district>
+        <firstName>JAMES</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>PA</state>
+        <bioguideId>M001181</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <lastName>Meehan</lastName>
+        <district>7</district>
+        <firstName>Patrick</firstName>
+      </item>
+      <item>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <sponsorshipWithdrawnDate>2016-04-29</sponsorshipWithdrawnDate>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <state>WA</state>
+        <bioguideId>D000617</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+        </identifiers>
+        <lastName>DelBene</lastName>
+        <district>1</district>
+        <firstName>Suzan</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>MI</state>
+        <bioguideId>B001293</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2249</lisID>
+          <bioguideId>B001293</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Bishop</lastName>
+        <district>8</district>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>L000582</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+        </identifiers>
+        <lastName>Lieu</lastName>
+        <district>33</district>
+        <firstName>Ted</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Hurd, Will [R-TX-23]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>H001073</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2269</lisID>
+          <bioguideId>H001073</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Hurd</lastName>
+        <district>23</district>
+        <firstName>Will</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <bioguideId>R000602</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Rice</lastName>
+        <district>4</district>
+        <firstName>Kathleen</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>F000460</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+        </identifiers>
+        <lastName>Farenthold</lastName>
+        <district>27</district>
+        <firstName>Blake</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>S001193</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+          <lisID>2104</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Swalwell</lastName>
+        <district>15</district>
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+        </identifiers>
+        <lastName>Donovan</lastName>
+        <district>11</district>
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>M001166</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <lastName>McNerney</lastName>
+        <district>9</district>
+        <firstName>Jerry</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>VA</state>
+        <bioguideId>C001105</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2273</lisID>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <lastName>Comstock</lastName>
+        <district>10</district>
+        <firstName>Barbara</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Walters, Mimi [R-CA-45]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <state>CA</state>
+        <bioguideId>W000820</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <lisID>2232</lisID>
+          <gpoId />
+          <bioguideId>W000820</bioguideId>
+        </identifiers>
+        <lastName>Walters</lastName>
+        <district>45</district>
+        <firstName>Mimi</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <state>PA</state>
+        <bioguideId>C001106</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001106</bioguideId>
+          <lisID>2266</lisID>
+        </identifiers>
+        <lastName>Costello</lastName>
+        <district>6</district>
+        <firstName>Ryan</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>G.</middleName>
+        <state>WA</state>
+        <bioguideId>R000578</bioguideId>
+        <sponsorshipDate>2016-02-29</sponsorshipDate>
+        <identifiers>
+          <lisID>1810</lisID>
+          <bioguideId>R000578</bioguideId>
+          <gpoId>8212</gpoId>
+        </identifiers>
+        <lastName>Reichert</lastName>
+        <district>8</district>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>L. "Buddy"</middleName>
+        <state>GA</state>
+        <bioguideId>C001103</bioguideId>
+        <sponsorshipDate>2016-03-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+          <lisID>2236</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Carter</lastName>
+        <district>1</district>
+        <firstName>Earl</firstName>
+      </item>
+      <item>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>T.</middleName>
+        <state>NY</state>
+        <bioguideId>K000210</bioguideId>
+        <sponsorshipDate>2016-03-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <lastName>KING</lastName>
+        <district>2</district>
+        <firstName>PETER</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>S.</middleName>
+        <state>MI</state>
+        <bioguideId>M001150</bioguideId>
+        <sponsorshipDate>2016-03-02</sponsorshipDate>
+        <identifiers>
+          <lisID>1731</lisID>
+          <gpoId>8589</gpoId>
+          <bioguideId>M001150</bioguideId>
+        </identifiers>
+        <lastName>Miller</lastName>
+        <district>10</district>
+        <firstName>Candice</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>NY</state>
+        <bioguideId>K000386</bioguideId>
+        <sponsorshipDate>2016-03-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2264</lisID>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <lastName>Katko</lastName>
+        <district>24</district>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>S000583</bioguideId>
+        <sponsorshipDate>2016-03-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <gpoId>8177</gpoId>
+          <lisID>1075</lisID>
+        </identifiers>
+        <lastName>SMITH</lastName>
+        <district>21</district>
+        <firstName>LAMAR</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>GA</state>
+        <bioguideId>L000583</bioguideId>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000583</bioguideId>
+          <lisID>2238</lisID>
+        </identifiers>
+        <lastName>Loudermilk</lastName>
+        <district>11</district>
+        <firstName>Barry</firstName>
+      </item>
+      <item>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>AZ</state>
+        <bioguideId>M001197</bioguideId>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <lastName>McSally</lastName>
+        <district>2</district>
+        <firstName>Martha</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>AL</state>
+        <bioguideId>R000575</bioguideId>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000575</bioguideId>
+          <gpoId>7788</gpoId>
+          <lisID>1704</lisID>
+        </identifiers>
+        <lastName>Rogers</lastName>
+        <district>3</district>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>SC</state>
+        <bioguideId>D000615</bioguideId>
+        <sponsorshipDate>2016-03-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>8143</gpoId>
+          <bioguideId>D000615</bioguideId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <lastName>Duncan</lastName>
+        <district>3</district>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>W.</middleName>
+        <state>IN</state>
+        <bioguideId>B001284</bioguideId>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001284</bioguideId>
+          <gpoId />
+          <lisID>2129</lisID>
+        </identifiers>
+        <lastName>Brooks</lastName>
+        <district>5</district>
+        <firstName>Susan</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>NC</state>
+        <bioguideId>W000819</bioguideId>
+        <sponsorshipDate>2016-03-17</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2255</lisID>
+          <bioguideId>W000819</bioguideId>
+        </identifiers>
+        <lastName>Walker</lastName>
+        <district>6</district>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>TX</state>
+        <bioguideId>R000601</bioguideId>
+        <sponsorshipDate>2016-03-23</sponsorshipDate>
+        <identifiers>
+          <lisID>2268</lisID>
+          <bioguideId>R000601</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Ratcliffe</lastName>
+        <district>4</district>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <state>MN</state>
+        <bioguideId>M001143</bioguideId>
+        <sponsorshipDate>2016-04-15</sponsorshipDate>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <lastName>MCCOLLUM</lastName>
+        <district>4</district>
+        <firstName>BETTY</firstName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Digital media</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Technology assessment</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Digital Security Commission Act of 2016</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To establish in the legislative branch the National Commission on Security and Technology Challenges.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Digital Security Commission Act of 2016</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

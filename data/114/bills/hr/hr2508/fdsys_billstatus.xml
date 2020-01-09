@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2015-05-22T13:34:44Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-11-16</actionDate>
+        <committee>
+          <systemCode>hsed14</systemCode>
+          <name>Early Childhood, Elementary, and Secondary Education Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-21</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2015-05-21</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Education and Labor</name>
+          <subcommittees>
+            <item>
+              <name>Early Childhood, Elementary, and Secondary Education Subcommittee</name>
+              <systemCode>hsed14</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2015-11-16T20:06:14Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsed00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-05-21T14:04:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <district>2</district>
+        <bioguideId>A000373</bioguideId>
+        <fullName>Rep. Ashford, Brad [D-NE-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2257</lisID>
+          <bioguideId>A000373</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>D</party>
+        <lastName>Ashford</lastName>
+        <sponsorshipDate>2015-05-21</sponsorshipDate>
+        <firstName>Brad</firstName>
+      </item>
+      <item>
+        <district>7</district>
+        <bioguideId>P000258</bioguideId>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <lisID>910</lisID>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <party>D</party>
+        <lastName>PETERSON</lastName>
+        <sponsorshipDate>2015-06-09</sponsorshipDate>
+        <firstName>COLLIN</firstName>
+      </item>
+      <item>
+        <district>4</district>
+        <bioguideId>M001194</bioguideId>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001194</bioguideId>
+          <lisID>2248</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>R.</middleName>
+        <party>R</party>
+        <lastName>Moolenaar</lastName>
+        <sponsorshipDate>2015-06-16</sponsorshipDate>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <district>0</district>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Cramer</lastName>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+        <firstName>Kevin</firstName>
+      </item>
+      <item>
+        <district>7</district>
+        <bioguideId>L000576</bioguideId>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2033</lisID>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Long</lastName>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+        <firstName>Billy</firstName>
+      </item>
+      <item>
+        <district>4</district>
+        <bioguideId>H001053</bioguideId>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Hartzler</lastName>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+        <firstName>Vicky</firstName>
+      </item>
+      <item>
+        <district>1</district>
+        <bioguideId>W000413</bioguideId>
+        <fullName>Rep. Whitfield, Ed [R-KY-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000413</bioguideId>
+          <lisID>1222</lisID>
+          <gpoId>7953</gpoId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>WHITFIELD</lastName>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+        <firstName>EDWARD</firstName>
+      </item>
+      <item>
+        <district>7</district>
+        <bioguideId>G000563</bioguideId>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Gibbs</lastName>
+        <sponsorshipDate>2015-07-31</sponsorshipDate>
+        <firstName>Bob</firstName>
+      </item>
+      <item>
+        <district>8</district>
+        <bioguideId>S001189</bioguideId>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Scott</lastName>
+        <sponsorshipDate>2015-09-11</sponsorshipDate>
+        <firstName>Austin</firstName>
+      </item>
+      <item>
+        <district>23</district>
+        <bioguideId>R000585</bioguideId>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <middleName />
+        <party>R</party>
+        <lastName>Reed</lastName>
+        <sponsorshipDate>2015-09-15</sponsorshipDate>
+        <firstName>Tom</firstName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 161, Number 79 (Thursday, May 21, 2015)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RODNEY DAVIS of Illinois:H.R. 2508.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18. To make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by thisConstitution in the government of the United States, or inany department or officer thereof.[Page H3562]</pre>]]></constitutionalAuthorityStatementText>
+    <latestAction>
+      <actionDate>2015-11-16</actionDate>
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <updateDate>2015-05-21T04:00:00Z</updateDate>
+          <actionDate>2015-05-21</actionDate>
+          <lastSummaryUpdateDate>2015-06-04T15:19:29Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Healthy School Meals Flexibility Act</b></p> <p>This bill amends the Richard B. Russell National School Lunch Act to prohibit the Department of Agriculture (USDA) from implementing any regulation that would require a reduction in the quantity of sodium contained in federally reimbursed meals, foods, and snacks sold in schools below specified July 2014 maximum levels allowed in school breakfasts for school year 2014-2015.</p> With respect to grain contents, USDA shall only require that half of all grains in such food items are whole grain-rich. School food authorities must comply with the applicable grain component or standard with respect to the school lunch or school breakfast program in effect before July 1, 2014.]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>2508</billNumber>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <laws />
+    <billType>HR</billType>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <latestTitle>Reducing Federal Mandates on School Lunch Act</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+          <actionDate>2015-11-16</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <number>1504</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <congress>114</congress>
+        <latestTitle>Healthy School Meals Flexibility Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+          <actionDate>2015-04-30</actionDate>
+        </latestAction>
+        <type>S</type>
+        <number>1146</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2019-04-11T15:42:41Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Department of Agriculture</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Grain</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Richard B. Russell National School Lunch Act to prohibit further reductions in sodium levels and to reinstate the grain-rich requirements applicable to the national school lunch and breakfast programs.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Healthy School Meals Flexibility Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Healthy School Meals Flexibility Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>114</congress>
+    <introducedDate>2015-05-21</introducedDate>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <lastName>Davis</lastName>
+        <state>IL</state>
+        <district>13</district>
+        <party>R</party>
+        <byRequestType />
+        <firstName>Rodney</firstName>
+        <bioguideId>D000619</bioguideId>
+        <middleName />
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <title>Healthy School Meals Flexibility Act</title>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2015-05-21T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hr2508ih/xml/BILLS-114hr2508ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

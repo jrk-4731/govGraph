@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-03-31</actionDate>
+        <committee>
+          <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          <systemCode>hsju10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+        <actionDate>2015-03-19</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-03-19</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2015-03-19</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-05-09T23:15:18Z</updateDate>
+    <latestAction>
+      <actionDate>2015-03-31</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <textVersions>
+      <item>
+        <date>2015-03-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hconres26ih/xml/BILLS-114hconres26ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <version>1.0.0</version>
+    <billNumber>26</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <party>R</party>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000615</bioguideId>
+        <lastName>Duncan</lastName>
+        <identifiers>
+          <lisID>2057</lisID>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>SC</state>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Salmon, Matt [R-AZ-5]</fullName>
+        <party>R</party>
+        <firstName>MATT</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000018</bioguideId>
+        <lastName>SALMON</lastName>
+        <identifiers>
+          <lisID>1009</lisID>
+          <bioguideId>S000018</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>AZ</state>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Zinke, Ryan K. [R-MT-At Large]</fullName>
+        <party>R</party>
+        <firstName>Ryan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Z000018</bioguideId>
+        <lastName>Zinke</lastName>
+        <identifiers>
+          <bioguideId>Z000018</bioguideId>
+          <lisID>2254</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>MT</state>
+        <district>0</district>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <firstName>WALTER</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000255</bioguideId>
+        <lastName>JONES</lastName>
+        <identifiers>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>NC</state>
+        <district>3</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <party>R</party>
+        <firstName>Kevin</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001096</bioguideId>
+        <lastName>Cramer</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>ND</state>
+        <district>0</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <party>R</party>
+        <firstName>DON</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Y000033</bioguideId>
+        <lastName>YOUNG</lastName>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>AK</state>
+        <district>0</district>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Culberson, John Abney [R-TX-7]</fullName>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001048</bioguideId>
+        <lastName>CULBERSON</lastName>
+        <identifiers>
+          <gpoId>8163</gpoId>
+          <bioguideId>C001048</bioguideId>
+          <lisID>1670</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>TX</state>
+        <district>7</district>
+        <middleName>ABNEY</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <party>R</party>
+        <firstName>Mo</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001274</bioguideId>
+        <lastName>Brooks</lastName>
+        <identifiers>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+          <lisID>1987</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>AL</state>
+        <district>5</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <party>R</party>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001183</bioguideId>
+        <lastName>Schweikert</lastName>
+        <identifiers>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+          <lisID>1994</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>AZ</state>
+        <district>6</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <party>R</party>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000795</bioguideId>
+        <lastName>Wilson</lastName>
+        <identifiers>
+          <lisID>1688</lisID>
+          <bioguideId>W000795</bioguideId>
+          <gpoId>8142</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>SC</state>
+        <district>2</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <party>R</party>
+        <firstName>Dan</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000189</bioguideId>
+        <lastName>Newhouse</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>N000189</bioguideId>
+          <lisID>2275</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>WA</state>
+        <district>4</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+        <party>R</party>
+        <firstName>Cynthia</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000571</bioguideId>
+        <lastName>Lummis</lastName>
+        <identifiers>
+          <bioguideId>L000571</bioguideId>
+          <lisID>1960</lisID>
+          <gpoId>8225</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>WY</state>
+        <district>0</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <party>R</party>
+        <firstName>Barry</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000583</bioguideId>
+        <lastName>Loudermilk</lastName>
+        <identifiers>
+          <bioguideId>L000583</bioguideId>
+          <lisID>2238</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>GA</state>
+        <district>11</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Bridenstine, Jim [R-OK-1]</fullName>
+        <party>R</party>
+        <firstName>Jim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001283</bioguideId>
+        <lastName>Bridenstine</lastName>
+        <identifiers>
+          <lisID>2155</lisID>
+          <gpoId />
+          <bioguideId>B001283</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-03-19</sponsorshipDate>
+        <state>OK</state>
+        <district>1</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <party>R</party>
+        <firstName>LAMAR</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000583</bioguideId>
+        <lastName>SMITH</lastName>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-03-26</sponsorshipDate>
+        <state>TX</state>
+        <district>21</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <party>R</party>
+        <firstName>Austin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001189</bioguideId>
+        <lastName>Scott</lastName>
+        <identifiers>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-05-01</sponsorshipDate>
+        <state>GA</state>
+        <district>8</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <party>R</party>
+        <firstName>Earl</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001103</bioguideId>
+        <lastName>Carter</lastName>
+        <identifiers>
+          <lisID>2236</lisID>
+          <gpoId />
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-06-12</sponsorshipDate>
+        <state>GA</state>
+        <district>1</district>
+        <middleName>L. "Buddy"</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Westmoreland, Lynn A. [R-GA-3]</fullName>
+        <party>R</party>
+        <firstName>Lynn</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000796</bioguideId>
+        <lastName>Westmoreland</lastName>
+        <identifiers>
+          <lisID>1779</lisID>
+          <bioguideId>W000796</bioguideId>
+          <gpoId>7900</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-12-10</sponsorshipDate>
+        <state>GA</state>
+        <district>3</district>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Woodall, Rob [R-GA-7]</fullName>
+        <party>R</party>
+        <firstName>Rob</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000810</bioguideId>
+        <lastName>Woodall</lastName>
+        <identifiers>
+          <lisID>2008</lisID>
+          <bioguideId>W000810</bioguideId>
+          <gpoId>7904</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-09-13</sponsorshipDate>
+        <state>GA</state>
+        <district>7</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <party>R</party>
+        <firstName>Jody</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001071</bioguideId>
+        <lastName>Hice</lastName>
+        <identifiers>
+          <lisID>2237</lisID>
+          <bioguideId>H001071</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2016-09-13</sponsorshipDate>
+        <state>GA</state>
+        <district>10</district>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <party>R</party>
+        <firstName>Trent</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000388</bioguideId>
+        <lastName>Kelly</lastName>
+        <identifiers>
+          <lisID>2294</lisID>
+          <gpoId />
+          <bioguideId>K000388</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2016-09-22</sponsorshipDate>
+        <state>MS</state>
+        <district>1</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <party>R</party>
+        <firstName>Steven</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000601</bioguideId>
+        <lastName>Palazzo</lastName>
+        <identifiers>
+          <bioguideId>P000601</bioguideId>
+          <lisID>2035</lisID>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <state>MS</state>
+        <district>4</district>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <party>R</party>
+        <firstName>Gregg</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001045</bioguideId>
+        <lastName>Harper</lastName>
+        <identifiers>
+          <lisID>1933</lisID>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-09-28</sponsorshipDate>
+        <state>MS</state>
+        <district>3</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <fullName>Rep. Graves, Tom [R-GA-14]</fullName>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000560</bioguideId>
+        <lastName>Graves</lastName>
+        <identifiers>
+          <lisID>1979</lisID>
+          <bioguideId>G000560</bioguideId>
+          <gpoId>7906</gpoId>
+        </identifiers>
+        <sponsorshipDate>2016-11-14</sponsorshipDate>
+        <state>GA</state>
+        <district>14</district>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <district>4</district>
+        <byRequestType />
+        <state>AZ</state>
+        <bioguideId>G000565</bioguideId>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2015-03-31T21:11:45Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2015-03-19T13:06:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Effectuating the Compact for a Balanced Budget.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Effectuating the Compact for a Balanced Budget.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Resolves that Congress calls a convention for proposing amendments under Article V of the U.S. Constitution in accordance with the Compact for a Balanced Budget, effective after Congress receives certification that at least three-fourths of the states are members of the Compact and have applied for a convention for proposing amendments under Article V of the U.S. Constitution. </p> <p>Resolves that Congress refers the Balanced Budget Amendment to the state legislatures for ratification after Congress receives a certified copy of the Amendment showing that a convention for proposing amendments under Article V has approved and proposed for ratification the Amendment that is defined by the Compact and meets specified criteria, including prohibiting outlays from exceeding receipts unless the excess is financed by debt issued using specified procedures requiring approval by a majority of state legislatures. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2015-07-29T20:00:07Z</lastSummaryUpdateDate>
+          <actionDate>2015-03-19</actionDate>
+          <updateDate>2015-03-19T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <createDate>2015-03-23T13:30:34Z</createDate>
+    <amendments />
+    <laws />
+    <calendarNumbers />
+    <title>Effectuating the Compact for a Balanced Budget.</title>
+    <committeeReports />
+    <introducedDate>2015-03-19</introducedDate>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>General taxation matters</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>114</congress>
+    <billType>HCONRES</billType>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

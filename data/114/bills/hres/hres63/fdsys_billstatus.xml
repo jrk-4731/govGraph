@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <committeeReports />
+    <billNumber>63</billNumber>
+    <billType>HRES</billType>
+    <sponsors>
+      <item>
+        <bioguideId>M001150</bioguideId>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <party>R</party>
+        <middleName>S.</middleName>
+        <firstName>Candice</firstName>
+        <state>MI</state>
+        <lastName>Miller</lastName>
+        <district>10</district>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>M001150</bioguideId>
+          <gpoId>8589</gpoId>
+          <lisID>1731</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <congress>114</congress>
+    <title>Providing amounts for the expenses of the Committee on House Administration in the One Hundred Fourteenth Congress.</title>
+    <updateDate>2018-06-02T01:16:22Z</updateDate>
+    <constitutionalAuthorityStatementText />
+    <calendarNumbers />
+    <introducedDate>2015-01-28</introducedDate>
+    <actions>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on House Administration.</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2015-01-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>House Committee on House Administration</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <relatedBills />
+    <createDate>2015-01-29T04:56:26Z</createDate>
+    <titles>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on House Administration in the One Hundred Fourteenth Congress.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Providing amounts for the expenses of the Committee on House Administration in the One Hundred Fourteenth Congress.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <amendments />
+    <cosponsors />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-01-28</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2015-01-28T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2015-01-30T22:38:37Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Provides amounts for the expenses of the House Committee on House Administration for the 114th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>House Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-28T14:06:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <actionDate>2015-01-28</actionDate>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

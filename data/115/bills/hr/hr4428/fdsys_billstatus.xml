@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>4428</billNumber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>House Committee on Armed Services</name>
+          </item>
+          <item>
+            <name>House Committee on Foreign Affairs</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>War and emergency powers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2017-11-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr4428ih/xml/BILLS-115hr4428ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the War Powers Resolution to transfer to the Committee on Armed Services of the House of Representatives the responsibilities assigned under such Resolution to the Committee on Foreign Affairs of the House of Representatives, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>To amend the War Powers Resolution to transfer to the Committee on Armed Services of the House of Representatives the responsibilities assigned under such Resolution to the Committee on Foreign Affairs of the House of Representatives, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <middleName />
+        <state>AL</state>
+        <firstName>Bradley</firstName>
+        <party>R</party>
+        <bioguideId>B001289</bioguideId>
+        <district>1</district>
+        <sponsorshipDate>2017-11-16</sponsorshipDate>
+        <identifiers>
+          <lisID>2197</lisID>
+          <bioguideId>B001289</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Byrne</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T14:03:15Z</date>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Rules Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-11-16T14:03:10Z</date>
+            </item>
+          </activities>
+          <systemCode>hsru00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2017-11-16</actionDate>
+      <links />
+      <text>Referred to the Committee on Rules, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>2</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Rules, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the Committee on Rules, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <actionDate>2017-11-16</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <updateDate>2019-04-18T16:18:15Z</updateDate>
+    <congress>115</congress>
+    <relatedBills />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-11-16</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2018-12-07T21:47:18Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>This bill amends the War Powers Resolution to transfer to the House Armed Services Committee the responsibilities assigned under such resolution to the House Foreign Affairs Committee.</p> <p>The Rules of the House of Representatives are amended to include under the jurisdiction of the House Armed Services Committee matters relating to intervention abroad and declarations of war.</p>]]></text>
+          <updateDate>2017-11-16T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <createDate>2017-11-17T03:11:18Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 163, Number 188 (Thursday, November 16, 2017)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GALLEGO:H.R. 4428.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H9426]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <laws />
+    <title>To amend the War Powers Resolution to transfer to the Committee on Armed Services of the House of Representatives the responsibilities assigned under such Resolution to the Committee on Foreign Affairs of the House of Representatives, and for other purposes.</title>
+    <originChamber>House</originChamber>
+    <introducedDate>2017-11-16</introducedDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <state>AZ</state>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <bioguideId>G000574</bioguideId>
+        <identifiers>
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <firstName>Ruben</firstName>
+        <district>7</district>
+        <lastName>Gallego</lastName>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <amendments />
+    <introducedDate>2016-11-17</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>3480</billNumber>
+    <title>Secure Citizenship Act of 2016</title>
+    <congress>114</congress>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>S001197</bioguideId>
+        <firstName>Ben</firstName>
+        <lastName>Sasse</lastName>
+        <middleName />
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+        </identifiers>
+        <state>NE</state>
+      </item>
+    </sponsors>
+    <updateDate>2018-06-02T07:48:49Z</updateDate>
+    <recordedVotes />
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-11-17</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2016-11-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <relatedBills />
+    <policyArea />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2016-11-17</actionDate>
+          <lastSummaryUpdateDate>2017-03-21T14:49:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Secure Citizenship Act of 2016</strong></p> <p>This bill amends the Immigration and Nationality Act to require an alien to list on his or her naturalization application such person's current legal name and date of birth and all other names used since birth.</p> <p>The bill requires the Department of Homeland Security, by May 31, 2017, to: (1) complete the digitization of fingerprints of aliens who were fugitives, convicted criminals, or subject to deportation orders or who had other derogatory information dating back to 1990 under the Historical Fingerprint Enrollment program; and (2) store such digitized fingerprints along with related biographical data in its Automated Biometric Identification system. </p>]]></text>
+          <updateDate>2016-11-17T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Secure Citizenship Act of 2016</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to make an alien who applies for naturalization using a false identity ineligible for citizenship and to require the completion of the Historical Fingerprint Enrollment Program and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Secure Citizenship Act of 2016</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2016-11-18T05:08:26Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-11-17T23:02:12Z</date>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2016-11-17</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <billType>S</billType>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2019-02-06T15:06:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsvr00</systemCode>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <date>2019-03-01T16:30:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CASTRO of Texas:H.R. 1001.Congress has the power to enact this legislation pursuantto the following:Constitutional Authority--Necessary and Proper Clause (Art.I, Sec. 8, Clause 18)THE U.S. CONSTITUTIONARTICLE I, SECTION 8: POWERS OF CONGRESSCLAUSE 18The Congress shall have power . . . To make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by thisConstitution in the government of the United States, or inany department or officer thereof.[Page H1392]</pre>]]></constitutionalAuthorityStatementText>
+    <introducedDate>2019-02-06</introducedDate>
+    <notes />
+    <originChamber>House</originChamber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-03-01</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionDate>2019-02-06</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-02-06</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2019-02-06</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <laws />
+    <updateDate>2019-06-19T11:15:32Z</updateDate>
+    <recordedVotes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2019-02-07T08:10:16Z</createDate>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>W000813</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <state>IN</state>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000813</bioguideId>
+          <lisID>2128</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jackie</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Walorski</lastName>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>G000571</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <state>HI</state>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000571</bioguideId>
+          <lisID>2122</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Tulsi</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gabbard</lastName>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>R000599</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>36</district>
+        <state>CA</state>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <lisID>2109</lisID>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+        </identifiers>
+        <firstName>Raul</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ruiz</lastName>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>W000800</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <state>VT</state>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <firstName>Peter</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Welch</lastName>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>T000460</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <state>CA</state>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <lisID>1593</lisID>
+          <gpoId>7806</gpoId>
+        </identifiers>
+        <firstName>MIKE</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>THOMPSON</lastName>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-02-06</sponsorshipDate>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <firstName>ELEANOR</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>NORTON</lastName>
+        <middleName>HOLMES</middleName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>G000579</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <state>WI</state>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <sponsorshipDate>2019-03-21</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gallagher</lastName>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <state>GA</state>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <sponsorshipDate>2019-03-25</sponsorshipDate>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <firstName>Henry</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Johnson</lastName>
+        <middleName>C. "Hank"</middleName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>G000563</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <state>OH</state>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <firstName>Bob</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gibbs</lastName>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>K000394</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <state>NJ</state>
+        <fullName>Rep. Kim, Andy [D-NJ-3]</fullName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000394</bioguideId>
+          <lisID>2420</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Andy</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kim</lastName>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>M001199</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+        <state>FL</state>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2322</lisID>
+          <gpoId />
+          <bioguideId>M001199</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mast</lastName>
+        <middleName>J.</middleName>
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>D000619</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>13</district>
+        <state>IL</state>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Rodney</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Davis</lastName>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <bioguideId>D000399</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>35</district>
+        <state>TX</state>
+        <fullName>Rep. Doggett, Lloyd [D-TX-35]</fullName>
+        <sponsorshipDate>2019-06-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>D000399</bioguideId>
+          <lisID>303</lisID>
+          <gpoId>8181</gpoId>
+        </identifiers>
+        <firstName>LLOYD</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>DOGGETT</lastName>
+        <middleName />
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <title>Family Member Access to Burn Pit Registry Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Family Member Access to Burn Pit Registry Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Veterans Affairs to provide a process by which a family member of a deceased individual who is eligible for the Department of Veterans Affairs burn pit registry may register for such registry on behalf of the deceased individual.</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Family Member Access to Burn Pit Registry Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Family Member Access to Burn Pit Registry Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <billNumber>1001</billNumber>
+    <committeeReports />
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2019-03-01</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1001ih/xml/BILLS-116hr1001ih.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-06T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>C001091</bioguideId>
+        <state>TX</state>
+        <firstName>Joaquin</firstName>
+        <lastName>Castro</lastName>
+        <party>D</party>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <district>20</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>2163</lisID>
+          <gpoId />
+          <bioguideId>C001091</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

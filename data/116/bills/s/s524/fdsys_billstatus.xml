@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116s524is/xml/BILLS-116s524is.xml</url>
+          </item>
+        </formats>
+        <date>2019-02-14T05:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <updateDate>2019-06-03T13:15:07Z</updateDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <lastName>Tester</lastName>
+        <middleName />
+        <firstName>Jon</firstName>
+        <state>MT</state>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <bioguideId>T000464</bioguideId>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <congress>116</congress>
+    <title>Department of Veterans Affairs Tribal Advisory Committee Act of 2019</title>
+    <recordedVotes />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-22T18:30:48Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2019-02-14T22:22:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-05-22</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-14</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2019-02-14</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <createDate>2019-02-15T12:40:21Z</createDate>
+    <relatedBills>
+      <item>
+        <latestTitle>Department of Veterans Affairs Tribal Advisory Committee Act of 2019</latestTitle>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <number>2791</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-05-16</actionDate>
+          <text>Referred to the House Committee on Veterans' Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <amendments />
+    <cosponsors>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <lastName>Sullivan</lastName>
+        <firstName>Dan</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>AK</state>
+        <middleName />
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <lastName>UDALL</lastName>
+        <firstName>TOM</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <state>NM</state>
+        <middleName />
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <lastName>Murkowski</lastName>
+        <firstName>Lisa</firstName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <state>AK</state>
+        <middleName />
+        <sponsorshipDate>2019-02-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MA</state>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2019-02-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <lastName>Sinema</lastName>
+        <firstName>Kyrsten</firstName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+          <lisID>2099</lisID>
+        </identifiers>
+        <state>AZ</state>
+        <middleName />
+        <sponsorshipDate>2019-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <lastName>Cramer</lastName>
+        <firstName>Kevin</firstName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+        </identifiers>
+        <state>ND</state>
+        <middleName />
+        <sponsorshipDate>2019-04-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <introducedDate>2019-02-14</introducedDate>
+    <titles>
+      <item>
+        <title>A bill to establish the Department of Veterans Affairs Advisory Committee on Tribal and Indian Affairs, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Department of Veterans Affairs Tribal Advisory Committee Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Department of Veterans Affairs Tribal Advisory Committee Act of 2019</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <title>Department of Veterans Affairs Tribal Advisory Committee Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <billNumber>524</billNumber>
+    <latestAction>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <actionDate>2019-05-22</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

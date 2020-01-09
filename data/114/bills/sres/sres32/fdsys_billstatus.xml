@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-04-11T15:42:23Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Veterans' Affairs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <updateDate>2015-01-21T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-23T20:53:45Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Veterans' Affairs for the 114th Congress. </p>]]></text>
+          <actionDate>2015-01-21</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <versionCode>80</versionCode>
+          <updateDate>2015-01-21T16:31:11Z</updateDate>
+          <lastSummaryUpdateDate>2015-01-23T20:52:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Authorizes expenditures by the Senate Committee on Veterans' Affairs for the 114th Congress.</p>]]></text>
+          <actionDate>2015-01-21</actionDate>
+          <name>Reported to Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114sres32is/xml/BILLS-114sres32is.xml</url>
+          </item>
+        </formats>
+        <date>2015-01-21T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <relatedBills />
+    <titles>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>32</billNumber>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <originalBillReported>1</originalBillReported>
+        <reportedToSenate>1</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-01-21</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S352-353</url>
+            <name>S352-353</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S352-353)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2015-01-21</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Original measure reported to Senate by Senator Isakson. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-01-21</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <text>Committee on Veterans' Affairs. Original measure reported to Senate by Senator Isakson. Without written report.</text>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-01-21</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <links />
+      </item>
+    </actions>
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <createDate>2015-01-22T10:02:11Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-01-21T19:02:24Z</date>
+            </item>
+          </activities>
+          <name>Rules and Administration Committee</name>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssva00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2015-01-21T19:02:07Z</date>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2015-01-21</introducedDate>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S352-353)</text>
+      <actionDate>2015-01-21</actionDate>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <title>An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <lastName>Isakson</lastName>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <state>GA</state>
+        <firstName>Johnny</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <amendments />
+    <billType>SRES</billType>
+    <committeeReports />
+    <congress>114</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

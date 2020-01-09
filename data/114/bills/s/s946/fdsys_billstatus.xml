@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+      <actionDate>2015-04-15</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2015-04-15</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-04-15</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-04-15T15:48:49Z</date>
+            </item>
+          </activities>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>S</billType>
+    <createDate>2015-04-16T09:11:20Z</createDate>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114s946is/xml/BILLS-114s946is.xml</url>
+          </item>
+        </formats>
+        <date>2015-04-15T04:00:00Z</date>
+        <type>Introduced in Senate</type>
+      </item>
+    </textVersions>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <updateDate>2015-04-15T04:00:00Z</updateDate>
+          <actionDate>2015-04-15</actionDate>
+          <lastSummaryUpdateDate>2015-04-22T20:34:12Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Safe Transport for Horses Act</b></p> <p> Prohibits a person from transporting a horse in interstate commerce in a motor vehicle (except a vehicle operated exclusively on rail or rails) containing two or more levels stacked on top of one another. Prescribes civil penalties for persons who knowingly violate such prohibition.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2015-04-15</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Motor carriers</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <updateDate>2019-04-11T15:46:34Z</updateDate>
+    <cosponsors>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <party>D</party>
+        <firstName>Robert</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-04-15</sponsorshipDate>
+        <lastName>Menendez</lastName>
+        <middleName />
+        <state>NJ</state>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <party>D</party>
+        <firstName>DIANNE</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <sponsorshipDate>2015-04-20</sponsorshipDate>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <state>CA</state>
+      </item>
+      <item>
+        <bioguideId>M000702</bioguideId>
+        <party>D</party>
+        <firstName>BARBARA</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>802</lisID>
+          <gpoId>8240</gpoId>
+          <bioguideId>M000702</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-04-20</sponsorshipDate>
+        <lastName>MIKULSKI</lastName>
+        <middleName>ANN</middleName>
+        <state>MD</state>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+        <sponsorshipDate>2015-04-21</sponsorshipDate>
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+        <state>MA</state>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-07-22</sponsorshipDate>
+        <lastName>Booker</lastName>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <party>D</party>
+        <firstName>BENJAMIN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2015-10-22</sponsorshipDate>
+        <lastName>CARDIN</lastName>
+        <middleName>L.</middleName>
+        <state>MD</state>
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <firstName>Elizabeth</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2015-12-01</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <middleName>A.</middleName>
+        <state>MA</state>
+      </item>
+    </cosponsors>
+    <amendments />
+    <laws />
+    <titles>
+      <item>
+        <title>A bill to amend title 49, United States Code, to prohibit the transportation of horses in interstate transportation in a motor vehicle containing 2 or more levels stacked on top of one another.</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Safe Transport for Horses Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <title>Safe Transport for Horses Act</title>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <notes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Horse Transportation Safety Act of 2015</latestTitle>
+        <type>HR</type>
+        <number>1282</number>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-03-05</actionDate>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Horse Transportation Safety Act of 2015</latestTitle>
+        <type>S</type>
+        <number>850</number>
+        <congress>114</congress>
+        <latestAction>
+          <actionDate>2015-03-24</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <title>Safe Transport for Horses Act</title>
+    <originChamber>Senate</originChamber>
+    <billNumber>946</billNumber>
+    <sponsors>
+      <item>
+        <lastName>KIRK</lastName>
+        <party>R</party>
+        <bioguideId>K000360</bioguideId>
+        <state>IL</state>
+        <middleName>STEVEN</middleName>
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <firstName>MARK</firstName>
+      </item>
+    </sponsors>
+    <version>1.0.0</version>
+    <congress>114</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

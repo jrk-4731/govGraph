@@ -1,0 +1,180 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-26", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-26", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-08", 
+      "action_code": "", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Economic Opportunity.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-22", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSVR"
+      ], 
+      "links": [
+        {
+          "name": "H. Rept. 116-164", 
+          "url": "https://www.congress.gov/congressional-report/116th-congress/house-report/164"
+        }
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 116-164.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-07-22", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "124", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 124.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3504-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Economic Opportunity", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000593", 
+      "district": "49", 
+      "name": "Levin, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-26", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000582", 
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-06-26", 
+      "state": "TN", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-22", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-26", 
+  "number": "3504", 
+  "official_title": "To amend title 38, United States Code, to provide for improvements to the specially adapted housing program of the Department of Veterans Affairs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2022-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Ryan Kules Specially Adaptive Housing Improvement Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B001257", 
+    "district": "12", 
+    "name": "Bilirakis, Gus M.", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2019-07-22", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Disability and paralysis", 
+    "Residential rehabilitation and home repair", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ryan Kules Specially Adaptive Housing Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ryan Kules Specially Adaptive Housing Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Ryan Kules Specially Adaptive Housing Improvement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to provide for improvements to the specially adapted housing program of the Department of Veterans Affairs, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Ryan Kules Specially Adaptive Housing Improvement Act of 2019", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2019-07-23T07:12:42Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3504.xml"
+}

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2019-02-13T17:31:19Z</updateDate>
+    <congress>114</congress>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <middleName />
+        <byRequestType />
+        <district>3</district>
+        <firstName>Jason</firstName>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <lastName>Chaffetz</lastName>
+        <identifiers>
+          <lisID>1956</lisID>
+          <gpoId>8191</gpoId>
+          <bioguideId>C001076</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <bioguideId>C001076</bioguideId>
+        <state>UT</state>
+      </item>
+    </sponsors>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-03-16T14:01:20Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-03-31T14:01:07Z</date>
+                </item>
+              </activities>
+              <systemCode>hsag15</systemCode>
+              <name>Conservation and Forestry Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-03-16T14:01:15Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2016-03-22T21:14:44Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+              <name>National Parks, Forests, and Public Lands Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <committeeReports />
+    <laws />
+    <introducedDate>2016-03-16</introducedDate>
+    <createDate>2016-03-17T05:08:19Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2016-03-31</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-03-22</actionDate>
+        <committee>
+          <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2016-03-16</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2016-03-16</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <actionDate>2016-03-16</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2016-03-16</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <links />
+        <actionDate>2016-03-16</actionDate>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills />
+    <billNumber>4751</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-03-16</actionDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-04-07T14:22:20Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Local Enforcement for Local Lands Act of 2016</b></p> <p>This bill declares that, by September 30, 2017, the Department of Agriculture (USDA) shall terminate the Forest Service Law Enforcement and Investigations unit and cease using Forest Service employees to perform law enforcement functions on federal lands. </p> <p>Also by such date, the Department of the Interior shall terminate the Bureau of Land Management Office of Law Enforcement and cease using Interior employees to perform law enforcement functions on federal lands. </p>  <p>Nothing in this Act shall be construed as limiting the authority of Interior or USDA to authorize an employee of the Forest Service or the Bureau of Land Management to carry a firearm for protection while in the field. </p> <p>For FY2018 and each fiscal year thereafter, Interior shall make a grant to each state, determined according to a specified formula, to permit the state, directly or through subgrants with units of local government in it, to maintain law and order on federal land, protect individuals and property on federal lands, and enforce federal law.</p>   <p>Any state or local government receiving the grant or subgrant shall enter into an agreement with Interior or USDA, as appropriate. </p> <p>In any such agreement Interior or USDA must waive all civil claims against the state or local government, and indemnify that government and save it harmless from all claims by third parties for property damage or personal injury that may arise out of law enforcement functions performed under the agreement. </p> <p>A law enforcement officer of a state or local government performing law enforcement functions pursuant to such an agreement shall not, except in certain circumstances, be deemed a federal employee with respect to hours of work, compensation rates, leave, unemployment compensation, and federal benefits, among other things.</p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2016-03-16T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <originChamber>House</originChamber>
+    <amendments />
+    <latestAction>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <links />
+      <actionDate>2016-03-31</actionDate>
+    </latestAction>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <notes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 42 (Wednesday, March 16, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CHAFFETZ:H.R. 4751.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2: relating to the power ofCongress to dispose of and make all needful rules andregulations respecting the territory or other propertybelonging to the United States.[Page H1419]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Local Enforcement for Local Lands Act of 2016</title>
+    <cosponsors>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <party>R</party>
+        <bioguideId>B001250</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Rob</firstName>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001250</bioguideId>
+          <gpoId>8189</gpoId>
+          <lisID>1753</lisID>
+        </identifiers>
+        <state>UT</state>
+        <lastName>Bishop</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <party>R</party>
+        <bioguideId>S001192</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+          <gpoId />
+          <lisID>2168</lisID>
+        </identifiers>
+        <state>UT</state>
+        <lastName>Stewart</lastName>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <party>R</party>
+        <bioguideId>L000584</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mia</firstName>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000584</bioguideId>
+          <gpoId />
+          <lisID>2271</lisID>
+        </identifiers>
+        <state>UT</state>
+        <lastName>Love</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <party>R</party>
+        <bioguideId>N000189</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dan</firstName>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000189</bioguideId>
+          <gpoId />
+          <lisID>2275</lisID>
+        </identifiers>
+        <state>WA</state>
+        <lastName>Newhouse</lastName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <party>R</party>
+        <bioguideId>G000565</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2016-03-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <lastName>Gosar</lastName>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Guinta, Frank C. [R-NH-1]</fullName>
+        <party>R</party>
+        <bioguideId>G000570</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Frank</firstName>
+        <sponsorshipDate>2016-04-12</sponsorshipDate>
+        <identifiers>
+          <gpoId>8041</gpoId>
+          <bioguideId>G000570</bioguideId>
+          <lisID>2038</lisID>
+        </identifiers>
+        <state>NH</state>
+        <lastName>Guinta</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <party>R</party>
+        <bioguideId>M001177</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2016-04-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1908</lisID>
+          <bioguideId>M001177</bioguideId>
+          <gpoId>7809</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <lastName>McClintock</lastName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <party>R</party>
+        <bioguideId>A000369</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2016-04-15</sponsorshipDate>
+        <identifiers>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <state>NV</state>
+        <lastName>Amodei</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <party>R</party>
+        <bioguideId>P000588</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Stevan</firstName>
+        <sponsorshipDate>2016-04-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000588</bioguideId>
+          <gpoId>8057</gpoId>
+          <lisID>1738</lisID>
+        </identifiers>
+        <state>NM</state>
+        <lastName>Pearce</lastName>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <party>R</party>
+        <bioguideId>L000573</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>7919</gpoId>
+          <bioguideId>L000573</bioguideId>
+          <lisID>2011</lisID>
+        </identifiers>
+        <state>ID</state>
+        <lastName>Labrador</lastName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Department of Agriculture</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Local Enforcement for Local Lands Act of 2016</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To terminate the law enforcement functions of the Forest Service and the Bureau of Land Management and to provide block grants to States for the enforcement of Federal law on Federal land under the jurisdiction of these agencies, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Local Enforcement for Local Lands Act of 2016</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

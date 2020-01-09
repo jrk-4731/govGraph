@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-05-24T07:10:50Z</createDate>
+    <introducedDate>2018-05-23</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>30</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2018-06-21</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2018-06-20</actionDate>
+        <links />
+        <actionTime>12:41:54</actionTime>
+        <committee />
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5304-5321)</text>
+        <actionDate>2018-06-20</actionDate>
+        <links>
+          <link>
+            <name>H5304-5321</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H5304-5321</url>
+          </link>
+        </links>
+        <actionTime>12:41:53</actionTime>
+        <committee />
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5304-5321)</text>
+        <actionDate>2018-06-20</actionDate>
+        <links>
+          <link>
+            <name>H5304-5321</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H5304-5321</url>
+          </link>
+        </links>
+        <actionTime>12:41:53</actionTime>
+        <committee />
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5925.</text>
+        <actionDate>2018-06-20</actionDate>
+        <links>
+          <link>
+            <name>H.R. 5925</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/5925</url>
+          </link>
+        </links>
+        <actionTime>12:07:55</actionTime>
+        <committee />
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H5304-5325)</text>
+        <actionDate>2018-06-20</actionDate>
+        <links>
+          <link>
+            <name>H5304-5325</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/house-section/page/H5304-5325</url>
+          </link>
+        </links>
+        <actionTime>12:07:53</actionTime>
+        <committee />
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Mr. Mitchell moved to suspend the rules and pass the bill, as amended.</text>
+        <actionDate>2018-06-20</actionDate>
+        <links />
+        <actionTime>12:07:32</actionTime>
+        <committee />
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 596.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Calendars</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <text>Committee on Appropriations discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+        </committee>
+        <links />
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Committee on Appropriations discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+        </committee>
+        <links />
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Intelligence (Permanent) discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <links />
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Committee on Intelligence (Permanent) discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <links />
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on the Judiciary discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Committee on the Judiciary discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Foreign Affairs discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Committee on Foreign Affairs discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Energy and Commerce discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Committee on Energy and Commerce discharged.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-767, Part I.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/767</url>
+            <name>H. Rept. 115-767</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-767, Part I.</text>
+        <actionDate>2018-06-20</actionDate>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/767</url>
+            <name>H. Rept. 115-767</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-05-23</actionDate>
+        <committee>
+          <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-05-23</actionDate>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-05-23</actionDate>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, Foreign Affairs, the Judiciary, Intelligence (Permanent Select), and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, Foreign Affairs, the Judiciary, Intelligence (Permanent Select), and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <systemCode>hlig00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, Foreign Affairs, the Judiciary, Intelligence (Permanent Select), and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, Foreign Affairs, the Judiciary, Intelligence (Permanent Select), and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, Foreign Affairs, the Judiciary, Intelligence (Permanent Select), and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, Foreign Affairs, the Judiciary, Intelligence (Permanent Select), and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2018-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-05-23</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2018-05-23</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <considerationByHouse>1</considerationByHouse>
+        <houseCommitteeDischarged>5</houseCommitteeDischarged>
+        <reportedToHouse>1</reportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <referredToCommittee>1</referredToCommittee>
+        <generalDebate>1</generalDebate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <committeeDischarged>5</committeeDischarged>
+        <billReferrals>6</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2018-06-21</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>5925</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2058</lisID>
+          <gpoId>8144</gpoId>
+          <bioguideId>G000566</bioguideId>
+        </identifiers>
+        <bioguideId>G000566</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <firstName>Trey</firstName>
+        <state>SC</state>
+        <lastName>Gowdy</lastName>
+        <byRequestType />
+        <district>4</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00596</calendar>
+      </item>
+    </calendarNumbers>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-767</citation>
+      </committeeReport>
+    </committeeReports>
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:24:02Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5925rfs/xml/BILLS-115hr5925rfs.xml</url>
+          </item>
+        </formats>
+        <date>2018-06-21T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5925eh/xml/BILLS-115hr5925eh.xml</url>
+          </item>
+        </formats>
+        <date>2018-06-20T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5925rh/xml/BILLS-115hr5925rh.xml</url>
+          </item>
+        </formats>
+        <date>2018-06-20T04:00:00Z</date>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr5925ih/xml/BILLS-115hr5925ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-05-23T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Drug Enforcement Administration (DEA)</name>
+          </item>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Executive Office of the President</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Organized crime</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>U.S. Postal Service</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 85 (Wednesday, May 23, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GOWDY:H.R. 5925.Congress has the power to enact this legislation pursuantto the following:U.S. Const. Art. I, Sec. 8, cl. 14, relating to theCongress's power ``to make rules for the Government . . .'';U.S. Const. Art. I, Sec. 8, cl. 3, relating to the Congress'spower ``to regulate Commerce with foreign Nations, and amongthe several States, and with the Indian Tribes''; and U.S.Const. Art. I, Sec. 8, cl. 18 relating to the Congress'spower ``to make all laws which shall be necessary and properfor carrying into Execution the foregoing Powers, and allother Powers vested by this Constitution in the Government ofthe United States or in any Department or Officer thereof.''[Page H4693]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <number>5980</number>
+        <latestAction>
+          <actionDate>2018-05-25</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+        <latestTitle>CODE RED Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/54028</url>
+        <pubDate>2018-06-11T20:30:25Z</pubDate>
+        <title>H.R. 5925, CRISIS Act</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/54066</url>
+        <pubDate>2018-06-15T20:04:00Z</pubDate>
+        <title>H.R. 5925, CRISIS Act</title>
+      </item>
+    </cboCostEstimates>
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-06-21T14:47:38Z</date>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Appropriations Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-06-20T15:11:49Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-23T14:00:41Z</date>
+            </item>
+          </activities>
+          <systemCode>hsap00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Intelligence (Permanent Select) Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-06-20T15:11:45Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-23T14:00:36Z</date>
+            </item>
+          </activities>
+          <systemCode>hlig00</systemCode>
+          <subcommittees />
+          <type>Select</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-06-20T15:11:41Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-23T14:00:31Z</date>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-05-23T16:51:39Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-06-20T15:11:37Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-23T14:00:26Z</date>
+            </item>
+          </activities>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-06-20T15:11:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-23T14:00:21Z</date>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Oversight and Reform Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2018-06-20T15:11:05Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2018-05-23T16:47:26Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-05-23T14:00:16Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-05-23</sponsorshipDate>
+        <bioguideId>C000984</bioguideId>
+        <district>7</district>
+        <firstName>ELIJAH</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+          <lisID>256</lisID>
+        </identifiers>
+        <lastName>CUMMINGS</lastName>
+        <state>MD</state>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-05-23</sponsorshipDate>
+        <bioguideId>M001187</bioguideId>
+        <district>11</district>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Meadows</lastName>
+        <state>NC</state>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2018-05-23</sponsorshipDate>
+        <bioguideId>C001078</bioguideId>
+        <district>11</district>
+        <firstName>Gerald</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <lastName>Connolly</lastName>
+        <state>VA</state>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <middleName>E.</middleName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To codify provisions relating to the Office of National Drug Control, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Coordinated Response through Interagency Strategy and Information Sharing Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>CRISIS Act</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Coordinated Response through Interagency Strategy and Information Sharing Act</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>CRISIS Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>CRISIS Act</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Coordinated Response through Interagency Strategy and Information Sharing Act</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Coordinated Response through Interagency Strategy and Information Sharing Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>CRISIS Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Coordinated Response through Interagency Strategy and Information Sharing Act</title>
+      </item>
+    </titles>
+    <title>CRISIS Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <constitutionalAuthorityStatementText />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <name>Oversight and Reform Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T15:04:00Z</date>
+            </item>
+          </activities>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cancer</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Digestive and metabolic diseases</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2017-03-01</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Expresses support for the goals and ideals of National Colorectal Cancer Awareness Month.</p>]]></text>
+          <lastSummaryUpdateDate>2017-06-14T15:24:07Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-03-01</actionDate>
+          <updateDate>2017-03-01T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Supporting the designation of March 2017, as National Colorectal Cancer Awareness Month.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Supporting the designation of March 2017, as National Colorectal Cancer Awareness Month.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-01</actionDate>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Oversight and Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-01</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-01</actionDate>
+        <text>Introduced in House</text>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <state>PA</state>
+        <firstName>Charles</firstName>
+        <identifiers>
+          <lisID>1799</lisID>
+          <bioguideId>D000604</bioguideId>
+          <gpoId>8133</gpoId>
+        </identifiers>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Dent</lastName>
+        <middleName>W.</middleName>
+        <district>15</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>D000604</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MN</state>
+        <firstName>BETTY</firstName>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCOLLUM</lastName>
+        <middleName />
+        <district>4</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>M001143</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>Kathleen</firstName>
+        <identifiers>
+          <lisID>2262</lisID>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rice</lastName>
+        <middleName>M.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>R000602</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>WI</state>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pocan</lastName>
+        <middleName />
+        <district>2</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>P000607</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NJ</state>
+        <firstName>Bonnie</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2259</lisID>
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Watson Coleman</lastName>
+        <middleName />
+        <district>12</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>W000822</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>NJ</state>
+        <firstName>Leonard</firstName>
+        <identifiers>
+          <gpoId>8049</gpoId>
+          <bioguideId>L000567</bioguideId>
+          <lisID>1936</lisID>
+        </identifiers>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lance</lastName>
+        <middleName />
+        <district>7</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>L000567</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TN</state>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cohen</lastName>
+        <middleName />
+        <district>9</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>C001068</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>TX</state>
+        <firstName>SHEILA</firstName>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>JACKSON LEE</lastName>
+        <middleName />
+        <district>18</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>J000032</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>MD</state>
+        <firstName>Jamie</firstName>
+        <identifiers>
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Raskin</lastName>
+        <middleName />
+        <district>8</district>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>R000606</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Dwight</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2298</lisID>
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Evans</lastName>
+        <middleName />
+        <district>2</district>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>E000296</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billType>HRES</billType>
+    <sponsors>
+      <item>
+        <firstName>Donald</firstName>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <middleName>M.</middleName>
+        <bioguideId>P000604</bioguideId>
+        <lastName>Payne</lastName>
+        <state>NJ</state>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <district>10</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <notes />
+    <billNumber>163</billNumber>
+    <updateDate>2019-04-18T15:53:24Z</updateDate>
+    <relatedBills>
+      <item>
+        <latestTitle>A resolution supporting the designation of March 2018 as "National Colorectal Cancer Awareness Month".</latestTitle>
+        <number>425</number>
+        <latestAction>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1525; text: CR S1460-1461)</text>
+          <actionDate>2018-03-07</actionDate>
+        </latestAction>
+        <type>SRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Supporting the designation of March 2018 as National Colorectal Cancer Awareness Month.</latestTitle>
+        <number>760</number>
+        <latestAction>
+          <text>Sponsor introductory remarks on measure. (CR H1421)</text>
+          <actionDate>2018-03-06</actionDate>
+        </latestAction>
+        <type>HRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hres163ih/xml/BILLS-115hres163ih.xml</url>
+          </item>
+        </formats>
+        <date>2017-03-01T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <createDate>2017-03-02T05:13:43Z</createDate>
+    <introducedDate>2017-03-01</introducedDate>
+    <committeeReports />
+    <title>Supporting the designation of March 2017, as National Colorectal Cancer Awareness Month.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

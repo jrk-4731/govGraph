@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2019-05-23</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2019-05-23</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>Madeleine</firstName>
+        <lastName>Dean</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <middleName />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>D000631</bioguideId>
+          <gpoId />
+          <lisID>2432</lisID>
+        </identifiers>
+        <bioguideId>D000631</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-05-24T07:12:15Z</createDate>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Oversight and Reform Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <activities>
+            <item>
+              <date>2019-05-23T13:03:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <laws />
+    <introducedDate>2019-05-23</introducedDate>
+    <amendments />
+    <congress>116</congress>
+    <billNumber>2950</billNumber>
+    <cosponsors />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <date>2019-05-23T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2950ih/xml/BILLS-116hr2950ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Federal Funding Accountability and Transparency Act of 2006 to require full disclosure for entities receiving Federal funding.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Know Conflicts Act of 2019</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Know Conflicts Act of 2019</title>
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <title>Know Conflicts Act of 2019</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <updateDate>2019-06-12T19:15:08Z</updateDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DEAN:H.R. 2950.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H4165]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Know Conflicts Act of 2019</title>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-05-23</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <congress>116</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1686</number>
+        <latestTitle>Know Conflicts Act of 2019</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+          <actionDate>2019-05-23</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2015-07-08</actionDate>
+      <links />
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2015-07-08T14:02:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <chamber>House</chamber>
+          <name>Education and Labor</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText />
+    <cosponsors>
+      <item>
+        <firstName>JAMES</firstName>
+        <lastName>LANGEVIN</lastName>
+        <middleName>R.</middleName>
+        <party>D</party>
+        <district>2</district>
+        <identifiers>
+          <gpoId>8140</gpoId>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <bioguideId>L000559</bioguideId>
+        <sponsorshipDate>2015-07-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <updateDate>2019-01-09T21:09:56Z</updateDate>
+    <relatedBills />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <calendarNumbers />
+    <congress>114</congress>
+    <billNumber>349</billNumber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Supporting the goals and ideals of Family, Career and Community Leaders of America.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Supporting the goals and ideals of Family, Career and Community Leaders of America.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2015-07-08</introducedDate>
+    <version>1.0.0</version>
+    <notes />
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2015-07-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres349ih/xml/BILLS-114hres349ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Glenn</firstName>
+        <lastName>Thompson</lastName>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+        </identifiers>
+        <party>R</party>
+        <state>PA</state>
+        <bioguideId>T000467</bioguideId>
+        <district>5</district>
+        <byRequestType />
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+      </item>
+    </sponsors>
+    <createDate>2015-07-09T09:22:51Z</createDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Educational guidance</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <cboCostEstimates />
+    <billType>HRES</billType>
+    <title>Supporting the goals and ideals of Family, Career and Community Leaders of America.</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and Labor</name>
+        </committee>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2015-07-08</actionDate>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/house-section/page/H4875</url>
+            <name>H4875</name>
+          </link>
+        </links>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR H4875)</text>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-07-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-07-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2015-07-08</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2015-07-08</actionDate>
+          <text><![CDATA[<p>Supports the goals and ideals of Family, Career and Community Leaders of America, recognizes the importance of career and technical education in preparing a well-educated and skilled workforce, and encourages the promotion of such training as an option for students.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2015-07-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-08-18T22:33:54Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

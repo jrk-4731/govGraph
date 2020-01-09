@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <createDate>2015-11-19T09:46:08Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <committee>
+          <name>Foreign Affairs Committee</name>
+          <systemCode>hsfa00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2015-11-18</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2015-11-18</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2015-11-18</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2019-02-06T19:37:25Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2015-11-18T15:01:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <state>VA</state>
+        <bioguideId>C001078</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+        </identifiers>
+        <firstName>Gerald</firstName>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <lastName>Connolly</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OH</state>
+        <bioguideId>J000289</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000289</bioguideId>
+          <gpoId>8094</gpoId>
+          <lisID>1868</lisID>
+        </identifiers>
+        <firstName>Jim</firstName>
+        <middleName />
+        <district>4</district>
+        <lastName>Jordan</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>NY</state>
+        <bioguideId>G000564</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Gibson, Christopher P. [R-NY-19]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8081</gpoId>
+          <lisID>2043</lisID>
+          <bioguideId>G000564</bioguideId>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <middleName>P.</middleName>
+        <district>19</district>
+        <lastName>Gibson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>GA</state>
+        <bioguideId>B000490</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+        </identifiers>
+        <firstName>SANFORD</firstName>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <lastName>BISHOP</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OH</state>
+        <bioguideId>T000462</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+        </identifiers>
+        <firstName>PATRICK</firstName>
+        <middleName>J.</middleName>
+        <district>12</district>
+        <lastName>TIBERI</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>IL</state>
+        <bioguideId>L000563</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+          <lisID>1781</lisID>
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <middleName>William</middleName>
+        <district>3</district>
+        <lastName>Lipinski</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>OH</state>
+        <bioguideId>K000009</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>616</lisID>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <firstName>MARCY</firstName>
+        <middleName />
+        <district>9</district>
+        <lastName>KAPTUR</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>UT</state>
+        <bioguideId>B001250</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Bishop, Rob [R-UT-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1753</lisID>
+          <bioguideId>B001250</bioguideId>
+          <gpoId>8189</gpoId>
+        </identifiers>
+        <firstName>Rob</firstName>
+        <middleName />
+        <district>1</district>
+        <lastName>Bishop</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>OH</state>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <firstName>TIM</firstName>
+        <middleName />
+        <district>13</district>
+        <lastName>RYAN</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OH</state>
+        <bioguideId>G000563</bioguideId>
+        <sponsorshipDate>2015-11-18</sponsorshipDate>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8108</gpoId>
+          <lisID>2049</lisID>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <firstName>Bob</firstName>
+        <middleName />
+        <district>7</district>
+        <lastName>Gibbs</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>D</party>
+        <state>MN</state>
+        <bioguideId>M001143</bioguideId>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <firstName>BETTY</firstName>
+        <middleName />
+        <district>4</district>
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OH</state>
+        <bioguideId>J000295</bioguideId>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2154</lisID>
+          <bioguideId>J000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>David</firstName>
+        <middleName>P.</middleName>
+        <district>14</district>
+        <lastName>Joyce</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OH</state>
+        <bioguideId>J000292</bioguideId>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8096</gpoId>
+          <lisID>2046</lisID>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <middleName />
+        <district>6</district>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OH</state>
+        <bioguideId>R000586</bioguideId>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000586</bioguideId>
+          <gpoId>8106</gpoId>
+          <lisID>2048</lisID>
+        </identifiers>
+        <firstName>James</firstName>
+        <middleName>B.</middleName>
+        <district>16</district>
+        <lastName>Renacci</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>OH</state>
+        <bioguideId>S001187</bioguideId>
+        <sponsorshipDate>2015-11-19</sponsorshipDate>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8105</gpoId>
+          <bioguideId>S001187</bioguideId>
+          <lisID>2047</lisID>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <middleName />
+        <district>15</district>
+        <lastName>Stivers</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <party>R</party>
+        <state>MI</state>
+        <bioguideId>M001150</bioguideId>
+        <sponsorshipDate>2015-12-18</sponsorshipDate>
+        <fullName>Rep. Miller, Candice S. [R-MI-10]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001150</bioguideId>
+          <gpoId>8589</gpoId>
+          <lisID>1731</lisID>
+        </identifiers>
+        <firstName>Candice</firstName>
+        <middleName>S.</middleName>
+        <district>10</district>
+        <lastName>Miller</lastName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <lastName>Turner</lastName>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <bioguideId>T000463</bioguideId>
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <byRequestType />
+        <district>10</district>
+        <middleName>R.</middleName>
+        <state>OH</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <congress>114</congress>
+    <relatedBills />
+    <laws />
+    <committeeReports />
+    <constitutionalAuthorityStatementText />
+    <title>Recognizing the 20th anniversary of the Dayton Peace Accords.</title>
+    <billNumber>532</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+    <introducedDate>2015-11-18</introducedDate>
+    <textVersions>
+      <item>
+        <date>2015-11-18T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-114hres532ih/xml/BILLS-114hres532ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>Recognizing the 20th anniversary of the Dayton Peace Accords.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Recognizing the 20th anniversary of the Dayton Peace Accords.</title>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2015-11-18</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Bosnia and Herzegovina</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Military assistance, sales, and agreements</name>
+          </item>
+          <item>
+            <name>Ohio</name>
+          </item>
+          <item>
+            <name>Serbia</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p>Commends Bosnia and Herzegovina for the progress it has made over the past 20 years in implementing the Dayton Peace Accords.</p> <p> Encourages the aspiration of Bosnia and Herzegovina to become a member of the North Atlantic Treaty Organization. </p> <p>Reaffirms the importance of the successful participation of Bosnia and Herzegovina in the European integration process. </p> <p>Encourages the government of Bosnia and Herzegovina to continue economic and constitutional reforms.</p> <p>Recognizes the role of Ohio as well as the Greater Dayton community in fostering and promoting the Dayton Peace Accords.</p>]]></text>
+          <updateDate>2015-11-18T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2015-11-19T15:16:29Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2015-11-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>HRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <actions>
+      <item>
+        <actionDate>2019-01-25</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2019-01-16</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2019-01-16</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <firstName>Marc</firstName>
+        <lastName>Veasey</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <fullName>Rep. Veasey, Marc A. [D-TX-33]</fullName>
+        <middleName>A.</middleName>
+        <district>33</district>
+        <identifiers>
+          <gpoId />
+          <lisID>2166</lisID>
+          <bioguideId>V000131</bioguideId>
+        </identifiers>
+        <bioguideId>V000131</bioguideId>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <createDate>2019-01-17T08:10:11Z</createDate>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <billType>HR</billType>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2019-01-16T15:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2019-01-25T16:18:07Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2019-02-07T19:07:22Z</lastSummaryUpdateDate>
+          <updateDate>2019-01-16T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDate>2019-01-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><strong>Incentivizing Medicaid Expansion Act of </strong><b>2019</b></p> <p>This bill provides the enhanced federal medical assistance percentage (FMAP) to every state that expands Medicaid&nbsp;coverage for&nbsp;individuals who are newly eligible under the Patient Protection and Affordable Care Act, regardless of when&nbsp;such expansion takes place. </p> <p>Under current law, the enhanced FMAP is equivalent to 100% in 2014 through 2016, 95% in 2017, 94% in 2018, 93% in 2019, and 90% thereafter. The bill retains this enhanced FMAP, but bases it on a term of years rather than on specific dates.</p> <p>The bill applies retroactively.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <introducedDate>2019-01-16</introducedDate>
+    <amendments />
+    <congress>116</congress>
+    <billNumber>584</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>S001185</bioguideId>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+          <gpoId>7792</gpoId>
+          <lisID>1988</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Terri</firstName>
+        <middleName>A.</middleName>
+        <state>AL</state>
+        <lastName>Sewell</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Steve</firstName>
+        <middleName />
+        <state>TN</state>
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>ALCEE</firstName>
+        <middleName>L.</middleName>
+        <state>FL</state>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>20</district>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>P000607</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <middleName />
+        <state>WI</state>
+        <lastName>Pocan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>A000376</bioguideId>
+        <identifiers>
+          <lisID>2451</lisID>
+          <bioguideId>A000376</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Colin</firstName>
+        <middleName>Z.</middleName>
+        <state>TX</state>
+        <lastName>Allred</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>32</district>
+        <fullName>Rep. Allred, Colin Z. [D-TX-32]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>J000126</bioguideId>
+        <identifiers>
+          <gpoId>8186</gpoId>
+          <lisID>599</lisID>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDDIE</firstName>
+        <middleName>BERNICE</middleName>
+        <state>TX</state>
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>30</district>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>T000193</bioguideId>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+          <gpoId>8020</gpoId>
+          <lisID>1151</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>BENNIE</firstName>
+        <middleName />
+        <state>MS</state>
+        <lastName>THOMPSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>BARBARA</firstName>
+        <middleName />
+        <state>CA</state>
+        <lastName>LEE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+          <gpoId />
+          <lisID>2342</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Adriano</firstName>
+        <middleName />
+        <state>NY</state>
+        <lastName>Espaillat</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>S000248</bioguideId>
+        <identifiers>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOSE</firstName>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <lastName>SERRANO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001072</bioguideId>
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+          <gpoId>7946</gpoId>
+          <lisID>1889</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Andre</firstName>
+        <middleName />
+        <state>IN</state>
+        <lastName>Carson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>W000808</bioguideId>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Frederica</firstName>
+        <middleName>S.</middleName>
+        <state>FL</state>
+        <lastName>Wilson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>24</district>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>H001087</bioguideId>
+        <identifiers>
+          <bioguideId>H001087</bioguideId>
+          <gpoId />
+          <lisID>2379</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Katie</firstName>
+        <middleName />
+        <state>CA</state>
+        <lastName>Hill</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>25</district>
+        <fullName>Rep. Hill, Katie [D-CA-25]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>W000826</bioguideId>
+        <identifiers>
+          <lisID>2374</lisID>
+          <gpoId />
+          <bioguideId>W000826</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Susan</firstName>
+        <middleName />
+        <state>PA</state>
+        <lastName>Wild</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>P000597</bioguideId>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-16</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chellie</firstName>
+        <middleName />
+        <state>ME</state>
+        <lastName>Pingree</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>G000553</bioguideId>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <gpoId>8165</gpoId>
+          <lisID>1803</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Al</firstName>
+        <middleName />
+        <state>TX</state>
+        <lastName>Green</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C000754</bioguideId>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+          <gpoId>8152</gpoId>
+          <lisID>231</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>JAMES</firstName>
+        <middleName>H.</middleName>
+        <state>TN</state>
+        <lastName>COOPER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>C001066</bioguideId>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+          <gpoId>7883</gpoId>
+          <lisID>1839</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-01-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kathy</firstName>
+        <middleName />
+        <state>FL</state>
+        <lastName>Castor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>G000592</bioguideId>
+        <identifiers>
+          <bioguideId>G000592</bioguideId>
+          <gpoId />
+          <lisID>2469</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jared</firstName>
+        <middleName>F.</middleName>
+        <state>ME</state>
+        <lastName>Golden</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <fullName>Rep. Golden, Jared F. [D-ME-2]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>D000629</bioguideId>
+        <identifiers>
+          <bioguideId>D000629</bioguideId>
+          <gpoId />
+          <lisID>2403</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-03-08</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Sharice</firstName>
+        <middleName />
+        <state>KS</state>
+        <lastName>Davids</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Davids, Sharice [D-KS-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+          <gpoId>8216</gpoId>
+          <lisID>1498</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>RON</firstName>
+        <middleName />
+        <state>WI</state>
+        <lastName>KIND</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>K000389</bioguideId>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+          <lisID>2308</lisID>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ro</firstName>
+        <middleName />
+        <state>CA</state>
+        <lastName>Khanna</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <party>D</party>
+      </item>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Darren</firstName>
+        <middleName />
+        <state>FL</state>
+        <lastName>Soto</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr584ih/xml/BILLS-116hr584ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XIX of the Social Security Act to provide the same level of Federal matching assistance for every State that chooses to expand Medicaid coverage to newly eligible individuals, regardless of when such expansion takes place.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Incentivizing Medicaid Expansion Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Incentivizing Medicaid Expansion Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Incentivizing Medicaid Expansion Act of 2019</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2019-06-13T10:58:05Z</updateDate>
+    <cboCostEstimates />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. VEASEY:H.R. 584.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 of the U.S. Constitution[Page H676]</pre>]]></constitutionalAuthorityStatementText>
+    <title>Incentivizing Medicaid Expansion Act of 2019</title>
+    <recordedVotes />
+    <latestAction>
+      <actionDate>2019-01-25</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>585</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-02-27</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>SAME Act of 2019</latestTitle>
+      </item>
+      <item>
+        <number>489</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-02-14</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <latestTitle>State Public Option Act</latestTitle>
+      </item>
+      <item>
+        <number>1277</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-02-14</actionDate>
+          <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        </latestAction>
+        <latestTitle>State Public Option Act</latestTitle>
+      </item>
+    </relatedBills>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2016-06-10T12:21:31-04:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.1173", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1173"
+        }, 
+        {
+          "name": "Roll no. 292", 
+          "url": "http://clerk.house.gov/evs/2016/roll292.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 292, 
+      "text": "On agreeing to the Pearce amendment (A010) Failed by recorded vote: 137 - 270 (Roll no. 292).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2016-06-10T11:37:59-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.1173", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1173"
+        }, 
+        {
+          "name": "H3686", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H3686"
+        }, 
+        {
+          "name": "H3686-3688", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H3686-3688"
+        }, 
+        {
+          "name": "H3690", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H3690"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3686-3688, H3690", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3686", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A010) offered by Mr. Pearce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10T12:21:31-04:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.1173", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1173"
+        }, 
+        {
+          "name": "Roll no. 292", 
+          "url": "http://clerk.house.gov/evs/2016/roll292.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10T12:21:31-04:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.1173", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1173"
+        }, 
+        {
+          "name": "Roll no. 292", 
+          "url": "http://clerk.house.gov/evs/2016/roll292.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10T12:21:31-04:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.1173", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1173"
+        }, 
+        {
+          "name": "Roll no. 292", 
+          "url": "http://clerk.house.gov/evs/2016/roll292.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Pearce amendment (A010) Failed by recorded vote: 137 - 270 (Roll no. 292).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10T11:37:59-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.1173", 
+          "url": "https://www.congress.gov/amendment/114th-congress/house-amendment/1173"
+        }, 
+        {
+          "name": "H3686", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H3686"
+        }, 
+        {
+          "name": "H3686-3688", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H3686-3688"
+        }, 
+        {
+          "name": "H3690", 
+          "url": "https://www.congress.gov/congressional-record/volume-162/house-section/page/H3690"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H3686-3688, H3690", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H3686", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A010) offered by Mr. Pearce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2016-06-10", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt1173-114", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5325-114", 
+    "bill_type": "hr", 
+    "congress": 114, 
+    "number": 5325
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "114", 
+  "description": "Amendment sought to reduce funding for the Office of Congressional Ethics by $190,970 and apply the savings to the spending reduction account.", 
+  "introduced_at": "2016-06-10", 
+  "number": 1173, 
+  "purpose": "An amendment numbered 13 printed in House Report 114-611 to reduce the Office of Congressional Ethics budget to FY16 levels and transfers remaining funds to the deficit reduction account.", 
+  "sponsor": {
+    "bioguide_id": "P000588", 
+    "district": "2", 
+    "name": "Pearce, Stevan", 
+    "state": "NM", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2016-06-10T12:21:31-04:00", 
+  "updated_at": "2019-03-03T14:40:53Z"
+}

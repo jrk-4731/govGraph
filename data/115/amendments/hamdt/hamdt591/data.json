@@ -1,0 +1,140 @@
+{
+  "actions": [
+    {
+      "acted_at": "2018-05-16T19:15:45-04:00", 
+      "action_code": "H32111", 
+      "how": "by voice vote", 
+      "links": [
+        {
+          "name": "H.Amdt.591", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/591"
+        }
+      ], 
+      "references": [], 
+      "result": "pass", 
+      "text": "On agreeing to the Jones amendment (A006) Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2018-05-16T19:13:07-04:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.591", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/591"
+        }, 
+        {
+          "name": "H4126-4127", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4126-4127"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4126-4127", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4126-4127", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A006) offered by Mr. Jones.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-16", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-16T19:13:07-04:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.591", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/591"
+        }, 
+        {
+          "name": "H4126-4127", 
+          "url": "https://www.congress.gov/congressional-record/volume-164/house-section/page/H4126-4127"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H4126-4127", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H4126-4127", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by: Amendment (A006) offered by Mr. Jones.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-16T19:15:45-04:00", 
+      "action_code": "72000", 
+      "links": [
+        {
+          "name": "H.Amdt.591", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/591"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment agreed to: On agreeing to the Jones amendment (A006) Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-16T19:15:45-04:00", 
+      "action_code": "76000", 
+      "links": [
+        {
+          "name": "H.Amdt.591", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/591"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment agreed to Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2018-05-16", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt591-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr2-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 2
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Page 387, after line 24, insert the following:    SEC. XX. LIMITED EXCLUSION OF MILITARY BASE RESIDENTS FROM DEFINITION OF RURAL AREA.    (a) Programs Under the Consolidated Farm and Rural Development Act- Section 343(a)(13) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1991(a)(13)), as amended by section 6218 of this Act, is amended-- ***.", 
+  "introduced_at": "2018-05-16", 
+  "number": 591, 
+  "purpose": "An amendment numbered 7 printed in Part C of House Report 115-677 to remove the first 1,500 individuals residing on military bases from calculation into population thresholds set for \"rural areas.'.", 
+  "sponsor": {
+    "bioguide_id": "J000255", 
+    "district": "3", 
+    "name": "Jones, Walter B., Jr.", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "pass", 
+  "status_at": "2018-05-16T19:15:45-04:00", 
+  "updated_at": "2019-07-16T21:20:05Z"
+}

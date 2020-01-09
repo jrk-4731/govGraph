@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2016-09-21T05:27:59Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-09-20</actionDate>
+        <committee>
+          <systemCode>ssap00</systemCode>
+          <name>Appropriations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Appropriations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2016-09-20</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <actionDate>2016-09-20</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <byRequestType />
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <lastName>GRAHAM</lastName>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <middleName>O.</middleName>
+        <state>SC</state>
+        <party>R</party>
+        <firstName>LINDSEY</firstName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2016-11-14T21:36:32Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p><b>Emergency Supplemental Appropriations Act for the Defense of Israel, 2016 </b></p> <p>This bill provides FY2016 emergency supplemental appropriations to the Department of Defense (DOD) and for the Foreign Military Financing Program to assist Israel in addressing security threats from Iran. </p> <p>The bill provides funding to DOD for Procurement and Research, Development, Test, and Evaluation to provide to the government of Israel for the procurement of missile defense systems to address security threats from Iran, subject to previously established transfer procedures and in accordance with U.S-Israeli production agreements. </p> <p>The bill also provides funding to the President for the Foreign Military Financing Program for assistance for Israel to address security threats from Iran. </p> <p>The funds provided by this bill are designated as an emergency requirement, which exempts the funds from discretionary spending limits and other budget enforcement rules. The funds are only available if the President subsequently designates the amounts as emergency spending and transmits the designations to Congress. </p> <p>The bill amends the Iran Sanctions Act of 1996 to reauthorize sanctions against Iran until December 31, 2031. (Under current law, the sanctions expire on December 31, 2016.) </p>]]></text>
+          <updateDate>2016-09-20T04:00:00Z</updateDate>
+          <actionDate>2016-09-20</actionDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <middleName />
+        <bioguideId>A000368</bioguideId>
+        <identifiers>
+          <bioguideId>A000368</bioguideId>
+          <gpoId>8315</gpoId>
+          <lisID>2075</lisID>
+        </identifiers>
+        <state>NH</state>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Kelly</firstName>
+        <lastName>Ayotte</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <middleName>STEVEN</middleName>
+        <bioguideId>K000360</bioguideId>
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>MARK</firstName>
+        <lastName>KIRK</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <middleName />
+        <bioguideId>B000575</bioguideId>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+      </item>
+      <item>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <middleName />
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+          <lisID>2175</lisID>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+      </item>
+      <item>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <middleName>SIDNEY</middleName>
+        <bioguideId>M000303</bioguideId>
+        <identifiers>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <lastName>MCCAIN</lastName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <committeeReports />
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2016-09-20T22:07:47Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Appropriations Committee</name>
+          <systemCode>ssap00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <introducedDate>2016-09-20</introducedDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <title>Emergency Supplemental Appropriations Act for the Defense of Israel, 2016</title>
+    <relatedBills />
+    <billType>S</billType>
+    <cboCostEstimates />
+    <billNumber>3363</billNumber>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <title>Emergency Supplemental Appropriations Act for the Defense of Israel, 2016</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill making emergency supplemental appropriations for the fiscal year ending September 30, 2016, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Emergency Supplemental Appropriations Act for the Defense of Israel, 2016</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <originChamber>Senate</originChamber>
+    <updateDate>2018-06-02T07:48:18Z</updateDate>
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

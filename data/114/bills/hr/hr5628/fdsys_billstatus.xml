@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2016-07-06T14:00:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2016-09-30T15:40:15Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hssy15</systemCode>
+              <name>Research and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hssy00</systemCode>
+          <name>Science, Space, and Technology Committee</name>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2016-07-06T14:00:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2016-07-14T19:17:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsag15</systemCode>
+              <name>Conservation and Forestry Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>WA</state>
+        <party>D</party>
+        <firstName>Suzan</firstName>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <bioguideId>D000617</bioguideId>
+        <lastName>DelBene</lastName>
+        <identifiers>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <middleName>K.</middleName>
+        <district>1</district>
+      </item>
+    </sponsors>
+    <notes />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2016-07-06</actionDate>
+          <text><![CDATA[<p><b>Timber Innovation Act of 2016</b></p> <p>This bill directs the Department of Agriculture (USDA) to establish a performance-driven research and development program to advance tall wood building construction in the United States. </p> <p>&quot;Tall wood building&quot; means a building designed to be over 85 feet high and constructed with large panelized wood construction (mass timber), including cross-laminated timber, nail laminated timber, glue laminated timber, laminated strand lumber, and laminated veneer lumber.</p> <p> USDA shall for FY2017-FY2021 carry out an annual competition for a tall wood building design in accordance with the requirements for prize competitions carried out under the Stevenson-Wydler Technology Innovation Act of 1980. </p> <p>In carrying out a wood innovation grant program, USDA may make a wood innovation grant to one or more specified eligible entities in order to accelerate the adoption of emerging technologies in the development of innovative wood products for tall wood building construction. </p> <p>USDA shall give priority to grant proposals which include the use or retrofitting (or both) of existing sawmill facilities in counties where the average annual unemployment rate exceeded the national average by more than 1% in the previous year. </p> <p>USDA shall carry out a program of education and technical assistance for mass timber applications. </p> <p>USDA shall collaborate and partner with one or more nonfederal entities, including governments of other countries, to:</p> <ul> <li>enhance tall wood building commercialization of the United States,</li> <li>develop technical assistance related to tall wood building commercialization, and </li> <li>carry out the program. </li> </ul> </p>]]></text>
+          <name>Introduced in House</name>
+          <updateDate>2016-07-06T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-07-12T22:37:25Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-09-30</actionDate>
+        <committee>
+          <name>Research and Technology Subcommittee</name>
+          <systemCode>hssy15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Research and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2016-07-14</actionDate>
+        <committee>
+          <name>Conservation and Forestry Subcommittee</name>
+          <systemCode>hsag15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-06</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionDate>2016-07-06</actionDate>
+        <links />
+      </item>
+    </actions>
+    <billNumber>5628</billNumber>
+    <introducedDate>2016-07-06</introducedDate>
+    <relatedBills>
+      <item>
+        <number>2892</number>
+        <latestTitle>Timber Innovation Act of 2016</latestTitle>
+        <congress>114</congress>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2016-04-28</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2016-07-06</sponsorshipDate>
+        <bioguideId>T000467</bioguideId>
+        <lastName>Thompson</lastName>
+        <identifiers>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <firstName>Glenn</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-06</sponsorshipDate>
+        <bioguideId>M001159</bioguideId>
+        <lastName>McMorris Rodgers</lastName>
+        <identifiers>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <firstName>Cathy</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-06</sponsorshipDate>
+        <bioguideId>K000381</bioguideId>
+        <lastName>Kilmer</lastName>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+          <lisID>2169</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <party>D</party>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <firstName>Derek</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-08</sponsorshipDate>
+        <bioguideId>A000374</bioguideId>
+        <lastName>Abraham</lastName>
+        <identifiers>
+          <lisID>2244</lisID>
+          <gpoId />
+          <bioguideId>A000374</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+        <firstName>Ralph</firstName>
+        <middleName>Lee</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-08</sponsorshipDate>
+        <bioguideId>W000821</bioguideId>
+        <lastName>Westerman</lastName>
+        <identifiers>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+          <lisID>2224</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <firstName>Bruce</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-08</sponsorshipDate>
+        <bioguideId>S001180</bioguideId>
+        <lastName>Schrader</lastName>
+        <identifiers>
+          <lisID>1950</lisID>
+          <bioguideId>S001180</bioguideId>
+          <gpoId>8118</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <party>D</party>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <firstName>Kurt</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-11</sponsorshipDate>
+        <bioguideId>B001289</bioguideId>
+        <lastName>Byrne</lastName>
+        <identifiers>
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+        <firstName>Bradley</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-12</sponsorshipDate>
+        <bioguideId>R000575</bioguideId>
+        <lastName>Rogers</lastName>
+        <identifiers>
+          <bioguideId>R000575</bioguideId>
+          <lisID>1704</lisID>
+          <gpoId>7788</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AL</state>
+        <firstName>Mike</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>P000258</bioguideId>
+        <lastName>PETERSON</lastName>
+        <identifiers>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+          <lisID>910</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <party>D</party>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <firstName>COLLIN</firstName>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>N000127</bioguideId>
+        <lastName>NOLAN</lastName>
+        <identifiers>
+          <lisID>867</lisID>
+          <gpoId />
+          <bioguideId>N000127</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+        <party>D</party>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <firstName>RICHARD</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>L000560</bioguideId>
+        <lastName>LARSEN</lastName>
+        <identifiers>
+          <lisID>1675</lisID>
+          <gpoId>8206</gpoId>
+          <bioguideId>L000560</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <firstName>RICK</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>K000382</bioguideId>
+        <lastName>Kuster</lastName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <firstName>Ann</firstName>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-13</sponsorshipDate>
+        <bioguideId>K000368</bioguideId>
+        <lastName>Kirkpatrick</lastName>
+        <identifiers>
+          <lisID>1907</lisID>
+          <bioguideId>K000368</bioguideId>
+          <gpoId>7220</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+        <firstName>Ann</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-21</sponsorshipDate>
+        <bioguideId>W000800</bioguideId>
+        <lastName>Welch</lastName>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+          <gpoId>8204</gpoId>
+          <lisID>1879</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>0</district>
+        <party>D</party>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <firstName>Peter</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-07-21</sponsorshipDate>
+        <bioguideId>H001045</bioguideId>
+        <lastName>Harper</lastName>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <firstName>Gregg</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-09-15</sponsorshipDate>
+        <bioguideId>P000601</bioguideId>
+        <lastName>Palazzo</lastName>
+        <identifiers>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+          <lisID>2035</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <firstName>Steven</firstName>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-09-20</sponsorshipDate>
+        <bioguideId>B001278</bioguideId>
+        <lastName>Bonamici</lastName>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <party>D</party>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <firstName>Suzanne</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2016-09-22</sponsorshipDate>
+        <bioguideId>M001195</bioguideId>
+        <lastName>Mooney</lastName>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+        <firstName>Alexander</firstName>
+        <middleName>X.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2016-11-14</sponsorshipDate>
+        <bioguideId>D000191</bioguideId>
+        <lastName>DEFAZIO</lastName>
+        <identifiers>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <firstName>PETER</firstName>
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 108 (Wednesday, July 6, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. DelBENE:H.R. 5628.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H4466]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2016-09-30</actionDate>
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </latestAction>
+    <billType>HR</billType>
+    <createDate>2016-07-07T05:54:27Z</createDate>
+    <committeeReports />
+    <updateDate>2018-08-16T22:57:55Z</updateDate>
+    <titles>
+      <item>
+        <title>Timber Innovation Act of 2016</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>To accelerate the use of wood in buildings, especially tall wood buildings, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <title>Timber Innovation Act of 2016</title>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <title>Timber Innovation Act of 2016</title>
+    <calendarNumbers />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Industrial facilities</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

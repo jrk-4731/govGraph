@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2019-04-02</introducedDate>
+    <congress>116</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>C001087</bioguideId>
+        <party>R</party>
+        <lastName>Crawford</lastName>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AR</state>
+        <middleName>A. "Rick"</middleName>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1989</lisID>
+          <bioguideId>C001087</bioguideId>
+          <gpoId>7793</gpoId>
+        </identifiers>
+        <firstName>Eric</firstName>
+      </item>
+      <item>
+        <bioguideId>W000809</bioguideId>
+        <party>R</party>
+        <lastName>Womack</lastName>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AR</state>
+        <middleName />
+        <fullName>Rep. Womack, Steve [R-AR-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000809</bioguideId>
+          <lisID>1991</lisID>
+          <gpoId>7795</gpoId>
+        </identifiers>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <bioguideId>W000821</bioguideId>
+        <party>R</party>
+        <lastName>Westerman</lastName>
+        <sponsorshipDate>2019-04-02</sponsorshipDate>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AR</state>
+        <middleName />
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Bruce</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <billType>HR</billType>
+    <amendments />
+    <createDate>2019-04-03T07:12:09Z</createDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Readiness.</text>
+      <actionDate>2019-04-03</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsas00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsas03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-03T19:30:56Z</date>
+                </item>
+              </activities>
+              <name>Readiness Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Armed Services Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-02T14:00:28Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arkansas</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-03</actionDate>
+        <committee>
+          <systemCode>hsas03</systemCode>
+          <name>Readiness Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Readiness.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2019-04-02</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-04-02</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2019-04-02</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <committeeReports />
+    <notes />
+    <title>To release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+    <originChamber>House</originChamber>
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2020</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>HR</type>
+        <number>2500</number>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 88.</text>
+          <actionDate>2019-06-19</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>A bill to release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>116</congress>
+        <type>S</type>
+        <number>986</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+          <actionDate>2019-04-02</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>To release to the State of Arkansas a reversionary interest in Camp Joseph T. Robinson.</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>2223</lisID>
+          <bioguideId>H001072</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <firstName>J.</firstName>
+        <middleName>French</middleName>
+        <bioguideId>H001072</bioguideId>
+        <district>2</district>
+        <lastName>Hill</lastName>
+        <party>R</party>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <state>AR</state>
+      </item>
+    </sponsors>
+    <billNumber>2033</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HILL of Arkansas:H.R. 2033.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H2987]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2019-06-24T12:29:27Z</updateDate>
+    <textVersions>
+      <item>
+        <date>2019-04-02T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2033ih/xml/BILLS-116hr2033ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

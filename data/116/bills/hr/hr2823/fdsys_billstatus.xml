@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2019-05-18T07:27:10Z</createDate>
+    <billType>HR</billType>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Philippines</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2019-06-11</actionDate>
+        <committee>
+          <systemCode>hsvr09</systemCode>
+          <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-05-17</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-05-17</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2019-05-17</actionDate>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <middleName>Diaz</middleName>
+        <firstName>Nanette</firstName>
+        <district>44</district>
+        <bioguideId>B001300</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2311</lisID>
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Barragan</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <middleName />
+        <firstName>Ed</firstName>
+        <district>1</district>
+        <bioguideId>C001055</bioguideId>
+        <identifiers>
+          <lisID>1693</lisID>
+          <gpoId />
+          <bioguideId>C001055</bioguideId>
+        </identifiers>
+        <state>HI</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Case</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <middleName />
+        <firstName>Steve</firstName>
+        <district>9</district>
+        <bioguideId>C001068</bioguideId>
+        <identifiers>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <state>TN</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <middleName>E.</middleName>
+        <firstName>Gerald</firstName>
+        <district>11</district>
+        <bioguideId>C001078</bioguideId>
+        <identifiers>
+          <lisID>1959</lisID>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <state>VA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Connolly</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <middleName>Luis</middleName>
+        <firstName>J.</firstName>
+        <district>46</district>
+        <bioguideId>C001110</bioguideId>
+        <identifiers>
+          <bioguideId>C001110</bioguideId>
+          <gpoId />
+          <lisID>2312</lisID>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Correa</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <middleName>G.</middleName>
+        <firstName>ANNA</firstName>
+        <district>18</district>
+        <bioguideId>E000215</bioguideId>
+        <identifiers>
+          <lisID>355</lisID>
+          <bioguideId>E000215</bioguideId>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>ESHOO</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <middleName />
+        <firstName>Tulsi</firstName>
+        <district>2</district>
+        <bioguideId>G000571</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <state>HI</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Gabbard</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <middleName />
+        <firstName>Al</firstName>
+        <district>9</district>
+        <bioguideId>G000553</bioguideId>
+        <identifiers>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Green</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <middleName />
+        <firstName>Ro</firstName>
+        <district>17</district>
+        <bioguideId>K000389</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Khanna</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <district>13</district>
+        <bioguideId>L000551</bioguideId>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>LEE</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <middleName />
+        <firstName>Susie</firstName>
+        <district>3</district>
+        <bioguideId>L000590</bioguideId>
+        <identifiers>
+          <lisID>2425</lisID>
+          <bioguideId>L000590</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NV</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Lee</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <middleName />
+        <firstName>Ted</firstName>
+        <district>33</district>
+        <bioguideId>L000582</bioguideId>
+        <identifiers>
+          <lisID>2230</lisID>
+          <gpoId />
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Lieu</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <middleName>William</middleName>
+        <firstName>Daniel</firstName>
+        <district>3</district>
+        <bioguideId>L000563</bioguideId>
+        <identifiers>
+          <lisID>1781</lisID>
+          <gpoId>7923</gpoId>
+          <bioguideId>L000563</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Lipinski</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <district>0</district>
+        <bioguideId>N000147</bioguideId>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+        </identifiers>
+        <state>DC</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <middleName />
+        <firstName>Jimmy</firstName>
+        <district>20</district>
+        <bioguideId>P000613</bioguideId>
+        <identifiers>
+          <lisID>2309</lisID>
+          <bioguideId>P000613</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Panetta</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <middleName>B.</middleName>
+        <firstName>ADAM</firstName>
+        <district>28</district>
+        <bioguideId>S001150</bioguideId>
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>SCHIFF</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <middleName />
+        <firstName>BRAD</firstName>
+        <district>30</district>
+        <bioguideId>S000344</bioguideId>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>SHERMAN</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <middleName />
+        <firstName>Juan</firstName>
+        <district>51</district>
+        <bioguideId>V000130</bioguideId>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+          <lisID>2112</lisID>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Vargas</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <middleName />
+        <firstName>Vicente</firstName>
+        <district>15</district>
+        <bioguideId>G000581</bioguideId>
+        <identifiers>
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Gonzalez</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <middleName>C. "Bobby"</middleName>
+        <firstName>Robert</firstName>
+        <district>3</district>
+        <bioguideId>S000185</bioguideId>
+        <identifiers>
+          <bioguideId>S000185</bioguideId>
+          <lisID>1037</lisID>
+          <gpoId>8194</gpoId>
+        </identifiers>
+        <state>VA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Scott</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <middleName>D.</middleName>
+        <firstName>JANICE</firstName>
+        <district>9</district>
+        <bioguideId>S001145</bioguideId>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>SCHAKOWSKY</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <middleName />
+        <firstName>Jimmy</firstName>
+        <district>34</district>
+        <bioguideId>G000585</bioguideId>
+        <identifiers>
+          <lisID>2362</lisID>
+          <bioguideId>G000585</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Gomez</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <middleName>D.</middleName>
+        <firstName>Yvette</firstName>
+        <district>9</district>
+        <bioguideId>C001067</bioguideId>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2019-05-28</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Clarke</lastName>
+      </item>
+      <item>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <middleName>S.</middleName>
+        <firstName>Alan</firstName>
+        <district>47</district>
+        <bioguideId>L000579</bioguideId>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+          <lisID>2111</lisID>
+        </identifiers>
+        <state>CA</state>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Lowenthal</lastName>
+      </item>
+    </cosponsors>
+    <laws />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <latestAction>
+      <actionDate>2019-06-11</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </latestAction>
+    <relatedBills />
+    <calendarNumbers />
+    <textVersions>
+      <item>
+        <date>2019-05-17T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2823ih/xml/BILLS-116hr2823ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <introducedDate>2019-05-17</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <state>CA</state>
+        <district>14</district>
+        <bioguideId>S001175</bioguideId>
+        <lastName>Speier</lastName>
+        <identifiers>
+          <gpoId>7817</gpoId>
+          <bioguideId>S001175</bioguideId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <byRequestType />
+        <firstName>Jackie</firstName>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SPEIER:H.R. 2823.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article 1, Section 8 of the United StatesConstitution.[Page H3962]</pre>]]></constitutionalAuthorityStatementText>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-06-11T13:16:54Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr09</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-05-17T13:02:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Filipino Veterans Fairness Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend title 38, United States Code, to deem certain service in the organized military forces of the Government of the Commonwealth of the Philippines and the Philippine Scouts to have been active service for purposes of benefits under programs administered by the Secretary of Veterans Affairs.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Filipino Veterans Fairness Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Filipino Veterans Fairness Act of 2019</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <billNumber>2823</billNumber>
+    <congress>116</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <updateDate>2019-06-25T07:36:41Z</updateDate>
+    <title>Filipino Veterans Fairness Act of 2019</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <billType>HR</billType>
+    <latestAction>
+      <links />
+      <actionDate>2016-05-11</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <createDate>2016-05-12T05:14:26Z</createDate>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-05-11</actionDate>
+        <links />
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2016-05-11</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2016-05-11</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <congress>114</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer Financial Protection Bureau</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Marketing and advertising</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billNumber>5198</billNumber>
+    <title>Overdraft Protection Act of 2016</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 74 (Wednesday, May 11, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. CAROLYN B. MALONEY of New York:H.R. 5198.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3, the Commerce Clause[Page H2282]</pre>]]></constitutionalAuthorityStatementText>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-05-11T14:02:35Z</date>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <version>1.0.0</version>
+    <cosponsors>
+      <item>
+        <district>3</district>
+        <firstName>EARL</firstName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000574</bioguideId>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>27</district>
+        <firstName>Judy</firstName>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001080</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <party>D</party>
+        <lastName>Chu</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <firstName>STEVE</firstName>
+        <identifiers>
+          <lisID>1663</lisID>
+          <bioguideId>I000057</bioguideId>
+          <gpoId>8063</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>I000057</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Israel, Steve [D-NY-3]</fullName>
+        <party>D</party>
+        <lastName>ISRAEL</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>17</district>
+        <firstName>NITA</firstName>
+        <identifiers>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+          <bioguideId>L000480</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000480</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <party>D</party>
+        <lastName>LOWEY</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>2</district>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000312</bioguideId>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <party>D</party>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>0</district>
+        <firstName>ELEANOR</firstName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000147</bioguideId>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <party>D</party>
+        <lastName>NORTON</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName>HOLMES</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>13</district>
+        <firstName>TIM</firstName>
+        <identifiers>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000577</bioguideId>
+        <state>OH</state>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <party>D</party>
+        <lastName>RYAN</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>9</district>
+        <firstName>JANICE</firstName>
+        <identifiers>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <party>D</party>
+        <lastName>SCHAKOWSKY</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>15</district>
+        <firstName>JOSE</firstName>
+        <identifiers>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000248</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <party>D</party>
+        <lastName>SERRANO</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>25</district>
+        <firstName>LOUISE</firstName>
+        <identifiers>
+          <lisID>1069</lisID>
+          <bioguideId>S000480</bioguideId>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000480</bioguideId>
+        <state>NY</state>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <party>D</party>
+        <lastName>SLAUGHTER</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>3</district>
+        <firstName>Niki</firstName>
+        <identifiers>
+          <lisID>1884</lisID>
+          <gpoId>7970</gpoId>
+          <bioguideId>T000465</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000465</bioguideId>
+        <state>MA</state>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <party>D</party>
+        <lastName>Tsongas</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>30</district>
+        <firstName>BRAD</firstName>
+        <identifiers>
+          <lisID>1526</lisID>
+          <bioguideId>S000344</bioguideId>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000344</bioguideId>
+        <state>CA</state>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <party>D</party>
+        <lastName>SHERMAN</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>7</district>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <lisID>1564</lisID>
+          <bioguideId>C001037</bioguideId>
+          <gpoId>7973</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001037</bioguideId>
+        <state>MA</state>
+        <fullName>Rep. Capuano, Michael E. [D-MA-7]</fullName>
+        <party>D</party>
+        <lastName>CAPUANO</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>4</district>
+        <firstName>Gwen</firstName>
+        <identifiers>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001160</bioguideId>
+        <state>WI</state>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <party>D</party>
+        <lastName>Moore</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>5</district>
+        <firstName>Keith</firstName>
+        <identifiers>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+          <bioguideId>E000288</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000288</bioguideId>
+        <state>MN</state>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <party>D</party>
+        <lastName>Ellison</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>11</district>
+        <firstName>Bill</firstName>
+        <identifiers>
+          <bioguideId>F000454</bioguideId>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000454</bioguideId>
+        <state>IL</state>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+        <party>D</party>
+        <lastName>Foster</lastName>
+        <sponsorshipDate>2016-05-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <district>23</district>
+        <firstName>Debbie</firstName>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000797</bioguideId>
+        <state>FL</state>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <party>D</party>
+        <lastName>Wasserman Schultz</lastName>
+        <sponsorshipDate>2016-07-14</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <updateDate>2018-08-28T23:10:33Z</updateDate>
+    <laws />
+    <originChamber>House</originChamber>
+    <introducedDate>2016-05-11</introducedDate>
+    <sponsors>
+      <item>
+        <middleName>B.</middleName>
+        <bioguideId>M000087</bioguideId>
+        <identifiers>
+          <lisID>729</lisID>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+        </identifiers>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <byRequestType />
+        <party>D</party>
+        <firstName>CAROLYN</firstName>
+        <state>NY</state>
+        <lastName>MALONEY</lastName>
+        <district>12</district>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Overdraft Protection Act of 2016</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Truth in Lending Act to establish fair and transparent practices related to the marketing and provision of overdraft coverage programs at depository institutions, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Overdraft Protection Act of 2016</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p> <b>Overdraft Protection Act of 2016</b></p> <p>This bill amends the Truth in Lending Act to prohibit a depository institution from engaging in unfair or deceptive acts or practices in connection with overdraft coverage, or in acts designed to evade the provisions of this Act.</p> <p>Each depository institution that offers or provides overdraft coverage for transaction accounts held at the institution shall clearly and conspicuously disclose overdraft coverage fees. It must also disclose that, if a consumer does not opt-in to such overdraft coverage:</p> <ul> <li>the consumer's transaction may be declined if there are insufficient funds in the related transaction account, and</li> <li>the consumer will not be charged a fee if such transaction is declined.</li> </ul> <p>A depository institution may charge overdraft coverage fees in connection with use of an automatic teller machine (ATM) or point of sale transaction only if the consumer has consented in writing, in electronic form, or in another form permitted by the Consumer Financial Protection Bureau.</p><p>A depository institution must provide specified consumer disclosures regarding its overdraft protection program, including:</p> <ul> <li>periodic statements for any transaction account that has an overdraft coverage program feature;</li> <li>prompt notification of the account's overdraft status; and</li> <li>the overdraft coverage fee as an annual percentage rate, permitting consumers to compare meaningfully the overdraft coverage to alternative forms of overdraft options and other sources of credit.</li> </ul> <p>The bill prescribes overdraft coverage fee limits.</p> <p>The bill prohibits an overdraft coverage fee if the overdraft results solely from a debit hold amount that exceeds the actual dollar amount of the transaction. </p> <p>A depository institution shall provide consumers who have not consented to participate in an overdraft coverage program transaction accounts with the same terms as those provided to consumers who have consented to participate in such program.</p> <p>The bill prohibits a depository institution from:</p> <ul> <li>charging a non-sufficient fund fee for any ATM or debit card transaction, or</li> <li>reporting negative information regarding consumer use of overdraft coverage to any consumer reporting agency when the overdraft amounts and coverage fees are paid under the terms of an overdraft coverage program.</li> </ul>]]></text>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2016-09-19T21:17:52Z</lastSummaryUpdateDate>
+          <updateDate>2016-05-11T04:00:00Z</updateDate>
+          <actionDate>2016-05-11</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

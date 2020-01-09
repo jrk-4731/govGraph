@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <billNumber>3461</billNumber>
+    <congress>115</congress>
+    <createDate>2018-09-19T04:26:04Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2018-12-13T23:57:53Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2018-09-18T16:18:17Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <sentToHouse>1</sentToHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <passedSenate>1</passedSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>8</senate>
+      </actionByCounts>
+      <item>
+        <text>Held at the desk.</text>
+        <actionCode>H15000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionDate>2018-12-19</actionDate>
+        <actionTime>17:04:49</actionTime>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links />
+        <actionDate>2018-12-19</actionDate>
+        <actionTime>14:11:08</actionTime>
+      </item>
+      <item>
+        <actionDate>2018-12-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-12-13</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7624-7625</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7624-7625</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S7624-7625)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S7624-7625)</text>
+        <actionCode>17000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S7624-7625</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7624-7625</url>
+          </link>
+        </links>
+        <actionDate>2018-12-13</actionDate>
+      </item>
+      <item>
+        <actionDate>2018-12-13</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7624-7625</name>
+            <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7624-7625</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S7624-7625)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2018-12-13</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <actionCode>14500</actionCode>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <links />
+        <actionDate>2018-12-13</actionDate>
+      </item>
+      <item>
+        <actionDate>2018-09-18</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2018-09-18</actionDate>
+      </item>
+    </actions>
+    <updateDate>2019-06-13T20:53:28Z</updateDate>
+    <introducedDate>2018-09-18</introducedDate>
+    <sponsors>
+      <item>
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>HI</state>
+        <middleName />
+        <bioguideId>S001194</bioguideId>
+      </item>
+    </sponsors>
+    <latestAction>
+      <actionDate>2018-12-19</actionDate>
+      <text>Held at the desk.</text>
+      <links />
+      <actionTime>17:04:49</actionTime>
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the PROTECT Act to expand the national AMBER Alert system to territories of the United States, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>AMBER Alert Nationwide Act of 2018</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>AMBER Alert Nationwide Act of 2018</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>AMBER Alert Nationwide Act of 2018</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>AMBER Alert Nationwide Act of 2018</title>
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Emergency communications systems</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2018-12-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3461es/xml/BILLS-115s3461es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2018-09-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s3461is/xml/BILLS-115s3461is.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>AMBER Alert Nationwide Act of 2018</latestTitle>
+        <congress>115</congress>
+        <number>6350</number>
+        <latestAction>
+          <actionDate>2018-07-13</actionDate>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <recordedVotes />
+    <amendments>
+      <amendment>
+        <number>4111</number>
+        <congress>115</congress>
+        <type>SAMDT</type>
+        <purpose>To strike the funding provision.</purpose>
+        <notes />
+        <purpose>To strike the funding provision.</purpose>
+        <number>4111</number>
+        <titles />
+        <proposedDate>2018-12-13T05:00:00Z</proposedDate>
+        <amendedBill>
+          <number>3461</number>
+          <congress>115</congress>
+          <type>S</type>
+          <originChamberCode>S</originChamberCode>
+          <title>AMBER Alert Nationwide Act of 2018</title>
+          <originChamber>Senate</originChamber>
+        </amendedBill>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <type>SAMDT</type>
+        <description />
+        <createDate>2018-12-14T05:31:23Z</createDate>
+        <links />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2018-12-13</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4111</url>
+                  <name>S.Amdt.4111</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4111</url>
+                  <name>SA 4111</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4111 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2018-12-13</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4111</url>
+                  <name>S.Amdt.4111</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7624</url>
+                  <name>S7624</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4111</url>
+                  <name>SA 4111</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4111 proposed by Senator McConnell for Senator Schatz. (consideration: CR S7624; text: CR S7624) To strike the funding provision.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2018-12-13</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <type>Floor</type>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4111 proposed by Senator McConnell for Senator Schatz.(consideration: CR S7624; text: CR S7624)</text>
+              <committee />
+              <actionDate>2018-12-13</actionDate>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4111</url>
+                  <name>S.Amdt.4111</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-164/senate-section/page/S7624</url>
+                  <name>S7624</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4111</url>
+                  <name>SA 4111</name>
+                </link>
+              </links>
+            </item>
+            <item>
+              <type>Floor</type>
+              <text>Senate amendment agreed to: Amendment SA 4111 agreed to in Senate by Unanimous Consent.</text>
+              <committee />
+              <actionDate>2018-12-13</actionDate>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4111</url>
+                  <name>S.Amdt.4111</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/4111</url>
+                  <name>SA 4111</name>
+                </link>
+              </links>
+            </item>
+            <item>
+              <type>Floor</type>
+              <text>Senate amendment submitted</text>
+              <committee />
+              <actionDate>2018-12-13</actionDate>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links />
+            </item>
+          </actions>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+        </actions>
+        <amendedAmendment />
+        <version>1.0.0</version>
+        <updateDate>2019-06-13T20:53:28Z</updateDate>
+        <sponsors>
+          <item>
+            <firstName>Brian</firstName>
+            <lastName>Schatz</lastName>
+            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+            <party>D</party>
+            <identifiers>
+              <lisID>2173</lisID>
+              <bioguideId>S001194</bioguideId>
+              <gpoId />
+            </identifiers>
+            <state>HI</state>
+            <middleName />
+            <bioguideId>S001194</bioguideId>
+          </item>
+        </sponsors>
+        <submittedDate>2018-12-13T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <congress>115</congress>
+        <description />
+        <latestAction>
+          <text>Amendment SA 4111 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2018-12-13</actionDate>
+        </latestAction>
+      </amendment>
+    </amendments>
+    <committeeReports />
+    <version>1.0.0</version>
+    <laws />
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipDate>2018-09-18</sponsorshipDate>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AK</state>
+      </item>
+    </cosponsors>
+    <title>AMBER Alert Nationwide Act of 2018</title>
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries />
+    </summaries>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to make the work opportunity credit permanent.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to make the work opportunity credit permanent.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+          <gpoId>7806</gpoId>
+          <lisID>1593</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>MIKE</firstName>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <bioguideId>T000460</bioguideId>
+        <state>CA</state>
+        <district>5</district>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billType>HR</billType>
+    <updateDate>2019-07-18T07:17:58Z</updateDate>
+    <billNumber>2213</billNumber>
+    <createDate>2019-04-11T07:12:09Z</createDate>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of California:H.R. 2213.Congress has the power to enact this legislation pursuantto the following:Article I[Page H3257]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2019-04-10T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>This bill permanently extends the work opportunity tax credit. (Under current law, the tax credit expires after 2019.)</p>]]></text>
+          <lastSummaryUpdateDate>2019-05-30T15:23:11Z</lastSummaryUpdateDate>
+          <actionDate>2019-04-10</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2019-04-10T13:05:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>House</originChamber>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2019-04-10</actionDate>
+    </latestAction>
+    <laws />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2019-04-02</actionDate>
+        </latestAction>
+        <congress>116</congress>
+        <number>978</number>
+        <latestTitle>Work Opportunity Tax Credit and Jobs Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <district>23</district>
+        <bioguideId>R000585</bioguideId>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <lastName>Reed</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <district>9</district>
+        <bioguideId>P000096</bioguideId>
+        <firstName>WILLIAM</firstName>
+        <identifiers>
+          <gpoId>8050</gpoId>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+        </identifiers>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <lastName>PASCRELL</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <district>7</district>
+        <bioguideId>R000597</bioguideId>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <bioguideId>R000597</bioguideId>
+          <gpoId />
+          <lisID>2160</lisID>
+        </identifiers>
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+        <lastName>Rice</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SC</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>S001201</bioguideId>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <lisID>2341</lisID>
+          <bioguideId>S001201</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-02</sponsorshipDate>
+        <district>3</district>
+        <bioguideId>M001205</bioguideId>
+        <firstName>Carol</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001205</bioguideId>
+          <lisID>2460</lisID>
+        </identifiers>
+        <fullName>Rep. Miller, Carol D. [R-WV-3]</fullName>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <district>1</district>
+        <bioguideId>F000466</bioguideId>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <district>8</district>
+        <bioguideId>S001208</bioguideId>
+        <firstName>Elissa</firstName>
+        <identifiers>
+          <lisID>2407</lisID>
+          <bioguideId>S001208</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <lastName>Slotkin</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <district>6</district>
+        <bioguideId>W000823</bioguideId>
+        <firstName>Michael</firstName>
+        <identifiers>
+          <lisID>2387</lisID>
+          <gpoId />
+          <bioguideId>W000823</bioguideId>
+        </identifiers>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+        <lastName>Waltz</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-09</sponsorshipDate>
+        <district>5</district>
+        <bioguideId>M001159</bioguideId>
+        <firstName>Cathy</firstName>
+        <identifiers>
+          <bioguideId>M001159</bioguideId>
+          <lisID>1809</lisID>
+          <gpoId>8209</gpoId>
+        </identifiers>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <lastName>Rodgers</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>McMorris</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-05-15</sponsorshipDate>
+        <district>2</district>
+        <bioguideId>B000490</bioguideId>
+        <firstName>SANFORD</firstName>
+        <identifiers>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <district>2</district>
+        <bioguideId>V000133</bioguideId>
+        <firstName>Jefferson</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000133</bioguideId>
+          <lisID>2419</lisID>
+        </identifiers>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <lastName>Van Drew</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <district>19</district>
+        <bioguideId>D000630</bioguideId>
+        <firstName>Antonio</firstName>
+        <identifiers>
+          <lisID>2428</lisID>
+          <gpoId />
+          <bioguideId>D000630</bioguideId>
+        </identifiers>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <lastName>Delgado</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <district>6</district>
+        <bioguideId>U000031</bioguideId>
+        <firstName>FRED</firstName>
+        <identifiers>
+          <lisID>1177</lisID>
+          <bioguideId>U000031</bioguideId>
+          <gpoId>7991</gpoId>
+        </identifiers>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <lastName>UPTON</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-06-26</sponsorshipDate>
+        <district>26</district>
+        <bioguideId>H001038</bioguideId>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+        </identifiers>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <lastName>Higgins</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <district>27</district>
+        <bioguideId>C001080</bioguideId>
+        <firstName>Judy</firstName>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <lastName>Chu</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <district>22</district>
+        <bioguideId>B001308</bioguideId>
+        <firstName>Anthony</firstName>
+        <identifiers>
+          <lisID>2429</lisID>
+          <bioguideId>B001308</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <lastName>Brindisi</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <district>7</district>
+        <bioguideId>S001185</bioguideId>
+        <firstName>Terri</firstName>
+        <identifiers>
+          <gpoId>7792</gpoId>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+        </identifiers>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <lastName>Sewell</lastName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2019-07-17</sponsorshipDate>
+        <district>24</district>
+        <bioguideId>K000386</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <lastName>Katko</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2213ih/xml/BILLS-116hr2213ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-04-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2019-04-10</introducedDate>
+    <cboCostEstimates />
+    <title>To amend the Internal Revenue Code of 1986 to make the work opportunity credit permanent.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

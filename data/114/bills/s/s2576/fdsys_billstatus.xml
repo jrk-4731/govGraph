@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2016-02-24</actionDate>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-02-24</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2016-02-24</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <updateDate>2018-06-02T07:15:04Z</updateDate>
+    <congress>114</congress>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Kelly</firstName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>A000368</bioguideId>
+          <gpoId>8315</gpoId>
+          <lisID>2075</lisID>
+        </identifiers>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <bioguideId>A000368</bioguideId>
+        <lastName>Ayotte</lastName>
+        <state>NH</state>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <billNumber>2576</billNumber>
+    <amendments />
+    <title>Support Our Brave Law Enforcement Act</title>
+    <introducedDate>2016-02-24</introducedDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2016-02-24T20:32:57Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Support Our Brave Law Enforcement Act</b></p> <p>This bill authorizes the Department of Justice (DOJ) to temporarily transfer funds between its accounts to restore equitable sharing payments to law enforcement agencies under the DOJ Asset Forfeiture Program. </p> <p>DOJ must report to Congress on such transfers. <br /></p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2016-07-18T21:01:25Z</lastSummaryUpdateDate>
+          <updateDate>2016-02-24T05:00:00Z</updateDate>
+          <actionDate>2016-02-24</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>CAPITO</lastName>
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipDate>2016-03-01</sponsorshipDate>
+        <middleName>MOORE</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <state>WV</state>
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <billType>S</billType>
+    <createDate>2016-02-25T04:51:19Z</createDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Support Our Brave Law Enforcement Act</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to permit the Attorney General to authorize a temporary transfer of funds from Department of Justice accounts in the amount necessary to restore Department of Justice Asset Forfeiture Program equitable sharing payments to participating law enforcement agencies.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Support Our Brave Law Enforcement Act</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

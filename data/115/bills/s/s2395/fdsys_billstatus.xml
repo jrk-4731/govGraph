@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <latestAction>
+      <actionDate>2018-12-12</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+      <links />
+    </latestAction>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-05-01</actionDate>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>5608</number>
+        <type>HR</type>
+        <latestTitle>Explore America Act of 2018</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2018-02-08T02:26:02Z</createDate>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>sseg04</systemCode>
+              <activities>
+                <item>
+                  <date>2018-12-12T15:00:34Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>National Parks Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2018-02-07T20:20:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sseg00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 54, United States Code, to authorize the provision of technical assistance under the Preserve America Program and to direct the Secretary of the Interior to enter into partnerships with communities adjacent to units of the National Park System to leverage local cultural heritage tourism assets.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Explore America Act of 2018</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Explore America Act of 2018</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Explore America Act of 2018</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2019-04-18T16:41:27Z</updateDate>
+    <congress>115</congress>
+    <title>Explore America Act of 2018</title>
+    <laws />
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115s2395is/xml/BILLS-115s2395is.xml</url>
+          </item>
+        </formats>
+        <date>2018-02-07T05:00:00Z</date>
+      </item>
+    </textVersions>
+    <introducedDate>2018-02-07</introducedDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2018-12-12</actionDate>
+        <committee>
+          <name>National Parks Subcommittee</name>
+          <systemCode>sseg04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <committee>
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2018-02-07</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Cassidy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>LA</state>
+        <firstName>Bill</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>1925</lisID>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <bioguideId>C001075</bioguideId>
+      </item>
+      <item>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>REED</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>RI</state>
+        <firstName>JOHN</firstName>
+        <middleName>F.</middleName>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+        </identifiers>
+        <sponsorshipDate>2018-02-07</sponsorshipDate>
+        <bioguideId>R000122</bioguideId>
+      </item>
+      <item>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <sponsorshipDate>2018-04-26</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <sponsorshipDate>2018-04-26</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+      </item>
+      <item>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Gardner</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CO</state>
+        <firstName>Cory</firstName>
+        <middleName />
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2018-05-10</sponsorshipDate>
+        <bioguideId>G000562</bioguideId>
+      </item>
+      <item>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <lastName>Sullivan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AK</state>
+        <firstName>Dan</firstName>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2018-05-16</sponsorshipDate>
+        <bioguideId>S001198</bioguideId>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Brian</firstName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <bioguideId>S001194</bioguideId>
+        <byRequestType />
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <state>HI</state>
+      </item>
+    </sponsors>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <amendments />
+    <calendarNumbers />
+    <committeeReports />
+    <billNumber>2395</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

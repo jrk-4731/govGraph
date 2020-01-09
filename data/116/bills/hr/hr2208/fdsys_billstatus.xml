@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2019-04-11</actionDate>
+        <committee>
+          <systemCode>hspw05</systemCode>
+          <name>Aviation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <actionDate>2019-04-10</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR E445)</text>
+        <actionDate>2019-04-10</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-165/extensions-of-remarks-section/page/E445</url>
+            <name>E445</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-10</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2019-04-10</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>Cabin Air Safety Act of 2019</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>To improve the safety of the air supply on commercial aircraft, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Cabin Air Safety Act of 2019</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Cabin Air Safety Act of 2019</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2019-04-11T07:12:09Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hspw05</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-04-11T16:18:34Z</date>
+                </item>
+              </activities>
+              <name>Aviation Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-04-10T13:00:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <lastName>Garamendi</lastName>
+        <party>D</party>
+        <district>3</district>
+        <state>CA</state>
+        <bioguideId>G000559</bioguideId>
+        <firstName>John</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Cabin Air Safety Act of 2019</latestTitle>
+        <congress>116</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2019-04-10</actionDate>
+        </latestAction>
+        <number>1112</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <notes />
+    <committeeReports />
+    <introducedDate>2019-04-10</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Cabin Air Safety Act of 2019</title>
+    <cosponsors>
+      <item>
+        <firstName>Stephen</firstName>
+        <bioguideId>L000562</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <district>8</district>
+        <lastName>Lynch</lastName>
+        <party>D</party>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <sponsorshipDate>2019-04-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <lisID>1686</lisID>
+          <gpoId>7974</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+        </identifiers>
+        <state>DC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Angie</firstName>
+        <bioguideId>C001119</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>2</district>
+        <lastName>Craig</lastName>
+        <party>D</party>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <sponsorshipDate>2019-05-08</sponsorshipDate>
+        <identifiers>
+          <lisID>2412</lisID>
+          <bioguideId>C001119</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>9</district>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <sponsorshipDate>2019-05-17</sponsorshipDate>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <state>TN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Pete</firstName>
+        <bioguideId>S001212</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>8</district>
+        <lastName>Stauber</lastName>
+        <party>R</party>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001212</bioguideId>
+          <gpoId />
+          <lisID>2415</lisID>
+        </identifiers>
+        <state>MN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <district>1</district>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <sponsorshipDate>2019-05-23</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>BOBBY</firstName>
+        <bioguideId>R000515</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <district>1</district>
+        <lastName>RUSH</lastName>
+        <party>D</party>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <identifiers>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Albio</firstName>
+        <bioguideId>S001165</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>8</district>
+        <lastName>Sires</lastName>
+        <party>D</party>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <sponsorshipDate>2019-05-30</sponsorshipDate>
+        <identifiers>
+          <lisID>1818</lisID>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <bioguideId>P000607</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>2</district>
+        <lastName>Pocan</lastName>
+        <party>D</party>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <lisID>2171</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Ann</firstName>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <district>2</district>
+        <lastName>Kuster</lastName>
+        <party>D</party>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Raul</firstName>
+        <bioguideId>G000551</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <district>3</district>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <identifiers>
+          <gpoId>7804</gpoId>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+        </identifiers>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <district>2</district>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2019-06-25</sponsorshipDate>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Grace</firstName>
+        <bioguideId>M001188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>6</district>
+        <lastName>Meng</lastName>
+        <party>D</party>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <sponsorshipDate>2019-07-09</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+          <gpoId />
+          <lisID>2148</lisID>
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Ed</firstName>
+        <bioguideId>C001055</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>1</district>
+        <lastName>Case</lastName>
+        <party>D</party>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <sponsorshipDate>2019-07-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001055</bioguideId>
+          <gpoId />
+          <lisID>1693</lisID>
+        </identifiers>
+        <state>HI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Anthony</firstName>
+        <bioguideId>B001308</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>22</district>
+        <lastName>Brindisi</lastName>
+        <party>D</party>
+        <fullName>Rep. Brindisi, Anthony [D-NY-22]</fullName>
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001308</bioguideId>
+          <lisID>2429</lisID>
+          <gpoId />
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <firstName>Julia</firstName>
+        <bioguideId>B001285</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <district>26</district>
+        <lastName>Brownley</lastName>
+        <party>D</party>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <sponsorshipDate>2019-07-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+          <lisID>2106</lisID>
+        </identifiers>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr2208ih/xml/BILLS-116hr2208ih.xml</url>
+          </item>
+        </formats>
+        <type>Introduced in House</type>
+        <date>2019-04-10T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <updateDate>2019-07-17T07:18:23Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2019-04-11</actionDate>
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <billNumber>2208</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GARAMENDI:H.R. 2208.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the U.S. Constitution[Page H3257]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>116</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

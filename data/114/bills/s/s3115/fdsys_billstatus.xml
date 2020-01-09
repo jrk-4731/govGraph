@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2018-06-02T07:46:58Z</updateDate>
+    <cosponsors>
+      <item>
+        <firstName>SHERROD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipDate>2016-06-29</sponsorshipDate>
+        <identifiers>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <party>D</party>
+        <state>OH</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>BROWN</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>CHARLES</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <sponsorshipDate>2016-11-15</sponsorshipDate>
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <bioguideId>G000386</bioguideId>
+        <party>R</party>
+        <state>IA</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRASSLEY</lastName>
+        <middleName>ERNEST</middleName>
+      </item>
+      <item>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipDate>2016-11-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <bioguideId>W000802</bioguideId>
+        <party>D</party>
+        <state>RI</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Whitehouse</lastName>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Bob</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <sponsorshipDate>2016-11-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <bioguideId>C001070</bioguideId>
+        <party>D</party>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <lastName>Casey</lastName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <congress>114</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2016-06-29T19:35:32Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <congress>114</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>21st Century Cures Act</latestTitle>
+        <number>6</number>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2015-07-13</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>114</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Pediatric Research Improvement Act of 2015</latestTitle>
+        <number>2548</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2015-05-22</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <congress>114</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>21st Century Cures Act</latestTitle>
+        <number>34</number>
+        <latestAction>
+          <text>Became Public Law No: 114-255.</text>
+          <actionDate>2016-12-13</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>3115</billNumber>
+    <laws />
+    <title>Pediatric Research Improvement Act of 2016</title>
+    <introducedDate>2016-06-29</introducedDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2016-06-29</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2016-06-29</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <createDate>2016-06-30T05:52:46Z</createDate>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2016-06-29T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2016-07-11T22:55:36Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Pediatric Research Improvement Act of 2016</b></p> <p>This bill amends the Public Health Service Act to revise the Pediatric Research Initiative to require collaboration with the Eunice Kennedy Shriver National Institute of Child Health and Human Development and require establishment of a National Pediatric Research Network comprised of pediatric research consortia.</p> The National Institutes of Health must award funding to entities supporting pediatric research consortia. Supported consortia must, upon request, provide assistance to the Centers for Disease Control and Prevention for patient registries and other surveillance systems.]]></text>
+          <actionDate>2016-06-29</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <links />
+      <actionDate>2016-06-29</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+        <byRequestType />
+        <firstName>ROGER</firstName>
+        <party>R</party>
+        <state>MS</state>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+      </item>
+    </sponsors>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Pediatric Research Improvement Act of 2016</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to amend the Public Health Service Act with respect to a national pediatric research network.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Pediatric Research Improvement Act of 2016</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

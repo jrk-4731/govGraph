@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+          <item>
+            <name>Senate Committee on Rules and Administration</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <title>A resolution to authorize the printing of a collection of the rules of the committees of the Senate.</title>
+    <cosponsors />
+    <committees>
+      <billCommittees />
+    </committees>
+    <recordedVotes />
+    <amendments />
+    <relatedBills />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <titles>
+      <item>
+        <title>A resolution to authorize the printing of a collection of the rules of the committees of the Senate.</title>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A resolution to authorize the printing of a collection of the rules of the committees of the Senate.</title>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>234</billNumber>
+    <updateDate>2018-06-02T06:17:46Z</updateDate>
+    <createDate>2015-07-30T08:30:36Z</createDate>
+    <introducedDate>2015-07-29</introducedDate>
+    <billType>SRES</billType>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2015-07-29</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S6143</url>
+            <name>S6143</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S6144</url>
+            <name>S6144</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6144; text as passed Senate: CR S6143)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2015-07-29</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6144; text as passed Senate: CR S6143)</text>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S6143</url>
+            <name>S6143</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-161/senate-section/page/S6144</url>
+            <name>S6144</name>
+          </link>
+        </links>
+        <actionCode>17000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2015-07-29</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <notes />
+    <sponsors>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <byRequestType />
+        <state>MO</state>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <party>R</party>
+        <firstName>Roy</firstName>
+        <middleName />
+        <lastName>Blunt</lastName>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <congress>114</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Requires that a collection of the rules of the committees of the Senate be printed as a Senate document. Provides for 250 additional copies of such document for the Committee on Rules and Administration.</p>]]></text>
+          <lastSummaryUpdateDate>2015-08-28T18:56:59Z</lastSummaryUpdateDate>
+          <actionDate>2015-07-29</actionDate>
+          <updateDate>2015-07-29T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Requires that a collection of the rules of the committees of the Senate be printed as a Senate document. Provides for 250 additional copies of such document for the Committee on Rules and Administration.</p>]]></text>
+          <lastSummaryUpdateDate>2015-08-28T18:57:10Z</lastSummaryUpdateDate>
+          <actionDate>2015-07-29</actionDate>
+          <updateDate>2015-07-29T19:49:54Z</updateDate>
+          <versionCode>82</versionCode>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <laws />
+    <version>1.0.0</version>
+    <cboCostEstimates />
+    <latestAction>
+      <actionDate>2015-07-29</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6144; text as passed Senate: CR S6143)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

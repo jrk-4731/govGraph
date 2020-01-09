@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2016-01-12T15:01:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2016-01-15T15:02:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Ordered to be Reported by the Yeas and Nays: 28 - 19.</text>
+          <actionDate>2016-03-15</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>4725</number>
+        <latestTitle>Common Sense Savings Act of 2016</latestTitle>
+        <congress>114</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2016-01-12</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2016-01-12T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2016-10-24T16:56:59Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill amends title XIX (Medicaid) of the Social Security Act to eliminate, beginning in 2020, the enhanced Federal&nbsp;Medical Assistance Percentage (FMAP)&nbsp;with respect to the coverage of&nbsp;individuals who are inmates in public institutions.&nbsp;Under current law, the enhanced FMAP&nbsp;applies to coverage of individuals who are newly eligible for Medicaid under the Patient Protection and Affordable Care Act.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2018-11-21T21:23:38Z</updateDate>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2016-01-15</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <billType>HR</billType>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XIX of the Social Security Act to end the increased Federal funding for Medicaid expansion with respect to inmates.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XIX of the Social Security Act to end the increased Federal funding for Medicaid expansion with respect to inmates.</title>
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <lastName>Mullin</lastName>
+        <district>2</district>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <firstName>Markwayne</firstName>
+        <identifiers>
+          <lisID>2156</lisID>
+          <gpoId />
+          <bioguideId>M001190</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <state>OK</state>
+        <bioguideId>M001190</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2016-07-21</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2016-01-15</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionDate>2016-01-12</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2016-01-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2016-01-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <notes />
+    <introducedDate>2016-01-12</introducedDate>
+    <recordedVotes />
+    <billNumber>4367</billNumber>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <state>PA</state>
+        <firstName>JOSEPH</firstName>
+        <fullName>Rep. Pitts, Joseph R. [R-PA-16]</fullName>
+        <bioguideId>P000373</bioguideId>
+        <party>R</party>
+        <lastName>PITTS</lastName>
+        <identifiers>
+          <lisID>1514</lisID>
+          <bioguideId>P000373</bioguideId>
+          <gpoId>8134</gpoId>
+        </identifiers>
+        <district>16</district>
+      </item>
+    </sponsors>
+    <congress>114</congress>
+    <createDate>2016-01-13T10:17:49Z</createDate>
+    <calendarNumbers />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 162, Number 7 (Tuesday, January 12, 2016)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PITTS:H.R. 4367.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3, which states that Congressshall have the power ``to regulate commerce with foreignnations, and among the several states . . .''[Page H331]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <amendments />
+    <version>1.0.0</version>
+    <title>To amend title XIX of the Social Security Act to end the increased Federal funding for Medicaid expansion with respect to inmates.</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

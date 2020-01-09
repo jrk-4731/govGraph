@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2018-10-01</actionDate>
+        <committee>
+          <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+          <systemCode>hsju03</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2018-07-26</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-07-26</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2018-07-26</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>To amend title 35, United States Code, to restore patent rights to inventors, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Inventor Protection Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Inventor Protection Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Inventor Protection Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2018-07-27T07:10:57Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-26T13:03:40Z</date>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Courts, Intellectual Property, and the Internet Subcommittee</name>
+              <systemCode>hsju03</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2018-10-01T21:08:40Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>979</lisID>
+          <bioguideId>R000409</bioguideId>
+          <gpoId>7851</gpoId>
+        </identifiers>
+        <byRequestType />
+        <fullName>Rep. Rohrabacher, Dana [R-CA-48]</fullName>
+        <lastName>ROHRABACHER</lastName>
+        <party>R</party>
+        <district>48</district>
+        <state>CA</state>
+        <bioguideId>R000409</bioguideId>
+        <firstName>DANA</firstName>
+        <middleName />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <committeeReports />
+    <introducedDate>2018-07-26</introducedDate>
+    <calendarNumbers />
+    <recordedVotes />
+    <title>Inventor Protection Act</title>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2018-09-28</sponsorshipDate>
+        <district>6</district>
+        <bioguideId>B000213</bioguideId>
+        <firstName>JOE</firstName>
+        <identifiers>
+          <bioguideId>B000213</bioguideId>
+          <lisID>62</lisID>
+          <gpoId>8162</gpoId>
+        </identifiers>
+        <fullName>Rep. Barton, Joe [R-TX-6]</fullName>
+        <lastName>BARTON</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-09-28</sponsorshipDate>
+        <district>4</district>
+        <bioguideId>G000565</bioguideId>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-09-28</sponsorshipDate>
+        <district>50</district>
+        <bioguideId>H001048</bioguideId>
+        <firstName>Duncan</firstName>
+        <identifiers>
+          <gpoId>7857</gpoId>
+          <bioguideId>H001048</bioguideId>
+          <lisID>1909</lisID>
+        </identifiers>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <lastName>Hunter</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2018-09-28</sponsorshipDate>
+        <district>4</district>
+        <bioguideId>M001184</bioguideId>
+        <firstName>Thomas</firstName>
+        <identifiers>
+          <gpoId>8371</gpoId>
+          <bioguideId>M001184</bioguideId>
+          <lisID>2094</lisID>
+        </identifiers>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <lastName>Massie</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KY</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2018-11-02</sponsorshipDate>
+        <district>4</district>
+        <bioguideId>D000616</bioguideId>
+        <firstName>Scott</firstName>
+        <identifiers>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+          <gpoId>8151</gpoId>
+        </identifiers>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <lastName>DesJarlais</lastName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+    </cosponsors>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6557ih/xml/BILLS-115hr6557ih.xml</url>
+          </item>
+        </formats>
+        <date>2018-07-26T04:00:00Z</date>
+      </item>
+    </textVersions>
+    <cboCostEstimates />
+    <laws />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <updateDate>2019-07-19T21:27:28Z</updateDate>
+    <latestAction>
+      <links />
+      <actionDate>2018-10-01</actionDate>
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2018-07-26T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2018-07-26</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-07-19T20:46:59Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Inventor Protection Act</b></p> <p>This bill creates additional protections for patents wholly owned by their inventors, such as exempting such patents from administrative validity challenges and allowing inventors to sue for infringement in any district where the defendant is subject to that court's personal jurisdiction.<br> </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billNumber>6557</billNumber>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 126 (Thursday, July 26, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. ROHRABACHER:H.R. 6557.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8: The Congress shall have Power . . .To promote the Progress of Science and useful Arts, bysecuring for limited Times to Authors and Inventors theexclusive Right to their respective Writings and Discoveries;[Page H7725]</pre>]]></constitutionalAuthorityStatementText>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

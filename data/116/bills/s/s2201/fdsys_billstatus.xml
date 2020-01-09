@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <committeeReports />
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <date>2019-07-22T22:18:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>116</congress>
+    <latestAction>
+      <links />
+      <actionDate>2019-07-22</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+    <cboCostEstimates />
+    <updateDate>2019-07-23T07:16:59Z</updateDate>
+    <amendments />
+    <calendarNumbers />
+    <originChamber>Senate</originChamber>
+    <version>1.0.0</version>
+    <title>A bill to create a safe harbor for insurers engaging in the business of insurance in connection with a cannabis-related business, and for other purposes.</title>
+    <laws />
+    <sponsors>
+      <item>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Robert</firstName>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <bioguideId>M000639</bioguideId>
+        <lastName>Menendez</lastName>
+        <state>NJ</state>
+      </item>
+    </sponsors>
+    <policyArea />
+    <createDate>2019-07-23T04:27:21Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>2201</billNumber>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to create a safe harbor for insurers engaging in the business of insurance in connection with a cannabis-related business, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to create a safe harbor for insurers engaging in the business of insurance in connection with a cannabis-related business, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <actions>
+      <item>
+        <actionDate>2019-07-22</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <actionDate>2019-07-22</actionDate>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <bioguideId>P000603</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <party>R</party>
+        <firstName>Rand</firstName>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <lastName>Paul</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <middleName />
+        <sponsorshipDate>2019-07-22</sponsorshipDate>
+        <party>R</party>
+        <firstName>Kevin</firstName>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <lastName>Cramer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <identifiers>
+          <lisID>2144</lisID>
+          <bioguideId>C001096</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <textVersions />
+    <relatedBills />
+    <introducedDate>2019-07-22</introducedDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

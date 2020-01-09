@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2018-07-27T07:10:57Z</createDate>
+    <introducedDate>2018-07-26</introducedDate>
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2018-07-26</actionDate>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on House Administration.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2018-07-26</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2018-07-26</actionDate>
+        <links />
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2018-07-26</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>6564</billNumber>
+    <laws />
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8058</gpoId>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <bioguideId>L000570</bioguideId>
+        <middleName>Ray</middleName>
+        <party>D</party>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <firstName>Ben</firstName>
+        <state>NM</state>
+        <lastName>Lujan</lastName>
+        <byRequestType />
+        <district>3</district>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <calendarNumbers />
+    <committeeReports />
+    <congress>115</congress>
+    <updateDate>2019-04-18T16:26:40Z</updateDate>
+    <amendments />
+    <notes />
+    <textVersions>
+      <item>
+        <date>2018-07-26T04:00:00Z</date>
+        <type>Introduced in House</type>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-115hr6564ih/xml/BILLS-115hr6564ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 164, Number 126 (Thursday, July 26, 2018)]From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BEN RAY LUJAN of New Mexico:H.R. 6564.Congress has the power to enact this legislation pursuantto the following:Article II Section 8[Page H7725]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills />
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2018-07-26T13:12:45Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>EARL</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>OR</state>
+        <bioguideId>B000574</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>BLUMENAUER</lastName>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>D000623</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>DeSaulnier</lastName>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+          <gpoId />
+          <lisID>2227</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <middleName />
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+      </item>
+      <item>
+        <firstName>Ruben</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>AZ</state>
+        <bioguideId>G000574</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Gallego</lastName>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <middleName />
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+      </item>
+      <item>
+        <firstName>Raul</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>AZ</state>
+        <bioguideId>G000551</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Grijalva</lastName>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <middleName>M.</middleName>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+      </item>
+      <item>
+        <firstName>ALCEE</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>HASTINGS</lastName>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>20</district>
+        <middleName>L.</middleName>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+      </item>
+      <item>
+        <firstName>Carol</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>NH</state>
+        <bioguideId>S001170</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Shea-Porter</lastName>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+      </item>
+      <item>
+        <firstName>Derek</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>WA</state>
+        <bioguideId>K000381</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Kilmer</lastName>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+          <lisID>2169</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+      </item>
+      <item>
+        <firstName>Jerry</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>M001166</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>McNerney</lastName>
+        <identifiers>
+          <bioguideId>M001166</bioguideId>
+          <lisID>1832</lisID>
+          <gpoId>7816</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <middleName />
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+      </item>
+      <item>
+        <firstName>Terri</firstName>
+        <sponsorshipDate>2018-07-26</sponsorshipDate>
+        <state>AL</state>
+        <bioguideId>S001185</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <lastName>Sewell</lastName>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+          <gpoId>7792</gpoId>
+          <lisID>1988</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <middleName>A.</middleName>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To promote innovation in voting, including in voting technology and voter registration technology, election security, and increased voter participation through a challenge prize competition.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Voting Innovation Prize Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Voting Innovation Prize Act of 2018</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Voting Innovation Prize Act of 2018</title>
+      </item>
+    </titles>
+    <title>Voting Innovation Prize Act of 2018</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

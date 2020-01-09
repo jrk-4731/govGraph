@@ -1,0 +1,186 @@
+{
+  "actions": [
+    {
+      "acted_at": "2017-01-11T18:12:25-05:00", 
+      "action_code": "H32111", 
+      "how": "roll", 
+      "links": [
+        {
+          "name": "H.Amdt.26", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/26"
+        }, 
+        {
+          "name": "Roll no. 40", 
+          "url": "http://clerk.house.gov/evs/2017/roll040.xml"
+        }
+      ], 
+      "references": [], 
+      "result": "fail", 
+      "roll": 40, 
+      "text": "On agreeing to the Ruiz amendment (A011) Failed by recorded vote: 190 - 233 (Roll no. 40).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2017-01-11T16:49:00-05:00", 
+      "action_code": "H3A100", 
+      "links": [
+        {
+          "name": "H.Amdt.26", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/26"
+        }, 
+        {
+          "name": "H358", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H358"
+        }, 
+        {
+          "name": "H358-359", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H358-359"
+        }, 
+        {
+          "name": "H367-368", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H367-368"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H358-359, H367-368", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H358", 
+          "type": "text"
+        }
+      ], 
+      "text": "Amendment (A011) offered by Mr. Ruiz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-11", 
+      "action_code": "", 
+      "references": [], 
+      "text": "", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-11T18:12:25-05:00", 
+      "action_code": "73000", 
+      "links": [
+        {
+          "name": "H.Amdt.26", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/26"
+        }, 
+        {
+          "name": "Roll no. 40", 
+          "url": "http://clerk.house.gov/evs/2017/roll040.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "House amendment not agreed to: On agreeing to the Ruiz amendment (A011) Failed by recorded vote: 190 - 233 (Roll no. 40).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-11T18:12:25-05:00", 
+      "action_code": "77000", 
+      "links": [
+        {
+          "name": "H.Amdt.26", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/26"
+        }, 
+        {
+          "name": "Roll no. 40", 
+          "url": "http://clerk.house.gov/evs/2017/roll040.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Amendment failed in Committee of the Whole", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-11T18:12:25-05:00", 
+      "action_code": "75000", 
+      "links": [
+        {
+          "name": "H.Amdt.26", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/26"
+        }, 
+        {
+          "name": "Roll no. 40", 
+          "url": "http://clerk.house.gov/evs/2017/roll040.xml"
+        }
+      ], 
+      "references": [], 
+      "text": "Roll call votes on amendments in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-11T16:49:00-05:00", 
+      "action_code": "71500", 
+      "links": [
+        {
+          "name": "H.Amdt.26", 
+          "url": "https://www.congress.gov/amendment/115th-congress/house-amendment/26"
+        }, 
+        {
+          "name": "H358", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H358"
+        }, 
+        {
+          "name": "H358-359", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H358-359"
+        }, 
+        {
+          "name": "H367-368", 
+          "url": "https://www.congress.gov/congressional-record/volume-163/house-section/page/H367-368"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR H358-359, H367-368", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H358", 
+          "type": "text"
+        }
+      ], 
+      "text": "House amendment offered/reported by : Amendment (A011) offered by Mr. Ruiz.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2017-01-11", 
+      "action_code": "71000", 
+      "references": [], 
+      "text": "House amendment offered", 
+      "type": "action"
+    }
+  ], 
+  "amendment_id": "hamdt26-115", 
+  "amendment_type": "hamdt", 
+  "amends_amendment": null, 
+  "amends_bill": {
+    "bill_id": "hr5-115", 
+    "bill_type": "hr", 
+    "congress": 115, 
+    "number": 5
+  }, 
+  "amends_treaty": null, 
+  "chamber": "h", 
+  "congress": "115", 
+  "description": "Amendment sought to exempt rules pertaining to the safety of children's products or toys.", 
+  "introduced_at": "2017-01-11", 
+  "number": 26, 
+  "purpose": "An amendment numbered 11 printed in House Report 115-2 to exempt rules pertaining to the safety of children's products or toys.", 
+  "sponsor": {
+    "bioguide_id": "R000599", 
+    "district": "36", 
+    "name": "Ruiz, Raul", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "fail", 
+  "status_at": "2017-01-11T18:12:25-05:00", 
+  "updated_at": "2019-04-18T16:47:06Z"
+}
